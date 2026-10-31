@@ -1,0 +1,2032 @@
+{
+  "version": 3,
+  "musicId": 196,
+  "revision": 3,
+  "updatedAt": "2026-08-23T11:21:27Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-01",
+          "name": "星乃一歌"
+        },
+        {
+          "performerId": "歌唱者-02",
+          "name": "天馬咲希"
+        },
+        {
+          "performerId": "歌唱者-03",
+          "name": "望月穂波"
+        },
+        {
+          "performerId": "歌唱者-04",
+          "name": "日野森志歩"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "歩き出す瞬間がいつも",
+            "zh-CN": "迈开脚步的瞬间",
+            "segments": [
+              {
+                "text": "歩き出す瞬間がいつも",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "がいつも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "一番力が要るんだ",
+            "zh-CN": "总是最需要花费力气的",
+            "segments": [
+              {
+                "text": "一番力が要るんだ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "一番力",
+                    "reading": "いちばんちから"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "要",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "るんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "自信がないんじゃなくて",
+            "zh-CN": "并不是因为缺乏自信",
+            "segments": [
+              {
+                "text": "自信がないんじゃなくて",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "自信",
+                    "reading": "じしん"
+                  },
+                  {
+                    "text": "がないんじゃなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "大切な一歩だと知ってるから",
+            "zh-CN": "而是深知这是无比重要的一步",
+            "segments": [
+              {
+                "text": "大切な一歩だと知ってるから",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "大切",
+                    "reading": "たいせつ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "一歩",
+                    "reading": "いっぽ"
+                  },
+                  {
+                    "text": "だと"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ってるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "考え事はまんべんなく",
+            "zh-CN": "心事要面面俱到地思量",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "考え事はまんべんなく",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "考",
+                    "reading": "かんが"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "ごと"
+                  },
+                  {
+                    "text": "はまんべんなく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "辛いときにはため息を少々",
+            "zh-CN": "难过痛苦时稍稍叹上一口气",
+            "segments": [
+              {
+                "text": "辛いときにはため息を少々",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "辛",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "いときにはため"
+                  },
+                  {
+                    "text": "息",
+                    "reading": "いき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "少々",
+                    "reading": "しょうしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "最後には勇気をひとつまみ",
+            "zh-CN": "最后再加入一小撮勇气",
+            "segments": [
+              {
+                "text": "最後には勇気をひとつまみ",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "には"
+                  },
+                  {
+                    "text": "勇気",
+                    "reading": "ゆうき"
+                  },
+                  {
+                    "text": "をひとつまみ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "これが楽しく生きるコツです",
+            "zh-CN": "这便是快乐生活的秘诀哦",
+            "segments": [
+              {
+                "text": "これが楽しく生きるコツです",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "これが"
+                  },
+                  {
+                    "text": "楽",
+                    "reading": "たの"
+                  },
+                  {
+                    "text": "しく"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きるコツです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "誰のために弱さ歌おう？",
+            "zh-CN": "究竟要为了谁去唱响脆弱？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誰のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "弱さ歌おう？",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "弱",
+                    "reading": "よわ"
+                  },
+                  {
+                    "text": "さ"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "おう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "誰のために希望描こう？",
+            "zh-CN": "究竟要为了谁去描绘希望？",
+            "segments": [
+              {
+                "text": "誰のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "希望描こう？",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "希望描",
+                    "reading": "きぼうえが"
+                  },
+                  {
+                    "text": "こう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "誰のために今日笑うのか",
+            "zh-CN": "今天究竟要为了谁而展露欢颜",
+            "segments": [
+              {
+                "text": "誰のために",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "今日笑うのか",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日笑",
+                    "reading": "きょうわら"
+                  },
+                  {
+                    "text": "うのか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "僕らは好きに選んでいいんだ",
+            "zh-CN": "我们尽可以随心所欲去选择哦",
+            "segments": [
+              {
+                "text": "僕らは好きに選んでいいんだ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らは"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "きに"
+                  },
+                  {
+                    "text": "選",
+                    "reading": "えら"
+                  },
+                  {
+                    "text": "んでいいんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "歌い出す瞬間がいつも",
+            "zh-CN": "放声歌唱的瞬间",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "歌い出す瞬間がいつも",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "がいつも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "一番手が震えるんだ",
+            "zh-CN": "双手总是颤抖得最厉害的",
+            "segments": [
+              {
+                "text": "一番手が震えるんだ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "一番手",
+                    "reading": "いちばんて"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "震",
+                    "reading": "ふる"
+                  },
+                  {
+                    "text": "えるんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "自信がないんじゃなくて",
+            "zh-CN": "并不是因为缺乏自信",
+            "segments": [
+              {
+                "text": "自信がないんじゃなくて",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "自信",
+                    "reading": "じしん"
+                  },
+                  {
+                    "text": "がないんじゃなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "大切な一歩だと知ってるから",
+            "zh-CN": "而是深知这是无比重要的一步",
+            "segments": [
+              {
+                "text": "大切な一歩だと知ってるから",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "大切",
+                    "reading": "たいせつ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "一歩",
+                    "reading": "いっぽ"
+                  },
+                  {
+                    "text": "だと"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ってるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "悩み事には浸かりすぎず",
+            "zh-CN": "烦恼困惑切莫深陷沉溺",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "悩み事には浸かりすぎず",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "悩",
+                    "reading": "なや"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "ごと"
+                  },
+                  {
+                    "text": "には"
+                  },
+                  {
+                    "text": "浸",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "かりすぎず"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "疲れたときはおやすみを少々",
+            "zh-CN": "疲惫不堪时稍作休息片刻",
+            "segments": [
+              {
+                "text": "疲れたときはおやすみを少々",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "疲",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "れたときはおやすみを"
+                  },
+                  {
+                    "text": "少々",
+                    "reading": "しょうしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "隠し味はほんのささいな",
+            "zh-CN": "秘藏的风味是极其微小的",
+            "segments": [
+              {
+                "text": "隠し味はほんのささいな",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "味",
+                    "reading": "あじ"
+                  },
+                  {
+                    "text": "はほんのささいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "きっとやれるかもなって自信",
+            "zh-CN": "那份「一定能做到吧」的自信",
+            "segments": [
+              {
+                "text": "きっとやれるかもなって自信",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっとやれるかもなって"
+                  },
+                  {
+                    "text": "自信",
+                    "reading": "じしん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "誰のために不安晒して",
+            "zh-CN": "究竟要为了谁去展露不安",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誰のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "不安晒して",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "不安晒",
+                    "reading": "ふあんさら"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "誰のために強がってみせよう？",
+            "zh-CN": "究竟要为了谁去故作坚强？",
+            "segments": [
+              {
+                "text": "誰のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "強がってみせよう？",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "がってみせよう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "誰のために 傷を負うのか",
+            "zh-CN": "究竟要为了谁 去承受伤痛",
+            "segments": [
+              {
+                "text": "誰のために ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために "
+                  }
+                ]
+              },
+              {
+                "text": "傷を負うのか",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "負",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "うのか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "僕らは好きに選んでいいんだ",
+            "zh-CN": "我们尽可以随心所欲去选择哦",
+            "segments": [
+              {
+                "text": "僕らは好きに選んでいいんだ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らは"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "きに"
+                  },
+                  {
+                    "text": "選",
+                    "reading": "えら"
+                  },
+                  {
+                    "text": "んでいいんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "誰のために弱さ歌おう？",
+            "zh-CN": "究竟要为了谁去唱响脆弱？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誰のために弱さ歌おう？",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  },
+                  {
+                    "text": "弱",
+                    "reading": "よわ"
+                  },
+                  {
+                    "text": "さ"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "おう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "誰のために希望描こう？",
+            "zh-CN": "究竟要为了谁去描绘希望？",
+            "segments": [
+              {
+                "text": "誰のために希望描こう？",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  },
+                  {
+                    "text": "希望描",
+                    "reading": "きぼうえが"
+                  },
+                  {
+                    "text": "こう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "誰のために今日笑うのか",
+            "zh-CN": "今天究竟要为了谁而展露欢颜",
+            "segments": [
+              {
+                "text": "誰のために今日笑うのか",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  },
+                  {
+                    "text": "今日笑",
+                    "reading": "きょうわら"
+                  },
+                  {
+                    "text": "うのか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "僕らは好きに選んでみるよ",
+            "zh-CN": "我们试着随心所欲去选择吧",
+            "segments": [
+              {
+                "text": "僕らは好きに選んでみるよ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らは"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "きに"
+                  },
+                  {
+                    "text": "選",
+                    "reading": "えら"
+                  },
+                  {
+                    "text": "んでみるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "君のために弱さ歌おう",
+            "zh-CN": "为了你我要唱响脆弱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "弱さ歌おう",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "弱",
+                    "reading": "よわ"
+                  },
+                  {
+                    "text": "さ"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "おう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "君のために希望描こう",
+            "zh-CN": "为了你我要描绘希望",
+            "segments": [
+              {
+                "text": "君のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "希望描こう",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "希望描",
+                    "reading": "きぼうえが"
+                  },
+                  {
+                    "text": "こう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "君のために今日笑うから",
+            "zh-CN": "今天为了你我要绽放欢颜",
+            "segments": [
+              {
+                "text": "君のために今日笑うから",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のために"
+                  },
+                  {
+                    "text": "今日笑",
+                    "reading": "きょうわら"
+                  },
+                  {
+                    "text": "うから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "僕らの言葉が届くように",
+            "zh-CN": "只愿我们的言语能够传达",
+            "segments": [
+              {
+                "text": "僕らの言葉が届くように",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らの"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "くように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "僕らの想いが響くように",
+            "zh-CN": "只愿我们的心意能够鸣响回荡",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕らの想いが響くように",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らの"
+                  },
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いが"
+                  },
+                  {
+                    "text": "響",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "くように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "歩き出す瞬間がいつも",
+            "zh-CN": "迈开脚步的瞬间",
+            "segments": [
+              {
+                "text": "歩き出す瞬間がいつも",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "がいつも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "一番力が要るんだ",
+            "zh-CN": "总是最需要花费力气的",
+            "segments": [
+              {
+                "text": "一番力が要るんだ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "一番力",
+                    "reading": "いちばんちから"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "要",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "るんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "自信がないんじゃなくて",
+            "zh-CN": "并不是因为缺乏自信",
+            "segments": [
+              {
+                "text": "自信がないんじゃなくて",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "自信",
+                    "reading": "じしん"
+                  },
+                  {
+                    "text": "がないんじゃなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "大切な一歩だと知ってるから",
+            "zh-CN": "而是深知这是无比重要的一步",
+            "segments": [
+              {
+                "text": "大切な一歩だと知ってるから",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "大切",
+                    "reading": "たいせつ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "一歩",
+                    "reading": "いっぽ"
+                  },
+                  {
+                    "text": "だと"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ってるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "考え事はまんべんなく",
+            "zh-CN": "心事要面面俱到地思量",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "考え事はまんべんなく",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "考",
+                    "reading": "かんが"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "ごと"
+                  },
+                  {
+                    "text": "はまんべんなく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "辛いときにはため息を少々",
+            "zh-CN": "难过痛苦时稍稍叹上一口气",
+            "segments": [
+              {
+                "text": "辛いときにはため息を少々",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "辛",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "いときにはため"
+                  },
+                  {
+                    "text": "息",
+                    "reading": "いき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "少々",
+                    "reading": "しょうしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "最後には勇気をひとつまみ",
+            "zh-CN": "最后再加入一小撮勇气",
+            "segments": [
+              {
+                "text": "最後には勇気をひとつまみ",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "には"
+                  },
+                  {
+                    "text": "勇気",
+                    "reading": "ゆうき"
+                  },
+                  {
+                    "text": "をひとつまみ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "これが楽しく生きるコツです",
+            "zh-CN": "这便是快乐生活的秘诀哦",
+            "segments": [
+              {
+                "text": "これが楽しく生きるコツです",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "これが"
+                  },
+                  {
+                    "text": "楽",
+                    "reading": "たの"
+                  },
+                  {
+                    "text": "しく"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きるコツです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "誰のために弱さ歌おう？",
+            "zh-CN": "究竟要为了谁去唱响脆弱？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誰のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "弱さ歌おう？",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "弱",
+                    "reading": "よわ"
+                  },
+                  {
+                    "text": "さ"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "おう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "誰のために希望描こう？",
+            "zh-CN": "究竟要为了谁去描绘希望？",
+            "segments": [
+              {
+                "text": "誰のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "希望描こう？",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "希望描",
+                    "reading": "きぼうえが"
+                  },
+                  {
+                    "text": "こう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "誰のために今日笑うのか",
+            "zh-CN": "今天究竟要为了谁而展露欢颜",
+            "segments": [
+              {
+                "text": "誰のために",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "今日笑うのか",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日笑",
+                    "reading": "きょうわら"
+                  },
+                  {
+                    "text": "うのか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "僕らは好きに選んでいいんだ",
+            "zh-CN": "我们尽可以随心所欲去选择哦",
+            "segments": [
+              {
+                "text": "僕らは好きに選んでいいんだ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らは"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "きに"
+                  },
+                  {
+                    "text": "選",
+                    "reading": "えら"
+                  },
+                  {
+                    "text": "んでいいんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "君のために弱さ歌おう",
+            "zh-CN": "为了你我要唱响脆弱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "弱さ歌おう",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "弱",
+                    "reading": "よわ"
+                  },
+                  {
+                    "text": "さ"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "おう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "君のために希望描こう",
+            "zh-CN": "为了你我要描绘希望",
+            "segments": [
+              {
+                "text": "君のために",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のために"
+                  }
+                ]
+              },
+              {
+                "text": "希望描こう",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "希望描",
+                    "reading": "きぼうえが"
+                  },
+                  {
+                    "text": "こう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "君のために今日笑うから",
+            "zh-CN": "今天为了你我要绽放欢颜",
+            "segments": [
+              {
+                "text": "君のために今日笑うから",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のために"
+                  },
+                  {
+                    "text": "今日笑",
+                    "reading": "きょうわら"
+                  },
+                  {
+                    "text": "うから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "僕らの言葉が届くように",
+            "zh-CN": "只愿我们的言语能够传达",
+            "segments": [
+              {
+                "text": "僕らの言葉が届くように",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らの"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "くように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "僕らの想いが響くように",
+            "zh-CN": "只愿我们的心意能够鸣响回荡",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕らの想いが響くように",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らの"
+                  },
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いが"
+                  },
+                  {
+                    "text": "響",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "くように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Order Made",
+          "revisionId": 337159,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Order_Made?oldid=337159",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Order Made",
+          "revisionId": 337159,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Order_Made?oldid=337159",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Order Made",
+          "revisionId": 337159,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Order_Made?oldid=337159",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Order Made",
+          "revisionId": 337159,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Order_Made?oldid=337159",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Order Made",
+          "revisionId": 337159,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Order_Made?oldid=337159",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Order Made",
+          "revisionId": 337159,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Order_Made?oldid=337159",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Order Made",
+          "revisionId": 337159,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Order_Made?oldid=337159",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Order Made",
+          "revisionId": 337159,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Order_Made?oldid=337159",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

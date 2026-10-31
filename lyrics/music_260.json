@@ -1,0 +1,2522 @@
+{
+  "version": 3,
+  "musicId": 260,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:01:14Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "暗い 暗い 深海 ヴェールに",
+            "zh-CN": "昏暗 漆黑 深海 面纱之下",
+            "segments": [
+              {
+                "text": "暗い 暗い 深海 ヴェールに",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗",
+                    "reading": "くら"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "暗",
+                    "reading": "くら"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "深海",
+                    "reading": "しんかい"
+                  },
+                  {
+                    "text": " ヴェールに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "包まれるは ララララララブか？",
+            "zh-CN": "被层层包裹的 是啦啦啦啦啦恋爱吗？",
+            "segments": [
+              {
+                "text": "包まれるは ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "包",
+                    "reading": "つつ"
+                  },
+                  {
+                    "text": "まれるは "
+                  }
+                ]
+              },
+              {
+                "text": "ララララララブか？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ララララララブか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "奪い 奪い 叶わぬ願いは",
+            "zh-CN": "掠夺 剥夺 无法实现的愿望",
+            "segments": [
+              {
+                "text": "奪い 奪い 叶わぬ願いは",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "わぬ"
+                  },
+                  {
+                    "text": "願",
+                    "reading": "ねが"
+                  },
+                  {
+                    "text": "いは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "打ち上げられ さささ さっさと去るか？",
+            "zh-CN": "被冲刷上岸 随随随 随便开溜离开吗？",
+            "segments": [
+              {
+                "text": "打ち上げられ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げられ "
+                  }
+                ]
+              },
+              {
+                "text": "さささ さっさと去るか？",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "さささ さっさと"
+                  },
+                  {
+                    "text": "去",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "るか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "届け 届け それでも光は",
+            "zh-CN": "传达吧 传递吧 纵然如此光芒依然",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "届け 届け それでも光は",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け "
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け それでも"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひかり"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "潰え水面 その遥か ラブカ",
+            "zh-CN": "破碎消逝于水面 那遥远彼方的 拟皱唇鲨？",
+            "segments": [
+              {
+                "text": "潰え水面 ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "潰",
+                    "reading": "つい"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "水面",
+                    "reading": "みなも"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "その遥か ラブカ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "遥",
+                    "reading": "はる"
+                  },
+                  {
+                    "text": "か ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "クライ クライ 未開の想いは",
+            "zh-CN": "昏暗 漆黑 未曾开拓的思绪",
+            "segments": [
+              {
+                "text": "クライ クライ 未開の想いは",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "クライ クライ "
+                  },
+                  {
+                    "text": "未開",
+                    "reading": "みかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "足らぬ 足らぬ 至らぬはラブか？",
+            "zh-CN": "不足 欠缺 难以企及的是恋爱吗？",
+            "segments": [
+              {
+                "text": "足らぬ 足らぬ ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "らぬ "
+                  },
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "らぬ "
+                  }
+                ]
+              },
+              {
+                "text": "至らぬはラブか？",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "至",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "らぬはラブか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "ラブカ ラララ ラブカ",
+            "zh-CN": "拟皱唇鲨 啦啦啦 拟皱唇鲨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラブカ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブカ "
+                  }
+                ]
+              },
+              {
+                "text": "ラララ ラブカ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラララ ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "ラブ なのか？",
+            "zh-CN": "那是爱吗？",
+            "segments": [
+              {
+                "text": "ラブ なのか？",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブ なのか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "甘きラビュー ラビュー ラビューか？",
+            "zh-CN": "是是甜腻的说着爱你 爱你 爱你吗？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "甘きラビュー ラビュー ラビューか？",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "きラビュー ラビュー ラビューか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "それはバグ バグ バグか？",
+            "zh-CN": "那是系统彻底错乱崩坏了吗？",
+            "segments": [
+              {
+                "text": "それはバグ バグ バグか？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはバグ バグ バグか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "嘘と嘘で濁ったアイ アイニージュか？",
+            "zh-CN": "是用谎言与谎言浑浊调配出的爱 是诉说着我需要你吗？",
+            "segments": [
+              {
+                "text": "嘘と嘘で濁ったアイ アイニージュか？",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "嘘",
+                    "reading": "うそ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "嘘",
+                    "reading": "うそ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "濁",
+                    "reading": "にご"
+                  },
+                  {
+                    "text": "ったアイ アイニージュか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "腐る愛 愛 愛か？",
+            "zh-CN": "是腐朽腐烂的爱 爱 爱吗？",
+            "segments": [
+              {
+                "text": "腐る愛 愛 愛か？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "腐",
+                    "reading": "くさ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "か？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "咀嚼 吐き出し泣くか？",
+            "zh-CN": "咀嚼 呕吐出来痛哭流涕吗？",
+            "segments": [
+              {
+                "text": "咀嚼 吐き出し泣くか？",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "咀嚼",
+                    "reading": "そしゃく"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "届かぬ距離で待っていたってしょうがない",
+            "zh-CN": "在触碰不到的距离苦苦等待也是无济于事",
+            "segments": [
+              {
+                "text": "届かぬ距離で待っていたってしょうがない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "かぬ"
+                  },
+                  {
+                    "text": "距離",
+                    "reading": "きょり"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "待",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "っていたってしょうがない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "白亜病 ラ ラ ラ ラ ラ ラブカ",
+            "zh-CN": "白垩病 啦 啦 啦 啦 啦 拟皱唇鲨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "白亜病 ラ ラ ラ ラ ラ ラブカ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "白亜病",
+                    "reading": "はくあやまい"
+                  },
+                  {
+                    "text": " ラ ラ ラ ラ ラ ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "暗い 暗い 深海 ヴェールに",
+            "zh-CN": "昏暗 漆黑 深海 面纱之下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "暗い 暗い 深海 ヴェールに",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗",
+                    "reading": "くら"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "暗",
+                    "reading": "くら"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "深海",
+                    "reading": "しんかい"
+                  },
+                  {
+                    "text": " ヴェールに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "包まれるは ララララララブか？",
+            "zh-CN": "被层层包裹的 是啦啦啦啦啦恋爱吗？",
+            "segments": [
+              {
+                "text": "包まれるは ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "包",
+                    "reading": "つつ"
+                  },
+                  {
+                    "text": "まれるは "
+                  }
+                ]
+              },
+              {
+                "text": "ララララララブか？",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ララララララブか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "奪い 奪い 叶わぬ願いは",
+            "zh-CN": "掠夺 剥夺 无法实现的愿望",
+            "segments": [
+              {
+                "text": "奪い 奪い 叶わぬ願いは",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "わぬ"
+                  },
+                  {
+                    "text": "願",
+                    "reading": "ねが"
+                  },
+                  {
+                    "text": "いは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "打ち上げられ さささ さっさと去るか？",
+            "zh-CN": "被冲刷上岸 随随随 随便开溜离开吗？",
+            "segments": [
+              {
+                "text": "打ち上げられ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げられ "
+                  }
+                ]
+              },
+              {
+                "text": "さささ さっさと去るか？",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "さささ さっさと"
+                  },
+                  {
+                    "text": "去",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "るか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "届け 届け それでも光は",
+            "zh-CN": "传达吧 传递吧 纵然如此光芒依然",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "届け 届け それでも光は",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け "
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け それでも"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひかり"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "潰え水面 その遥か ラブカ",
+            "zh-CN": "破碎消逝于水面 那遥远彼方的 拟皱唇鲨？",
+            "segments": [
+              {
+                "text": "潰え水面 ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "潰",
+                    "reading": "つい"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "水面",
+                    "reading": "みなも"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "その遥か ラブカ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "遥",
+                    "reading": "はる"
+                  },
+                  {
+                    "text": "か ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "クライ クライ 未開の想いは",
+            "zh-CN": "昏暗 漆黑 未曾开拓的思绪",
+            "segments": [
+              {
+                "text": "クライ クライ 未開の想いは",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "クライ クライ "
+                  },
+                  {
+                    "text": "未開",
+                    "reading": "みかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "足らぬ 足らぬ 至らぬはラブか？",
+            "zh-CN": "不足 欠缺 难以企及的是恋爱吗？",
+            "segments": [
+              {
+                "text": "足らぬ 足らぬ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "らぬ "
+                  },
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "らぬ "
+                  }
+                ]
+              },
+              {
+                "text": "至らぬはラブか？",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "至",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "らぬはラブか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "ラブカ ラララ ラブカ",
+            "zh-CN": "拟皱唇鲨 啦啦啦 拟皱唇鲨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラブカ ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブカ "
+                  }
+                ]
+              },
+              {
+                "text": "ラララ ラブカ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラララ ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "ラブ なのか？",
+            "zh-CN": "那是爱吗？",
+            "segments": [
+              {
+                "text": "ラブ なのか？",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブ なのか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "甘きラビュー ラビュー ラビューか？",
+            "zh-CN": "是是甜腻的说着爱你 爱你 爱你吗？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "甘きラビュー ラビュー ラビューか？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "きラビュー ラビュー ラビューか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "それはバグ バグ バグか？",
+            "zh-CN": "那是系统彻底错乱崩坏了吗？",
+            "segments": [
+              {
+                "text": "それはバグ バグ バグか？",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはバグ バグ バグか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "嘘と嘘で濁ったアイ アイニージュか？",
+            "zh-CN": "是用谎言与谎言浑浊调配出的爱 是诉说着我需要你吗？",
+            "segments": [
+              {
+                "text": "嘘と嘘で濁ったアイ アイニージュか？",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "嘘",
+                    "reading": "うそ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "嘘",
+                    "reading": "うそ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "濁",
+                    "reading": "にご"
+                  },
+                  {
+                    "text": "ったアイ アイニージュか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "腐る愛 愛 愛か？",
+            "zh-CN": "是腐朽腐烂的爱 爱 爱吗？",
+            "segments": [
+              {
+                "text": "腐る愛 愛 愛か？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "腐",
+                    "reading": "くさ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "か？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "咀嚼 吐き出し泣くか？",
+            "zh-CN": "咀嚼 呕吐出来痛哭流涕吗？",
+            "segments": [
+              {
+                "text": "咀嚼 吐き出し泣くか？",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "咀嚼",
+                    "reading": "そしゃく"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "届かぬ距離で待っていたってしょうがない",
+            "zh-CN": "在触碰不到的距离苦苦等待也是无济于事",
+            "segments": [
+              {
+                "text": "届かぬ距離で待っていたってしょうがない",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "かぬ"
+                  },
+                  {
+                    "text": "距離",
+                    "reading": "きょり"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "待",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "っていたってしょうがない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "甘きラビュー ラビュー ラビューか？",
+            "zh-CN": "是是甜腻的说着爱你 爱你 爱你吗？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "甘きラビュー ラビュー ラビューか？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "きラビュー ラビュー ラビューか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "それはバグ バグ バグか？",
+            "zh-CN": "那是系统彻底错乱崩坏了吗？",
+            "segments": [
+              {
+                "text": "それはバグ バグ バグか？",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはバグ バグ バグか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "腐るラビュー ラビュー ラビューは",
+            "zh-CN": "腐朽腐烂的诉说着爱你 爱你 爱你",
+            "segments": [
+              {
+                "text": "腐るラビュー ラビュー ラビューは",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "腐",
+                    "reading": "くさ"
+                  },
+                  {
+                    "text": "るラビュー ラビュー ラビューは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "既に地に落ち絶えた",
+            "zh-CN": "早已坠落尘埃断绝消亡",
+            "segments": [
+              {
+                "text": "既に地に落ち絶えた",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "既",
+                    "reading": "すで"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "地",
+                    "reading": "じ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "落",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "絶",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "えた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "届く距離で出会って嫌に",
+            "zh-CN": "若在触手可及的距离相遇而变得",
+            "segments": [
+              {
+                "text": "届く距離で出会って嫌に",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "距離",
+                    "reading": "きょり"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "出会",
+                    "reading": "であ"
+                  },
+                  {
+                    "text": "って"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "いや"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "なるならやめな",
+            "zh-CN": "令人厌恶的话那就趁早放弃吧",
+            "segments": [
+              {
+                "text": "なるならやめな",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "なるならやめな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "白亜病 ラ ラ ラ ラ ラ ラブカ",
+            "zh-CN": "白垩病 啦 啦 啦 啦 啦 拟皱唇鲨",
+            "segments": [
+              {
+                "text": "白亜病 ラ ラ ラ ラ ラ ラブカ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "白亜病",
+                    "reading": "はくあやまい"
+                  },
+                  {
+                    "text": " ラ ラ ラ ラ ラ ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "ラ ラ ラ ラ ラ ラブカ",
+            "zh-CN": "啦 啦 啦 啦 啦 拟皱唇鲨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラ ラ ラ ラ ラ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラ ラ ラ ラ ラ "
+                  }
+                ]
+              },
+              {
+                "text": "ラブカ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "ラ ラ ラ ラ ラ ラブカ",
+            "zh-CN": "啦 啦 啦 啦 啦 拟皱唇鲨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラ ラ ラ ラ ラ ラブカ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラ ラ ラ ラ ラ ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "暗い 暗い 深海 ヴェールに",
+            "zh-CN": "昏暗 漆黑 深海 面纱之下",
+            "segments": [
+              {
+                "text": "暗い 暗い 深海 ヴェールに",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗",
+                    "reading": "くら"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "暗",
+                    "reading": "くら"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "深海",
+                    "reading": "しんかい"
+                  },
+                  {
+                    "text": " ヴェールに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "包まれるは ララララララブか？",
+            "zh-CN": "被层层包裹的 是啦啦啦啦啦恋爱吗？",
+            "segments": [
+              {
+                "text": "包まれるは ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "包",
+                    "reading": "つつ"
+                  },
+                  {
+                    "text": "まれるは "
+                  }
+                ]
+              },
+              {
+                "text": "ララララララブか？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ララララララブか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "奪い 奪い 叶わぬ願いは",
+            "zh-CN": "掠夺 剥夺 无法实现的愿望",
+            "segments": [
+              {
+                "text": "奪い 奪い 叶わぬ願いは",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "い "
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "わぬ"
+                  },
+                  {
+                    "text": "願",
+                    "reading": "ねが"
+                  },
+                  {
+                    "text": "いは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "打ち上げられ さささ さっさと去るか？",
+            "zh-CN": "被冲刷上岸 随随随 随便开溜离开吗？",
+            "segments": [
+              {
+                "text": "打ち上げられ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げられ "
+                  }
+                ]
+              },
+              {
+                "text": "さささ さっさと去るか？",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "さささ さっさと"
+                  },
+                  {
+                    "text": "去",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "るか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "届け 届け それでも光は",
+            "zh-CN": "传达吧 传递吧 纵然如此光芒依然",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "届け 届け それでも光は",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け "
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け それでも"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひかり"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "潰え水面 その遥か ラブカ",
+            "zh-CN": "破碎消逝于水面 那遥远彼方的 拟皱唇鲨？",
+            "segments": [
+              {
+                "text": "潰え水面 ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "潰",
+                    "reading": "つい"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "水面",
+                    "reading": "みなも"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "その遥か ラブカ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "遥",
+                    "reading": "はる"
+                  },
+                  {
+                    "text": "か ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "クライ クライ 未開の想いは",
+            "zh-CN": "昏暗 漆黑 未曾开拓的思绪",
+            "segments": [
+              {
+                "text": "クライ クライ 未開の想いは",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "クライ クライ "
+                  },
+                  {
+                    "text": "未開",
+                    "reading": "みかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "足らぬ 足らぬ 至らぬはラブか？",
+            "zh-CN": "不足 欠缺 难以企及的是恋爱吗？",
+            "segments": [
+              {
+                "text": "足らぬ 足らぬ ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "らぬ "
+                  },
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "らぬ "
+                  }
+                ]
+              },
+              {
+                "text": "至らぬはラブか？",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "至",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "らぬはラブか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "ラブカ ラララ ラブカ",
+            "zh-CN": "拟皱唇鲨 啦啦啦 拟皱唇鲨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラブカ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブカ "
+                  }
+                ]
+              },
+              {
+                "text": "ラララ ラブカ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラララ ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "ラブ なのか？",
+            "zh-CN": "那是爱吗？",
+            "segments": [
+              {
+                "text": "ラブ なのか？",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブ なのか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "甘きラビュー ラビュー ラビューか？",
+            "zh-CN": "是是甜腻的说着爱你 爱你 爱你吗？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "甘きラビュー ラビュー ラビューか？",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "きラビュー ラビュー ラビューか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "それはバグ バグ バグか？",
+            "zh-CN": "那是系统彻底错乱崩坏了吗？",
+            "segments": [
+              {
+                "text": "それはバグ バグ バグか？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはバグ バグ バグか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "嘘と嘘で濁ったアイ アイニージュか？",
+            "zh-CN": "是用谎言与谎言浑浊调配出的爱 是诉说着我需要你吗？",
+            "segments": [
+              {
+                "text": "嘘と嘘で濁ったアイ アイニージュか？",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "嘘",
+                    "reading": "うそ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "嘘",
+                    "reading": "うそ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "濁",
+                    "reading": "にご"
+                  },
+                  {
+                    "text": "ったアイ アイニージュか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "腐る愛 愛 愛か？",
+            "zh-CN": "是腐朽腐烂的爱 爱 爱吗？",
+            "segments": [
+              {
+                "text": "腐る愛 愛 愛か？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "腐",
+                    "reading": "くさ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "か？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "咀嚼 吐き出し泣くか？",
+            "zh-CN": "咀嚼 呕吐出来痛哭流涕吗？",
+            "segments": [
+              {
+                "text": "咀嚼 吐き出し泣くか？",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "咀嚼",
+                    "reading": "そしゃく"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "届かぬ距離で待っていたってしょうがない",
+            "zh-CN": "在触碰不到的距离苦苦等待也是无济于事",
+            "segments": [
+              {
+                "text": "届かぬ距離で待っていたってしょうがない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "かぬ"
+                  },
+                  {
+                    "text": "距離",
+                    "reading": "きょり"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "待",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "っていたってしょうがない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "甘きラビュー ラビュー ラビューか？",
+            "zh-CN": "是是甜腻的说着爱你 爱你 爱你吗？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "甘きラビュー ラビュー ラビューか？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "きラビュー ラビュー ラビューか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "それはバグ バグ バグか？",
+            "zh-CN": "那是系统彻底错乱崩坏了吗？",
+            "segments": [
+              {
+                "text": "それはバグ バグ バグか？",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはバグ バグ バグか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "腐るラビュー ラビュー ラビューは",
+            "zh-CN": "腐朽腐烂的诉说着爱你 爱你 爱你",
+            "segments": [
+              {
+                "text": "腐るラビュー ラビュー ラビューは",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "腐",
+                    "reading": "くさ"
+                  },
+                  {
+                    "text": "るラビュー ラビュー ラビューは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "既に地に落ち絶えた",
+            "zh-CN": "早已坠落尘埃断绝消亡",
+            "segments": [
+              {
+                "text": "既に地に落ち絶えた",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "既",
+                    "reading": "すで"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "地",
+                    "reading": "じ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "落",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "絶",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "えた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "届く距離で出会って嫌に",
+            "zh-CN": "若在触手可及的距离相遇而变得",
+            "segments": [
+              {
+                "text": "届く距離で出会って嫌に",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "距離",
+                    "reading": "きょり"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "出会",
+                    "reading": "であ"
+                  },
+                  {
+                    "text": "って"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "いや"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "なるならやめな",
+            "zh-CN": "令人厌恶的话那就趁早放弃吧",
+            "segments": [
+              {
+                "text": "なるならやめな",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "なるならやめな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "白亜病 ラ ラ ラ ラ ラ ラブカ",
+            "zh-CN": "白垩病 啦 啦 啦 啦 啦 拟皱唇鲨",
+            "segments": [
+              {
+                "text": "白亜病 ラ ラ ラ ラ ラ ラブカ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "白亜病",
+                    "reading": "はくあやまい"
+                  },
+                  {
+                    "text": " ラ ラ ラ ラ ラ ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "ラ ラ ラ ラ ラ ラブカ",
+            "zh-CN": "啦 啦 啦 啦 啦 拟皱唇鲨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラ ラ ラ ラ ラ ラブカ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラ ラ ラ ラ ラ ラブカ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000034",
+          "full-000035",
+          "full-000036",
+          "full-000037",
+          "full-000038",
+          "full-000039",
+          "full-000040",
+          "full-000042"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Love ka?",
+          "revisionId": 328787,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Love_ka%3F?oldid=328787",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Love ka?",
+          "revisionId": 328787,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Love_ka%3F?oldid=328787",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Love ka?",
+          "revisionId": 328787,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Love_ka%3F?oldid=328787",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Love ka?",
+          "revisionId": 328787,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Love_ka%3F?oldid=328787",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Love ka?",
+          "revisionId": 328787,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Love_ka%3F?oldid=328787",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Love ka?",
+          "revisionId": 328787,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Love_ka%3F?oldid=328787",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Love ka?",
+          "revisionId": 328787,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Love_ka%3F?oldid=328787",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Love ka?",
+          "revisionId": 328787,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Love_ka%3F?oldid=328787",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

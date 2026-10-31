@@ -1,0 +1,2550 @@
+{
+  "version": 3,
+  "musicId": 267,
+  "revision": 4,
+  "updatedAt": "2026-10-14T16:06:46Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-09",
+          "name": "小豆沢こはね"
+        },
+        {
+          "performerId": "歌唱者-10",
+          "name": "白石杏"
+        },
+        {
+          "performerId": "歌唱者-11",
+          "name": "東雲彰人"
+        },
+        {
+          "performerId": "歌唱者-12",
+          "name": "青柳冬弥"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "息が吸いたくて、産声を上げて",
+            "zh-CN": "渴望能够呼吸，放声啼哭初降人世",
+            "segments": [
+              {
+                "text": "息が吸いたくて、産声を上げて",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "息",
+                    "reading": "いき"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "吸",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "いたくて、"
+                  },
+                  {
+                    "text": "産声",
+                    "reading": "うぶごえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "生き辛くなってまた泣いて喚いて",
+            "zh-CN": "活得越发艰难再次痛哭大声叫嚷",
+            "segments": [
+              {
+                "text": "生き辛くなってまた泣いて喚いて",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "辛",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "くなってまた"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "喚",
+                    "reading": "わめ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "生きたくって? 逝きたくって?",
+            "zh-CN": "究竟是渴望活着？还是渴望死去？",
+            "segments": [
+              {
+                "text": "生きたくって? 逝きたくって?",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きたくって? "
+                  },
+                  {
+                    "text": "逝",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きたくって?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "わけ分かんないなぁ、僕は",
+            "zh-CN": "完全搞不明白啊，这个我",
+            "segments": [
+              {
+                "text": "わけ分かんないなぁ、僕は",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "わけ"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かんないなぁ、"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "死にたくっても、詩に託して",
+            "zh-CN": "纵使渴望死去，也寄托托付于诗篇",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "死にたくっても、詩に託して",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "にたくっても、"
+                  },
+                  {
+                    "text": "詩",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "託",
+                    "reading": "たく"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "仮死になって歌う今日だ",
+            "zh-CN": "化作假死状态放声歌唱的正是今天",
+            "segments": [
+              {
+                "text": "仮死になって歌う今日だ",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "仮死",
+                    "reading": "かし"
+                  },
+                  {
+                    "text": "になって"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "震わせた声を歌に吹き込んだ時",
+            "zh-CN": "将颤抖微弱的声音注入歌声的那一刻",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "震わせた声を歌に吹き込んだ時",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "震",
+                    "reading": "ふる"
+                  },
+                  {
+                    "text": "わせた"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "吹",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "僕の息が初めて目に映って",
+            "zh-CN": "我的呼吸才第一次映入眼帘",
+            "segments": [
+              {
+                "text": "僕の息が初めて",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "息",
+                    "reading": "いき"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "初",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              },
+              {
+                "text": "目に映って",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "映",
+                    "reading": "うつ"
+                  },
+                  {
+                    "text": "って"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "気付いたんだよ",
+            "zh-CN": "我终于察觉明白了啊",
+            "segments": [
+              {
+                "text": "気付いたんだよ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いたんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "音楽の価値なんて所詮主観だと",
+            "zh-CN": "音乐的价值归根结底不过是主观感受罢啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "音楽の価値なんて所詮主観だと",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "音楽",
+                    "reading": "おんがく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "価値",
+                    "reading": "かち"
+                  },
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "所詮主観",
+                    "reading": "しょせんしゅかん"
+                  },
+                  {
+                    "text": "だと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "なら、歌いたいように",
+            "zh-CN": "既然如此，就随心所欲去歌唱",
+            "segments": [
+              {
+                "text": "なら、",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "なら、"
+                  }
+                ]
+              },
+              {
+                "text": "歌いたいように",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "いたいように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "伝えたい言葉を伝う",
+            "zh-CN": "将想传达的字句传达出去",
+            "segments": [
+              {
+                "text": "伝えたい言葉を伝う",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えたい"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "う"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "間違いに怯えて",
+            "zh-CN": "与其害怕犯错",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "間違いに怯えて",
+                "performerIds": [
+                  "歌唱者-12",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "いに"
+                  },
+                  {
+                    "text": "怯",
+                    "reading": "おび"
+                  },
+                  {
+                    "text": "えて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "鬱ぐんじゃなくて",
+            "zh-CN": "而郁郁寡欢",
+            "segments": [
+              {
+                "text": "鬱ぐんじゃなくて",
+                "performerIds": [
+                  "歌唱者-12",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "鬱",
+                    "reading": "ふさ"
+                  },
+                  {
+                    "text": "ぐんじゃなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "正しく在ろうって",
+            "zh-CN": "倒不如为了保持端正",
+            "segments": [
+              {
+                "text": "正しく在ろうって",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "正",
+                    "reading": "ただ"
+                  },
+                  {
+                    "text": "しく"
+                  },
+                  {
+                    "text": "在",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ろうって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "足掻いていたいんだよ",
+            "zh-CN": "竭尽全力去挣扎展现啊",
+            "segments": [
+              {
+                "text": "足掻いていたいんだよ",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "足掻",
+                    "reading": "あが"
+                  },
+                  {
+                    "text": "いていたいんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "\"僕のせい\"も、僕の生だ",
+            "zh-CN": "“全怪我”的罪责，也是我所经历的生命",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "\"僕のせい\"も、僕の生だ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "\""
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "のせい\"も、"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "せい"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "馬鹿にされたって僕は",
+            "zh-CN": "纵然被人嘲笑作践我也",
+            "segments": [
+              {
+                "text": "馬鹿にされたって僕は",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "にされたって"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "傷ついては傷つけて",
+            "zh-CN": "不断受伤又不断伤害他人",
+            "segments": [
+              {
+                "text": "傷ついては傷つけて",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "ついては"
+                  },
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "つけて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "瑕疵/貸しを作って生きる",
+            "zh-CN": "制造着瑕疵与亏欠活下去",
+            "segments": [
+              {
+                "text": "瑕疵/貸しを作って生きる",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "瑕疵",
+                    "reading": "かし"
+                  },
+                  {
+                    "text": "/"
+                  },
+                  {
+                    "text": "貸",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "しを"
+                  },
+                  {
+                    "text": "作",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "って"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "目に見えた今が全てだから",
+            "zh-CN": "正因映入眼帘的当下正是全部",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目に見えた今が全てだから",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えた"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てだから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "過去や未来に縋りたくないから",
+            "zh-CN": "正因不想去依附乞求过去与未来",
+            "segments": [
+              {
+                "text": "過去や未来に縋りたくないから",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "過去",
+                    "reading": "かこ"
+                  },
+                  {
+                    "text": "や"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "縋",
+                    "reading": "すが"
+                  },
+                  {
+                    "text": "りたくないから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "心の臓よ、動け、動け!",
+            "zh-CN": "心脏啊，跳动吧，跳动起来吧！",
+            "segments": [
+              {
+                "text": "心の臓よ、動け、動け!",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "臓",
+                    "reading": "ぞう"
+                  },
+                  {
+                    "text": "よ、"
+                  },
+                  {
+                    "text": "動",
+                    "reading": "うご"
+                  },
+                  {
+                    "text": "け、"
+                  },
+                  {
+                    "text": "動",
+                    "reading": "うご"
+                  },
+                  {
+                    "text": "け!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "不確かだとしても僕の鼓動",
+            "zh-CN": "纵使模糊不清这也是属于我的心跳脉动",
+            "segments": [
+              {
+                "text": "不確かだとしても僕の鼓動",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "不確",
+                    "reading": "ふたし"
+                  },
+                  {
+                    "text": "かだとしても"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "鼓動",
+                    "reading": "こどう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "いつか憎んだ、あの光も",
+            "zh-CN": "曾几何时痛恨过的，那道光芒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "いつか憎んだ、あの光も",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "いつか"
+                  },
+                  {
+                    "text": "憎",
+                    "reading": "にく"
+                  },
+                  {
+                    "text": "んだ、あの"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひかり"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "僕の目を確かに照らしている",
+            "zh-CN": "也确实真真切切照亮着我的双眼",
+            "segments": [
+              {
+                "text": "僕の目を確かに照らしている",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "確",
+                    "reading": "たし"
+                  },
+                  {
+                    "text": "かに"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らしている"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "可視化していくんだ、この心を",
+            "zh-CN": "定要将这颗心灵，彻底具象化可视化",
+            "segments": [
+              {
+                "text": "可視化していくんだ、この心を",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "可視化",
+                    "reading": "かじか"
+                  },
+                  {
+                    "text": "していくんだ、この"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "でたらめな本音を抱えながら",
+            "zh-CN": "怀抱着荒诞不经的真正真心话",
+            "segments": [
+              {
+                "text": "でたらめな本音を抱えながら",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "でたらめな"
+                  },
+                  {
+                    "text": "本音",
+                    "reading": "ほんね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "抱",
+                    "reading": "かか"
+                  },
+                  {
+                    "text": "えながら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "息が吸いたくて、産声を上げて",
+            "zh-CN": "渴望能够呼吸，放声啼哭初降人世",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "息が吸いたくて、産声を上げて",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "息",
+                    "reading": "いき"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "吸",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "いたくて、"
+                  },
+                  {
+                    "text": "産声",
+                    "reading": "うぶごえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "生き辛くなってまた泣いて喚いて",
+            "zh-CN": "活得越发艰难再次痛哭大声叫嚷",
+            "segments": [
+              {
+                "text": "生き辛くなってまた泣いて喚いて",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "辛",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "くなってまた"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "喚",
+                    "reading": "わめ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "生きたくって？逝きたくって？",
+            "zh-CN": "究竟是渴望活着？还是渴望死去？",
+            "segments": [
+              {
+                "text": "生きたくって？逝きたくって？",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きたくって？"
+                  },
+                  {
+                    "text": "逝",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きたくって？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "わけ分かんないなぁ、僕は",
+            "zh-CN": "完全搞不明白啊，这个我",
+            "segments": [
+              {
+                "text": "わけ分かんないなぁ、",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "わけ"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かんないなぁ、"
+                  }
+                ]
+              },
+              {
+                "text": "僕は",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "死にたくっても、詩に託して",
+            "zh-CN": "纵使渴望死去，也寄托托付于诗篇",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "死にたくっても、詩に託して",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "にたくっても、"
+                  },
+                  {
+                    "text": "詩",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "託",
+                    "reading": "たく"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "仮死になって歌う",
+            "zh-CN": "化作假死状态放声歌唱",
+            "segments": [
+              {
+                "text": "仮死になって歌う",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "仮死",
+                    "reading": "かし"
+                  },
+                  {
+                    "text": "になって"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "う"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "消えたくて生きた今日があるなら",
+            "zh-CN": "若拥有过渴望消失却拼命活过的今天",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "消えたくて生きた今日があるなら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えたくて"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きた"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "があるなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "どちらも嘘にはしなくていいから",
+            "zh-CN": "无论哪一种都无需将其化作谎言",
+            "segments": [
+              {
+                "text": "どちらも嘘にはしなくていいから",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "どちらも"
+                  },
+                  {
+                    "text": "嘘",
+                    "reading": "うそ"
+                  },
+                  {
+                    "text": "にはしなくていいから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "心の臓を、歌え、歌え！",
+            "zh-CN": "朝着那颗心脏，歌唱吧，高声歌唱吧！",
+            "segments": [
+              {
+                "text": "心の臓を、歌え、歌え！",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "臓",
+                    "reading": "ぞう"
+                  },
+                  {
+                    "text": "を、"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え、"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "希望も希死も僕の鼓動",
+            "zh-CN": "无论是希望还是寻死之念皆是我的心跳",
+            "segments": [
+              {
+                "text": "希望も希死も僕の鼓動",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "希望",
+                    "reading": "きぼう"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "希死",
+                    "reading": "きし"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "鼓動",
+                    "reading": "こどう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "息が吸いたくて、産声を上げて",
+            "zh-CN": "渴望能够呼吸，放声啼哭初降人世",
+            "segments": [
+              {
+                "text": "息が吸いたくて、産声を上げて",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "息",
+                    "reading": "いき"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "吸",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "いたくて、"
+                  },
+                  {
+                    "text": "産声",
+                    "reading": "うぶごえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "生き辛くなってまた泣いて喚いて",
+            "zh-CN": "活得越发艰难再次痛哭大声叫嚷",
+            "segments": [
+              {
+                "text": "生き辛くなってまた泣いて喚いて",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "辛",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "くなってまた"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "喚",
+                    "reading": "わめ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "生きたくって? 逝きたくって?",
+            "zh-CN": "究竟是渴望活着？还是渴望死去？",
+            "segments": [
+              {
+                "text": "生きたくって? 逝きたくって?",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きたくって? "
+                  },
+                  {
+                    "text": "逝",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きたくって?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "わけ分かんないなぁ、僕は",
+            "zh-CN": "完全搞不明白啊，这个我",
+            "segments": [
+              {
+                "text": "わけ分かんないなぁ、僕は",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "わけ"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かんないなぁ、"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "死にたくっても、詩に託して",
+            "zh-CN": "纵使渴望死去，也寄托托付于诗篇",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "死にたくっても、詩に託して",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "にたくっても、"
+                  },
+                  {
+                    "text": "詩",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "託",
+                    "reading": "たく"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "仮死になって歌う今日だ",
+            "zh-CN": "化作假死状态放声歌唱的正是今天",
+            "segments": [
+              {
+                "text": "仮死になって歌う今日だ",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "仮死",
+                    "reading": "かし"
+                  },
+                  {
+                    "text": "になって"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "震わせた声を歌に吹き込んだ時",
+            "zh-CN": "将颤抖微弱的声音注入歌声的那一刻",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "震わせた声を歌に吹き込んだ時",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "震",
+                    "reading": "ふる"
+                  },
+                  {
+                    "text": "わせた"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "吹",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "僕の息が初めて目に映って",
+            "zh-CN": "我的呼吸才第一次映入眼帘",
+            "segments": [
+              {
+                "text": "僕の息が初めて",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "息",
+                    "reading": "いき"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "初",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              },
+              {
+                "text": "目に映って",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "映",
+                    "reading": "うつ"
+                  },
+                  {
+                    "text": "って"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "気付いたんだよ",
+            "zh-CN": "我终于察觉明白了啊",
+            "segments": [
+              {
+                "text": "気付いたんだよ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いたんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "音楽の価値なんて所詮主観だと",
+            "zh-CN": "音乐的价值归根结底不过是主观感受罢啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "音楽の価値なんて所詮主観だと",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "音楽",
+                    "reading": "おんがく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "価値",
+                    "reading": "かち"
+                  },
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "所詮主観",
+                    "reading": "しょせんしゅかん"
+                  },
+                  {
+                    "text": "だと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "なら、歌いたいように",
+            "zh-CN": "既然如此，就随心所欲去歌唱",
+            "segments": [
+              {
+                "text": "なら、",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "なら、"
+                  }
+                ]
+              },
+              {
+                "text": "歌いたいように",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "いたいように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "伝えたい言葉を伝う",
+            "zh-CN": "将想传达的字句传达出去",
+            "segments": [
+              {
+                "text": "伝えたい言葉を伝う",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えたい"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "う"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "間違いに怯えて",
+            "zh-CN": "与其害怕犯错",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "間違いに怯えて",
+                "performerIds": [
+                  "歌唱者-12",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "いに"
+                  },
+                  {
+                    "text": "怯",
+                    "reading": "おび"
+                  },
+                  {
+                    "text": "えて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "鬱ぐんじゃなくて",
+            "zh-CN": "而郁郁寡欢",
+            "segments": [
+              {
+                "text": "鬱ぐんじゃなくて",
+                "performerIds": [
+                  "歌唱者-12",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "鬱",
+                    "reading": "ふさ"
+                  },
+                  {
+                    "text": "ぐんじゃなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "正しく在ろうって",
+            "zh-CN": "倒不如为了保持端正",
+            "segments": [
+              {
+                "text": "正しく在ろうって",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "正",
+                    "reading": "ただ"
+                  },
+                  {
+                    "text": "しく"
+                  },
+                  {
+                    "text": "在",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ろうって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "足掻いていたいんだよ",
+            "zh-CN": "竭尽全力去挣扎展现啊",
+            "segments": [
+              {
+                "text": "足掻いていたいんだよ",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "足掻",
+                    "reading": "あが"
+                  },
+                  {
+                    "text": "いていたいんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "\"僕のせい\"も、僕の生だ",
+            "zh-CN": "“全怪我”的罪责，也是我所经历的生命",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "\"僕のせい\"も、僕の生だ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "\""
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "のせい\"も、"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "せい"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "馬鹿にされたって僕は",
+            "zh-CN": "纵然被人嘲笑作践我也",
+            "segments": [
+              {
+                "text": "馬鹿にされたって僕は",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "にされたって"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "傷ついては傷つけて",
+            "zh-CN": "不断受伤又不断伤害他人",
+            "segments": [
+              {
+                "text": "傷ついては傷つけて",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "ついては"
+                  },
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "つけて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "瑕疵/貸しを作って生きる",
+            "zh-CN": "制造着瑕疵与亏欠活下去",
+            "segments": [
+              {
+                "text": "瑕疵/貸しを作って生きる",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "瑕疵",
+                    "reading": "かし"
+                  },
+                  {
+                    "text": "/"
+                  },
+                  {
+                    "text": "貸",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "しを"
+                  },
+                  {
+                    "text": "作",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "って"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "目に見えた今が全てだから",
+            "zh-CN": "正因映入眼帘的当下正是全部",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目に見えた今が全てだから",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えた"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てだから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "過去や未来に縋りたくないから",
+            "zh-CN": "正因不想去依附乞求过去与未来",
+            "segments": [
+              {
+                "text": "過去や未来に縋りたくないから",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "過去",
+                    "reading": "かこ"
+                  },
+                  {
+                    "text": "や"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "縋",
+                    "reading": "すが"
+                  },
+                  {
+                    "text": "りたくないから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "心の臓よ、動け、動け!",
+            "zh-CN": "心脏啊，跳动吧，跳动起来吧！",
+            "segments": [
+              {
+                "text": "心の臓よ、動け、動け!",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "臓",
+                    "reading": "ぞう"
+                  },
+                  {
+                    "text": "よ、"
+                  },
+                  {
+                    "text": "動",
+                    "reading": "うご"
+                  },
+                  {
+                    "text": "け、"
+                  },
+                  {
+                    "text": "動",
+                    "reading": "うご"
+                  },
+                  {
+                    "text": "け!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "不確かだとしても僕の鼓動",
+            "zh-CN": "纵使模糊不清这也是属于我的心跳脉动",
+            "segments": [
+              {
+                "text": "不確かだとしても僕の鼓動",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "不確",
+                    "reading": "ふたし"
+                  },
+                  {
+                    "text": "かだとしても"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "鼓動",
+                    "reading": "こどう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Kashika",
+          "revisionId": 330355,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kashika?oldid=330355",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Kashika",
+          "revisionId": 330355,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kashika?oldid=330355",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Kashika",
+          "revisionId": 330355,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kashika?oldid=330355",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Kashika",
+          "revisionId": 330355,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kashika?oldid=330355",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Kashika",
+          "revisionId": 330355,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kashika?oldid=330355",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

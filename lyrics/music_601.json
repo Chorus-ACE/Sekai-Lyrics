@@ -1,0 +1,2548 @@
+{
+  "version": 3,
+  "musicId": 601,
+  "revision": 4,
+  "updatedAt": "2026-10-14T16:41:03Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-05",
+          "name": "花里みのり"
+        },
+        {
+          "performerId": "歌唱者-06",
+          "name": "桐谷遥"
+        },
+        {
+          "performerId": "歌唱者-07",
+          "name": "桃井愛莉"
+        },
+        {
+          "performerId": "歌唱者-08",
+          "name": "日野森雫"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "満点な人生も 秀才な解答もございません",
+            "zh-CN": "既没有满分的人生 也没有秀才般的解答",
+            "segments": [
+              {
+                "text": "満点な人生も 秀才な解答もございません",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "満点",
+                    "reading": "まんてん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "秀才",
+                    "reading": "しゅうさい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "解答",
+                    "reading": "かいとう"
+                  },
+                  {
+                    "text": "もございません"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "有害な評論も 見え透いた同情も 聞きたくはないな",
+            "zh-CN": "有害的批判高论 也罢一眼看穿的廉价同情 也罢我都不想听呢",
+            "segments": [
+              {
+                "text": "有害な評論も 見え透いた同情も 聞きたくはないな",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "有害",
+                    "reading": "ゆうがい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "評論",
+                    "reading": "ひょうろん"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "透",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "同情",
+                    "reading": "どうじょう"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "聞",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "きたくはないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "壮観な表彰も 平凡な真っ当もございません",
+            "zh-CN": "既没有壮观的表彰 也没有平凡的正道坦途",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "壮観な表彰も 平凡な真っ当もございません",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "壮観",
+                    "reading": "そうかん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "表彰",
+                    "reading": "ひょうしょう"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "平凡",
+                    "reading": "へいぼん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "真",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "当",
+                    "reading": "とう"
+                  },
+                  {
+                    "text": "もございません"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "暗転な将来も 傲慢な快晴も 見たくはないな",
+            "zh-CN": "陷入昏暗的未来 也罢傲慢放晴的长空 也罢我都不想见呢",
+            "segments": [
+              {
+                "text": "暗転な将来も 傲慢な快晴も 見たくはないな",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗転",
+                    "reading": "あんてん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "将来",
+                    "reading": "しょうらい"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "傲慢",
+                    "reading": "ごうまん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "快晴",
+                    "reading": "かいせい"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "たくはないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "はいはい 俯いちゃってヤンヤンヤン クラクラリ",
+            "zh-CN": "好啦好啦 垂头丧气 吵吵嚷嚷 头晕目眩",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "はいはい 俯いちゃって",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "はいはい "
+                  },
+                  {
+                    "text": "俯",
+                    "reading": "うつむ"
+                  },
+                  {
+                    "text": "いちゃって"
+                  }
+                ]
+              },
+              {
+                "text": "ヤンヤンヤン ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ヤンヤンヤン "
+                  }
+                ]
+              },
+              {
+                "text": "クラクラリ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "クラクラリ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "彷徨って",
+            "zh-CN": "迷茫徘徊",
+            "segments": [
+              {
+                "text": "彷徨って",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "彷徨",
+                    "reading": "さまよ"
+                  },
+                  {
+                    "text": "って"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "正答 失っちゃって わーんわーんわーん だって！",
+            "zh-CN": "丢失了正确答案 哇——哇——哇—— 毕竟啊！",
+            "segments": [
+              {
+                "text": "正答 失っちゃって ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "正答",
+                    "reading": "せいとう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "失",
+                    "reading": "うしな"
+                  },
+                  {
+                    "text": "っちゃって "
+                  }
+                ]
+              },
+              {
+                "text": "わーんわーんわーん ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "わーんわーんわーん "
+                  }
+                ]
+              },
+              {
+                "text": "だって！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だって！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "心は満たされない！",
+            "zh-CN": "心灵根本得不到满足！",
+            "segments": [
+              {
+                "text": "心は満たされない！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "たされない！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "愛を頂戴",
+            "zh-CN": "请给我爱吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛を頂戴",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "頂戴",
+                    "reading": "ちょうだい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "感情熱唱メッタッタッタ 声枯らせ",
+            "zh-CN": "情绪热唱倾泻而出 扯破喉咙吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "感情熱唱メッタッタッタ 声枯らせ",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "感情熱唱",
+                    "reading": "かんじょうねっしょう"
+                  },
+                  {
+                    "text": "メッタッタッタ "
+                  },
+                  {
+                    "text": "声枯",
+                    "reading": "こえか"
+                  },
+                  {
+                    "text": "らせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "全然わかんない ×点 喰らい尽くせ",
+            "zh-CN": "完全搞不懂 红叉叉 统统吞噬殆尽吧",
+            "segments": [
+              {
+                "text": "全然わかんない ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "わかんない "
+                  }
+                ]
+              },
+              {
+                "text": "×点 喰らい尽くせ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "×"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "喰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らい"
+                  },
+                  {
+                    "text": "尽",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "くせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "心臓血漿ラッタッタッタ 踊り舞え",
+            "zh-CN": "心脏血浆沸腾起舞 翩跹狂舞吧",
+            "segments": [
+              {
+                "text": "心臓血漿ラッタッタッタ 踊り舞え",
+                "performerIds": [
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心臓血漿",
+                    "reading": "しんぞうけっしょう"
+                  },
+                  {
+                    "text": "ラッタッタッタ "
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "え"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "正解なんてバイバイ提唱だダダダダ (ﾜｵｰﾝ！)",
+            "zh-CN": "所谓的正确答案直接拜拜提倡 哒哒哒哒 (汪呜——！)",
+            "segments": [
+              {
+                "text": "正解なんてバイバイ提唱",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんてバイバイ"
+                  },
+                  {
+                    "text": "提唱",
+                    "reading": "ていしょう"
+                  }
+                ]
+              },
+              {
+                "text": "だダダダダ ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だダダダダ "
+                  }
+                ]
+              },
+              {
+                "text": "(ﾜｵｰﾝ！)",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ﾜｵｰﾝ！)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "満点な答案も 優秀な成功もございません",
+            "zh-CN": "既没有满分的考卷 也没有优秀的成功坦途",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "満点な答案も 優秀な成功もございません",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "満点",
+                    "reading": "まんてん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "答案",
+                    "reading": "とうあん"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "優秀",
+                    "reading": "ゆうしゅう"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "成功",
+                    "reading": "せいこう"
+                  },
+                  {
+                    "text": "もございません"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "後悔な人生も 停滞の殺到も 見たくはないな",
+            "zh-CN": "充满悔恨的人生 也罢停滞带来的蜂拥 也罢我都不想见呢",
+            "segments": [
+              {
+                "text": "後悔な人生も 停滞の殺到も 見たくはないな",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "後悔",
+                    "reading": "こうかい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "停滞",
+                    "reading": "ていたい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "殺到",
+                    "reading": "さっとう"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "たくはないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "毎回 躓いちゃって きゃんきゃんきゃん フラフラリ",
+            "zh-CN": "每次 都磕磕绊绊 叫嚷不停 摇摇晃晃",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "毎回 躓いちゃって きゃんきゃんきゃん フラフラリ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "毎回",
+                    "reading": "まいかい"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "躓",
+                    "reading": "つまず"
+                  },
+                  {
+                    "text": "いちゃって きゃんきゃんきゃん フラフラリ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "悴んで",
+            "zh-CN": "冻僵麻木",
+            "segments": [
+              {
+                "text": "悴んで",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "悴",
+                    "reading": "かじか"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "正答 無くなっちゃって わーんわーんわーん 待って！",
+            "zh-CN": "正确答案荡然无存 哇——哇——哇—— 等等！",
+            "segments": [
+              {
+                "text": "正答 無くなっちゃって わーんわーんわーん 待って！",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "正答",
+                    "reading": "せいとう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなっちゃって わーんわーんわーん "
+                  },
+                  {
+                    "text": "待",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "って！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "出口も見当たらない？",
+            "zh-CN": "连出口都找不到了吗？",
+            "segments": [
+              {
+                "text": "出口も見当たらない？",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "出口",
+                    "reading": "でぐち"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "見当",
+                    "reading": "みあ"
+                  },
+                  {
+                    "text": "たらない？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "愛を頂戴",
+            "zh-CN": "请给我爱吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛を頂戴",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "頂戴",
+                    "reading": "ちょうだい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "感情熱唱メッタッタッタ 声枯らせ",
+            "zh-CN": "情绪热唱倾泻而出 扯破喉咙吧",
+            "segments": [
+              {
+                "text": "感情熱唱メッタッタッタ 声枯らせ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "感情熱唱",
+                    "reading": "かんじょうねっしょう"
+                  },
+                  {
+                    "text": "メッタッタッタ "
+                  },
+                  {
+                    "text": "声枯",
+                    "reading": "こえか"
+                  },
+                  {
+                    "text": "らせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "断然止まんない ×点 笑い倒せ",
+            "zh-CN": "毅然决然停不下来 红叉叉 放声大笑到底吧",
+            "segments": [
+              {
+                "text": "断然止まんない ×点 笑い倒せ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "断然止",
+                    "reading": "だんぜんと"
+                  },
+                  {
+                    "text": "まんない ×"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "倒",
+                    "reading": "たお"
+                  },
+                  {
+                    "text": "せ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "心臓血漿マッカッカッカ 踊り舞え",
+            "zh-CN": "心脏血浆通红一片 翩跹狂舞吧",
+            "segments": [
+              {
+                "text": "心臓血漿マッカッカッカ 踊り舞え",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "心臓血漿",
+                    "reading": "しんぞうけっしょう"
+                  },
+                  {
+                    "text": "マッカッカッカ "
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "え"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "正解なんて無い無い提唱だダダダダ (ﾜｵｰﾝ！)",
+            "zh-CN": "所谓的正确答案根本毫无提倡 哒哒哒哒 (汪呜——！)",
+            "segments": [
+              {
+                "text": "正解なんて無い無い提唱だダダダダ (ﾜｵｰﾝ！)",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "提唱",
+                    "reading": "ていしょう"
+                  },
+                  {
+                    "text": "だダダダダ (ﾜｵｰﾝ！)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "愛を頂戴",
+            "zh-CN": "请给我爱吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛を頂戴",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "頂戴",
+                    "reading": "ちょうだい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "感情裂傷メッタッタッタ 詩歌え",
+            "zh-CN": "情感撕裂伤口 尽情吟诗高歌吧",
+            "segments": [
+              {
+                "text": "感情裂傷メッタッタッタ 詩歌え",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "感情裂傷",
+                    "reading": "かんじょうれっしょう"
+                  },
+                  {
+                    "text": "メッタッタッタ "
+                  },
+                  {
+                    "text": "詩歌",
+                    "reading": "うたうた"
+                  },
+                  {
+                    "text": "え"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "全然染まんない「我」貫き通せ",
+            "zh-CN": "绝不随波逐流 贯彻「真我」到底吧",
+            "segments": [
+              {
+                "text": "全然染まんない「我」貫き通せ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然染",
+                    "reading": "ぜんぜんそ"
+                  },
+                  {
+                    "text": "まんない「"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "が"
+                  },
+                  {
+                    "text": "」"
+                  },
+                  {
+                    "text": "貫",
+                    "reading": "つらぬ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "せ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "心境全焼落下ッカッカ 這い上がれ",
+            "zh-CN": "心境全烧焚尽跌落 奋力攀爬向上吧",
+            "segments": [
+              {
+                "text": "心境全焼落下ッカッカ 這い上がれ",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "心境全焼落下",
+                    "reading": "しんきょうぜんしょうらっか"
+                  },
+                  {
+                    "text": "ッカッカ "
+                  },
+                  {
+                    "text": "這",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "正解なんて曖昧立証だダダダダ",
+            "zh-CN": "所谓的正确答案不过是暧昧立论 哒哒哒哒",
+            "segments": [
+              {
+                "text": "正解なんて曖昧立証だダダダダ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "曖昧立証",
+                    "reading": "あいまいりっしょう"
+                  },
+                  {
+                    "text": "だダダダダ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "感情熱唱メッタッタッタ 声枯らせ",
+            "zh-CN": "情绪热唱倾泻而出 扯破喉咙吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "感情熱唱メッタッタッタ 声枯らせ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "感情熱唱",
+                    "reading": "かんじょうねっしょう"
+                  },
+                  {
+                    "text": "メッタッタッタ "
+                  },
+                  {
+                    "text": "声枯",
+                    "reading": "こえか"
+                  },
+                  {
+                    "text": "らせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "全然わかんない ×点 喰らい尽くせ",
+            "zh-CN": "完全搞不懂 红叉叉 统统吞噬殆尽吧",
+            "segments": [
+              {
+                "text": "全然わかんない ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "わかんない "
+                  }
+                ]
+              },
+              {
+                "text": "×点 喰らい尽くせ",
+                "performerIds": [
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "×"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "喰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らい"
+                  },
+                  {
+                    "text": "尽",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "くせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "心臓血漿ラッタッタッタ 踊り舞え",
+            "zh-CN": "心脏血浆沸腾起舞 翩跹狂舞吧",
+            "segments": [
+              {
+                "text": "心臓血漿ラッタッタッタ 踊り舞え",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心臓血漿",
+                    "reading": "しんぞうけっしょう"
+                  },
+                  {
+                    "text": "ラッタッタッタ "
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "え"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "正解なんてバイバイ推奨だダダダダ",
+            "zh-CN": "所谓的正确答案直接拜拜推荐 哒哒哒哒",
+            "segments": [
+              {
+                "text": "正解なんてバイバイ推奨",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんてバイバイ"
+                  },
+                  {
+                    "text": "推奨",
+                    "reading": "すいしょう"
+                  }
+                ]
+              },
+              {
+                "text": "だダダダダ",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だダダダダ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "正解なんて無い無い提唱だダダダダ",
+            "zh-CN": "所谓的正确答案根本毫无提倡 哒哒哒哒",
+            "segments": [
+              {
+                "text": "正解なんて無い無い提唱だダダダダ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "提唱",
+                    "reading": "ていしょう"
+                  },
+                  {
+                    "text": "だダダダダ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "だ　ダダダダダ (ﾜｵｰﾝ！)",
+            "zh-CN": "哒 哒哒哒哒哒 (汪呜——！)",
+            "segments": [
+              {
+                "text": "だ　ダダダダダ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だ　ダダダダダ "
+                  }
+                ]
+              },
+              {
+                "text": "(ﾜｵｰﾝ！)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ﾜｵｰﾝ！)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "満点な人生も 秀才な解答もございません",
+            "zh-CN": "既没有满分的人生 也没有秀才般的解答",
+            "segments": [
+              {
+                "text": "満点な人生も 秀才な解答もございません",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "満点",
+                    "reading": "まんてん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "秀才",
+                    "reading": "しゅうさい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "解答",
+                    "reading": "かいとう"
+                  },
+                  {
+                    "text": "もございません"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "有害な評論も 見え透いた同情も 聞きたくはないな",
+            "zh-CN": "有害的批判高论 也罢一眼看穿的廉价同情 也罢我都不想听呢",
+            "segments": [
+              {
+                "text": "有害な評論も 見え透いた同情も 聞きたくはないな",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "有害",
+                    "reading": "ゆうがい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "評論",
+                    "reading": "ひょうろん"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "透",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "同情",
+                    "reading": "どうじょう"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "聞",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "きたくはないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "壮観な表彰も 平凡な真っ当もございません",
+            "zh-CN": "既没有壮观的表彰 也没有平凡的正道坦途",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "壮観な表彰も 平凡な真っ当もございません",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "壮観",
+                    "reading": "そうかん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "表彰",
+                    "reading": "ひょうしょう"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "平凡",
+                    "reading": "へいぼん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "真",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "当",
+                    "reading": "とう"
+                  },
+                  {
+                    "text": "もございません"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "暗転な将来も 傲慢な快晴も 見たくはないな",
+            "zh-CN": "陷入昏暗的未来 也罢傲慢放晴的长空 也罢我都不想见呢",
+            "segments": [
+              {
+                "text": "暗転な将来も 傲慢な快晴も 見たくはないな",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗転",
+                    "reading": "あんてん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "将来",
+                    "reading": "しょうらい"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "傲慢",
+                    "reading": "ごうまん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "快晴",
+                    "reading": "かいせい"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "たくはないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "はいはい 俯いちゃってヤンヤンヤン クラクラリ",
+            "zh-CN": "好啦好啦 垂头丧气 吵吵嚷嚷 头晕目眩",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "はいはい 俯いちゃって",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "はいはい "
+                  },
+                  {
+                    "text": "俯",
+                    "reading": "うつむ"
+                  },
+                  {
+                    "text": "いちゃって"
+                  }
+                ]
+              },
+              {
+                "text": "ヤンヤンヤン ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ヤンヤンヤン "
+                  }
+                ]
+              },
+              {
+                "text": "クラクラリ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "クラクラリ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "彷徨って",
+            "zh-CN": "迷茫徘徊",
+            "segments": [
+              {
+                "text": "彷徨って",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "彷徨",
+                    "reading": "さまよ"
+                  },
+                  {
+                    "text": "って"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "正答 失っちゃって わーんわーんわーん だって！",
+            "zh-CN": "丢失了正确答案 哇——哇——哇—— 毕竟啊！",
+            "segments": [
+              {
+                "text": "正答 失っちゃって ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "正答",
+                    "reading": "せいとう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "失",
+                    "reading": "うしな"
+                  },
+                  {
+                    "text": "っちゃって "
+                  }
+                ]
+              },
+              {
+                "text": "わーんわーんわーん ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "わーんわーんわーん "
+                  }
+                ]
+              },
+              {
+                "text": "だって！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だって！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "心は満たされない！",
+            "zh-CN": "心灵根本得不到满足！",
+            "segments": [
+              {
+                "text": "心は満たされない！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "たされない！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "愛を頂戴",
+            "zh-CN": "请给我爱吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛を頂戴",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "頂戴",
+                    "reading": "ちょうだい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "感情熱唱メッタッタッタ 声枯らせ",
+            "zh-CN": "情绪热唱倾泻而出 扯破喉咙吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "感情熱唱メッタッタッタ 声枯らせ",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "感情熱唱",
+                    "reading": "かんじょうねっしょう"
+                  },
+                  {
+                    "text": "メッタッタッタ "
+                  },
+                  {
+                    "text": "声枯",
+                    "reading": "こえか"
+                  },
+                  {
+                    "text": "らせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "全然わかんない ×点 喰らい尽くせ",
+            "zh-CN": "完全搞不懂 红叉叉 统统吞噬殆尽吧",
+            "segments": [
+              {
+                "text": "全然わかんない ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "わかんない "
+                  }
+                ]
+              },
+              {
+                "text": "×点 喰らい尽くせ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "×"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "喰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らい"
+                  },
+                  {
+                    "text": "尽",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "くせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "心臓血漿ラッタッタッタ 踊り舞え",
+            "zh-CN": "心脏血浆沸腾起舞 翩跹狂舞吧",
+            "segments": [
+              {
+                "text": "心臓血漿ラッタッタッタ 踊り舞え",
+                "performerIds": [
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心臓血漿",
+                    "reading": "しんぞうけっしょう"
+                  },
+                  {
+                    "text": "ラッタッタッタ "
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "え"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "正解なんてバイバイ提唱だダダダダ (ﾜｵｰﾝ！)",
+            "zh-CN": "所谓的正确答案直接拜拜提倡 哒哒哒哒 (汪呜——！)",
+            "segments": [
+              {
+                "text": "正解なんてバイバイ提唱",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんてバイバイ"
+                  },
+                  {
+                    "text": "提唱",
+                    "reading": "ていしょう"
+                  }
+                ]
+              },
+              {
+                "text": "だダダダダ ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だダダダダ "
+                  }
+                ]
+              },
+              {
+                "text": "(ﾜｵｰﾝ！)",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ﾜｵｰﾝ！)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "愛を頂戴",
+            "zh-CN": "请给我爱吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛を頂戴",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "頂戴",
+                    "reading": "ちょうだい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "感情裂傷メッタッタッタ 詩歌え",
+            "zh-CN": "情感撕裂伤口 尽情吟诗高歌吧",
+            "segments": [
+              {
+                "text": "感情裂傷メッタッタッタ 詩歌え",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "感情裂傷",
+                    "reading": "かんじょうれっしょう"
+                  },
+                  {
+                    "text": "メッタッタッタ "
+                  },
+                  {
+                    "text": "詩歌",
+                    "reading": "うたうた"
+                  },
+                  {
+                    "text": "え"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "全然染まんない「我」貫き通せ",
+            "zh-CN": "绝不随波逐流 贯彻「真我」到底吧",
+            "segments": [
+              {
+                "text": "全然染まんない「我」貫き通せ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然染",
+                    "reading": "ぜんぜんそ"
+                  },
+                  {
+                    "text": "まんない「"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "が"
+                  },
+                  {
+                    "text": "」"
+                  },
+                  {
+                    "text": "貫",
+                    "reading": "つらぬ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "せ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "心境全焼落下ッカッカ 這い上がれ",
+            "zh-CN": "心境全烧焚尽跌落 奋力攀爬向上吧",
+            "segments": [
+              {
+                "text": "心境全焼落下ッカッカ 這い上がれ",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "心境全焼落下",
+                    "reading": "しんきょうぜんしょうらっか"
+                  },
+                  {
+                    "text": "ッカッカ "
+                  },
+                  {
+                    "text": "這",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "正解なんて曖昧立証だダダダダ",
+            "zh-CN": "所谓的正确答案不过是暧昧立论 哒哒哒哒",
+            "segments": [
+              {
+                "text": "正解なんて曖昧立証だダダダダ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "曖昧立証",
+                    "reading": "あいまいりっしょう"
+                  },
+                  {
+                    "text": "だダダダダ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "感情熱唱メッタッタッタ 声枯らせ",
+            "zh-CN": "情绪热唱倾泻而出 扯破喉咙吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "感情熱唱メッタッタッタ 声枯らせ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "感情熱唱",
+                    "reading": "かんじょうねっしょう"
+                  },
+                  {
+                    "text": "メッタッタッタ "
+                  },
+                  {
+                    "text": "声枯",
+                    "reading": "こえか"
+                  },
+                  {
+                    "text": "らせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "全然わかんない ×点 喰らい尽くせ",
+            "zh-CN": "完全搞不懂 红叉叉 统统吞噬殆尽吧",
+            "segments": [
+              {
+                "text": "全然わかんない ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "わかんない "
+                  }
+                ]
+              },
+              {
+                "text": "×点 喰らい尽くせ",
+                "performerIds": [
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "×"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "喰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らい"
+                  },
+                  {
+                    "text": "尽",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "くせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "心臓血漿ラッタッタッタ 踊り舞え",
+            "zh-CN": "心脏血浆沸腾起舞 翩跹狂舞吧",
+            "segments": [
+              {
+                "text": "心臓血漿ラッタッタッタ 踊り舞え",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心臓血漿",
+                    "reading": "しんぞうけっしょう"
+                  },
+                  {
+                    "text": "ラッタッタッタ "
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "え"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "正解なんてバイバイ推奨だダダダダ",
+            "zh-CN": "所谓的正确答案直接拜拜推荐 哒哒哒哒",
+            "segments": [
+              {
+                "text": "正解なんてバイバイ推奨",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんてバイバイ"
+                  },
+                  {
+                    "text": "推奨",
+                    "reading": "すいしょう"
+                  }
+                ]
+              },
+              {
+                "text": "だダダダダ",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だダダダダ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "正解なんて無い無い提唱だダダダダ",
+            "zh-CN": "所谓的正确答案根本毫无提倡 哒哒哒哒",
+            "segments": [
+              {
+                "text": "正解なんて無い無い提唱だダダダダ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "正解",
+                    "reading": "せいかい"
+                  },
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "提唱",
+                    "reading": "ていしょう"
+                  },
+                  {
+                    "text": "だダダダダ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "だ　ダダダダダ (ﾜｵｰﾝ！)",
+            "zh-CN": "哒 哒哒哒哒哒 (汪呜——！)",
+            "segments": [
+              {
+                "text": "だ　ダダダダダ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だ　ダダダダダ "
+                  }
+                ]
+              },
+              {
+                "text": "(ﾜｵｰﾝ！)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ﾜｵｰﾝ！)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "RUMA",
+          "revisionId": 330543,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/RUMA?oldid=330543",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "RUMA",
+          "revisionId": 330543,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/RUMA?oldid=330543",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "RUMA",
+          "revisionId": 330543,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/RUMA?oldid=330543",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "RUMA",
+          "revisionId": 330543,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/RUMA?oldid=330543",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "RUMA",
+          "revisionId": 330543,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/RUMA?oldid=330543",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1881 @@
+{
+  "version": 3,
+  "musicId": 67,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:00:41Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-17",
+          "name": "宵崎奏"
+        },
+        {
+          "performerId": "歌唱者-18",
+          "name": "朝比奈まふゆ"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "君のようなひとになりたいな",
+            "zh-CN": "好想成为像你那样的人啊",
+            "segments": [
+              {
+                "text": "君のようなひとになりたいな",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のようなひとになりたいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "「僕らしいひと」になりたいな",
+            "zh-CN": "好想成为“富有自我特色的人”啊",
+            "segments": [
+              {
+                "text": "「僕らしいひと」になりたいな",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らしいひと」になりたいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "望むならそうすりゃいいけどさ",
+            "zh-CN": "只要期盼照着去做就好了",
+            "segments": [
+              {
+                "text": "望むならそうすりゃいいけどさ",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "望",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "むならそうすりゃいいけどさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "でもそれってほんとにぼくなのかい",
+            "zh-CN": "但那真的还是真正的我吗",
+            "segments": [
+              {
+                "text": "でもそれってほんとにぼくなのかい",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもそれってほんとにぼくなのかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "子供騙しな夢ひとつ",
+            "zh-CN": "仅仅是一个骗小孩的梦想",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "子供騙しな夢ひとつ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "子供騙",
+                    "reading": "こどもだま"
+                  },
+                  {
+                    "text": "しな"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "ひとつ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "こんな僕なら死ねばいいのに",
+            "zh-CN": "像我这样的人干脆死掉算了",
+            "segments": [
+              {
+                "text": "こんな僕なら",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "なら"
+                  }
+                ]
+              },
+              {
+                "text": "死ねばいいのに",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ねばいいのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "こんな僕が生きてるだけで",
+            "zh-CN": "像我这样的人光是活着",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こんな僕が生きてるだけで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きてるだけで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "何万人のひとが悲しんで",
+            "zh-CN": "就会让几万人感到悲伤",
+            "segments": [
+              {
+                "text": "何万人のひとが悲しんで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何万人",
+                    "reading": "なんまんにん"
+                  },
+                  {
+                    "text": "のひとが"
+                  },
+                  {
+                    "text": "悲",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "しんで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "誰も僕を望まない",
+            "zh-CN": "谁也不曾期盼我的存在",
+            "segments": [
+              {
+                "text": "誰も僕を望まない",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "望",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "まない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "そんな世界だったらいいのにな",
+            "zh-CN": "倘若是那样的世界该有多好啊",
+            "segments": [
+              {
+                "text": "そんな世界だったらいいのにな",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "だったらいいのにな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "こんな僕が消えちゃうだけで",
+            "zh-CN": "只要像我这样的人彻底消失",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こんな僕が消えちゃうだけで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えちゃうだけで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "何億人のひとが喜んで",
+            "zh-CN": "就会让数亿人欢呼雀跃",
+            "segments": [
+              {
+                "text": "何億人のひとが喜んで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何億人",
+                    "reading": "なんおくにん"
+                  },
+                  {
+                    "text": "のひとが"
+                  },
+                  {
+                    "text": "喜",
+                    "reading": "よろこ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "誰も何も憎まないなら",
+            "zh-CN": "谁也不会去憎恨任何事物的话",
+            "segments": [
+              {
+                "text": "誰も何も憎まないなら",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "憎",
+                    "reading": "にく"
+                  },
+                  {
+                    "text": "まないなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "そんなうれしいことはないな",
+            "zh-CN": "再没有比这更令人欣喜的事了",
+            "segments": [
+              {
+                "text": "そんなうれしい",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんなうれしい"
+                  }
+                ]
+              },
+              {
+                "text": "ことはないな",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ことはないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "明日も僕は夢うつつ",
+            "zh-CN": "明天我也依旧半梦半醒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "明日も僕は夢うつつ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "うつつ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "このまま僕は消えていいのに",
+            "zh-CN": "哪怕我就这样直接消失也无所谓",
+            "segments": [
+              {
+                "text": "このまま僕は",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "このまま"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              },
+              {
+                "text": "消えていいのに",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えていいのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "こんな僕が生きたところで",
+            "zh-CN": "就算像我这样的人苟活着",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こんな僕が生きたところで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きたところで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "何億人のひとは知らないし",
+            "zh-CN": "数亿人也根本毫不知情",
+            "segments": [
+              {
+                "text": "何億人のひとは知らないし",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何億人",
+                    "reading": "なんおくにん"
+                  },
+                  {
+                    "text": "のひとは"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らないし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "誰も僕を望まない",
+            "zh-CN": "谁也不曾期盼我的存在",
+            "segments": [
+              {
+                "text": "誰も僕を望まない",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "望",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "まない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "そんな世界だったらいいのかな",
+            "zh-CN": "倘若是那样的世界会不会更好呢",
+            "segments": [
+              {
+                "text": "そんな世界だったらいいのかな",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "だったらいいのかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "こんな僕が消えたところで",
+            "zh-CN": "就算像我这样的人彻底消失",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こんな僕が消えたところで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えたところで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "何億人のひとは変わらない",
+            "zh-CN": "数亿人的生活也毫无改变",
+            "segments": [
+              {
+                "text": "何億人のひとは変わらない",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何億人",
+                    "reading": "なんおくにん"
+                  },
+                  {
+                    "text": "のひとは"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わらない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "誰も僕を憎まないなら",
+            "zh-CN": "只要谁也不会憎恨我",
+            "segments": [
+              {
+                "text": "誰も僕を憎まないなら",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "憎",
+                    "reading": "にく"
+                  },
+                  {
+                    "text": "まないなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "損した事に変わりないな",
+            "zh-CN": "亏损的事实也依然毫无改变",
+            "segments": [
+              {
+                "text": "損した事に変わりないな",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "損",
+                    "reading": "そん"
+                  },
+                  {
+                    "text": "した"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わりないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "最期なんか皆同じように倒れてゆきます",
+            "zh-CN": "临终之时大家都会同样倒下死去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "最期なんか皆同じように倒れてゆきます",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "最期",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "なんか"
+                  },
+                  {
+                    "text": "皆同",
+                    "reading": "みんなおな"
+                  },
+                  {
+                    "text": "じように"
+                  },
+                  {
+                    "text": "倒",
+                    "reading": "たお"
+                  },
+                  {
+                    "text": "れてゆきます"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "メイドイン 他人 の 「自分自身」崩れてゆきます",
+            "zh-CN": "他人塑造的“自我本身”正分崩离析",
+            "segments": [
+              {
+                "text": "メイドイン 他人 の 「自分自身」崩れてゆきます",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "メイドイン "
+                  },
+                  {
+                    "text": "他人",
+                    "reading": "たんにん"
+                  },
+                  {
+                    "text": " の 「"
+                  },
+                  {
+                    "text": "自分自身",
+                    "reading": "じぶんじしん"
+                  },
+                  {
+                    "text": "」"
+                  },
+                  {
+                    "text": "崩",
+                    "reading": "くず"
+                  },
+                  {
+                    "text": "れてゆきます"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "最期なんかみんな同じように離れてくのに",
+            "zh-CN": "明明临终之时大家都会同样离散而去",
+            "segments": [
+              {
+                "text": "最期なんかみんな同じように離れてくのに",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "最期",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "なんかみんな"
+                  },
+                  {
+                    "text": "同",
+                    "reading": "おな"
+                  },
+                  {
+                    "text": "じように"
+                  },
+                  {
+                    "text": "離",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "れてくのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "こんな僕が生きてるだけで",
+            "zh-CN": "光是像我这样的人活着",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こんな僕が生きてるだけで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きてるだけで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "なんで君はそんなに笑うの",
+            "zh-CN": "为什么你还能笑得如此灿烂呢",
+            "segments": [
+              {
+                "text": "なんで君はそんなに笑うの",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんで"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "はそんなに"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "うの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "君がそんな笑顔じゃ",
+            "zh-CN": "看到你展露那样的笑容",
+            "segments": [
+              {
+                "text": "君がそんな笑顔じゃ",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "がそんな"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "じゃ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "悲しくても消えたくても",
+            "zh-CN": "无论多么悲伤 无论多么想消失",
+            "segments": [
+              {
+                "text": "悲しくても消えたくても",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "悲",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "しくても"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えたくても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "さよならする理由なんてもう",
+            "zh-CN": "道别的理由",
+            "segments": [
+              {
+                "text": "さよならする理由なんてもう",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "さよならする"
+                  },
+                  {
+                    "text": "理由",
+                    "reading": "りゆう"
+                  },
+                  {
+                    "text": "なんてもう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "無ければいいのに",
+            "zh-CN": "要是再也不复存在该有多好",
+            "segments": [
+              {
+                "text": "無ければいいのに",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "ければいいのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "こんな僕が消えたところで",
+            "zh-CN": "就算像我这样的人彻底消失",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こんな僕が消えたところで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えたところで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "何億人のひとは変わらない",
+            "zh-CN": "数亿人的生活也毫无改变",
+            "segments": [
+              {
+                "text": "何億人のひとは変わらない",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何億人",
+                    "reading": "なんおくにん"
+                  },
+                  {
+                    "text": "のひとは"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わらない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "だけど僕を止める何かが",
+            "zh-CN": "可是阻止着我离开的某种存在",
+            "segments": [
+              {
+                "text": "だけど僕を止める何かが",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "だけど"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "める"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "かが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "そんな顔しちゃ笑えないや",
+            "zh-CN": "露出那样的神情 让我连笑都笑不出来了啊",
+            "segments": [
+              {
+                "text": "そんな顔しちゃ",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "しちゃ"
+                  }
+                ]
+              },
+              {
+                "text": "笑えないや",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "えないや"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "君のようなひとになりたいな",
+            "zh-CN": "好想成为像你那样的人啊",
+            "segments": [
+              {
+                "text": "君のようなひとになりたいな",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のようなひとになりたいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "「僕らしいひと」になりたいな",
+            "zh-CN": "好想成为“富有自我特色的人”啊",
+            "segments": [
+              {
+                "text": "「僕らしいひと」になりたいな",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らしいひと」になりたいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "望むならそうすりゃいいけどさ",
+            "zh-CN": "只要期盼照着去做就好了",
+            "segments": [
+              {
+                "text": "望むならそうすりゃいいけどさ",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "望",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "むならそうすりゃいいけどさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "でもそれってほんとにぼくなのかい",
+            "zh-CN": "但那真的还是真正的我吗",
+            "segments": [
+              {
+                "text": "でもそれってほんとにぼくなのかい",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもそれってほんとにぼくなのかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "子供騙しな夢ひとつ",
+            "zh-CN": "仅仅是一个骗小孩的梦想",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "子供騙しな夢ひとつ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "子供騙",
+                    "reading": "こどもだま"
+                  },
+                  {
+                    "text": "しな"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "ひとつ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "こんな僕なら死ねばいいのに",
+            "zh-CN": "像我这样的人干脆死掉算了",
+            "segments": [
+              {
+                "text": "こんな僕なら",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "なら"
+                  }
+                ]
+              },
+              {
+                "text": "死ねばいいのに",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ねばいいのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "こんな僕が生きてるだけで",
+            "zh-CN": "像我这样的人光是活着",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こんな僕が生きてるだけで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きてるだけで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "何万人のひとが悲しんで",
+            "zh-CN": "就会让几万人感到悲伤",
+            "segments": [
+              {
+                "text": "何万人のひとが悲しんで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何万人",
+                    "reading": "なんまんにん"
+                  },
+                  {
+                    "text": "のひとが"
+                  },
+                  {
+                    "text": "悲",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "しんで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "誰も僕を望まない",
+            "zh-CN": "谁也不曾期盼我的存在",
+            "segments": [
+              {
+                "text": "誰も僕を望まない",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "望",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "まない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "そんな世界だったらいいのにな",
+            "zh-CN": "倘若是那样的世界该有多好啊",
+            "segments": [
+              {
+                "text": "そんな世界だったらいいのにな",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "だったらいいのにな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "こんな僕が消えちゃうだけで",
+            "zh-CN": "只要像我这样的人彻底消失",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こんな僕が消えちゃうだけで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えちゃうだけで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "何億人のひとが喜んで",
+            "zh-CN": "就会让数亿人欢呼雀跃",
+            "segments": [
+              {
+                "text": "何億人のひとが喜んで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何億人",
+                    "reading": "なんおくにん"
+                  },
+                  {
+                    "text": "のひとが"
+                  },
+                  {
+                    "text": "喜",
+                    "reading": "よろこ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "誰も何も憎まないなら",
+            "zh-CN": "谁也不会去憎恨任何事物的话",
+            "segments": [
+              {
+                "text": "誰も何も憎まないなら",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "憎",
+                    "reading": "にく"
+                  },
+                  {
+                    "text": "まないなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "そんなうれしいことはないな",
+            "zh-CN": "再没有比这更令人欣喜的事了",
+            "segments": [
+              {
+                "text": "そんなうれしい",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんなうれしい"
+                  }
+                ]
+              },
+              {
+                "text": "ことはないな",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ことはないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Jishou Mushoku",
+          "revisionId": 328689,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Jishou_Mushoku?oldid=328689",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Jishou Mushoku",
+          "revisionId": 328689,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Jishou_Mushoku?oldid=328689",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Jishou Mushoku",
+          "revisionId": 328689,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Jishou_Mushoku?oldid=328689",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Jishou Mushoku",
+          "revisionId": 328689,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Jishou_Mushoku?oldid=328689",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Jishou Mushoku",
+          "revisionId": 328689,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Jishou_Mushoku?oldid=328689",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Jishou Mushoku",
+          "revisionId": 328689,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Jishou_Mushoku?oldid=328689",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Jishou Mushoku",
+          "revisionId": 328689,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Jishou_Mushoku?oldid=328689",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Jishou Mushoku",
+          "revisionId": 328689,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Jishou_Mushoku?oldid=328689",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

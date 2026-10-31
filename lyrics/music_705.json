@@ -1,0 +1,2360 @@
+{
+  "version": 3,
+  "musicId": 705,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:02:15Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-01",
+          "name": "星乃一歌"
+        },
+        {
+          "performerId": "歌唱者-02",
+          "name": "天馬咲希"
+        },
+        {
+          "performerId": "歌唱者-03",
+          "name": "望月穂波"
+        },
+        {
+          "performerId": "歌唱者-04",
+          "name": "日野森志歩"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "3，2，1 って合図カマしたら舌を出せ",
+            "zh-CN": "3、2、1 信号一出就吐出舌头",
+            "segments": [
+              {
+                "text": "3，2，1 って合図カマしたら舌を出せ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "3，2，1 って"
+                  },
+                  {
+                    "text": "合図",
+                    "reading": "あいず"
+                  },
+                  {
+                    "text": "カマしたら"
+                  },
+                  {
+                    "text": "舌",
+                    "reading": "した"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "せ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "中指立てて絶好調",
+            "zh-CN": "竖起中指 状态极佳",
+            "segments": [
+              {
+                "text": "中指立てて絶好調",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "中指立",
+                    "reading": "なかゆびた"
+                  },
+                  {
+                    "text": "てて"
+                  },
+                  {
+                    "text": "絶好調",
+                    "reading": "ぜっこうちょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "味も薄れたラズベリーのガムを吐き捨てて",
+            "zh-CN": "吐掉早已淡然无味的树莓口香糖",
+            "segments": [
+              {
+                "text": "味も薄れたラズベリーの",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "味",
+                    "reading": "あじ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "薄",
+                    "reading": "うす"
+                  },
+                  {
+                    "text": "れたラズベリーの"
+                  }
+                ]
+              },
+              {
+                "text": "ガムを吐き捨てて",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ガムを"
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "Bye LOVE（ああ）",
+            "zh-CN": "Bye LOVE（啊啊）",
+            "segments": [
+              {
+                "text": "Bye LOVE（ああ）",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "Bye LOVE（ああ）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "AM6：00　目覚まし時計を起こして",
+            "zh-CN": "早上六点 叫醒闹钟",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "AM6：00　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "AM6：00　"
+                  }
+                ]
+              },
+              {
+                "text": "目覚まし時計を起こして",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "まし"
+                  },
+                  {
+                    "text": "時計",
+                    "reading": "どけい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "起",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "こして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "ボリューム全開ロックで",
+            "zh-CN": "音量全开 摇滚轰鸣",
+            "segments": [
+              {
+                "text": "ボリューム全開ロックで",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ボリューム"
+                  },
+                  {
+                    "text": "全開",
+                    "reading": "ぜんかい"
+                  },
+                  {
+                    "text": "ロックで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "現実世界 ギャップに眩暈冷や汗をかいて",
+            "zh-CN": "现实世界 巨大落差令人眩晕冷汗直流",
+            "segments": [
+              {
+                "text": "現実世界 ギャップに眩暈冷や汗をかいて",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "現実世界",
+                    "reading": "げんじつせかい"
+                  },
+                  {
+                    "text": " ギャップに"
+                  },
+                  {
+                    "text": "眩暈冷",
+                    "reading": "めまいひ"
+                  },
+                  {
+                    "text": "や"
+                  },
+                  {
+                    "text": "汗",
+                    "reading": "あせ"
+                  },
+                  {
+                    "text": "をかいて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "PM6：00　いつものガムは売り切れで",
+            "zh-CN": "下午六点 常吃的那款口香糖已售罄",
+            "segments": [
+              {
+                "text": "PM6：00　いつものガムは売り切れで",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "PM6：00　いつものガムは"
+                  },
+                  {
+                    "text": "売",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "切",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "れで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "電波も圏外どうして？",
+            "zh-CN": "连手机都无信号 怎么回事？",
+            "segments": [
+              {
+                "text": "電波も圏外どうして？",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "電波",
+                    "reading": "でんぱ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "圏外",
+                    "reading": "けんがい"
+                  },
+                  {
+                    "text": "どうして？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "現実世界　勝手に期待もう構わないで消して！",
+            "zh-CN": "现实世界 擅自抱有期待 别管我了抹消掉吧！",
+            "segments": [
+              {
+                "text": "現実世界　勝手に期待もう構わないで消して！",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "現実世界",
+                    "reading": "げんじつせかい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "勝手",
+                    "reading": "かって"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "構",
+                    "reading": "かま"
+                  },
+                  {
+                    "text": "わないで"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "して！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "（tick tack tick tack，tick tack tick tack...）",
+            "zh-CN": "（tick tack tick tack，tick tack tick tack...）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "（tick tack tick tack，tick tack tick tack...）",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "（tick tack tick tack，tick tack tick tack...）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "愛と愛が苦手です隠れたいよ",
+            "zh-CN": "我不擅长面对爱与爱 好想躲起来",
+            "segments": [
+              {
+                "text": "愛と愛が苦手です隠れたいよ",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "苦手",
+                    "reading": "にがて"
+                  },
+                  {
+                    "text": "です"
+                  },
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "れたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "仮想が現実です？",
+            "zh-CN": "虚拟才是现实吗？",
+            "segments": [
+              {
+                "text": "仮想が現実です？",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "仮想",
+                    "reading": "どちら"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "現実",
+                    "reading": "こちら"
+                  },
+                  {
+                    "text": "です？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "わかんないよ！",
+            "zh-CN": "我搞不懂啊！",
+            "segments": [
+              {
+                "text": "わかんないよ！",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "わかんないよ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "身体を残して僕と繋ぐ仮想ドライブ",
+            "zh-CN": "抛下肉躯 与我相连的虚拟驱动",
+            "segments": [
+              {
+                "text": "身体を残して僕と繋ぐ",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "身体",
+                    "reading": "からだ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "繋",
+                    "reading": "つな"
+                  },
+                  {
+                    "text": "ぐ"
+                  }
+                ]
+              },
+              {
+                "text": "仮想ドライブ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "仮想",
+                    "reading": "かそう"
+                  },
+                  {
+                    "text": "ドライブ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "赤く気高く立ち向かうたった一人 (woah)",
+            "zh-CN": "鲜红而高傲地独自挺身迎战 (woah)",
+            "segments": [
+              {
+                "text": "赤く気高く立ち向かうたった一人 ",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "赤",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "気高",
+                    "reading": "けだか"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "かうたった"
+                  },
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "(woah)",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "(woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "君を止められるヤツは此処には居ない　Yeah！",
+            "zh-CN": "这里根本没人能够阻挡你 Yeah！",
+            "segments": [
+              {
+                "text": "君を",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "止められるヤツは此処には居ない　Yeah！",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "められるヤツは"
+                  },
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "には"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "ない　Yeah！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "いつからこんな風になってしまっちゃったの？",
+            "zh-CN": "到底是从何时起变成这副模样的？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "いつからこんな風になってしまっちゃったの？",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "いつからこんな"
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "になってしまっちゃったの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "笑顔さえもぎこちないや",
+            "zh-CN": "连笑容都显得如此僵硬生涩",
+            "segments": [
+              {
+                "text": "笑顔さえもぎこちないや",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "さえもぎこちないや"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "君は僕だ　僕だけの君だ",
+            "zh-CN": "你就是我 仅属于我的你",
+            "segments": [
+              {
+                "text": "君は僕だ　僕だけの君だ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "だ　"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "だけの"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "早く助けてよ",
+            "zh-CN": "快点来救救我啊",
+            "segments": [
+              {
+                "text": "早く助けてよ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "早",
+                    "reading": "はや"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "助",
+                    "reading": "たす"
+                  },
+                  {
+                    "text": "けてよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "(woah woah)",
+            "zh-CN": "(woah woah)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(woah woah)",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "(woah woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "(woah woah)",
+            "zh-CN": "(woah woah)",
+            "segments": [
+              {
+                "text": "(woah woah)",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "(woah woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "（tick tack tick tack，tick tack tick tack...）",
+            "zh-CN": "（tick tack tick tack，tick tack tick tack...）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "（tick tack tick tack，tick tack tick tack...）",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "（tick tack tick tack，tick tack tick tack...）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "やる気はあります 空回ります",
+            "zh-CN": "干劲很足 却全在徒劳空转",
+            "segments": [
+              {
+                "text": "やる気はあります 空回ります",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "やる"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "はあります "
+                  },
+                  {
+                    "text": "空回",
+                    "reading": "からまわ"
+                  },
+                  {
+                    "text": "ります"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "何方が味方です？",
+            "zh-CN": "究竟哪边才是同伴？",
+            "segments": [
+              {
+                "text": "何方が味方です？",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "何方",
+                    "reading": "どなた"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "です？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "わかんないよ！",
+            "zh-CN": "我搞不懂啊！",
+            "segments": [
+              {
+                "text": "わかんないよ！",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "わかんないよ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "近づきたいんだ赤い少女",
+            "zh-CN": "想要靠近那个红衣少女",
+            "segments": [
+              {
+                "text": "近づきたいんだ",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "近",
+                    "reading": "ちか"
+                  },
+                  {
+                    "text": "づきたいんだ"
+                  }
+                ]
+              },
+              {
+                "text": "赤い少女",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "赤",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "少女",
+                    "reading": "しょうじょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "纏う　攻撃は最大の防御なのに誰もが逃げてる",
+            "zh-CN": "浑身缠绕 明明进攻才是最好的防御 大家却都在逃避",
+            "segments": [
+              {
+                "text": "纏う　攻撃は最大の防御なのに誰もが逃げてる",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "纏",
+                    "reading": "まと"
+                  },
+                  {
+                    "text": "う　"
+                  },
+                  {
+                    "text": "攻撃",
+                    "reading": "こうげき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "最大",
+                    "reading": "さいだい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "防御",
+                    "reading": "ぼうぎょ"
+                  },
+                  {
+                    "text": "なのに"
+                  },
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "もが"
+                  },
+                  {
+                    "text": "逃",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "げてる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "僕を止められるヤツは何処にも居ない",
+            "zh-CN": "天下绝无人能够阻挡于我",
+            "segments": [
+              {
+                "text": "僕を",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "止められるヤツは何処にも居ない",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "められるヤツは"
+                  },
+                  {
+                    "text": "何処",
+                    "reading": "どこ"
+                  },
+                  {
+                    "text": "にも"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "ない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "ラズベリー＊モンスター　Yeah！",
+            "zh-CN": "树莓怪兽 Yeah！",
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター　",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター　"
+                  }
+                ]
+              },
+              {
+                "text": "Yeah！",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "Yeah！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "3，2，1 って合図カマしたら舌を出せ",
+            "zh-CN": "3、2、1 信号一出就吐出舌头",
+            "segments": [
+              {
+                "text": "3，2，1 って合図カマしたら舌を出せ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "3，2，1 って"
+                  },
+                  {
+                    "text": "合図",
+                    "reading": "あいず"
+                  },
+                  {
+                    "text": "カマしたら"
+                  },
+                  {
+                    "text": "舌",
+                    "reading": "した"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "せ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "中指立てて絶好調",
+            "zh-CN": "竖起中指 状态极佳",
+            "segments": [
+              {
+                "text": "中指立てて絶好調",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "中指立",
+                    "reading": "なかゆびた"
+                  },
+                  {
+                    "text": "てて"
+                  },
+                  {
+                    "text": "絶好調",
+                    "reading": "ぜっこうちょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "味も薄れたラズベリーのガムを吐き捨てて",
+            "zh-CN": "吐掉早已淡然无味的树莓口香糖",
+            "segments": [
+              {
+                "text": "味も薄れたラズベリーの",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "味",
+                    "reading": "あじ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "薄",
+                    "reading": "うす"
+                  },
+                  {
+                    "text": "れたラズベリーの"
+                  }
+                ]
+              },
+              {
+                "text": "ガムを吐き捨てて",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ガムを"
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "Bye LOVE（ああ）",
+            "zh-CN": "Bye LOVE（啊啊）",
+            "segments": [
+              {
+                "text": "Bye LOVE（ああ）",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "Bye LOVE（ああ）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "AM6：00　目覚まし時計を起こして",
+            "zh-CN": "早上六点 叫醒闹钟",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "AM6：00　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "AM6：00　"
+                  }
+                ]
+              },
+              {
+                "text": "目覚まし時計を起こして",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "まし"
+                  },
+                  {
+                    "text": "時計",
+                    "reading": "どけい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "起",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "こして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "ボリューム全開ロックで",
+            "zh-CN": "音量全开 摇滚轰鸣",
+            "segments": [
+              {
+                "text": "ボリューム全開ロックで",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ボリューム"
+                  },
+                  {
+                    "text": "全開",
+                    "reading": "ぜんかい"
+                  },
+                  {
+                    "text": "ロックで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "現実世界　勝手に期待もう構わないで消して！",
+            "zh-CN": "现实世界 擅自抱有期待 别管我了抹消掉吧！",
+            "segments": [
+              {
+                "text": "現実世界　勝手に期待もう構わないで消して！",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "現実世界",
+                    "reading": "げんじつせかい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "勝手",
+                    "reading": "かって"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "構",
+                    "reading": "かま"
+                  },
+                  {
+                    "text": "わないで"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "して！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "（tick tack tick tack，tick tack tick tack...）",
+            "zh-CN": "（tick tack tick tack，tick tack tick tack...）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "（tick tack tick tack，tick tack tick tack...）",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "（tick tack tick tack，tick tack tick tack...）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "愛と愛が苦手です隠れたいよ",
+            "zh-CN": "我不擅长面对爱与爱 好想躲起来",
+            "segments": [
+              {
+                "text": "愛と愛が苦手です隠れたいよ",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "苦手",
+                    "reading": "にがて"
+                  },
+                  {
+                    "text": "です"
+                  },
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "れたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "仮想が現実です？",
+            "zh-CN": "虚拟才是现实吗？",
+            "segments": [
+              {
+                "text": "仮想が現実です？",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "仮想",
+                    "reading": "どちら"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "現実",
+                    "reading": "こちら"
+                  },
+                  {
+                    "text": "です？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "わかんないよ！",
+            "zh-CN": "我搞不懂啊！",
+            "segments": [
+              {
+                "text": "わかんないよ！",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "わかんないよ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "身体を残して僕と繋ぐ仮想ドライブ",
+            "zh-CN": "抛下肉躯 与我相连的虚拟驱动",
+            "segments": [
+              {
+                "text": "身体を残して僕と繋ぐ",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "身体",
+                    "reading": "からだ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "繋",
+                    "reading": "つな"
+                  },
+                  {
+                    "text": "ぐ"
+                  }
+                ]
+              },
+              {
+                "text": "仮想ドライブ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "仮想",
+                    "reading": "かそう"
+                  },
+                  {
+                    "text": "ドライブ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "赤く気高く立ち向かうたった一人 (woah)",
+            "zh-CN": "鲜红而高傲地独自挺身迎战 (woah)",
+            "segments": [
+              {
+                "text": "赤く気高く立ち向かうたった一人 ",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "赤",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "気高",
+                    "reading": "けだか"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "かうたった"
+                  },
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "(woah)",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "(woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "君を止められるヤツは此処には居ない　Yeah！",
+            "zh-CN": "这里根本没人能够阻挡你 Yeah！",
+            "segments": [
+              {
+                "text": "君を",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "止められるヤツは此処には居ない　Yeah！",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "められるヤツは"
+                  },
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "には"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "ない　Yeah！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "(woah woah)",
+            "zh-CN": "(woah woah)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(woah woah)",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "(woah woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "(woah woah)",
+            "zh-CN": "(woah woah)",
+            "segments": [
+              {
+                "text": "(woah woah)",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "(woah woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "（tick tack tick tack，tick tack tick tack...）",
+            "zh-CN": "（tick tack tick tack，tick tack tick tack...）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "（tick tack tick tack，tick tack tick tack...）",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "（tick tack tick tack，tick tack tick tack...）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "やる気はあります 空回ります",
+            "zh-CN": "干劲很足 却全在徒劳空转",
+            "segments": [
+              {
+                "text": "やる気はあります 空回ります",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "やる"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "はあります "
+                  },
+                  {
+                    "text": "空回",
+                    "reading": "からまわ"
+                  },
+                  {
+                    "text": "ります"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "何方が味方です？",
+            "zh-CN": "究竟哪边才是同伴？",
+            "segments": [
+              {
+                "text": "何方が味方です？",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "何方",
+                    "reading": "どなた"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "です？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "わかんないよ！",
+            "zh-CN": "我搞不懂啊！",
+            "segments": [
+              {
+                "text": "わかんないよ！",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "わかんないよ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "近づきたいんだ赤い少女",
+            "zh-CN": "想要靠近那个红衣少女",
+            "segments": [
+              {
+                "text": "近づきたいんだ",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "近",
+                    "reading": "ちか"
+                  },
+                  {
+                    "text": "づきたいんだ"
+                  }
+                ]
+              },
+              {
+                "text": "赤い少女",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "赤",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "少女",
+                    "reading": "しょうじょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "僕を止められるヤツは何処にも居ない",
+            "zh-CN": "天下绝无人能够阻挡于我",
+            "segments": [
+              {
+                "text": "僕を",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "止められるヤツは何処にも居ない",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "められるヤツは"
+                  },
+                  {
+                    "text": "何処",
+                    "reading": "どこ"
+                  },
+                  {
+                    "text": "にも"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "ない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "ラズベリー＊モンスター",
+            "zh-CN": "树莓怪兽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "ラズベリー＊モンスター　Yeah！",
+            "zh-CN": "树莓怪兽 Yeah！",
+            "segments": [
+              {
+                "text": "ラズベリー＊モンスター　",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラズベリー＊モンスター　"
+                  }
+                ]
+              },
+              {
+                "text": "Yeah！",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "Yeah！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000024",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000033",
+          "full-000034",
+          "full-000035",
+          "full-000036"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Raspberry＊Monster",
+          "revisionId": 328680,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Raspberry%EF%BC%8AMonster?oldid=328680",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Raspberry＊Monster",
+          "revisionId": 328680,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Raspberry%EF%BC%8AMonster?oldid=328680",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Raspberry＊Monster",
+          "revisionId": 328680,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Raspberry%EF%BC%8AMonster?oldid=328680",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Raspberry＊Monster",
+          "revisionId": 328680,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Raspberry%EF%BC%8AMonster?oldid=328680",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Raspberry＊Monster",
+          "revisionId": 328680,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Raspberry%EF%BC%8AMonster?oldid=328680",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Raspberry＊Monster",
+          "revisionId": 328680,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Raspberry%EF%BC%8AMonster?oldid=328680",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Raspberry＊Monster",
+          "revisionId": 328680,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Raspberry%EF%BC%8AMonster?oldid=328680",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Raspberry＊Monster",
+          "revisionId": 328680,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Raspberry%EF%BC%8AMonster?oldid=328680",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

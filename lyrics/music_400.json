@@ -1,0 +1,5622 @@
+{
+  "version": 3,
+  "musicId": 400,
+  "revision": 4,
+  "updatedAt": "2026-08-23T11:21:55Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-05",
+          "name": "花里みのり"
+        },
+        {
+          "performerId": "歌唱者-06",
+          "name": "桐谷遥"
+        },
+        {
+          "performerId": "歌唱者-07",
+          "name": "桃井愛莉"
+        },
+        {
+          "performerId": "歌唱者-08",
+          "name": "日野森雫"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "ステインバスターズ!",
+            "zh-CN": "牙渍克星！",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "諸行無常の世の中",
+            "zh-CN": "诸行无常的人世间",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "諸行無常の世の中",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "諸行無常",
+                    "reading": "しょぎょうむじょう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "飯を食らう生き物の性",
+            "zh-CN": "进食乃是生物的天性",
+            "segments": [
+              {
+                "text": "飯を食らう生き物の性",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "飯",
+                    "reading": "めし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "食",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らう"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "物",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "性",
+                    "reading": "さが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "こちら栄養幸せだけじゃない",
+            "zh-CN": "这可不仅有营养与幸福",
+            "segments": [
+              {
+                "text": "こちら栄養幸せだけじゃない",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "こちら"
+                  },
+                  {
+                    "text": "栄養幸",
+                    "reading": "えいようしあわ"
+                  },
+                  {
+                    "text": "せだけじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "ステインもセットのメニューです",
+            "zh-CN": "牙渍也是套餐里的附赠品",
+            "segments": [
+              {
+                "text": "ステインもセットのメニューです",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインもセットのメニューです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "盛者必衰の理みんな美しいところばかり好き",
+            "zh-CN": "盛者必衰之理 大家往往都只喜欢美好的部分",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "盛者必衰の理みんな美しいところばかり好き",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "盛者必衰",
+                    "reading": "じょうしゃひっすい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "理",
+                    "reading": "ことわり"
+                  },
+                  {
+                    "text": "みんな"
+                  },
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しいところばかり"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "結局ファーストインプレッション",
+            "zh-CN": "归根结底还是第一印象",
+            "segments": [
+              {
+                "text": "結局ファーストインプレッション",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "結局",
+                    "reading": "けっきょく"
+                  },
+                  {
+                    "text": "ファーストインプレッション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "開く口元はどんな印象?",
+            "zh-CN": "张开的嘴角会给人怎样的印象？",
+            "segments": [
+              {
+                "text": "開く口元はどんな印象?",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "開",
+                    "reading": "ひらく"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "ちもと"
+                  },
+                  {
+                    "text": "はどんな"
+                  },
+                  {
+                    "text": "印象",
+                    "reading": "いんしょう"
+                  },
+                  {
+                    "text": "?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "おおらかなオーラがあれば",
+            "zh-CN": "只要拥有落落大方的气场",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おおらかなオーラがあれば",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "おおらかなオーラがあれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "今日から胸張れるから",
+            "zh-CN": "从今天起就能挺胸抬头",
+            "segments": [
+              {
+                "text": "今日から胸張れるから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "胸張",
+                    "reading": "むねは"
+                  },
+                  {
+                    "text": "れるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "そのため抗う我ら",
+            "zh-CN": "为此挺身抗争的我们",
+            "segments": [
+              {
+                "text": "そのため抗う我ら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "抗",
+                    "reading": "あらが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "ステインバスターズ!君の痛みや怒りは",
+            "zh-CN": "牙渍克星！你的痛苦与愤怒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "君の痛みや怒りは",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みや"
+                  },
+                  {
+                    "text": "怒",
+                    "reading": "いか"
+                  },
+                  {
+                    "text": "りは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "消えないけど口内は綺麗でいよう",
+            "zh-CN": "虽无法消除 但保持口腔洁净吧",
+            "segments": [
+              {
+                "text": "消えないけど口内は綺麗でいよう",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えないけど"
+                  },
+                  {
+                    "text": "口内",
+                    "reading": "こうない"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "綺麗",
+                    "reading": "きれい"
+                  },
+                  {
+                    "text": "でいよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "歯みがいたら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "昨日より明るくなるといいね未来が",
+            "zh-CN": "未来的日子若能比昨天更明朗就太好了",
+            "segments": [
+              {
+                "text": "昨日より明るくなるといいね未来が",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "より"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "るくなるといいね"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "目覚めのためのコーヒーは",
+            "zh-CN": "用来提神醒脑的咖啡",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目覚めのためのコーヒーは",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "めのためのコーヒーは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "黄ばみを溜める行為か？",
+            "zh-CN": "是积累牙齿发黄的罪魁祸首吗？",
+            "segments": [
+              {
+                "text": "黄ばみを溜める行為か？",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "黄",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "ばみを"
+                  },
+                  {
+                    "text": "溜",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "める"
+                  },
+                  {
+                    "text": "行為",
+                    "reading": "こうい"
+                  },
+                  {
+                    "text": "か？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "いやコントロールゼット押せなくても",
+            "zh-CN": "不 就算无法按撤销键回到过去",
+            "segments": [
+              {
+                "text": "いやコントロールゼット押せなくても",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "いやコントロールゼット"
+                  },
+                  {
+                    "text": "押",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "せなくても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "まだ白さは取り戻せるから",
+            "zh-CN": "洁白也依然能够重新夺回",
+            "segments": [
+              {
+                "text": "まだ白さは取り戻せるから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "まだ"
+                  },
+                  {
+                    "text": "白",
+                    "reading": "しろ"
+                  },
+                  {
+                    "text": "さは"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "戻",
+                    "reading": "もど"
+                  },
+                  {
+                    "text": "せるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "目覚めよい毎日は口元から",
+            "zh-CN": "神清气爽的每一天始于嘴角",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目覚めよい毎日は口元から",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "めよい"
+                  },
+                  {
+                    "text": "毎日",
+                    "reading": "まいにち"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "くちもと"
+                  },
+                  {
+                    "text": "から"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "実るよきっと夢のホワイトな歯",
+            "zh-CN": "一定能收获梦想中洁白的牙齿",
+            "segments": [
+              {
+                "text": "実るよきっと夢のホワイトな歯",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "るよきっと"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "のホワイトな"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "忘れないようナイトルーティーンに",
+            "zh-CN": "为了不遗忘 将其加入晚间日常",
+            "segments": [
+              {
+                "text": "忘れないようナイトルーティーンに",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないようナイトルーティーンに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "今宵から白い歯をバリア",
+            "zh-CN": "今夜起为洁白的牙齿构筑屏障",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今宵から白い歯をバリア",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今宵",
+                    "reading": "こよい"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "白",
+                    "reading": "しろ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "をバリア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "思うさまの夜もすがら",
+            "zh-CN": "尽情享受整夜的时光",
+            "segments": [
+              {
+                "text": "思うさまの夜もすがら",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うさまの"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "もすがら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "そのため現る我ら",
+            "zh-CN": "为此现身登场的我们",
+            "segments": [
+              {
+                "text": "そのため現る我ら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "現",
+                    "reading": "あらわ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "ステインバスターズ!君の昔の暮らしは",
+            "zh-CN": "牙渍克星！你过去的过往生活",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "君の昔の暮らしは",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "昔",
+                    "reading": "むかし"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "暮",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らしは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "変わんないけど将来はわかんないから",
+            "zh-CN": "虽然无法改变 但未来还未可知啊",
+            "segments": [
+              {
+                "text": "変わんないけど将来はわかんないから",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わんないけど"
+                  },
+                  {
+                    "text": "将来",
+                    "reading": "しょうらい"
+                  },
+                  {
+                    "text": "はわかんないから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "歯みがいたら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "煌めくよまるでお月様みたいに",
+            "zh-CN": "熠熠闪耀宛若天上的明月一般",
+            "segments": [
+              {
+                "text": "煌めくよまるでお月様みたいに",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "煌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "めくよまるでお"
+                  },
+                  {
+                    "text": "月様",
+                    "reading": "つきさま"
+                  },
+                  {
+                    "text": "みたいに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "未来に除け者はいない",
+            "zh-CN": "未来的世界里谁都不会被排挤",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "未来に除け者はいない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "除",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "者",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "はいない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "揉め事は嫌いだし",
+            "zh-CN": "既讨厌纷争冲突",
+            "segments": [
+              {
+                "text": "揉め事は嫌いだし",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "揉",
+                    "reading": "も"
+                  },
+                  {
+                    "text": "め"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "ごと"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "いだし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "何事もやるに越したことはないみたい だから",
+            "zh-CN": "看来任何事都做了总比不做强 所以",
+            "segments": [
+              {
+                "text": "何事もやるに越したことはないみたい だから",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "何事",
+                    "reading": "なにごと"
+                  },
+                  {
+                    "text": "もやるに"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "したことはないみたい だから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "そのため現る我ら",
+            "zh-CN": "为此现身登场的我们",
+            "segments": [
+              {
+                "text": "そのため現る我ら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "現",
+                    "reading": "あらわ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "ステインバスターズ!君の期待に応える",
+            "zh-CN": "牙渍克星！为了回应你的期待",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "君の期待に応える",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "応",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "える"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "ために居る後悔を先に断つ",
+            "zh-CN": "存在于此 斩断将来的懊悔",
+            "segments": [
+              {
+                "text": "ために居る後悔を先に断つ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ために"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "後悔",
+                    "reading": "こうかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "断",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "つ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "歯みがいたら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "昨日より明るくなるといいね未来が",
+            "zh-CN": "未来的日子若能比昨天更明朗就太好了",
+            "segments": [
+              {
+                "text": "昨日より明るくなるといいね未来が",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "より"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "るくなるといいね"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "前歯奥歯も忘れないで",
+            "zh-CN": "门牙与后槽牙也千万不要忘记刷哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "前歯奥歯も忘れないで",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "前歯奥歯",
+                    "reading": "まえばおくば"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ステインバスターズ!",
+            "zh-CN": "牙渍克星！",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "諸行無常の世の中",
+            "zh-CN": "诸行无常的人世间",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "諸行無常の世の中",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "諸行無常",
+                    "reading": "しょぎょうむじょう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "飯を食らう生き物の性",
+            "zh-CN": "进食乃是生物的天性",
+            "segments": [
+              {
+                "text": "飯を食らう生き物の性",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "飯",
+                    "reading": "めし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "食",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らう"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "物",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "性",
+                    "reading": "さが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "こちら栄養幸せだけじゃない",
+            "zh-CN": "这可不仅有营养与幸福",
+            "segments": [
+              {
+                "text": "こちら栄養幸せだけじゃない",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "こちら"
+                  },
+                  {
+                    "text": "栄養幸",
+                    "reading": "えいようしあわ"
+                  },
+                  {
+                    "text": "せだけじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "ステインもセットのメニューです",
+            "zh-CN": "牙渍也是套餐里的附赠品",
+            "segments": [
+              {
+                "text": "ステインもセットのメニューです",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインもセットのメニューです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "盛者必衰の理みんな美しいところばかり好き",
+            "zh-CN": "盛者必衰之理 大家往往都只喜欢美好的部分",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "盛者必衰の理みんな美しいところばかり好き",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "盛者必衰",
+                    "reading": "じょうしゃひっすい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "理",
+                    "reading": "ことわり"
+                  },
+                  {
+                    "text": "みんな"
+                  },
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しいところばかり"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "結局ファーストインプレッション",
+            "zh-CN": "归根结底还是第一印象",
+            "segments": [
+              {
+                "text": "結局ファーストインプレッション",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "結局",
+                    "reading": "けっきょく"
+                  },
+                  {
+                    "text": "ファーストインプレッション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "開く口元はどんな印象?",
+            "zh-CN": "张开的嘴角会给人怎样的印象？",
+            "segments": [
+              {
+                "text": "開く口元はどんな印象?",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "開",
+                    "reading": "ひらく"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "ちもと"
+                  },
+                  {
+                    "text": "はどんな"
+                  },
+                  {
+                    "text": "印象",
+                    "reading": "いんしょう"
+                  },
+                  {
+                    "text": "?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "おおらかなオーラがあれば",
+            "zh-CN": "只要拥有落落大方的气场",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おおらかなオーラがあれば",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "おおらかなオーラがあれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "今日から胸張れるから",
+            "zh-CN": "从今天起就能挺胸抬头",
+            "segments": [
+              {
+                "text": "今日から胸張れるから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "胸張",
+                    "reading": "むねは"
+                  },
+                  {
+                    "text": "れるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "そのため抗う我ら",
+            "zh-CN": "为此挺身抗争的我们",
+            "segments": [
+              {
+                "text": "そのため抗う我ら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "抗",
+                    "reading": "あらが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "ステインバスターズ!君の痛みや怒りは",
+            "zh-CN": "牙渍克星！你的痛苦与愤怒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "君の痛みや怒りは",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みや"
+                  },
+                  {
+                    "text": "怒",
+                    "reading": "いか"
+                  },
+                  {
+                    "text": "りは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "消えないけど口内は綺麗でいよう",
+            "zh-CN": "虽无法消除 但保持口腔洁净吧",
+            "segments": [
+              {
+                "text": "消えないけど口内は綺麗でいよう",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えないけど"
+                  },
+                  {
+                    "text": "口内",
+                    "reading": "こうない"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "綺麗",
+                    "reading": "きれい"
+                  },
+                  {
+                    "text": "でいよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "歯みがいたら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "昨日より明るくなるといいね未来が",
+            "zh-CN": "未来的日子若能比昨天更明朗就太好了",
+            "segments": [
+              {
+                "text": "昨日より明るくなるといいね未来が",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "より"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "るくなるといいね"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "目覚めのためのコーヒーは",
+            "zh-CN": "用来提神醒脑的咖啡",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目覚めのためのコーヒーは",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "めのためのコーヒーは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "黄ばみを溜める行為か？",
+            "zh-CN": "是积累牙齿发黄的罪魁祸首吗？",
+            "segments": [
+              {
+                "text": "黄ばみを溜める行為か？",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "黄",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "ばみを"
+                  },
+                  {
+                    "text": "溜",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "める"
+                  },
+                  {
+                    "text": "行為",
+                    "reading": "こうい"
+                  },
+                  {
+                    "text": "か？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "いやコントロールゼット押せなくても",
+            "zh-CN": "不 就算无法按撤销键回到过去",
+            "segments": [
+              {
+                "text": "いやコントロールゼット押せなくても",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "いやコントロールゼット"
+                  },
+                  {
+                    "text": "押",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "せなくても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "まだ白さは取り戻せるから",
+            "zh-CN": "洁白也依然能够重新夺回",
+            "segments": [
+              {
+                "text": "まだ白さは取り戻せるから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "まだ"
+                  },
+                  {
+                    "text": "白",
+                    "reading": "しろ"
+                  },
+                  {
+                    "text": "さは"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "戻",
+                    "reading": "もど"
+                  },
+                  {
+                    "text": "せるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "目覚めよい毎日は口元から",
+            "zh-CN": "神清气爽的每一天始于嘴角",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目覚めよい毎日は口元から",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "めよい"
+                  },
+                  {
+                    "text": "毎日",
+                    "reading": "まいにち"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "くちもと"
+                  },
+                  {
+                    "text": "から"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "実るよきっと夢のホワイトな歯",
+            "zh-CN": "一定能收获梦想中洁白的牙齿",
+            "segments": [
+              {
+                "text": "実るよきっと夢のホワイトな歯",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "るよきっと"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "のホワイトな"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "忘れないようナイトルーティーンに",
+            "zh-CN": "为了不遗忘 将其加入晚间日常",
+            "segments": [
+              {
+                "text": "忘れないようナイトルーティーンに",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないようナイトルーティーンに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "今宵から白い歯をバリア",
+            "zh-CN": "今夜起为洁白的牙齿构筑屏障",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今宵から白い歯をバリア",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今宵",
+                    "reading": "こよい"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "白",
+                    "reading": "しろ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "をバリア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "思うさまの夜もすがら",
+            "zh-CN": "尽情享受整夜的时光",
+            "segments": [
+              {
+                "text": "思うさまの夜もすがら",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うさまの"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "もすがら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "そのため現る我ら",
+            "zh-CN": "为此现身登场的我们",
+            "segments": [
+              {
+                "text": "そのため現る我ら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "現",
+                    "reading": "あらわ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "ステインバスターズ!君の期待に応える",
+            "zh-CN": "牙渍克星！为了回应你的期待",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "君の期待に応える",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "応",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "える"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000030",
+            "order": 29,
+            "japanese": "ために居る後悔を先に断つ",
+            "zh-CN": "存在于此 斩断将来的懊悔",
+            "segments": [
+              {
+                "text": "ために居る後悔を先に断つ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ために"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "後悔",
+                    "reading": "こうかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "断",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "つ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000031",
+            "order": 30,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              },
+              {
+                "text": "歯みがいたら",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000032",
+            "order": 31,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000033",
+            "order": 32,
+            "japanese": "昨日より明るくなるといいね未来が",
+            "zh-CN": "未来的日子若能比昨天更明朗就太好了",
+            "segments": [
+              {
+                "text": "昨日より明るくなるといいね未来が",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "より"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "るくなるといいね"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000034",
+            "order": 33,
+            "japanese": "前歯奥歯も忘れないで",
+            "zh-CN": "门牙与后槽牙也千万不要忘记刷哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "前歯奥歯も忘れないで",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "前歯奥歯",
+                    "reading": "まえばおくば"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000039",
+          "full-000040",
+          "full-000041",
+          "full-000042",
+          "full-000043",
+          "full-000044"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version",
+          "SEKAI"
+        ],
+        [
+          "Game Version",
+          "SEKAI"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "ステインバスターズ!",
+            "zh-CN": "牙渍克星！",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "諸行無常の世の中",
+            "zh-CN": "诸行无常的人世间",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "諸行無常の世の中",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "諸行無常",
+                    "reading": "しょぎょうむじょう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "飯を食らう生き物の性",
+            "zh-CN": "进食乃是生物的天性",
+            "segments": [
+              {
+                "text": "飯を食らう生き物の性",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "飯",
+                    "reading": "めし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "食",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らう"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "物",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "性",
+                    "reading": "さが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "こちら栄養幸せだけじゃない",
+            "zh-CN": "这可不仅有营养与幸福",
+            "segments": [
+              {
+                "text": "こちら栄養幸せだけじゃない",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こちら"
+                  },
+                  {
+                    "text": "栄養幸",
+                    "reading": "えいようしあわ"
+                  },
+                  {
+                    "text": "せだけじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "ステインもセットのメニューです",
+            "zh-CN": "牙渍也是套餐里的附赠品",
+            "segments": [
+              {
+                "text": "ステインもセットのメニューです",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインもセットのメニューです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "盛者必衰の理みんな美しいところばかり好き",
+            "zh-CN": "盛者必衰之理 大家往往都只喜欢美好的部分",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "盛者必衰の理みんな美しいところばかり好き",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "盛者必衰",
+                    "reading": "じょうしゃひっすい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "理",
+                    "reading": "ことわり"
+                  },
+                  {
+                    "text": "みんな"
+                  },
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しいところばかり"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "結局ファーストインプレッション",
+            "zh-CN": "归根结底还是第一印象",
+            "segments": [
+              {
+                "text": "結局ファーストインプレッション",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "結局",
+                    "reading": "けっきょく"
+                  },
+                  {
+                    "text": "ファーストインプレッション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "開く口元はどんな印象?",
+            "zh-CN": "张开的嘴角会给人怎样的印象？",
+            "segments": [
+              {
+                "text": "開く口元はどんな印象?",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "開",
+                    "reading": "ひらく"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "ちもと"
+                  },
+                  {
+                    "text": "はどんな"
+                  },
+                  {
+                    "text": "印象",
+                    "reading": "いんしょう"
+                  },
+                  {
+                    "text": "?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "おおらかなオーラがあれば",
+            "zh-CN": "只要拥有落落大方的气场",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おおらかなオーラがあれば",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "おおらかなオーラがあれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "今日から胸張れるから",
+            "zh-CN": "从今天起就能挺胸抬头",
+            "segments": [
+              {
+                "text": "今日から胸張れるから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "胸張",
+                    "reading": "むねは"
+                  },
+                  {
+                    "text": "れるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "そのため抗う我ら",
+            "zh-CN": "为此挺身抗争的我们",
+            "segments": [
+              {
+                "text": "そのため抗う我ら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "抗",
+                    "reading": "あらが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "ステインバスターズ!君の痛みや怒りは",
+            "zh-CN": "牙渍克星！你的痛苦与愤怒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!君の痛みや怒りは",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みや"
+                  },
+                  {
+                    "text": "怒",
+                    "reading": "いか"
+                  },
+                  {
+                    "text": "りは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "消えないけど口内は綺麗でいよう",
+            "zh-CN": "虽无法消除 但保持口腔洁净吧",
+            "segments": [
+              {
+                "text": "消えないけど口内は綺麗でいよう",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えないけど"
+                  },
+                  {
+                    "text": "口内",
+                    "reading": "こうない"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "綺麗",
+                    "reading": "きれい"
+                  },
+                  {
+                    "text": "でいよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!歯みがいたら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "昨日より明るくなるといいね未来が",
+            "zh-CN": "未来的日子若能比昨天更明朗就太好了",
+            "segments": [
+              {
+                "text": "昨日より明るくなるといいね未来が",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "より"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "るくなるといいね"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "目覚めのためのコーヒーは",
+            "zh-CN": "用来提神醒脑的咖啡",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目覚めのためのコーヒーは",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "めのためのコーヒーは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "黄ばみを溜める行為か？",
+            "zh-CN": "是积累牙齿发黄的罪魁祸首吗？",
+            "segments": [
+              {
+                "text": "黄ばみを溜める行為か？",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "黄",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "ばみを"
+                  },
+                  {
+                    "text": "溜",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "める"
+                  },
+                  {
+                    "text": "行為",
+                    "reading": "こうい"
+                  },
+                  {
+                    "text": "か？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "いやコントロールゼット押せなくても",
+            "zh-CN": "不 就算无法按撤销键回到过去",
+            "segments": [
+              {
+                "text": "いやコントロールゼット押せなくても",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "いやコントロールゼット"
+                  },
+                  {
+                    "text": "押",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "せなくても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "まだ白さは取り戻せるから",
+            "zh-CN": "洁白也依然能够重新夺回",
+            "segments": [
+              {
+                "text": "まだ白さは取り戻せるから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "まだ"
+                  },
+                  {
+                    "text": "白",
+                    "reading": "しろ"
+                  },
+                  {
+                    "text": "さは"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "戻",
+                    "reading": "もど"
+                  },
+                  {
+                    "text": "せるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "目覚めよい毎日は口元から",
+            "zh-CN": "神清气爽的每一天始于嘴角",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目覚めよい毎日は口元から",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "めよい"
+                  },
+                  {
+                    "text": "毎日",
+                    "reading": "まいにち"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "くちもと"
+                  },
+                  {
+                    "text": "から"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "実るよきっと夢のホワイトな歯",
+            "zh-CN": "一定能收获梦想中洁白的牙齿",
+            "segments": [
+              {
+                "text": "実るよきっと夢のホワイトな歯",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "るよきっと"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "のホワイトな"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "忘れないようナイトルーティーンに",
+            "zh-CN": "为了不遗忘 将其加入晚间日常",
+            "segments": [
+              {
+                "text": "忘れないようナイトルーティーンに",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないようナイトルーティーンに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "今宵から白い歯をバリア",
+            "zh-CN": "今夜起为洁白的牙齿构筑屏障",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今宵から白い歯をバリア",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今宵",
+                    "reading": "こよい"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "白",
+                    "reading": "しろ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "をバリア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "思うさまの夜もすがら",
+            "zh-CN": "尽情享受整夜的时光",
+            "segments": [
+              {
+                "text": "思うさまの夜もすがら",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うさまの"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "もすがら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "そのため現る我ら",
+            "zh-CN": "为此现身登场的我们",
+            "segments": [
+              {
+                "text": "そのため現る我ら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "現",
+                    "reading": "げん"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "ステインバスターズ!君の昔の暮らしは",
+            "zh-CN": "牙渍克星！你过去的过往生活",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!君の昔の暮らしは",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "昔",
+                    "reading": "むかし"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "暮",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らしは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "変わんないけど将来はわかんないから",
+            "zh-CN": "虽然无法改变 但未来还未可知啊",
+            "segments": [
+              {
+                "text": "変わんないけど将来はわかんないから",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わんないけど"
+                  },
+                  {
+                    "text": "将来",
+                    "reading": "しょうらい"
+                  },
+                  {
+                    "text": "はわかんないから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!歯みがいたら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "煌めくよまるでお月様みたいに",
+            "zh-CN": "熠熠闪耀宛若天上的明月一般",
+            "segments": [
+              {
+                "text": "煌めくよまるでお月様みたいに",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "煌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "めくよまるでお"
+                  },
+                  {
+                    "text": "月様",
+                    "reading": "つきさま"
+                  },
+                  {
+                    "text": "みたいに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "未来に除け者はいない",
+            "zh-CN": "未来的世界里谁都不会被排挤",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "未来に除け者はいない",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "除",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "者",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "はいない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "揉め事は嫌いだし",
+            "zh-CN": "既讨厌纷争冲突",
+            "segments": [
+              {
+                "text": "揉め事は嫌いだし",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "揉",
+                    "reading": "も"
+                  },
+                  {
+                    "text": "め"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "ごと"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "いだし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "何事もやるに越したことはないみたい だから",
+            "zh-CN": "看来任何事都做了总比不做强 所以",
+            "segments": [
+              {
+                "text": "何事もやるに越したことはないみたい だから",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "何事",
+                    "reading": "なにごと"
+                  },
+                  {
+                    "text": "もやるに"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "したことはないみたい だから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "そのため現る我ら",
+            "zh-CN": "为此现身登场的我们",
+            "segments": [
+              {
+                "text": "そのため現る我ら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "現",
+                    "reading": "あらわ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "ステインバスターズ!君の期待に応える",
+            "zh-CN": "牙渍克星！为了回应你的期待",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!君の期待に応える",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "応",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "える"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "ために居る後悔を先に断つ",
+            "zh-CN": "存在于此 斩断将来的懊悔",
+            "segments": [
+              {
+                "text": "ために居る後悔を先に断つ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ために"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "後悔",
+                    "reading": "こうかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "断",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "つ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!歯みがいたら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "昨日より明るくなるといいね未来が",
+            "zh-CN": "未来的日子若能比昨天更明朗就太好了",
+            "segments": [
+              {
+                "text": "昨日より明るくなるといいね未来が",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "より"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "るくなるといいね"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "前歯奥歯も忘れないで",
+            "zh-CN": "门牙与后槽牙也千万不要忘记刷哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "前歯奥歯も忘れないで",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "前歯奥歯",
+                    "reading": "まえばおくば"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ステインバスターズ!",
+            "zh-CN": "牙渍克星！",
+            "segments": [
+              {
+                "text": "ステインバスターズ!",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "諸行無常の世の中",
+            "zh-CN": "诸行无常的人世间",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "諸行無常の世の中",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "諸行無常",
+                    "reading": "しょぎょうむじょう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "飯を食らう生き物の性",
+            "zh-CN": "进食乃是生物的天性",
+            "segments": [
+              {
+                "text": "飯を食らう生き物の性",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "飯",
+                    "reading": "めし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "食",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らう"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "物",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "性",
+                    "reading": "さが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "こちら栄養幸せだけじゃない",
+            "zh-CN": "这可不仅有营养与幸福",
+            "segments": [
+              {
+                "text": "こちら栄養幸せだけじゃない",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こちら"
+                  },
+                  {
+                    "text": "栄養幸",
+                    "reading": "えいようしあわ"
+                  },
+                  {
+                    "text": "せだけじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "ステインもセットのメニューです",
+            "zh-CN": "牙渍也是套餐里的附赠品",
+            "segments": [
+              {
+                "text": "ステインもセットのメニューです",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインもセットのメニューです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "盛者必衰の理みんな美しいところばかり好き",
+            "zh-CN": "盛者必衰之理 大家往往都只喜欢美好的部分",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "盛者必衰の理みんな美しいところばかり好き",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "盛者必衰",
+                    "reading": "じょうしゃひっすい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "理",
+                    "reading": "ことわり"
+                  },
+                  {
+                    "text": "みんな"
+                  },
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しいところばかり"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "結局ファーストインプレッション",
+            "zh-CN": "归根结底还是第一印象",
+            "segments": [
+              {
+                "text": "結局ファーストインプレッション",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "結局",
+                    "reading": "けっきょく"
+                  },
+                  {
+                    "text": "ファーストインプレッション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "開く口元はどんな印象?",
+            "zh-CN": "张开的嘴角会给人怎样的印象？",
+            "segments": [
+              {
+                "text": "開く口元はどんな印象?",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "開",
+                    "reading": "ひらく"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "ちもと"
+                  },
+                  {
+                    "text": "はどんな"
+                  },
+                  {
+                    "text": "印象",
+                    "reading": "いんしょう"
+                  },
+                  {
+                    "text": "?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "おおらかなオーラがあれば",
+            "zh-CN": "只要拥有落落大方的气场",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おおらかなオーラがあれば",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "おおらかなオーラがあれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "今日から胸張れるから",
+            "zh-CN": "从今天起就能挺胸抬头",
+            "segments": [
+              {
+                "text": "今日から胸張れるから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "胸張",
+                    "reading": "むねは"
+                  },
+                  {
+                    "text": "れるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "そのため抗う我ら",
+            "zh-CN": "为此挺身抗争的我们",
+            "segments": [
+              {
+                "text": "そのため抗う我ら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "抗",
+                    "reading": "あらが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "ステインバスターズ!君の痛みや怒りは",
+            "zh-CN": "牙渍克星！你的痛苦与愤怒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!君の痛みや怒りは",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みや"
+                  },
+                  {
+                    "text": "怒",
+                    "reading": "いか"
+                  },
+                  {
+                    "text": "りは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "消えないけど口内は綺麗でいよう",
+            "zh-CN": "虽无法消除 但保持口腔洁净吧",
+            "segments": [
+              {
+                "text": "消えないけど口内は綺麗でいよう",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えないけど"
+                  },
+                  {
+                    "text": "口内",
+                    "reading": "こうない"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "綺麗",
+                    "reading": "きれい"
+                  },
+                  {
+                    "text": "でいよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!歯みがいたら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "昨日より明るくなるといいね未来が",
+            "zh-CN": "未来的日子若能比昨天更明朗就太好了",
+            "segments": [
+              {
+                "text": "昨日より明るくなるといいね未来が",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "より"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "るくなるといいね"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "目覚めのためのコーヒーは",
+            "zh-CN": "用来提神醒脑的咖啡",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目覚めのためのコーヒーは",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "めのためのコーヒーは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "黄ばみを溜める行為か？",
+            "zh-CN": "是积累牙齿发黄的罪魁祸首吗？",
+            "segments": [
+              {
+                "text": "黄ばみを溜める行為か？",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "黄",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "ばみを"
+                  },
+                  {
+                    "text": "溜",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "める"
+                  },
+                  {
+                    "text": "行為",
+                    "reading": "こうい"
+                  },
+                  {
+                    "text": "か？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "いやコントロールゼット押せなくても",
+            "zh-CN": "不 就算无法按撤销键回到过去",
+            "segments": [
+              {
+                "text": "いやコントロールゼット押せなくても",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "いやコントロールゼット"
+                  },
+                  {
+                    "text": "押",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "せなくても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "まだ白さは取り戻せるから",
+            "zh-CN": "洁白也依然能够重新夺回",
+            "segments": [
+              {
+                "text": "まだ白さは取り戻せるから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "まだ"
+                  },
+                  {
+                    "text": "白",
+                    "reading": "しろ"
+                  },
+                  {
+                    "text": "さは"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "戻",
+                    "reading": "もど"
+                  },
+                  {
+                    "text": "せるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "目覚めよい毎日は口元から",
+            "zh-CN": "神清气爽的每一天始于嘴角",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目覚めよい毎日は口元から",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "めよい"
+                  },
+                  {
+                    "text": "毎日",
+                    "reading": "まいにち"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "くちもと"
+                  },
+                  {
+                    "text": "から"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "実るよきっと夢のホワイトな歯",
+            "zh-CN": "一定能收获梦想中洁白的牙齿",
+            "segments": [
+              {
+                "text": "実るよきっと夢のホワイトな歯",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "るよきっと"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "のホワイトな"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "忘れないようナイトルーティーンに",
+            "zh-CN": "为了不遗忘 将其加入晚间日常",
+            "segments": [
+              {
+                "text": "忘れないようナイトルーティーンに",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないようナイトルーティーンに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "今宵から白い歯をバリア",
+            "zh-CN": "今夜起为洁白的牙齿构筑屏障",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今宵から白い歯をバリア",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今宵",
+                    "reading": "こよい"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "白",
+                    "reading": "しろ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "をバリア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "思うさまの夜もすがら",
+            "zh-CN": "尽情享受整夜的时光",
+            "segments": [
+              {
+                "text": "思うさまの夜もすがら",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うさまの"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "もすがら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "そのためのオーラルケア",
+            "zh-CN": "为此而生的口腔护理",
+            "segments": [
+              {
+                "text": "そのためのオーラルケア",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのためのオーラルケア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "そのため現る我ら",
+            "zh-CN": "为此现身登场的我们",
+            "segments": [
+              {
+                "text": "そのため現る我ら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのため"
+                  },
+                  {
+                    "text": "現",
+                    "reading": "げん"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "ら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "ステインバスターズ!君の期待に応える",
+            "zh-CN": "牙渍克星！为了回应你的期待",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ステインバスターズ!君の期待に応える",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "応",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "える"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000030",
+            "order": 29,
+            "japanese": "ために居る後悔を先に断つ",
+            "zh-CN": "存在于此 斩断将来的懊悔",
+            "segments": [
+              {
+                "text": "ために居る後悔を先に断つ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ために"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "後悔",
+                    "reading": "こうかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "断",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "つ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000031",
+            "order": 30,
+            "japanese": "ステインバスターズ!歯みがいたら",
+            "zh-CN": "牙渍克星！只要刷好了牙",
+            "segments": [
+              {
+                "text": "ステインバスターズ!歯みがいたら",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ステインバスターズ!"
+                  },
+                  {
+                    "text": "歯",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "みがいたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000032",
+            "order": 31,
+            "japanese": "ハッピーになれるかな",
+            "zh-CN": "就会变得快乐幸福吗",
+            "segments": [
+              {
+                "text": "ハッピーになれるかな",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハッピーになれるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000033",
+            "order": 32,
+            "japanese": "昨日より明るくなるといいね未来が",
+            "zh-CN": "未来的日子若能比昨天更明朗就太好了",
+            "segments": [
+              {
+                "text": "昨日より明るくなるといいね未来が",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "より"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "るくなるといいね"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000034",
+            "order": 33,
+            "japanese": "前歯奥歯も忘れないで",
+            "zh-CN": "门牙与后槽牙也千万不要忘记刷哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "前歯奥歯も忘れないで",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "前歯奥歯",
+                    "reading": "まえばおくば"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "vocaloid",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000039",
+          "full-000040",
+          "full-000041",
+          "full-000042",
+          "full-000043",
+          "full-000044"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version",
+          "VIRTUAL SINGER"
+        ],
+        [
+          "Game Version",
+          "VIRTUAL SINGER"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/full_text",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Warera Stain Busters!",
+          "revisionId": 335754,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Warera_Stain_Busters%21?oldid=335754",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

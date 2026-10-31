@@ -1,0 +1,2045 @@
+{
+  "version": 3,
+  "musicId": 369,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:01:30Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-05",
+          "name": "花里みのり"
+        },
+        {
+          "performerId": "歌唱者-06",
+          "name": "桐谷遥"
+        },
+        {
+          "performerId": "歌唱者-07",
+          "name": "桃井愛莉"
+        },
+        {
+          "performerId": "歌唱者-08",
+          "name": "日野森雫"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "全然つかめないきみのこと ",
+            "zh-CN": "完全琢磨不透的你",
+            "segments": [
+              {
+                "text": "全然つかめないきみのこと ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "つかめないきみのこと "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "全然しらないうちに (yeah)",
+            "zh-CN": "在完全不知不觉间 (yeah)",
+            "segments": [
+              {
+                "text": "全然しらないうちに (yeah)",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "しらないうちに (yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "ココロ奪われるなんてこと ",
+            "zh-CN": "居然会被你夺走芳心什么的",
+            "segments": [
+              {
+                "text": "ココロ奪われるなんてこと ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ココロ"
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "われるなんてこと "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "あるはずないでしょ",
+            "zh-CN": "怎么可能会有这种事嘛",
+            "segments": [
+              {
+                "text": "あるはずないでしょ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "あるはずないでしょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "それは無愛想な笑顔だったり",
+            "zh-CN": "那或许是不解风情的笑颜",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "それは無愛想な笑顔だったり",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "それは"
+                  },
+                  {
+                    "text": "無愛想",
+                    "reading": "ぶあいそう"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "だったり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "それは日曜日の日暮れだったり",
+            "zh-CN": "那或许是星期天的黄昏日落",
+            "segments": [
+              {
+                "text": "それは日曜日の日暮れだったり",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "それは"
+                  },
+                  {
+                    "text": "日曜日",
+                    "reading": "にちようび"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "日暮",
+                    "reading": "ひぐ"
+                  },
+                  {
+                    "text": "れだったり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "それはテスト∞の期間だったり",
+            "zh-CN": "那或许是无休无止的考试周",
+            "segments": [
+              {
+                "text": "それはテスト∞の期間だったり",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはテスト∞の"
+                  },
+                  {
+                    "text": "期間",
+                    "reading": "ばっかのきかん"
+                  },
+                  {
+                    "text": "だったり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "それはきみとゆう名のメランコリンニスト。",
+            "zh-CN": "那就是名为你的忧郁主义者",
+            "segments": [
+              {
+                "text": "それはきみとゆう名のメランコリンニスト。",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはきみとゆう"
+                  },
+                  {
+                    "text": "名",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "のメランコリンニスト。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "手当たり次第強気でぶつかっても ",
+            "zh-CN": "哪怕不顾一切逞强撞上去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "手当たり次第強気でぶつかっても ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "手当",
+                    "reading": "てあ"
+                  },
+                  {
+                    "text": "たり"
+                  },
+                  {
+                    "text": "次第強気",
+                    "reading": "しだいつよき"
+                  },
+                  {
+                    "text": "でぶつかっても "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "なんにも手には残らないって思い込んでる",
+            "zh-CN": "也总以为手里什么都不会留下",
+            "segments": [
+              {
+                "text": "なんにも手には残らないって思い込んでる",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんにも"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "には"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "らないって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んでる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "ちょっとぐらいの勇気にだって ",
+            "zh-CN": "就连稍微拿出的那一丁点勇气",
+            "segments": [
+              {
+                "text": "ちょっとぐらいの勇気にだって ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちょっとぐらいの"
+                  },
+                  {
+                    "text": "勇気",
+                    "reading": "ゆうき"
+                  },
+                  {
+                    "text": "にだって "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "ちっちゃくなって塞ぎこんでる",
+            "zh-CN": "也会缩成一团郁郁寡欢",
+            "segments": [
+              {
+                "text": "ちっちゃくなって塞ぎこんでる",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちっちゃくなって"
+                  },
+                  {
+                    "text": "塞",
+                    "reading": "ふさ"
+                  },
+                  {
+                    "text": "ぎこんでる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "わたしだから",
+            "zh-CN": "毕竟这就是我啊",
+            "segments": [
+              {
+                "text": "わたしだから",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "わたしだから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "全然つかめないきみのこと",
+            "zh-CN": "完全琢磨不透的你",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "全然つかめない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "つかめない"
+                  }
+                ]
+              },
+              {
+                "text": "きみのこと",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "きみのこと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "全然しらないうちに (yeah)",
+            "zh-CN": "在完全不知不觉间 (yeah)",
+            "segments": [
+              {
+                "text": "全然しらない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "しらない"
+                  }
+                ]
+              },
+              {
+                "text": "うちに (yeah)",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "うちに (yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "ココロ奪われるなんてこと ",
+            "zh-CN": "居然会被你夺走芳心什么的",
+            "segments": [
+              {
+                "text": "ココロ奪われる",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ココロ"
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "われる"
+                  }
+                ]
+              },
+              {
+                "text": "なんてこと ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんてこと "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "あるはずないでしょ",
+            "zh-CN": "怎么可能会有这种事嘛",
+            "segments": [
+              {
+                "text": "あるはずないでしょ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "あるはずないでしょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "全然気づかないきみなんて ",
+            "zh-CN": "浑然不知的你这种家伙",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "全然気づかない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然気",
+                    "reading": "ぜんぜんき"
+                  },
+                  {
+                    "text": "づかない"
+                  }
+                ]
+              },
+              {
+                "text": "きみなんて ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "きみなんて "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "全然知らない×知らないもん ",
+            "zh-CN": "我才不管×才不管呢",
+            "segments": [
+              {
+                "text": "全然知らない×",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然知",
+                    "reading": "ぜんぜんし"
+                  },
+                  {
+                    "text": "らない×"
+                  }
+                ]
+              },
+              {
+                "text": "知らないもん ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らないもん "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "「ねぇねぇ」じゃないわ　この笑顔 ",
+            "zh-CN": "别冲着我搭话叫「喂喂」啦 这个笑容",
+            "segments": [
+              {
+                "text": "「ねぇねぇ」じゃないわ　",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "「ねぇねぇ」じゃないわ　"
+                  }
+                ]
+              },
+              {
+                "text": "この笑顔 ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "また眠れないでしょ",
+            "zh-CN": "害得我又睡不着了不是吗",
+            "segments": [
+              {
+                "text": "また眠れないでしょ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "また"
+                  },
+                  {
+                    "text": "眠",
+                    "reading": "ねむ"
+                  },
+                  {
+                    "text": "れないでしょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "明日も　おんなじ　わたしが　いるのかな",
+            "zh-CN": "明天 是不是 也还是同样的 我呢",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "明日も　おんなじ　わたしが　いるのかな",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "も　おんなじ　わたしが　いるのかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "無愛想で無口なままの　カワいくないヤツ (ah)",
+            "zh-CN": "依旧冷淡沉默 毫不可爱的那种家伙 (ah)",
+            "segments": [
+              {
+                "text": "無愛想で無口なままの　カワいくないヤツ (ah)",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "無愛想",
+                    "reading": "ぶあいそう"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "無口",
+                    "reading": "むくち"
+                  },
+                  {
+                    "text": "なままの　カワいくないヤツ (ah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "あの夢にきみが出てきたときから",
+            "zh-CN": "自从你在那个梦境里出现之后",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "あの夢にきみが出てきたときから",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "あの"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "にきみが"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "で"
+                  },
+                  {
+                    "text": "てきたときから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "素直じゃないの　だって",
+            "zh-CN": "我就变得不坦率了 毕竟啊",
+            "segments": [
+              {
+                "text": "素直じゃないの　",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "素直",
+                    "reading": "すなお"
+                  },
+                  {
+                    "text": "じゃないの　"
+                  }
+                ]
+              },
+              {
+                "text": "だって",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "だって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "全然つかめないきみのこと ",
+            "zh-CN": "完全琢磨不透的你",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "全然つかめないきみのこと ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "つかめないきみのこと "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "全然しらないうちに (yeah)",
+            "zh-CN": "在完全不知不觉间 (yeah)",
+            "segments": [
+              {
+                "text": "全然しらないうちに (yeah)",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "しらないうちに (yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "こころ奪おうとしてたのは",
+            "zh-CN": "想要夺走对方芳心的",
+            "segments": [
+              {
+                "text": "こころ奪おうとしてたのは",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "こころ"
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "おうとしてたのは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "わたしのほうだもん×××",
+            "zh-CN": "明明是我才对嘛×××",
+            "segments": [
+              {
+                "text": "わたしのほうだもん×××",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "わたしのほうだもん×××"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "(La la la-lu-la-la, lu-la-la, lu-la-la, la la la la la-lu-la)",
+            "zh-CN": "(La la la-lu-la-la, lu-la-la, lu-la-la, la la la la la-lu-la)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(La la la-lu-la-la, lu-la-la, lu-la-la, la la la la la-lu-la)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "(La la la-lu-la-la, lu-la-la, lu-la-la, la la la la la-lu-la)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "そういう時期なの ",
+            "zh-CN": "正处于这种时期啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そういう時期なの ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "そういう"
+                  },
+                  {
+                    "text": "時期",
+                    "reading": "じき"
+                  },
+                  {
+                    "text": "なの "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "おぼれたいのいとしのメランコリー",
+            "zh-CN": "想要沉溺于亲爱的忧郁之中",
+            "segments": [
+              {
+                "text": "おぼれたいの",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "おぼれたいの"
+                  }
+                ]
+              },
+              {
+                "text": "いとしのメランコリー",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "いとしのメランコリー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "全然つかめないきみのこと ",
+            "zh-CN": "完全琢磨不透的你",
+            "segments": [
+              {
+                "text": "全然つかめないきみのこと ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "つかめないきみのこと "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "全然しらないうちに (yeah)",
+            "zh-CN": "在完全不知不觉间 (yeah)",
+            "segments": [
+              {
+                "text": "全然しらないうちに (yeah)",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "しらないうちに (yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "ココロ奪われるなんてこと ",
+            "zh-CN": "居然会被你夺走芳心什么的",
+            "segments": [
+              {
+                "text": "ココロ奪われるなんてこと ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ココロ"
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "われるなんてこと "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "あるはずないでしょ",
+            "zh-CN": "怎么可能会有这种事嘛",
+            "segments": [
+              {
+                "text": "あるはずないでしょ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "あるはずないでしょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "それは無愛想な笑顔だったり",
+            "zh-CN": "那或许是不解风情的笑颜",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "それは無愛想な笑顔だったり",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "それは"
+                  },
+                  {
+                    "text": "無愛想",
+                    "reading": "ぶあいそう"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "だったり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "それは日曜日の日暮れだったり",
+            "zh-CN": "那或许是星期天的黄昏日落",
+            "segments": [
+              {
+                "text": "それは日曜日の日暮れだったり",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "それは"
+                  },
+                  {
+                    "text": "日曜日",
+                    "reading": "にちようび"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "日暮",
+                    "reading": "ひぐ"
+                  },
+                  {
+                    "text": "れだったり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "それはテスト∞の期間だったり",
+            "zh-CN": "那或许是无休无止的考试周",
+            "segments": [
+              {
+                "text": "それはテスト∞の期間だったり",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはテスト∞の"
+                  },
+                  {
+                    "text": "期間",
+                    "reading": "ばっかのきかん"
+                  },
+                  {
+                    "text": "だったり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "それはきみとゆう名のメランコリンニスト。",
+            "zh-CN": "那就是名为你的忧郁主义者",
+            "segments": [
+              {
+                "text": "それはきみとゆう名のメランコリンニスト。",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "それはきみとゆう"
+                  },
+                  {
+                    "text": "名",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "のメランコリンニスト。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "手当たり次第強気でぶつかっても ",
+            "zh-CN": "哪怕不顾一切逞强撞上去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "手当たり次第強気でぶつかっても ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "手当",
+                    "reading": "てあ"
+                  },
+                  {
+                    "text": "たり"
+                  },
+                  {
+                    "text": "次第強気",
+                    "reading": "しだいつよき"
+                  },
+                  {
+                    "text": "でぶつかっても "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "なんにも手には残らないって思い込んでる",
+            "zh-CN": "也总以为手里什么都不会留下",
+            "segments": [
+              {
+                "text": "なんにも手には残らないって思い込んでる",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんにも"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "には"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "らないって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んでる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "ちょっとぐらいの勇気にだって ",
+            "zh-CN": "就连稍微拿出的那一丁点勇气",
+            "segments": [
+              {
+                "text": "ちょっとぐらいの勇気にだって ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちょっとぐらいの"
+                  },
+                  {
+                    "text": "勇気",
+                    "reading": "ゆうき"
+                  },
+                  {
+                    "text": "にだって "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "ちっちゃくなって塞ぎこんでる",
+            "zh-CN": "也会缩成一团郁郁寡欢",
+            "segments": [
+              {
+                "text": "ちっちゃくなって塞ぎこんでる",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちっちゃくなって"
+                  },
+                  {
+                    "text": "塞",
+                    "reading": "ふさ"
+                  },
+                  {
+                    "text": "ぎこんでる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "わたしだから",
+            "zh-CN": "毕竟这就是我啊",
+            "segments": [
+              {
+                "text": "わたしだから",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "わたしだから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "全然つかめないきみのこと",
+            "zh-CN": "完全琢磨不透的你",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "全然つかめない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "つかめない"
+                  }
+                ]
+              },
+              {
+                "text": "きみのこと",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "きみのこと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "全然しらないうちに (yeah)",
+            "zh-CN": "在完全不知不觉间 (yeah)",
+            "segments": [
+              {
+                "text": "全然しらない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "しらない"
+                  }
+                ]
+              },
+              {
+                "text": "うちに (yeah)",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "うちに (yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "ココロ奪われるなんてこと ",
+            "zh-CN": "居然会被你夺走芳心什么的",
+            "segments": [
+              {
+                "text": "ココロ奪われる",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ココロ"
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "われる"
+                  }
+                ]
+              },
+              {
+                "text": "なんてこと ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんてこと "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "あるはずないでしょ",
+            "zh-CN": "怎么可能会有这种事嘛",
+            "segments": [
+              {
+                "text": "あるはずないでしょ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "あるはずないでしょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "全然気づかないきみなんて ",
+            "zh-CN": "浑然不知的你这种家伙",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "全然気づかない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然気",
+                    "reading": "ぜんぜんき"
+                  },
+                  {
+                    "text": "づかない"
+                  }
+                ]
+              },
+              {
+                "text": "きみなんて ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "きみなんて "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "全然知らない×知らないもん ",
+            "zh-CN": "我才不管×才不管呢",
+            "segments": [
+              {
+                "text": "全然知らない×",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然知",
+                    "reading": "ぜんぜんし"
+                  },
+                  {
+                    "text": "らない×"
+                  }
+                ]
+              },
+              {
+                "text": "知らないもん ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らないもん "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "「ねぇねぇ」じゃないわ　この笑顔 ",
+            "zh-CN": "别冲着我搭话叫「喂喂」啦 这个笑容",
+            "segments": [
+              {
+                "text": "「ねぇねぇ」じゃないわ　",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "「ねぇねぇ」じゃないわ　"
+                  }
+                ]
+              },
+              {
+                "text": "この笑顔 ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "また眠れないでしょ",
+            "zh-CN": "害得我又睡不着了不是吗",
+            "segments": [
+              {
+                "text": "また眠れないでしょ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "また"
+                  },
+                  {
+                    "text": "眠",
+                    "reading": "ねむ"
+                  },
+                  {
+                    "text": "れないでしょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "あの夢にきみが出てきたときから",
+            "zh-CN": "自从你在那个梦境里出现之后",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "あの夢にきみが出てきたときから",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "あの"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "にきみが"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "で"
+                  },
+                  {
+                    "text": "てきたときから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "素直じゃないの　だって",
+            "zh-CN": "我就变得不坦率了 毕竟啊",
+            "segments": [
+              {
+                "text": "素直じゃないの　",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "素直",
+                    "reading": "すなお"
+                  },
+                  {
+                    "text": "じゃないの　"
+                  }
+                ]
+              },
+              {
+                "text": "だって",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "だって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "全然つかめないきみのこと ",
+            "zh-CN": "完全琢磨不透的你",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "全然つかめないきみのこと ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "つかめないきみのこと "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "全然しらないうちに (yeah)",
+            "zh-CN": "在完全不知不觉间 (yeah)",
+            "segments": [
+              {
+                "text": "全然しらないうちに (yeah)",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-08",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然",
+                    "reading": "ぜんぜん"
+                  },
+                  {
+                    "text": "しらないうちに (yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "こころ奪おうとしてたのは",
+            "zh-CN": "想要夺走对方芳心的",
+            "segments": [
+              {
+                "text": "こころ奪おうとしてたのは",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "こころ"
+                  },
+                  {
+                    "text": "奪",
+                    "reading": "うば"
+                  },
+                  {
+                    "text": "おうとしてたのは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "わたしのほうだもん×××",
+            "zh-CN": "明明是我才对嘛×××",
+            "segments": [
+              {
+                "text": "わたしのほうだもん×××",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-07",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "わたしのほうだもん×××"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "そういう時期なの ",
+            "zh-CN": "正处于这种时期啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そういう時期なの ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "そういう"
+                  },
+                  {
+                    "text": "時期",
+                    "reading": "じき"
+                  },
+                  {
+                    "text": "なの "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "おぼれたいのいとしのメランコリー",
+            "zh-CN": "想要沉溺于亲爱的忧郁之中",
+            "segments": [
+              {
+                "text": "おぼれたいの",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "おぼれたいの"
+                  }
+                ]
+              },
+              {
+                "text": "いとしのメランコリー",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "いとしのメランコリー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000024",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000031",
+          "full-000032"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Melancholic",
+          "revisionId": 330513,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Melancholic?oldid=330513",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Melancholic",
+          "revisionId": 330513,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Melancholic?oldid=330513",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Melancholic",
+          "revisionId": 330513,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Melancholic?oldid=330513",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Melancholic",
+          "revisionId": 330513,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Melancholic?oldid=330513",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Melancholic",
+          "revisionId": 330513,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Melancholic?oldid=330513",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Melancholic",
+          "revisionId": 330513,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Melancholic?oldid=330513",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Melancholic",
+          "revisionId": 330513,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Melancholic?oldid=330513",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Melancholic",
+          "revisionId": 330513,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Melancholic?oldid=330513",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

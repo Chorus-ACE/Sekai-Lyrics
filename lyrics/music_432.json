@@ -1,0 +1,2802 @@
+{
+  "version": 3,
+  "musicId": 432,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:01:39Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "alternate-april-fools-2026-ichika-saki-honami-shiho-miku-luka",
+      "kind": "alternate",
+      "label": "April Fools' 2026 — ichika, saki, honami, shiho, miku, luka",
+      "availableVersions": [
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-01",
+          "name": "星乃一歌"
+        },
+        {
+          "performerId": "歌唱者-02",
+          "name": "天馬咲希"
+        },
+        {
+          "performerId": "歌唱者-03",
+          "name": "望月穂波"
+        },
+        {
+          "performerId": "歌唱者-04",
+          "name": "日野森志歩"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        }
+      ],
+      "game": {
+        "version": {
+          "kind": "alternate",
+          "label": "April Fools' 2026 — ichika, saki, honami, shiho, miku, luka"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "外出た瞬間　終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "segments": [
+              {
+                "text": "外出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "地下に潜りたいな　って　思いました",
+            "zh-CN": "好想钻到地底下去啊 这么想着",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "地下に潜りたいな　って　思いました",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "地下",
+                    "reading": "ちか"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "潜",
+                    "reading": "もぐ"
+                  },
+                  {
+                    "text": "りたいな　って　"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いました"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "風さえなくなれば　あったかいのに",
+            "zh-CN": "只要没有风 明明就很暖和",
+            "segments": [
+              {
+                "text": "風さえなくなれば　あったかいのに",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "さえなくなれば　あったかいのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "ずっと座りたいな　って　思いました",
+            "zh-CN": "好想一直坐着不动啊 这么想着",
+            "segments": [
+              {
+                "text": "ずっと座りたいな　って　思いました",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "座",
+                    "reading": "すわ"
+                  },
+                  {
+                    "text": "りたいな　って　"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いました"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "いやいや　と　外でたら",
+            "zh-CN": "勉勉强强 走出门去",
+            "segments": [
+              {
+                "text": "いやいや　と　外でたら",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "いやいや　と　"
+                  },
+                  {
+                    "text": "外",
+                    "reading": "そと"
+                  },
+                  {
+                    "text": "でたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "ハト　ハト　ハト　ハト　大乱闘",
+            "zh-CN": "鸽子 鸽子 鸽子 鸽子 大乱斗",
+            "segments": [
+              {
+                "text": "ハト　",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハト　"
+                  }
+                ]
+              },
+              {
+                "text": "ハト　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハト　"
+                  }
+                ]
+              },
+              {
+                "text": "ハト　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハト　"
+                  }
+                ]
+              },
+              {
+                "text": "ハト　大乱闘",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハト　"
+                  },
+                  {
+                    "text": "大乱闘",
+                    "reading": "だいらんとう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "外出た瞬間　終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "外出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03",
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03",
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "外出た瞬間　 終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "外出た瞬間　 ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　 "
+                  }
+                ]
+              },
+              {
+                "text": "終わったわ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "そっ　と出た瞬間　終わったわ",
+            "zh-CN": "悄 悄溜出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そっ　と出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "そっ　と"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "で"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "髪の毛　強風オールバック",
+            "zh-CN": "头发 被强风吹成大背头",
+            "segments": [
+              {
+                "text": "髪の毛　強風オールバック",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "髪",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "毛",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強風",
+                    "reading": "きょうふう"
+                  },
+                  {
+                    "text": "オールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "April Fools' 2026"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/alternate-april-fools-2026-ichika-saki-honami-shiho-miku-luka/game_text",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2026-ichika-saki-honami-shiho-miku-luka/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2026-ichika-saki-honami-shiho-miku-luka/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2026-ichika-saki-honami-shiho-miku-luka/relation",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2026-ichika-saki-honami-shiho-miku-luka/version",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "外出た瞬間　終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "segments": [
+              {
+                "text": "外出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "地下に潜りたいな　って　思いました",
+            "zh-CN": "好想钻到地底下去啊 这么想着",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "地下に潜りたいな　って　思いました",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "地下",
+                    "reading": "ちか"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "潜",
+                    "reading": "もぐ"
+                  },
+                  {
+                    "text": "りたいな　って　"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いました"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "風さえなくなれば　あったかいのに",
+            "zh-CN": "只要没有风 明明就很暖和",
+            "segments": [
+              {
+                "text": "風さえなくなれば　あったかいのに",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "さえなくなれば　あったかいのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "ずっと座りたいな　って　思いました",
+            "zh-CN": "好想一直坐着不动啊 这么想着",
+            "segments": [
+              {
+                "text": "ずっと座りたいな　って　思いました",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "座",
+                    "reading": "すわ"
+                  },
+                  {
+                    "text": "りたいな　って　"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いました"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "いやいや　と　外でたら",
+            "zh-CN": "勉勉强强 走出门去",
+            "segments": [
+              {
+                "text": "いやいや　と　外でたら",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "いやいや　と　"
+                  },
+                  {
+                    "text": "外",
+                    "reading": "そと"
+                  },
+                  {
+                    "text": "でたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "ハト　ハト　ハト　ハト　大乱闘",
+            "zh-CN": "鸽子 鸽子 鸽子 鸽子 大乱斗",
+            "segments": [
+              {
+                "text": "ハト　ハト　ハト　ハト　大乱闘",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハト　ハト　ハト　ハト　"
+                  },
+                  {
+                    "text": "大乱闘",
+                    "reading": "だいらんとう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "外出た瞬間　終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "外出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "外出た瞬間　 終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "外出た瞬間　 ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　 "
+                  }
+                ]
+              },
+              {
+                "text": "終わったわ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "そっ　と出た瞬間　終わったわ",
+            "zh-CN": "悄 悄溜出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そっ　と出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そっ　と"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "で"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "髪の毛　強風オールバック",
+            "zh-CN": "头发 被强风吹成大背头",
+            "segments": [
+              {
+                "text": "髪の毛　強風オールバック",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "髪",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "毛",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強風",
+                    "reading": "きょうふう"
+                  },
+                  {
+                    "text": "オールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "外出た瞬間　終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "segments": [
+              {
+                "text": "外出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "地下に潜りたいな　って　思いました",
+            "zh-CN": "好想钻到地底下去啊 这么想着",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "地下に潜りたいな　って　思いました",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "地下",
+                    "reading": "ちか"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "潜",
+                    "reading": "もぐ"
+                  },
+                  {
+                    "text": "りたいな　って　"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いました"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "風さえなくなれば　あったかいのに",
+            "zh-CN": "只要没有风 明明就很暖和",
+            "segments": [
+              {
+                "text": "風さえなくなれば　あったかいのに",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "さえなくなれば　あったかいのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "ずっと座りたいな　って　思いました",
+            "zh-CN": "好想一直坐着不动啊 这么想着",
+            "segments": [
+              {
+                "text": "ずっと座りたいな　って　思いました",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "座",
+                    "reading": "すわ"
+                  },
+                  {
+                    "text": "りたいな　って　"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いました"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "いやいや　と　外でたら",
+            "zh-CN": "勉勉强强 走出门去",
+            "segments": [
+              {
+                "text": "いやいや　と　外でたら",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "いやいや　と　"
+                  },
+                  {
+                    "text": "外",
+                    "reading": "そと"
+                  },
+                  {
+                    "text": "でたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "ハト　ハト　ハト　ハト　大乱闘",
+            "zh-CN": "鸽子 鸽子 鸽子 鸽子 大乱斗",
+            "segments": [
+              {
+                "text": "ハト　ハト　ハト　ハト　大乱闘",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハト　ハト　ハト　ハト　"
+                  },
+                  {
+                    "text": "大乱闘",
+                    "reading": "だいらんとう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "外出た瞬間　終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "外出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "外出た瞬間　 終わったわ",
+            "zh-CN": "出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "外出た瞬間　 ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "外出",
+                    "reading": "そとで"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　 "
+                  }
+                ]
+              },
+              {
+                "text": "終わったわ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "そっ　と出た瞬間　終わったわ",
+            "zh-CN": "悄 悄溜出门的一瞬间 彻底完蛋啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そっ　と出た瞬間　終わったわ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そっ　と"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "で"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "天気は良いのに　進めない",
+            "zh-CN": "天气明明很好 却寸步难行",
+            "segments": [
+              {
+                "text": "天気は良いのに　進めない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "天気",
+                    "reading": "てんき"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いのに　"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "めない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "風　強すぎて　お亡くなり",
+            "zh-CN": "风 实在太大 瞬间去世",
+            "segments": [
+              {
+                "text": "風　強すぎて　お亡くなり",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "すぎて　お"
+                  },
+                  {
+                    "text": "亡",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くなり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "定期　定期　的にオールバック",
+            "zh-CN": "定期 定期 定期被吹成大背头",
+            "segments": [
+              {
+                "text": "定期　定期　的にオールバック",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "定期",
+                    "reading": "ていき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "にオールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "髪の毛　強風オールバック",
+            "zh-CN": "头发 被强风吹成大背头",
+            "segments": [
+              {
+                "text": "髪の毛　強風オールバック",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "髪",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "毛",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "強風",
+                    "reading": "きょうふう"
+                  },
+                  {
+                    "text": "オールバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Kyoufuu All Back",
+          "revisionId": 328796,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kyoufuu_All_Back?oldid=328796",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

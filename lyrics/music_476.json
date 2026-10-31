@@ -1,0 +1,2542 @@
+{
+  "version": 3,
+  "musicId": 476,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:01:45Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-17",
+          "name": "宵崎奏"
+        },
+        {
+          "performerId": "歌唱者-18",
+          "name": "朝比奈まふゆ"
+        },
+        {
+          "performerId": "歌唱者-19",
+          "name": "東雲絵名"
+        },
+        {
+          "performerId": "歌唱者-20",
+          "name": "暁山瑞希"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "人知れず泣いた　裏腹なLie",
+            "zh-CN": "无人知晓地哭泣 适得其反的谎言 Lie",
+            "segments": [
+              {
+                "text": "人知れず泣いた　裏腹なLie",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "人知",
+                    "reading": "ひとし"
+                  },
+                  {
+                    "text": "れず"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いた　"
+                  },
+                  {
+                    "text": "裏腹",
+                    "reading": "うらはら"
+                  },
+                  {
+                    "text": "なLie"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "悪いのは賽か　知る由もない",
+            "zh-CN": "是骰子的错吗 根本无从知晓",
+            "segments": [
+              {
+                "text": "悪いのは賽か　知る由もない",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "いのは"
+                  },
+                  {
+                    "text": "賽",
+                    "reading": "さい"
+                  },
+                  {
+                    "text": "か　"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "由",
+                    "reading": "よし"
+                  },
+                  {
+                    "text": "もない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "疑いの対価　この身で擬態",
+            "zh-CN": "怀疑的代价 用这副身躯拟态",
+            "segments": [
+              {
+                "text": "疑いの対価　この身で擬態",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "疑",
+                    "reading": "うたが"
+                  },
+                  {
+                    "text": "いの"
+                  },
+                  {
+                    "text": "対価",
+                    "reading": "たいか"
+                  },
+                  {
+                    "text": "　この"
+                  },
+                  {
+                    "text": "身",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "擬態",
+                    "reading": "ぎたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "孤独だ Shadow Shadow",
+            "zh-CN": "孤独啊 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独だ ",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "だ "
+                  }
+                ]
+              },
+              {
+                "text": "Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "街角にて悪魔に魂をSell",
+            "zh-CN": "在街角向恶魔出卖灵魂 Sell",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "街角にて悪魔に魂をSell",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "街角",
+                    "reading": "まちかど"
+                  },
+                  {
+                    "text": "にて"
+                  },
+                  {
+                    "text": "悪魔",
+                    "reading": "あくま"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "魂",
+                    "reading": "たましい"
+                  },
+                  {
+                    "text": "をSell"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "暴いて喰わずとも中身はNull",
+            "zh-CN": "哪怕不剖开吞食 内容也空无一物 Null",
+            "segments": [
+              {
+                "text": "暴いて喰わずとも中身はNull",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "暴",
+                    "reading": "あば"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "喰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "わずとも"
+                  },
+                  {
+                    "text": "中身",
+                    "reading": "なかみ"
+                  },
+                  {
+                    "text": "はNull"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "笑顔で絆したら迷わずKill",
+            "zh-CN": "若是用笑容拉近距离便毫不犹豫 Kill",
+            "segments": [
+              {
+                "text": "笑顔で絆したら迷わずKill",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "絆",
+                    "reading": "ほだ"
+                  },
+                  {
+                    "text": "したら"
+                  },
+                  {
+                    "text": "迷",
+                    "reading": "まよ"
+                  },
+                  {
+                    "text": "わずKill"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "孤独な Shadow Shadow",
+            "zh-CN": "孤独的 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独な Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "な Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "暗闇を照らした爪先にゃHell",
+            "zh-CN": "照亮黑暗的脚尖正处于深渊地狱 Hell",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "暗闇を照らした爪先にゃHell",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らした"
+                  },
+                  {
+                    "text": "爪先",
+                    "reading": "つまさき"
+                  },
+                  {
+                    "text": "にゃHell"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "迷いもしない　そのアタマはIll",
+            "zh-CN": "毫不犹豫 那颗头脑已然病态 Ill",
+            "segments": [
+              {
+                "text": "迷いもしない　そのアタマはIll",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "迷",
+                    "reading": "まよ"
+                  },
+                  {
+                    "text": "いもしない　そのアタマはIll"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "誤魔化しの解に構えつつChill",
+            "zh-CN": "摆出敷衍的答案悠闲自得 Chill",
+            "segments": [
+              {
+                "text": "誤魔化しの解に構えつつChill",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "誤魔化",
+                    "reading": "ごまか"
+                  },
+                  {
+                    "text": "しの"
+                  },
+                  {
+                    "text": "解",
+                    "reading": "かい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "構",
+                    "reading": "かま"
+                  },
+                  {
+                    "text": "えつつChill"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "孤独な Shadow Shadow",
+            "zh-CN": "孤独的 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独な Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "な Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "足りない",
+            "zh-CN": "远远不够",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "足りない",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "りない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "ザラザラの愛　煙れば甘い",
+            "zh-CN": "粗糙生涩的爱 烟雾缭绕便觉甘甜",
+            "segments": [
+              {
+                "text": "ザラザラの愛　煙れば甘い",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "ザラザラの"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "煙",
+                    "reading": "けむ"
+                  },
+                  {
+                    "text": "れば"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "今宵もハイエナは狩りの様",
+            "zh-CN": "今夜土狼也一如既往在狩猎",
+            "segments": [
+              {
+                "text": "今宵もハイエナは狩りの様",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "今宵",
+                    "reading": "こよい"
+                  },
+                  {
+                    "text": "もハイエナは"
+                  },
+                  {
+                    "text": "狩",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "りの"
+                  },
+                  {
+                    "text": "様",
+                    "reading": "よう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "顔も知らない",
+            "zh-CN": "连面孔都未曾见过的",
+            "segments": [
+              {
+                "text": "顔も知らない",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "聖者の裸体",
+            "zh-CN": "圣者的赤裸身躯",
+            "segments": [
+              {
+                "text": "聖者の裸体",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "聖者",
+                    "reading": "せいじゃ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "裸体",
+                    "reading": "らたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "刺す音に酔う",
+            "zh-CN": "沉醉于刺入的声响",
+            "segments": [
+              {
+                "text": "刺す音に酔う",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "刺",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "酔",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "う"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "オーダー",
+            "zh-CN": "指令",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オーダー",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "オーダー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "エゴのじゃれ合い　潰せジュブナイル",
+            "zh-CN": "自我的嬉闹 击溃那青春余热",
+            "segments": [
+              {
+                "text": "エゴのじゃれ合い　潰せジュブナイル",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "エゴのじゃれ"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "い　"
+                  },
+                  {
+                    "text": "潰",
+                    "reading": "つぶ"
+                  },
+                  {
+                    "text": "せジュブナイル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "痛みが快楽に変わる頃",
+            "zh-CN": "当痛楚转化为快感的时刻",
+            "segments": [
+              {
+                "text": "痛みが快楽に変わる頃",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みが"
+                  },
+                  {
+                    "text": "快楽",
+                    "reading": "かいらく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わる"
+                  },
+                  {
+                    "text": "頃",
+                    "reading": "ころ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "聞こえる だろう",
+            "zh-CN": "能够听见 吧",
+            "segments": [
+              {
+                "text": "聞こえる だろう",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "聞",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "こえる だろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "捨てられた影が踊るバラッド",
+            "zh-CN": "被遗弃的暗影翩翩起舞的叙事曲",
+            "segments": [
+              {
+                "text": "捨てられた影が踊るバラッド",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てられた"
+                  },
+                  {
+                    "text": "影",
+                    "reading": "かげ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "るバラッド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "(Shadow Shadow)",
+            "zh-CN": "(Shadow Shadow)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(Shadow Shadow)",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Shadow Shadow)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "街角にて悪魔に魂をSell",
+            "zh-CN": "在街角向恶魔出卖灵魂 Sell",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "街角にて悪魔に魂をSell",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "街角",
+                    "reading": "まちかど"
+                  },
+                  {
+                    "text": "にて"
+                  },
+                  {
+                    "text": "悪魔",
+                    "reading": "あくま"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "魂",
+                    "reading": "たましい"
+                  },
+                  {
+                    "text": "をSell"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "暴いて喰わずとも中身はNull",
+            "zh-CN": "哪怕不剖开吞食 内容也空无一物 Null",
+            "segments": [
+              {
+                "text": "暴いて喰わずとも中身はNull",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "暴",
+                    "reading": "あば"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "喰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "わずとも"
+                  },
+                  {
+                    "text": "中身",
+                    "reading": "なかみ"
+                  },
+                  {
+                    "text": "はNull"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "笑顔で絆したら迷わずKill",
+            "zh-CN": "若是用笑容拉近距离便毫不犹豫 Kill",
+            "segments": [
+              {
+                "text": "笑顔で絆したら迷わずKill",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "絆",
+                    "reading": "ほだ"
+                  },
+                  {
+                    "text": "したら"
+                  },
+                  {
+                    "text": "迷",
+                    "reading": "まよ"
+                  },
+                  {
+                    "text": "わずKill"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "孤独な Shadow Shadow",
+            "zh-CN": "孤独的 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独な Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "な Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "暗闇を照らした爪先にゃHell",
+            "zh-CN": "照亮黑暗的脚尖正处于深渊地狱 Hell",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "暗闇を照らした爪先にゃHell",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らした"
+                  },
+                  {
+                    "text": "爪先",
+                    "reading": "つまさき"
+                  },
+                  {
+                    "text": "にゃHell"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "迷いもしない　そのアタマはIll",
+            "zh-CN": "毫不犹豫 那颗头脑已然病态 Ill",
+            "segments": [
+              {
+                "text": "迷いもしない　そのアタマはIll",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "迷",
+                    "reading": "まよ"
+                  },
+                  {
+                    "text": "いもしない　そのアタマはIll"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "誤魔化しの解に構えつつChill",
+            "zh-CN": "摆出敷衍的答案悠闲自得 Chill",
+            "segments": [
+              {
+                "text": "誤魔化しの解に構えつつChill",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "誤魔化",
+                    "reading": "ごまか"
+                  },
+                  {
+                    "text": "しの"
+                  },
+                  {
+                    "text": "解",
+                    "reading": "かい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "構",
+                    "reading": "かま"
+                  },
+                  {
+                    "text": "えつつChill"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "孤独な Shadow Shadow",
+            "zh-CN": "孤独的 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独な Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "な Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "皮を剥ぎ取った中を見てSigh",
+            "zh-CN": "剥去外皮窥视内里轻声叹息 Sigh",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "皮を剥ぎ取った中を見てSigh",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "皮",
+                    "reading": "かわ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "剥",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "ぎ"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "った"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "てSigh"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "虚しさ隠して積み上がる灰",
+            "zh-CN": "掩藏着空虚堆积而起的灰烬",
+            "segments": [
+              {
+                "text": "虚しさ隠して積み上がる灰",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "虚",
+                    "reading": "むな"
+                  },
+                  {
+                    "text": "しさ"
+                  },
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "積",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がる"
+                  },
+                  {
+                    "text": "灰",
+                    "reading": "はい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "鉛に染まった右手が痛いs",
+            "zh-CN": "染上铅灰色的右手隐隐作痛",
+            "segments": [
+              {
+                "text": "鉛に染まった右手が痛いs",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "鉛",
+                    "reading": "なまり"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "染",
+                    "reading": "そ"
+                  },
+                  {
+                    "text": "まった"
+                  },
+                  {
+                    "text": "右手",
+                    "reading": "みぎて"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "いs"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "孤独だ Shadow Shadow",
+            "zh-CN": "孤独啊 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独だ Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "だ Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "人知れず泣いた　裏腹なLie",
+            "zh-CN": "无人知晓地哭泣 适得其反的谎言 Lie",
+            "segments": [
+              {
+                "text": "人知れず泣いた　裏腹なLie",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "人知",
+                    "reading": "ひとし"
+                  },
+                  {
+                    "text": "れず"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いた　"
+                  },
+                  {
+                    "text": "裏腹",
+                    "reading": "うらはら"
+                  },
+                  {
+                    "text": "なLie"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "悪いのは賽か　知る由もない",
+            "zh-CN": "是骰子的错吗 根本无从知晓",
+            "segments": [
+              {
+                "text": "悪いのは賽か　知る由もない",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "いのは"
+                  },
+                  {
+                    "text": "賽",
+                    "reading": "さい"
+                  },
+                  {
+                    "text": "か　"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "由",
+                    "reading": "よし"
+                  },
+                  {
+                    "text": "もない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "疑いの対価　この身で擬態",
+            "zh-CN": "怀疑的代价 用这副身躯拟态",
+            "segments": [
+              {
+                "text": "疑いの対価　この身で擬態",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "疑",
+                    "reading": "うたが"
+                  },
+                  {
+                    "text": "いの"
+                  },
+                  {
+                    "text": "対価",
+                    "reading": "たいか"
+                  },
+                  {
+                    "text": "　この"
+                  },
+                  {
+                    "text": "身",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "擬態",
+                    "reading": "ぎたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "孤独だ Shadow Shadow",
+            "zh-CN": "孤独啊 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独だ ",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "だ "
+                  }
+                ]
+              },
+              {
+                "text": "Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "街角にて悪魔に魂をSell",
+            "zh-CN": "在街角向恶魔出卖灵魂 Sell",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "街角にて悪魔に魂をSell",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "街角",
+                    "reading": "まちかど"
+                  },
+                  {
+                    "text": "にて"
+                  },
+                  {
+                    "text": "悪魔",
+                    "reading": "あくま"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "魂",
+                    "reading": "たましい"
+                  },
+                  {
+                    "text": "をSell"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "暴いて喰わずとも中身はNull",
+            "zh-CN": "哪怕不剖开吞食 内容也空无一物 Null",
+            "segments": [
+              {
+                "text": "暴いて喰わずとも中身はNull",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "暴",
+                    "reading": "あば"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "喰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "わずとも"
+                  },
+                  {
+                    "text": "中身",
+                    "reading": "なかみ"
+                  },
+                  {
+                    "text": "はNull"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "笑顔で絆したら迷わずKill",
+            "zh-CN": "若是用笑容拉近距离便毫不犹豫 Kill",
+            "segments": [
+              {
+                "text": "笑顔で絆したら迷わずKill",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "絆",
+                    "reading": "ほだ"
+                  },
+                  {
+                    "text": "したら"
+                  },
+                  {
+                    "text": "迷",
+                    "reading": "まよ"
+                  },
+                  {
+                    "text": "わずKill"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "孤独な Shadow Shadow",
+            "zh-CN": "孤独的 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独な Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "な Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "暗闇を照らした爪先にゃHell",
+            "zh-CN": "照亮黑暗的脚尖正处于深渊地狱 Hell",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "暗闇を照らした爪先にゃHell",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らした"
+                  },
+                  {
+                    "text": "爪先",
+                    "reading": "つまさき"
+                  },
+                  {
+                    "text": "にゃHell"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "迷いもしない　そのアタマはIll",
+            "zh-CN": "毫不犹豫 那颗头脑已然病态 Ill",
+            "segments": [
+              {
+                "text": "迷いもしない　そのアタマはIll",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "迷",
+                    "reading": "まよ"
+                  },
+                  {
+                    "text": "いもしない　そのアタマはIll"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "誤魔化しの解に構えつつChill",
+            "zh-CN": "摆出敷衍的答案悠闲自得 Chill",
+            "segments": [
+              {
+                "text": "誤魔化しの解に構えつつChill",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "誤魔化",
+                    "reading": "ごまか"
+                  },
+                  {
+                    "text": "しの"
+                  },
+                  {
+                    "text": "解",
+                    "reading": "かい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "構",
+                    "reading": "かま"
+                  },
+                  {
+                    "text": "えつつChill"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "孤独な Shadow Shadow",
+            "zh-CN": "孤独的 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独な Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "な Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "足りない",
+            "zh-CN": "远远不够",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "足りない",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "りない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "ザラザラの愛　煙れば甘い",
+            "zh-CN": "粗糙生涩的爱 烟雾缭绕便觉甘甜",
+            "segments": [
+              {
+                "text": "ザラザラの愛　煙れば甘い",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "ザラザラの"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "煙",
+                    "reading": "けむ"
+                  },
+                  {
+                    "text": "れば"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "今宵もハイエナは狩りの様",
+            "zh-CN": "今夜土狼也一如既往在狩猎",
+            "segments": [
+              {
+                "text": "今宵もハイエナは狩りの様",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "今宵",
+                    "reading": "こよい"
+                  },
+                  {
+                    "text": "もハイエナは"
+                  },
+                  {
+                    "text": "狩",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "りの"
+                  },
+                  {
+                    "text": "様",
+                    "reading": "よう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "顔も知らない",
+            "zh-CN": "连面孔都未曾见过的",
+            "segments": [
+              {
+                "text": "顔も知らない",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "聖者の裸体",
+            "zh-CN": "圣者的赤裸身躯",
+            "segments": [
+              {
+                "text": "聖者の裸体",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "聖者",
+                    "reading": "せいじゃ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "裸体",
+                    "reading": "らたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "刺す音に酔う",
+            "zh-CN": "沉醉于刺入的声响",
+            "segments": [
+              {
+                "text": "刺す音に酔う",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "刺",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "酔",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "う"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "オーダー",
+            "zh-CN": "指令",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オーダー",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "オーダー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "エゴのじゃれ合い　潰せジュブナイル",
+            "zh-CN": "自我的嬉闹 击溃那青春余热",
+            "segments": [
+              {
+                "text": "エゴのじゃれ合い　潰せジュブナイル",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "エゴのじゃれ"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "い　"
+                  },
+                  {
+                    "text": "潰",
+                    "reading": "つぶ"
+                  },
+                  {
+                    "text": "せジュブナイル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "痛みが快楽に変わる頃",
+            "zh-CN": "当痛楚转化为快感的时刻",
+            "segments": [
+              {
+                "text": "痛みが快楽に変わる頃",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みが"
+                  },
+                  {
+                    "text": "快楽",
+                    "reading": "かいらく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わる"
+                  },
+                  {
+                    "text": "頃",
+                    "reading": "ころ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "聞こえる だろう",
+            "zh-CN": "能够听见 吧",
+            "segments": [
+              {
+                "text": "聞こえる だろう",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "聞",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "こえる だろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "捨てられた影が踊るバラッド",
+            "zh-CN": "被遗弃的暗影翩翩起舞的叙事曲",
+            "segments": [
+              {
+                "text": "捨てられた影が踊るバラッド",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てられた"
+                  },
+                  {
+                    "text": "影",
+                    "reading": "かげ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "るバラッド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "(Shadow Shadow)",
+            "zh-CN": "(Shadow Shadow)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(Shadow Shadow)",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Shadow Shadow)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "暗闇を照らした爪先にゃHell",
+            "zh-CN": "照亮黑暗的脚尖正处于深渊地狱 Hell",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "暗闇を照らした爪先にゃHell",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らした"
+                  },
+                  {
+                    "text": "爪先",
+                    "reading": "つまさき"
+                  },
+                  {
+                    "text": "にゃHell"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "迷いもしない　そのアタマはIll",
+            "zh-CN": "毫不犹豫 那颗头脑已然病态 Ill",
+            "segments": [
+              {
+                "text": "迷いもしない　そのアタマはIll",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "迷",
+                    "reading": "まよ"
+                  },
+                  {
+                    "text": "いもしない　そのアタマはIll"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "誤魔化しの解に構えつつChill",
+            "zh-CN": "摆出敷衍的答案悠闲自得 Chill",
+            "segments": [
+              {
+                "text": "誤魔化しの解に構えつつChill",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "誤魔化",
+                    "reading": "ごまか"
+                  },
+                  {
+                    "text": "しの"
+                  },
+                  {
+                    "text": "解",
+                    "reading": "かい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "構",
+                    "reading": "かま"
+                  },
+                  {
+                    "text": "えつつChill"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "孤独な Shadow Shadow",
+            "zh-CN": "孤独的 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独な Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "な Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "皮を剥ぎ取った中を見てSigh",
+            "zh-CN": "剥去外皮窥视内里轻声叹息 Sigh",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "皮を剥ぎ取った中を見てSigh",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "皮",
+                    "reading": "かわ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "剥",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "ぎ"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "った"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "てSigh"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000030",
+            "order": 29,
+            "japanese": "虚しさ隠して積み上がる灰",
+            "zh-CN": "掩藏着空虚堆积而起的灰烬",
+            "segments": [
+              {
+                "text": "虚しさ隠して積み上がる灰",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "虚",
+                    "reading": "むな"
+                  },
+                  {
+                    "text": "しさ"
+                  },
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "積",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がる"
+                  },
+                  {
+                    "text": "灰",
+                    "reading": "はい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000031",
+            "order": 30,
+            "japanese": "鉛に染まった右手が痛いs",
+            "zh-CN": "染上铅灰色的右手隐隐作痛",
+            "segments": [
+              {
+                "text": "鉛に染まった右手が痛いs",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "鉛",
+                    "reading": "なまり"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "染",
+                    "reading": "そ"
+                  },
+                  {
+                    "text": "まった"
+                  },
+                  {
+                    "text": "右手",
+                    "reading": "みぎて"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "いs"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000032",
+            "order": 31,
+            "japanese": "孤独だ Shadow Shadow",
+            "zh-CN": "孤独啊 Shadow Shadow",
+            "segments": [
+              {
+                "text": "孤独だ Shadow Shadow",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "だ Shadow Shadow"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035",
+          "full-000036"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Shadow Shadow",
+          "revisionId": 329761,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shadow_Shadow?oldid=329761",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Shadow Shadow",
+          "revisionId": 329761,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shadow_Shadow?oldid=329761",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Shadow Shadow",
+          "revisionId": 329761,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shadow_Shadow?oldid=329761",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Shadow Shadow",
+          "revisionId": 329761,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shadow_Shadow?oldid=329761",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Shadow Shadow",
+          "revisionId": 329761,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shadow_Shadow?oldid=329761",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Shadow Shadow",
+          "revisionId": 329761,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shadow_Shadow?oldid=329761",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Shadow Shadow",
+          "revisionId": 329761,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shadow_Shadow?oldid=329761",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Shadow Shadow",
+          "revisionId": 329761,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shadow_Shadow?oldid=329761",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

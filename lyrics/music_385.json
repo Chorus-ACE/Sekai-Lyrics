@@ -1,0 +1,4681 @@
+{
+  "version": 3,
+  "musicId": 385,
+  "revision": 4,
+  "updatedAt": "2026-10-15T13:43:03Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-17",
+          "name": "宵崎奏"
+        },
+        {
+          "performerId": "歌唱者-18",
+          "name": "朝比奈まふゆ"
+        },
+        {
+          "performerId": "歌唱者-19",
+          "name": "東雲絵名"
+        },
+        {
+          "performerId": "歌唱者-20",
+          "name": "暁山瑞希"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "Oh my god",
+            "zh-CN": "Oh my god",
+            "segments": [
+              {
+                "text": "Oh my god",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "Oh my god"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "愛のネタバレ 「別れ」っぽいな",
+            "zh-CN": "爱的剧透 好像是「分手」啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛のネタバレ 「別れ」っぽいな",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "のネタバレ 「"
+                  },
+                  {
+                    "text": "別",
+                    "reading": "わか"
+                  },
+                  {
+                    "text": "れ」っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "人生のネタバレ 「死ぬ」っぽいな",
+            "zh-CN": "人生的剧透 好像是「死掉」啊",
+            "segments": [
+              {
+                "text": "人生のネタバレ 「死ぬ」っぽいな",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "のネタバレ 「"
+                  },
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ぬ」っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "なにそれ意味深でかっこいいじゃん…",
+            "zh-CN": "那是什么啊 又意味深长又帅气嘛……",
+            "segments": [
+              {
+                "text": "なにそれ意味深でかっこいいじゃん…",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにそれ"
+                  },
+                  {
+                    "text": "意味深",
+                    "reading": "いみしん"
+                  },
+                  {
+                    "text": "でかっこいいじゃん…"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "それっぽい単語集で踊ってんだ　失敬",
+            "zh-CN": "借着似是而非的词汇集翩翩起舞 真是失礼啦",
+            "segments": [
+              {
+                "text": "それっぽい単語集で踊ってんだ　失敬",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "それっぽい"
+                  },
+                  {
+                    "text": "単語集",
+                    "reading": "たんごしゅう"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "ってんだ　"
+                  },
+                  {
+                    "text": "失敬",
+                    "reading": "しっけい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "ぽいじゃん　ぽいじゃん",
+            "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+            "segments": [
+              {
+                "text": "ぽいじゃん　ぽいじゃん",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいじゃん　ぽいじゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "とぅとぅるとぅとぅとぅる",
+            "zh-CN": "嘟噜噜嘟噜嘟噜",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "神っぽいな",
+            "zh-CN": "挺像神明一样的嘛",
+            "segments": [
+              {
+                "text": "神っぽいな",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "もういいぜ　もういいぜ　それ　 ",
+            "zh-CN": "够了啦 够了啦 那个",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "もういいぜ　もういいぜ　それ　 ",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "もういいぜ　もういいぜ　それ　 "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "もういいぜ　もういいぜ　",
+            "zh-CN": "够了啦 够了啦",
+            "segments": [
+              {
+                "text": "もういいぜ　もういいぜ　",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "もういいぜ　もういいぜ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "逆に興奮してきたなあ",
+            "zh-CN": "反而让人兴奋起来了啊",
+            "segments": [
+              {
+                "text": "逆に興奮してきたなあ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逆",
+                    "reading": "ぎゃく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "興奮",
+                    "reading": "こうふん"
+                  },
+                  {
+                    "text": "してきたなあ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "おっきいね　おっきいね　夢",
+            "zh-CN": "好宏大啊 好宏大啊 梦想",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おっきいね　おっきいね　夢",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "おっきいね　おっきいね　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "おっきいね　おっきいね",
+            "zh-CN": "好宏大啊 好宏大啊",
+            "segments": [
+              {
+                "text": "おっきいね　おっきいね",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "おっきいね　おっきいね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "景気いいけど　品性はTHE END",
+            "zh-CN": "听着挺风光 但品行算是彻底完蛋",
+            "segments": [
+              {
+                "text": "景気いいけど　品性はTHE END",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "景気",
+                    "reading": "けいき"
+                  },
+                  {
+                    "text": "いいけど　"
+                  },
+                  {
+                    "text": "品性",
+                    "reading": "ひんせい"
+                  },
+                  {
+                    "text": "はTHE END"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "うええい　うええい",
+            "zh-CN": "呜耶 呜耶",
+            "segments": [
+              {
+                "text": "うええい　うええい",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "うええい　うええい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "“ Gott ist tot \"",
+            "zh-CN": "“ Gott ist tot \"",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "“ Gott ist tot \"",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "“ Gott ist tot \""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "神っぽいなそれ　卑怯　神っぽいなそれ　",
+            "zh-CN": "挺像神一样的嘛那个 卑鄙 挺像神一样的嘛那个",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "神っぽいなそれ　卑怯　神っぽいなそれ　",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  },
+                  {
+                    "text": "卑怯",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "\"My God\"",
+            "zh-CN": "\"My God\"",
+            "segments": [
+              {
+                "text": "\"My God\"",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "\"My God\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "アイウォンチューウォンチュー　IQが下がっていく感じ",
+            "zh-CN": "我渴望你 我需要你 感觉智商正在不断下降",
+            "segments": [
+              {
+                "text": "アイウォンチューウォンチュー　IQが下がっていく感じ",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "アイウォンチューウォンチュー　IQが"
+                  },
+                  {
+                    "text": "下",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "がっていく"
+                  },
+                  {
+                    "text": "感",
+                    "reading": "かん"
+                  },
+                  {
+                    "text": "じ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "邪心ぽいなそれ　畢竟　邪心ぽいなそれ　",
+            "zh-CN": "挺像邪心一样的嘛那个 毕竟 挺像邪心一样的嘛那个",
+            "segments": [
+              {
+                "text": "邪心ぽいなそれ　畢竟　邪心ぽいなそれ　",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "邪心",
+                    "reading": "じゃしん"
+                  },
+                  {
+                    "text": "ぽいなそれ　"
+                  },
+                  {
+                    "text": "畢竟",
+                    "reading": "ひっきょう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "邪心",
+                    "reading": "じゃしん"
+                  },
+                  {
+                    "text": "ぽいなそれ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "\"My God\"",
+            "zh-CN": "\"My God\"",
+            "segments": [
+              {
+                "text": "\"My God\"",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "\"My God\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "アイヘイチューヘイチュー　害虫はどっち",
+            "zh-CN": "我讨厌你 憎恨你 到底谁才是害虫",
+            "segments": [
+              {
+                "text": "アイヘイチューヘイチュー　害虫はどっち",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "アイヘイチューヘイチュー　"
+                  },
+                  {
+                    "text": "害虫",
+                    "reading": "がいちゅう"
+                  },
+                  {
+                    "text": "はどっち"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "その髪型　その目　その口元",
+            "zh-CN": "那个发型 那个眼神 那个嘴角",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "その髪型　その目　その口元",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "髪型",
+                    "reading": "かみがた"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "くちもと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "その香水　その服　そのメイク",
+            "zh-CN": "那个香水 那个穿着 那个妆容",
+            "segments": [
+              {
+                "text": "その香水　その服　そのメイク",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "香水",
+                    "reading": "こうすい"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "服",
+                    "reading": "ふく"
+                  },
+                  {
+                    "text": "　そのメイク"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "アレっぽいなそれ",
+            "zh-CN": "挺像那个什么的嘛",
+            "segments": [
+              {
+                "text": "アレっぽいなそれ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "アレっぽいなそれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "比況　アレっぽいなそれ",
+            "zh-CN": "譬如 挺像那个什么的嘛",
+            "segments": [
+              {
+                "text": "比況　アレっぽいなそれ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "比況",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　アレっぽいなそれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "その名言　その意見　その批評",
+            "zh-CN": "那句名言 那个观点 那条批评",
+            "segments": [
+              {
+                "text": "その名言　その意見　その批評",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "名言",
+                    "reading": "めいげん"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "意見",
+                    "reading": "いけん"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "批評",
+                    "reading": "ひひょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "そのカリスマ　そのギャグ　そのセンス",
+            "zh-CN": "那种领袖气质 那个段子 那种品味",
+            "segments": [
+              {
+                "text": "そのカリスマ　そのギャグ　そのセンス",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのカリスマ　そのギャグ　そのセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "神っぽいなそれ　卑怯",
+            "zh-CN": "挺像神一样的嘛那个 卑鄙",
+            "segments": [
+              {
+                "text": "神っぽいなそれ　卑怯",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  },
+                  {
+                    "text": "卑怯",
+                    "reading": "ひきょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "ぽいなぽいなぽい　憧れちゃう！",
+            "zh-CN": "好像啊好像啊真像 让人好生憧憬！",
+            "segments": [
+              {
+                "text": "ぽいなぽいなぽい　憧れちゃう！",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいなぽいなぽい　"
+                  },
+                  {
+                    "text": "憧",
+                    "reading": "あこが"
+                  },
+                  {
+                    "text": "れちゃう！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "ぽいじゃん　ぽいじゃん",
+            "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+            "segments": [
+              {
+                "text": "ぽいじゃん　ぽいじゃん",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいじゃん　ぽいじゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "とぅとぅるとぅとぅとぅる",
+            "zh-CN": "嘟噜噜嘟噜嘟噜",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "神っぽいな",
+            "zh-CN": "挺像神明一样的嘛",
+            "segments": [
+              {
+                "text": "神っぽいな",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "メタ思考する本質は悪意",
+            "zh-CN": "元思考的本质是恶意",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "メタ思考する本質は悪意",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "メタ"
+                  },
+                  {
+                    "text": "思考",
+                    "reading": "しこう"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "本質",
+                    "reading": "ほんしつ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "悪意",
+                    "reading": "あくい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "人を小馬鹿にしたような作為",
+            "zh-CN": "把人当傻子看般的做作",
+            "segments": [
+              {
+                "text": "人を小馬鹿にしたような作為",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "小馬鹿",
+                    "reading": "こばか"
+                  },
+                  {
+                    "text": "にしたような"
+                  },
+                  {
+                    "text": "作為",
+                    "reading": "さくい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "無為に生き延びるのは難しい",
+            "zh-CN": "碌碌无为苟活下去实属不易",
+            "segments": [
+              {
+                "text": "無為に生き延びるのは難しい",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "無為",
+                    "reading": "むい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "延",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "びるのは"
+                  },
+                  {
+                    "text": "難",
+                    "reading": "むずか"
+                  },
+                  {
+                    "text": "しい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000047",
+            "order": 46,
+            "japanese": "権力に飲まれて揺らぐ灯り",
+            "zh-CN": "被权力吞没而摇曳不定的灯火",
+            "segments": [
+              {
+                "text": "権力に飲まれて揺らぐ灯り",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "権力",
+                    "reading": "けんりょく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "まれて"
+                  },
+                  {
+                    "text": "揺",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "らぐ"
+                  },
+                  {
+                    "text": "灯",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000048",
+            "order": 47,
+            "japanese": "神を否定し神に成り代わり",
+            "zh-CN": "否定神明进而取而代之",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "神を否定し神に成り代わり",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "否定",
+                    "reading": "ひてい"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "成",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "代",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000049",
+            "order": 48,
+            "japanese": "玉座で豹変する小物達",
+            "zh-CN": "在王座上原形毕露的跳梁小丑们",
+            "segments": [
+              {
+                "text": "玉座で豹変する小物達",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "玉座",
+                    "reading": "ぎょくざ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "豹変",
+                    "reading": "ひょうへん"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "小物達",
+                    "reading": "こものたち"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000050",
+            "order": 49,
+            "japanese": "批判に見せかけ自戒の祈り",
+            "zh-CN": "看似批判实则是自戒的祈祷",
+            "segments": [
+              {
+                "text": "批判に見せかけ自戒の祈り",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "批判",
+                    "reading": "ひはん"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "せかけ"
+                  },
+                  {
+                    "text": "自戒",
+                    "reading": "じかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "祈",
+                    "reading": "いの"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000051",
+            "order": 50,
+            "japanese": "Do you know?",
+            "zh-CN": "Do you know?",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Do you know?",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "Do you know?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000052",
+            "order": 51,
+            "japanese": "何言ってんの？　それウザい　",
+            "zh-CN": "在说什么啊？ 真让人心烦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "何言ってんの？　それウザい　",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何言",
+                    "reading": "なにい"
+                  },
+                  {
+                    "text": "ってんの？　それウザい　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000053",
+            "order": 52,
+            "japanese": "何言ってんの？　それ",
+            "zh-CN": "在说什么啊？ 那个",
+            "segments": [
+              {
+                "text": "何言ってんの？　それ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "何言",
+                    "reading": "なにい"
+                  },
+                  {
+                    "text": "ってんの？　それ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000054",
+            "order": 53,
+            "japanese": "意味がよくわかんないし　",
+            "zh-CN": "根本听不懂是什么意思",
+            "segments": [
+              {
+                "text": "意味がよくわかんないし　",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "意味",
+                    "reading": "いみ"
+                  },
+                  {
+                    "text": "がよくわかんないし　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000055",
+            "order": 54,
+            "japanese": "眠っちゃうよ　マジ　",
+            "zh-CN": "简直快睡着了 真的",
+            "segments": [
+              {
+                "text": "眠っちゃうよ　マジ　",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "眠",
+                    "reading": "ねむ"
+                  },
+                  {
+                    "text": "っちゃうよ　マジ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000056",
+            "order": 55,
+            "japanese": "飽きっぽいんだ　オーケー　みんな　",
+            "zh-CN": "很容易厌倦的 好啦 各位",
+            "segments": [
+              {
+                "text": "飽きっぽいんだ　オーケー　みんな　",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "飽",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "きっぽいんだ　オーケー　みんな　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000057",
+            "order": 56,
+            "japanese": "飽きっぽいんだ　オーケー",
+            "zh-CN": "很容易厌倦的 好吧",
+            "segments": [
+              {
+                "text": "飽きっぽいんだ　オーケー",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "飽",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "きっぽいんだ　オーケー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000058",
+            "order": 57,
+            "japanese": "踊れるやつちょうだいちょうだい　ビーム",
+            "zh-CN": "给我来点能跳舞的吧 快给快给 光波",
+            "segments": [
+              {
+                "text": "踊れるやつちょうだいちょうだい　ビーム",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "れるやつちょうだいちょうだい　ビーム"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000059",
+            "order": 58,
+            "japanese": "きっしょいねきっしょいね　",
+            "zh-CN": "真恶心啊真恶心啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "きっしょいねきっしょいね　",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっしょいねきっしょいね　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000060",
+            "order": 59,
+            "japanese": "それきっしょいね　きっしょいね",
+            "zh-CN": "那个真恶心啊 真恶心啊",
+            "segments": [
+              {
+                "text": "それきっしょいね　きっしょいね",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "それきっしょいね　きっしょいね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000061",
+            "order": 60,
+            "japanese": "逆にファンになってきたじゃん",
+            "zh-CN": "反而让人要变成粉丝了嘛",
+            "segments": [
+              {
+                "text": "逆にファンになってきたじゃん",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逆",
+                    "reading": "ぎゃく"
+                  },
+                  {
+                    "text": "にファンになってきたじゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000062",
+            "order": 61,
+            "japanese": "ちっちゃいね　ちっちゃいね　器　",
+            "zh-CN": "好狭隘啊 好狭隘啊 心胸气量",
+            "segments": [
+              {
+                "text": "ちっちゃいね　ちっちゃいね　器　",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちっちゃいね　ちっちゃいね　"
+                  },
+                  {
+                    "text": "器",
+                    "reading": "うつわ"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000063",
+            "order": 62,
+            "japanese": "ちっちゃいね　ちっちゃいね",
+            "zh-CN": "好狭隘啊 好狭隘啊",
+            "segments": [
+              {
+                "text": "ちっちゃいね　ちっちゃいね",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちっちゃいね　ちっちゃいね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000064",
+            "order": 63,
+            "japanese": "天才ゆえ孤独ですね",
+            "zh-CN": "正因是天才所以格外孤独呢",
+            "segments": [
+              {
+                "text": "天才ゆえ孤独ですね",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "天才",
+                    "reading": "てんさい"
+                  },
+                  {
+                    "text": "ゆえ"
+                  },
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "ですね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000065",
+            "order": 64,
+            "japanese": "かっけえ…　かっけえ…",
+            "zh-CN": "太帅了…… 太帅了……",
+            "segments": [
+              {
+                "text": "かっけえ…　かっけえ…",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "かっけえ…　かっけえ…"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000066",
+            "order": 65,
+            "japanese": "“ Gott ist tot \"",
+            "zh-CN": "“ Gott ist tot \"",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "“ Gott ist tot \"",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "“ Gott ist tot \""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000067",
+            "order": 66,
+            "japanese": "神っぽいなそれ　卑怯　神っぽいなそれ 　",
+            "zh-CN": "挺像神一样的嘛那个 卑鄙 挺像神一样的嘛那个",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "神っぽいなそれ　卑怯　神っぽいなそれ 　",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  },
+                  {
+                    "text": "卑怯",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ 　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000068",
+            "order": 67,
+            "japanese": "\"My God\"",
+            "zh-CN": "\"My God\"",
+            "segments": [
+              {
+                "text": "\"My God\"",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "\"My God\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000069",
+            "order": 68,
+            "japanese": "超健康健康　言い張ってくたばっていく感じ",
+            "zh-CN": "嘴硬坚称超健康健康 结果就这么蹬腿死掉的感觉",
+            "segments": [
+              {
+                "text": "超健康健康　言い張ってくたばっていく感じ",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "超健康健康",
+                    "reading": "ちょうけんこうけんこう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "張",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "ってくたばっていく"
+                  },
+                  {
+                    "text": "感",
+                    "reading": "かん"
+                  },
+                  {
+                    "text": "じ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000070",
+            "order": 69,
+            "japanese": "ヤケっぽいなそれ　畢竟　ヤケっぽいなそれ　",
+            "zh-CN": "挺像自暴自弃的嘛那个 毕竟 挺像自暴自弃的嘛那个",
+            "segments": [
+              {
+                "text": "ヤケっぽいなそれ　畢竟　ヤケっぽいなそれ　",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ヤケっぽいなそれ　"
+                  },
+                  {
+                    "text": "畢竟",
+                    "reading": "ひっきょう"
+                  },
+                  {
+                    "text": "　ヤケっぽいなそれ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000071",
+            "order": 70,
+            "japanese": "\"My God\"　",
+            "zh-CN": "\"My God\"",
+            "segments": [
+              {
+                "text": "\"My God\"　",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "\"My God\"　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000072",
+            "order": 71,
+            "japanese": "もう哀愁　哀愁　エピゴーネンのヒール",
+            "zh-CN": "满是哀愁 哀愁 拙劣模仿者的反派角色",
+            "segments": [
+              {
+                "text": "もう哀愁　哀愁　エピゴーネンのヒール",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "哀愁",
+                    "reading": "あいしゅう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "哀愁",
+                    "reading": "あいしゅう"
+                  },
+                  {
+                    "text": "　エピゴーネンのヒール"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000073",
+            "order": 72,
+            "japanese": "そのタイトル　その絵　そのストーリー",
+            "zh-CN": "那个标题 那个插画 那个剧情",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そのタイトル　その絵　そのストーリー",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのタイトル　その"
+                  },
+                  {
+                    "text": "絵",
+                    "reading": "え"
+                  },
+                  {
+                    "text": "　そのストーリー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000074",
+            "order": 73,
+            "japanese": "その音楽　その歌　そのメロディ",
+            "zh-CN": "那首音乐 那段演唱 那曲旋律",
+            "segments": [
+              {
+                "text": "その音楽　その歌　そのメロディ",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "音楽",
+                    "reading": "おんがく"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "　そのメロディ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000075",
+            "order": 74,
+            "japanese": "アレっぽいなそれ　比況　アレっぽいなそれ",
+            "zh-CN": "挺像那个什么的嘛 譬如 挺像那个什么的嘛",
+            "segments": [
+              {
+                "text": "アレっぽいなそれ　比況　アレっぽいなそれ",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "アレっぽいなそれ　"
+                  },
+                  {
+                    "text": "比況",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　アレっぽいなそれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000076",
+            "order": 75,
+            "japanese": "その名言　その意見　その批評",
+            "zh-CN": "那句名言 那个观点 那条批评",
+            "segments": [
+              {
+                "text": "その名言　その意見　その批評",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "名言",
+                    "reading": "めいげん"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "意見",
+                    "reading": "いけん"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "批評",
+                    "reading": "ひひょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000077",
+            "order": 76,
+            "japanese": "そのカリスマ　そのギャグ　そのセンス",
+            "zh-CN": "那种领袖气质 那个段子 那种品味",
+            "segments": [
+              {
+                "text": "そのカリスマ　そのギャグ　そのセンス",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのカリスマ　そのギャグ　そのセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000078",
+            "order": 77,
+            "japanese": "神っぽいなそれ　卑怯　",
+            "zh-CN": "挺像神一样的嘛那个 卑鄙",
+            "segments": [
+              {
+                "text": "神っぽいなそれ　卑怯　",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  },
+                  {
+                    "text": "卑怯",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000079",
+            "order": 78,
+            "japanese": "ぽいなぽいなぽい　憧れちゃうわ！",
+            "zh-CN": "好像啊好像啊真像 让人好生憧憬啊！",
+            "segments": [
+              {
+                "text": "ぽいなぽいなぽい　憧れちゃうわ！",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいなぽいなぽい　"
+                  },
+                  {
+                    "text": "憧",
+                    "reading": "あこが"
+                  },
+                  {
+                    "text": "れちゃうわ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000080",
+            "order": 79,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000081",
+            "order": 80,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000082",
+            "order": 81,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000083",
+            "order": 82,
+            "japanese": "ぽいじゃん　ぽいじゃん",
+            "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+            "segments": [
+              {
+                "text": "ぽいじゃん　ぽいじゃん",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいじゃん　ぽいじゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000084",
+            "order": 83,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000085",
+            "order": 84,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000086",
+            "order": 85,
+            "japanese": "とぅとぅるとぅとぅとぅる",
+            "zh-CN": "嘟噜噜嘟噜嘟噜",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000087",
+            "order": 86,
+            "japanese": "神っぽいな",
+            "zh-CN": "挺像神明一样的嘛",
+            "segments": [
+              {
+                "text": "神っぽいな",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000088",
+            "order": 87,
+            "japanese": "愛のネタバレ 「別れ」っぽいな",
+            "zh-CN": "爱的剧透 好像是「分手」啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛のネタバレ 「別れ」っぽいな",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "のネタバレ 「"
+                  },
+                  {
+                    "text": "別",
+                    "reading": "わか"
+                  },
+                  {
+                    "text": "れ」っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000089",
+            "order": 88,
+            "japanese": "人生のネタバレ 「死ぬ」っぽいな",
+            "zh-CN": "人生的剧透 好像是「死掉」啊",
+            "segments": [
+              {
+                "text": "人生のネタバレ 「死ぬ」っぽいな",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "のネタバレ 「"
+                  },
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ぬ」っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000090",
+            "order": 89,
+            "japanese": "すべて理解して患った",
+            "zh-CN": "理解了一切后反倒患了病",
+            "segments": [
+              {
+                "text": "すべて理解して患った",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "すべて"
+                  },
+                  {
+                    "text": "理解",
+                    "reading": "りかい"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "患",
+                    "reading": "わずら"
+                  },
+                  {
+                    "text": "った"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000091",
+            "order": 90,
+            "japanese": "無邪気に踊っていたかった　人生",
+            "zh-CN": "本想天真烂漫地起舞的　人生",
+            "segments": [
+              {
+                "text": "無邪気に踊っていたかった　",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "無邪気",
+                    "reading": "むじゃき"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "っていたかった　"
+                  }
+                ]
+              },
+              {
+                "text": "人生",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "Oh my god",
+            "zh-CN": "Oh my god",
+            "segments": [
+              {
+                "text": "Oh my god",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "Oh my god"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "愛のネタバレ 「別れ」っぽいな",
+            "zh-CN": "爱的剧透 好像是「分手」啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛のネタバレ 「別れ」っぽいな",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "のネタバレ 「"
+                  },
+                  {
+                    "text": "別",
+                    "reading": "わか"
+                  },
+                  {
+                    "text": "れ」っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "人生のネタバレ 「死ぬ」っぽいな",
+            "zh-CN": "人生的剧透 好像是「死掉」啊",
+            "segments": [
+              {
+                "text": "人生のネタバレ 「死ぬ」っぽいな",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "のネタバレ 「"
+                  },
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ぬ」っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "なにそれ意味深でかっこいいじゃん…",
+            "zh-CN": "那是什么啊 又意味深长又帅气嘛……",
+            "segments": [
+              {
+                "text": "なにそれ意味深でかっこいいじゃん…",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにそれ"
+                  },
+                  {
+                    "text": "意味深",
+                    "reading": "いみしん"
+                  },
+                  {
+                    "text": "でかっこいいじゃん…"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "それっぽい単語集で踊ってんだ　失敬",
+            "zh-CN": "借着似是而非的词汇集翩翩起舞 真是失礼啦",
+            "segments": [
+              {
+                "text": "それっぽい単語集で踊ってんだ　失敬",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "それっぽい"
+                  },
+                  {
+                    "text": "単語集",
+                    "reading": "たんごしゅう"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "ってんだ　"
+                  },
+                  {
+                    "text": "失敬",
+                    "reading": "しっけい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "ぽいじゃん　ぽいじゃん",
+            "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+            "segments": [
+              {
+                "text": "ぽいじゃん　ぽいじゃん",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいじゃん　ぽいじゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "とぅとぅるとぅとぅとぅる",
+            "zh-CN": "嘟噜噜嘟噜嘟噜",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "神っぽいな",
+            "zh-CN": "挺像神明一样的嘛",
+            "segments": [
+              {
+                "text": "神っぽいな",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "もういいぜ　もういいぜ　それ　 ",
+            "zh-CN": "够了啦 够了啦 那个",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "もういいぜ　もういいぜ　それ　 ",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "もういいぜ　もういいぜ　それ　 "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "もういいぜ　もういいぜ　",
+            "zh-CN": "够了啦 够了啦",
+            "segments": [
+              {
+                "text": "もういいぜ　もういいぜ　",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "もういいぜ　もういいぜ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "逆に興奮してきたなあ",
+            "zh-CN": "反而让人兴奋起来了啊",
+            "segments": [
+              {
+                "text": "逆に興奮してきたなあ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逆",
+                    "reading": "ぎゃく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "興奮",
+                    "reading": "こうふん"
+                  },
+                  {
+                    "text": "してきたなあ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "おっきいね　おっきいね　夢",
+            "zh-CN": "好宏大啊 好宏大啊 梦想",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おっきいね　おっきいね　夢",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "おっきいね　おっきいね　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "おっきいね　おっきいね",
+            "zh-CN": "好宏大啊 好宏大啊",
+            "segments": [
+              {
+                "text": "おっきいね　おっきいね",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "おっきいね　おっきいね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "景気いいけど　品性はTHE END",
+            "zh-CN": "听着挺风光 但品行算是彻底完蛋",
+            "segments": [
+              {
+                "text": "景気いいけど　品性はTHE END",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "景気",
+                    "reading": "けいき"
+                  },
+                  {
+                    "text": "いいけど　"
+                  },
+                  {
+                    "text": "品性",
+                    "reading": "ひんせい"
+                  },
+                  {
+                    "text": "はTHE END"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "うええい　うええい",
+            "zh-CN": "呜耶 呜耶",
+            "segments": [
+              {
+                "text": "うええい　うええい",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "うええい　うええい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "“ Gott ist tot \"",
+            "zh-CN": "“ Gott ist tot \"",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "“ Gott ist tot \"",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "“ Gott ist tot \""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "神っぽいなそれ　卑怯　神っぽいなそれ　",
+            "zh-CN": "挺像神一样的嘛那个 卑鄙 挺像神一样的嘛那个",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "神っぽいなそれ　卑怯　神っぽいなそれ　",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  },
+                  {
+                    "text": "卑怯",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "\"My God\"",
+            "zh-CN": "\"My God\"",
+            "segments": [
+              {
+                "text": "\"My God\"",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "\"My God\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "アイウォンチューウォンチュー　IQが下がっていく感じ",
+            "zh-CN": "我渴望你 我需要你 感觉智商正在不断下降",
+            "segments": [
+              {
+                "text": "アイウォンチューウォンチュー　IQが下がっていく感じ",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "アイウォンチューウォンチュー　IQが"
+                  },
+                  {
+                    "text": "下",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "がっていく"
+                  },
+                  {
+                    "text": "感",
+                    "reading": "かん"
+                  },
+                  {
+                    "text": "じ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "邪心ぽいなそれ　畢竟　邪心ぽいなそれ　",
+            "zh-CN": "挺像邪心一样的嘛那个 毕竟 挺像邪心一样的嘛那个",
+            "segments": [
+              {
+                "text": "邪心ぽいなそれ　畢竟　邪心ぽいなそれ　",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "邪心",
+                    "reading": "じゃしん"
+                  },
+                  {
+                    "text": "ぽいなそれ　"
+                  },
+                  {
+                    "text": "畢竟",
+                    "reading": "ひっきょう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "邪心",
+                    "reading": "じゃしん"
+                  },
+                  {
+                    "text": "ぽいなそれ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "\"My God\"",
+            "zh-CN": "\"My God\"",
+            "segments": [
+              {
+                "text": "\"My God\"",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "\"My God\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "アイヘイチューヘイチュー　害虫はどっち",
+            "zh-CN": "我讨厌你 憎恨你 到底谁才是害虫",
+            "segments": [
+              {
+                "text": "アイヘイチューヘイチュー　害虫はどっち",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "アイヘイチューヘイチュー　"
+                  },
+                  {
+                    "text": "害虫",
+                    "reading": "がいちゅう"
+                  },
+                  {
+                    "text": "はどっち"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "その髪型　その目　その口元",
+            "zh-CN": "那个发型 那个眼神 那个嘴角",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "その髪型　その目　その口元",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "髪型",
+                    "reading": "かみがた"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "口元",
+                    "reading": "くちもと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "その香水　その服　そのメイク",
+            "zh-CN": "那个香水 那个穿着 那个妆容",
+            "segments": [
+              {
+                "text": "その香水　その服　そのメイク",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "香水",
+                    "reading": "こうすい"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "服",
+                    "reading": "ふく"
+                  },
+                  {
+                    "text": "　そのメイク"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000030",
+            "order": 29,
+            "japanese": "アレっぽいなそれ",
+            "zh-CN": "挺像那个什么的嘛",
+            "segments": [
+              {
+                "text": "アレっぽいなそれ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "アレっぽいなそれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000031",
+            "order": 30,
+            "japanese": "比況　アレっぽいなそれ",
+            "zh-CN": "譬如 挺像那个什么的嘛",
+            "segments": [
+              {
+                "text": "比況　アレっぽいなそれ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "比況",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　アレっぽいなそれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000032",
+            "order": 31,
+            "japanese": "その名言　その意見　その批評",
+            "zh-CN": "那句名言 那个观点 那条批评",
+            "segments": [
+              {
+                "text": "その名言　その意見　その批評",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "名言",
+                    "reading": "めいげん"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "意見",
+                    "reading": "いけん"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "批評",
+                    "reading": "ひひょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000033",
+            "order": 32,
+            "japanese": "そのカリスマ　そのギャグ　そのセンス",
+            "zh-CN": "那种领袖气质 那个段子 那种品味",
+            "segments": [
+              {
+                "text": "そのカリスマ　そのギャグ　そのセンス",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのカリスマ　そのギャグ　そのセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000034",
+            "order": 33,
+            "japanese": "神っぽいなそれ　卑怯",
+            "zh-CN": "挺像神一样的嘛那个 卑鄙",
+            "segments": [
+              {
+                "text": "神っぽいなそれ　卑怯",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  },
+                  {
+                    "text": "卑怯",
+                    "reading": "ひきょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000035",
+            "order": 34,
+            "japanese": "ぽいなぽいなぽい　憧れちゃう！",
+            "zh-CN": "好像啊好像啊真像 让人好生憧憬！",
+            "segments": [
+              {
+                "text": "ぽいなぽいなぽい　憧れちゃう！",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいなぽいなぽい　"
+                  },
+                  {
+                    "text": "憧",
+                    "reading": "あこが"
+                  },
+                  {
+                    "text": "れちゃう！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000036",
+            "order": 35,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000037",
+            "order": 36,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000038",
+            "order": 37,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000039",
+            "order": 38,
+            "japanese": "ぽいじゃん　ぽいじゃん",
+            "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+            "segments": [
+              {
+                "text": "ぽいじゃん　ぽいじゃん",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいじゃん　ぽいじゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000040",
+            "order": 39,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000041",
+            "order": 40,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000042",
+            "order": 41,
+            "japanese": "とぅとぅるとぅとぅとぅる",
+            "zh-CN": "嘟噜噜嘟噜嘟噜",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000043",
+            "order": 42,
+            "japanese": "神っぽいな",
+            "zh-CN": "挺像神明一样的嘛",
+            "segments": [
+              {
+                "text": "神っぽいな",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000044",
+            "order": 43,
+            "japanese": "神っぽいなそれ　卑怯　神っぽいなそれ 　",
+            "zh-CN": "挺像神一样的嘛那个 卑鄙 挺像神一样的嘛那个",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "神っぽいなそれ　卑怯　神っぽいなそれ 　",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  },
+                  {
+                    "text": "卑怯",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ 　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000045",
+            "order": 44,
+            "japanese": "\"My God\"",
+            "zh-CN": "\"My God\"",
+            "segments": [
+              {
+                "text": "\"My God\"",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "\"My God\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000046",
+            "order": 45,
+            "japanese": "超健康健康　言い張ってくたばっていく感じ",
+            "zh-CN": "嘴硬坚称超健康健康 结果就这么蹬腿死掉的感觉",
+            "segments": [
+              {
+                "text": "超健康健康　言い張ってくたばっていく感じ",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "超健康健康",
+                    "reading": "ちょうけんこうけんこう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "張",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "ってくたばっていく"
+                  },
+                  {
+                    "text": "感",
+                    "reading": "かん"
+                  },
+                  {
+                    "text": "じ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000047",
+            "order": 46,
+            "japanese": "ヤケっぽいなそれ　畢竟　ヤケっぽいなそれ　",
+            "zh-CN": "挺像自暴自弃的嘛那个 毕竟 挺像自暴自弃的嘛那个",
+            "segments": [
+              {
+                "text": "ヤケっぽいなそれ　畢竟　ヤケっぽいなそれ　",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ヤケっぽいなそれ　"
+                  },
+                  {
+                    "text": "畢竟",
+                    "reading": "ひっきょう"
+                  },
+                  {
+                    "text": "　ヤケっぽいなそれ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000048",
+            "order": 47,
+            "japanese": "\"My God\"　",
+            "zh-CN": "\"My God\"",
+            "segments": [
+              {
+                "text": "\"My God\"　",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "\"My God\"　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000049",
+            "order": 48,
+            "japanese": "もう哀愁　哀愁　エピゴーネンのヒール",
+            "zh-CN": "满是哀愁 哀愁 拙劣模仿者的反派角色",
+            "segments": [
+              {
+                "text": "もう哀愁　哀愁　エピゴーネンのヒール",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "哀愁",
+                    "reading": "あいしゅう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "哀愁",
+                    "reading": "あいしゅう"
+                  },
+                  {
+                    "text": "　エピゴーネンのヒール"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000050",
+            "order": 49,
+            "japanese": "そのタイトル　その絵　そのストーリー",
+            "zh-CN": "那个标题 那个插画 那个剧情",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そのタイトル　その絵　そのストーリー",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのタイトル　その"
+                  },
+                  {
+                    "text": "絵",
+                    "reading": "え"
+                  },
+                  {
+                    "text": "　そのストーリー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000051",
+            "order": 50,
+            "japanese": "その音楽　その歌　そのメロディ",
+            "zh-CN": "那首音乐 那段演唱 那曲旋律",
+            "segments": [
+              {
+                "text": "その音楽　その歌　そのメロディ",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "音楽",
+                    "reading": "おんがく"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "　そのメロディ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000052",
+            "order": 51,
+            "japanese": "アレっぽいなそれ　比況　アレっぽいなそれ",
+            "zh-CN": "挺像那个什么的嘛 譬如 挺像那个什么的嘛",
+            "segments": [
+              {
+                "text": "アレっぽいなそれ　比況　アレっぽいなそれ",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "アレっぽいなそれ　"
+                  },
+                  {
+                    "text": "比況",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　アレっぽいなそれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000053",
+            "order": 52,
+            "japanese": "その名言　その意見　その批評",
+            "zh-CN": "那句名言 那个观点 那条批评",
+            "segments": [
+              {
+                "text": "その名言　その意見　その批評",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "名言",
+                    "reading": "めいげん"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "意見",
+                    "reading": "いけん"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "批評",
+                    "reading": "ひひょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000054",
+            "order": 53,
+            "japanese": "そのカリスマ　そのギャグ　そのセンス",
+            "zh-CN": "那种领袖气质 那个段子 那种品味",
+            "segments": [
+              {
+                "text": "そのカリスマ　そのギャグ　そのセンス",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのカリスマ　そのギャグ　そのセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000055",
+            "order": 54,
+            "japanese": "神っぽいなそれ　卑怯　",
+            "zh-CN": "挺像神一样的嘛那个 卑鄙",
+            "segments": [
+              {
+                "text": "神っぽいなそれ　卑怯　",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいなそれ　"
+                  },
+                  {
+                    "text": "卑怯",
+                    "reading": "ひきょう"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000056",
+            "order": 55,
+            "japanese": "ぽいなぽいなぽい　憧れちゃうわ！",
+            "zh-CN": "好像啊好像啊真像 让人好生憧憬啊！",
+            "segments": [
+              {
+                "text": "ぽいなぽいなぽい　憧れちゃうわ！",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいなぽいなぽい　"
+                  },
+                  {
+                    "text": "憧",
+                    "reading": "あこが"
+                  },
+                  {
+                    "text": "れちゃうわ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000057",
+            "order": 56,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000058",
+            "order": 57,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000059",
+            "order": 58,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000060",
+            "order": 59,
+            "japanese": "ぽいじゃん　ぽいじゃん",
+            "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+            "segments": [
+              {
+                "text": "ぽいじゃん　ぽいじゃん",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぽいじゃん　ぽいじゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000061",
+            "order": 60,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000062",
+            "order": 61,
+            "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+            "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる\"風\"",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる\""
+                  },
+                  {
+                    "text": "風",
+                    "reading": "ふう"
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000063",
+            "order": 62,
+            "japanese": "とぅとぅるとぅとぅとぅる",
+            "zh-CN": "嘟噜噜嘟噜嘟噜",
+            "segments": [
+              {
+                "text": "とぅとぅるとぅとぅとぅる",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "とぅとぅるとぅとぅとぅる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000064",
+            "order": 63,
+            "japanese": "神っぽいな",
+            "zh-CN": "挺像神明一样的嘛",
+            "segments": [
+              {
+                "text": "神っぽいな",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000065",
+            "order": 64,
+            "japanese": "愛のネタバレ 「別れ」っぽいな",
+            "zh-CN": "爱的剧透 好像是「分手」啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "愛のネタバレ 「別れ」っぽいな",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "のネタバレ 「"
+                  },
+                  {
+                    "text": "別",
+                    "reading": "わか"
+                  },
+                  {
+                    "text": "れ」っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000066",
+            "order": 65,
+            "japanese": "人生のネタバレ 「死ぬ」っぽいな",
+            "zh-CN": "人生的剧透 好像是「死掉」啊",
+            "segments": [
+              {
+                "text": "人生のネタバレ 「死ぬ」っぽいな",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "のネタバレ 「"
+                  },
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "ぬ」っぽいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000067",
+            "order": 66,
+            "japanese": "すべて理解して患った",
+            "zh-CN": "理解了一切后反倒患了病",
+            "segments": [
+              {
+                "text": "すべて理解して患った",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "すべて"
+                  },
+                  {
+                    "text": "理解",
+                    "reading": "りかい"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "患",
+                    "reading": "わずら"
+                  },
+                  {
+                    "text": "った"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000068",
+            "order": 67,
+            "japanese": "無邪気に踊っていたかった　人生",
+            "zh-CN": "本想天真烂漫地起舞的　人生",
+            "segments": [
+              {
+                "text": "無邪気に踊っていたかった　",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "無邪気",
+                    "reading": "むじゃき"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "っていたかった　"
+                  }
+                ]
+              },
+              {
+                "text": "人生",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035",
+          "full-000036",
+          "full-000037",
+          "full-000038",
+          "full-000039",
+          "full-000040",
+          "full-000041",
+          "full-000042",
+          "full-000043",
+          "full-000067",
+          "full-000068",
+          "full-000069",
+          "full-000070",
+          "full-000071",
+          "full-000072",
+          "full-000073",
+          "full-000074",
+          "full-000075",
+          "full-000076",
+          "full-000077",
+          "full-000078",
+          "full-000079",
+          "full-000080",
+          "full-000081",
+          "full-000082",
+          "full-000083",
+          "full-000084",
+          "full-000085",
+          "full-000086",
+          "full-000087",
+          "full-000088",
+          "full-000089",
+          "full-000090",
+          "full-000091"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Kamippoi na",
+          "revisionId": 329717,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kamippoi_na?oldid=329717",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Kamippoi na",
+          "revisionId": 329717,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kamippoi_na?oldid=329717",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Kamippoi na",
+          "revisionId": 329717,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kamippoi_na?oldid=329717",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Kamippoi na",
+          "revisionId": 329717,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kamippoi_na?oldid=329717",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Kamippoi na",
+          "revisionId": 329717,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kamippoi_na?oldid=329717",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

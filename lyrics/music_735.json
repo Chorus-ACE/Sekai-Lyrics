@@ -1,0 +1,2329 @@
+{
+  "version": 3,
+  "musicId": 735,
+  "revision": 4,
+  "updatedAt": "2026-10-14T16:51:27Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "細工は流々 無理難題のルール",
+            "zh-CN": "机关精巧 强人所难的规则",
+            "segments": [
+              {
+                "text": "細工は流々 無理難題のルール",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "細工",
+                    "reading": "さいく"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "流々",
+                    "reading": "りゅうりゅう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "無理難題",
+                    "reading": "むりなんだい"
+                  },
+                  {
+                    "text": "のルール"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "さぁどうしたらいい 僕はどうしたらいい",
+            "zh-CN": "来吧该如何是好 我到底该如何是好",
+            "segments": [
+              {
+                "text": "さぁどうしたらいい 僕はどうしたらいい",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "さぁどうしたらいい "
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "はどうしたらいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "傀儡の武具 足りない何かルーツ",
+            "zh-CN": "傀儡的武装 缺失的某种根源",
+            "segments": [
+              {
+                "text": "傀儡の武具 足りない何かルーツ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "傀儡",
+                    "reading": "かいらい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "武具",
+                    "reading": "ぶぐ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "りない"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "かルーツ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "挑んだらいい 彼に挑んだらいい",
+            "zh-CN": "去挑战便好 向他发起挑战便好",
+            "segments": [
+              {
+                "text": "挑んだらいい 彼に挑んだらいい",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "挑",
+                    "reading": "いど"
+                  },
+                  {
+                    "text": "んだらいい "
+                  },
+                  {
+                    "text": "彼",
+                    "reading": "かれ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "挑",
+                    "reading": "いど"
+                  },
+                  {
+                    "text": "んだらいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "灯台下暗しOK",
+            "zh-CN": "灯下黑 无所谓 OK",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "灯台下暗しOK",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "灯台下暗",
+                    "reading": "とうだいもとくら"
+                  },
+                  {
+                    "text": "しOK"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "いてもたってもいられないシーソーゲーム",
+            "zh-CN": "坐立难安的拉锯跷跷板",
+            "segments": [
+              {
+                "text": "いてもたってもいられないシーソーゲーム",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "いてもたってもいられないシーソーゲーム"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "導く関数 未知なるLANDS",
+            "zh-CN": "指引方向的函数 未知的 LANDS",
+            "segments": [
+              {
+                "text": "導く関数 未知なるLANDS",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "導",
+                    "reading": "みちび"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "関数",
+                    "reading": "かんすう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "未知",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "なるLANDS"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "321始めよう前哨戦",
+            "zh-CN": "321 开始吧前哨战",
+            "segments": [
+              {
+                "text": "321始めよう前哨戦",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "321"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めよう"
+                  },
+                  {
+                    "text": "前哨",
+                    "reading": "ぜんしょう"
+                  },
+                  {
+                    "text": "戦",
+                    "reading": "せん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "横目にずっと煌めくんだ 一番星なぞる",
+            "zh-CN": "侧目始终闪烁璀璨 描摹头号星辰",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "横目にずっと煌めくんだ 一番星なぞる",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "横目",
+                    "reading": "よこめ"
+                  },
+                  {
+                    "text": "にずっと"
+                  },
+                  {
+                    "text": "煌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "めくんだ "
+                  },
+                  {
+                    "text": "一番星",
+                    "reading": "いちばんぼし"
+                  },
+                  {
+                    "text": "なぞる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "(ah~)",
+            "zh-CN": "(ah~)",
+            "segments": [
+              {
+                "text": "(ah~)",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ah~)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "突き詰めても グレーでいたいんだ",
+            "zh-CN": "纵使追根究底 也想保持灰色",
+            "segments": [
+              {
+                "text": "突き詰めても グレーでいたいんだ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "突",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "詰",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "めても グレーでいたいんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "普通じゃないから",
+            "zh-CN": "因为并非寻常普通",
+            "segments": [
+              {
+                "text": "普通じゃないから",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "普通",
+                    "reading": "ふつう"
+                  },
+                  {
+                    "text": "じゃないから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "ただスピードを上げながら",
+            "zh-CN": "唯有不断加速飞驰",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただスピードを上げながら",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただスピードを"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げながら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "宇宙に浮かんでいく",
+            "zh-CN": "漂浮在宇宙星空",
+            "segments": [
+              {
+                "text": "宇宙に浮かんでいく",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "浮",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "かんでいく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "命短し故",
+            "zh-CN": "生命苦短 故而",
+            "segments": [
+              {
+                "text": "命短し故",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "命短",
+                    "reading": "いのちみじか"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "故",
+                    "reading": "ゆえ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "止まぬ残響と言葉跳ねる度",
+            "zh-CN": "每当不绝的残响与言语跃动",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "止まぬ残響と言葉跳ねる度",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "まぬ"
+                  },
+                  {
+                    "text": "残響",
+                    "reading": "るざんきょう"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "言葉跳",
+                    "reading": "ことばは"
+                  },
+                  {
+                    "text": "ねる"
+                  },
+                  {
+                    "text": "度",
+                    "reading": "たび"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "降りそそぐ光が踊り照らすのさ",
+            "zh-CN": "倾泻而下的光芒便翩跹照耀",
+            "segments": [
+              {
+                "text": "降りそそぐ光が踊り照らすのさ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "降",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "りそそぐ"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひかり"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らすのさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "二千年の歴史を演じよう",
+            "zh-CN": "演绎两千年的漫长历史吧",
+            "segments": [
+              {
+                "text": "二千年の歴史を演じよう",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "二千年",
+                    "reading": "にせんねん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "歴史",
+                    "reading": "れきし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "演",
+                    "reading": "えん"
+                  },
+                  {
+                    "text": "じよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "咎められたなら即あっかんべ べ べ べ",
+            "zh-CN": "若被责怪就立刻做鬼脸 略略略略",
+            "segments": [
+              {
+                "text": "咎められたなら即あっかんべ べ べ べ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "咎",
+                    "reading": "とが"
+                  },
+                  {
+                    "text": "められたなら"
+                  },
+                  {
+                    "text": "即",
+                    "reading": "そく"
+                  },
+                  {
+                    "text": "あっかんべ べ べ べ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "僕ら奇想天外怪異祟り",
+            "zh-CN": "我们是奇想天外的怪异作祟",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕ら奇想天外怪異祟り",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "ら"
+                  },
+                  {
+                    "text": "奇想天外怪異祟",
+                    "reading": "きそうてんがいかいいたた"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "フラフープクルクル傀儡回る",
+            "zh-CN": "呼啦圈咕噜咕噜 傀儡旋转回旋",
+            "segments": [
+              {
+                "text": "フラフープクルクル傀儡回る",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "フラフープクルクル"
+                  },
+                  {
+                    "text": "傀儡",
+                    "reading": "くぐつ"
+                  },
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "夢理想現実追う係",
+            "zh-CN": "追逐梦想理想现实的担当",
+            "segments": [
+              {
+                "text": "夢理想現実追う係",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "理想",
+                    "reading": "りそう"
+                  },
+                  {
+                    "text": "現実",
+                    "reading": "げんじつ"
+                  },
+                  {
+                    "text": "追",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "係",
+                    "reading": "かかり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "フラフープクルクル傀儡のうつつ",
+            "zh-CN": "呼啦圈咕噜咕噜 傀儡的虚妄之境",
+            "segments": [
+              {
+                "text": "フラフープクルクル傀儡のうつつ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "フラフープクルクル"
+                  },
+                  {
+                    "text": "傀儡",
+                    "reading": "くぐつ"
+                  },
+                  {
+                    "text": "のうつつ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "321 321",
+            "zh-CN": "321 321",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "321 321",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "321 321"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "321始めよう前哨戦",
+            "zh-CN": "321 开始吧前哨战",
+            "segments": [
+              {
+                "text": "321始めよう前哨戦",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "321"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めよう"
+                  },
+                  {
+                    "text": "前哨",
+                    "reading": "ぜんしょう"
+                  },
+                  {
+                    "text": "戦",
+                    "reading": "せん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "繰り返したら何か違った",
+            "zh-CN": "循环往复后似乎有些变样",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "繰り返したら何か違った",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "繰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "返",
+                    "reading": "かえ"
+                  },
+                  {
+                    "text": "したら"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "にがちが"
+                  },
+                  {
+                    "text": "った"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "君の声を望む",
+            "zh-CN": "渴求着你的声音",
+            "segments": [
+              {
+                "text": "君の声を望む",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "望",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "む"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "偽ってた憤りが",
+            "zh-CN": "伪装粉饰的愤懑之情",
+            "segments": [
+              {
+                "text": "偽ってた憤りが",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "偽",
+                    "reading": "いつわ"
+                  },
+                  {
+                    "text": "ってた"
+                  },
+                  {
+                    "text": "憤",
+                    "reading": "いきどお"
+                  },
+                  {
+                    "text": "りが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "闇に浮かんだら",
+            "zh-CN": "一旦浮现在黑暗中",
+            "segments": [
+              {
+                "text": "闇に浮かんだら",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "闇",
+                    "reading": "やみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "浮",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "かんだら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "繋がれた糸先を手繰り寄せるのさ",
+            "zh-CN": "便将相系绳线的彼端拉扯过来",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "繋がれた糸先を手繰り寄せるのさ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "繋",
+                    "reading": "つな"
+                  },
+                  {
+                    "text": "がれた"
+                  },
+                  {
+                    "text": "糸先",
+                    "reading": "いとさき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "手繰",
+                    "reading": "てぐ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "寄",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "せるのさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "現の宴へ",
+            "zh-CN": "迈向现世的狂宴",
+            "segments": [
+              {
+                "text": "現の宴へ",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "現",
+                    "reading": "うつつ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "宴",
+                    "reading": "うたげ"
+                  },
+                  {
+                    "text": "へ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "生きた証明と夢を嘆くがいい",
+            "zh-CN": "尽情为活着的证明与梦想叹息吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "生きた証明と夢を嘆くがいい",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きた"
+                  },
+                  {
+                    "text": "証明",
+                    "reading": "しょうめい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "嘆",
+                    "reading": "なげ"
+                  },
+                  {
+                    "text": "くがいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "華やいだ世界で吹き込む命よ",
+            "zh-CN": "在繁华绚烂的世界注入生命吧",
+            "segments": [
+              {
+                "text": "華やいだ世界で吹き込む命よ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "華",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "やいだ"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "吹",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "む"
+                  },
+                  {
+                    "text": "命",
+                    "reading": "いのち"
+                  },
+                  {
+                    "text": "よ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "類稀な君を演じよう",
+            "zh-CN": "演绎那举世无双的你吧",
+            "segments": [
+              {
+                "text": "類稀な君を演じよう",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "類稀",
+                    "reading": "たぐいまれ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "演",
+                    "reading": "えん"
+                  },
+                  {
+                    "text": "じよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "認められるまで取り憑いていて て て て",
+            "zh-CN": "直到被认可为止一直纠缠附身吧 吧 吧 吧",
+            "segments": [
+              {
+                "text": "認められるまで取り憑いていて て て て",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "認",
+                    "reading": "みと"
+                  },
+                  {
+                    "text": "められるまで"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "憑",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いていて て て て"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "僕ら奇想天外怪異祟り",
+            "zh-CN": "我们是奇想天外的怪异作祟",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕ら奇想天外怪異祟り",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "ら"
+                  },
+                  {
+                    "text": "奇想天外怪異祟",
+                    "reading": "きそうてんがいかいいたた"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "フラフープクルクル傀儡回る",
+            "zh-CN": "呼啦圈咕噜咕噜 傀儡旋转回旋",
+            "segments": [
+              {
+                "text": "フラフープクルクル傀儡回る",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "フラフープクルクル"
+                  },
+                  {
+                    "text": "傀儡",
+                    "reading": "くぐつ"
+                  },
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "夢理想現実追う係",
+            "zh-CN": "追逐梦想理想现实的担当",
+            "segments": [
+              {
+                "text": "夢理想現実追う係",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "理想",
+                    "reading": "りそう"
+                  },
+                  {
+                    "text": "現実",
+                    "reading": "げんじつ"
+                  },
+                  {
+                    "text": "追",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "係",
+                    "reading": "かかり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "フラフープクルクル傀儡のうつつ",
+            "zh-CN": "呼啦圈咕噜咕噜 傀儡的虚妄之境",
+            "segments": [
+              {
+                "text": "フラフープクルクル傀儡のうつつ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "フラフープクルクル"
+                  },
+                  {
+                    "text": "傀儡",
+                    "reading": "くぐつ"
+                  },
+                  {
+                    "text": "のうつつ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "初めまして次の章へ",
+            "zh-CN": "初次见面 迈向下一个篇章",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "初めまして次の章へ",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "初",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めまして"
+                  },
+                  {
+                    "text": "次",
+                    "reading": "つぎ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "章",
+                    "reading": "しょう"
+                  },
+                  {
+                    "text": "へ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "命短し故",
+            "zh-CN": "生命苦短 故而",
+            "segments": [
+              {
+                "text": "命短し故",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "命短",
+                    "reading": "いのちみじか"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "故",
+                    "reading": "ゆえ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "細工は流々 無理難題のルール",
+            "zh-CN": "机关精巧 强人所难的规则",
+            "segments": [
+              {
+                "text": "細工は流々 無理難題のルール",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "細工",
+                    "reading": "さいく"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "流々",
+                    "reading": "りゅうりゅう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "無理難題",
+                    "reading": "むりなんだい"
+                  },
+                  {
+                    "text": "のルール"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "さぁどうしたらいい 僕はどうしたらいい",
+            "zh-CN": "来吧该如何是好 我到底该如何是好",
+            "segments": [
+              {
+                "text": "さぁどうしたらいい 僕はどうしたらいい",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "さぁどうしたらいい "
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "はどうしたらいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "傀儡の武具 足りない何かルーツ",
+            "zh-CN": "傀儡的武装 缺失的某种根源",
+            "segments": [
+              {
+                "text": "傀儡の武具 足りない何かルーツ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "傀儡",
+                    "reading": "かいらい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "武具",
+                    "reading": "ぶぐ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "りない"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "かルーツ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "挑んだらいい 彼に挑んだらいい",
+            "zh-CN": "去挑战便好 向他发起挑战便好",
+            "segments": [
+              {
+                "text": "挑んだらいい 彼に挑んだらいい",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "挑",
+                    "reading": "いど"
+                  },
+                  {
+                    "text": "んだらいい "
+                  },
+                  {
+                    "text": "彼",
+                    "reading": "かれ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "挑",
+                    "reading": "いど"
+                  },
+                  {
+                    "text": "んだらいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "灯台下暗しOK",
+            "zh-CN": "灯下黑 无所谓 OK",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "灯台下暗しOK",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "灯台下暗",
+                    "reading": "とうだいもとくら"
+                  },
+                  {
+                    "text": "しOK"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "いてもたってもいられないシーソーゲーム",
+            "zh-CN": "坐立难安的拉锯跷跷板",
+            "segments": [
+              {
+                "text": "いてもたってもいられないシーソーゲーム",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "いてもたってもいられないシーソーゲーム"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "導く関数 未知なるLANDS",
+            "zh-CN": "指引方向的函数 未知的 LANDS",
+            "segments": [
+              {
+                "text": "導く関数 未知なるLANDS",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "導",
+                    "reading": "みちび"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "関数",
+                    "reading": "かんすう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "未知",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "なるLANDS"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "321始めよう前哨戦",
+            "zh-CN": "321 开始吧前哨战",
+            "segments": [
+              {
+                "text": "321始めよう前哨戦",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "321"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めよう"
+                  },
+                  {
+                    "text": "前哨",
+                    "reading": "ぜんしょう"
+                  },
+                  {
+                    "text": "戦",
+                    "reading": "せん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "横目にずっと煌めくんだ 一番星なぞる",
+            "zh-CN": "侧目始终闪烁璀璨 描摹头号星辰",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "横目にずっと煌めくんだ 一番星なぞる",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "横目",
+                    "reading": "よこめ"
+                  },
+                  {
+                    "text": "にずっと"
+                  },
+                  {
+                    "text": "煌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "めくんだ "
+                  },
+                  {
+                    "text": "一番星",
+                    "reading": "いちばんぼし"
+                  },
+                  {
+                    "text": "なぞる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "(ah~)",
+            "zh-CN": "(ah~)",
+            "segments": [
+              {
+                "text": "(ah~)",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ah~)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "突き詰めても グレーでいたいんだ",
+            "zh-CN": "纵使追根究底 也想保持灰色",
+            "segments": [
+              {
+                "text": "突き詰めても グレーでいたいんだ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "突",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "詰",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "めても グレーでいたいんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "普通じゃないから",
+            "zh-CN": "因为并非寻常普通",
+            "segments": [
+              {
+                "text": "普通じゃないから",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "普通",
+                    "reading": "ふつう"
+                  },
+                  {
+                    "text": "じゃないから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "ただスピードを上げながら",
+            "zh-CN": "唯有不断加速飞驰",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただスピードを上げながら",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただスピードを"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げながら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "宇宙に浮かんでいく",
+            "zh-CN": "漂浮在宇宙星空",
+            "segments": [
+              {
+                "text": "宇宙に浮かんでいく",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "浮",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "かんでいく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "命短し故",
+            "zh-CN": "生命苦短 故而",
+            "segments": [
+              {
+                "text": "命短し故",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "命短",
+                    "reading": "いのちみじか"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "故",
+                    "reading": "ゆえ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "止まぬ残響と言葉跳ねる度",
+            "zh-CN": "每当不绝的残响与言语跃动",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "止まぬ残響と言葉跳ねる度",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "まぬ"
+                  },
+                  {
+                    "text": "残響",
+                    "reading": "るざんきょう"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "言葉跳",
+                    "reading": "ことばは"
+                  },
+                  {
+                    "text": "ねる"
+                  },
+                  {
+                    "text": "度",
+                    "reading": "たび"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "降りそそぐ光が踊り照らすのさ",
+            "zh-CN": "倾泻而下的光芒便翩跹照耀",
+            "segments": [
+              {
+                "text": "降りそそぐ光が踊り照らすのさ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "降",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "りそそぐ"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひかり"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らすのさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "二千年の歴史を演じよう",
+            "zh-CN": "演绎两千年的漫长历史吧",
+            "segments": [
+              {
+                "text": "二千年の歴史を演じよう",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "二千年",
+                    "reading": "にせんねん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "歴史",
+                    "reading": "れきし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "演",
+                    "reading": "えん"
+                  },
+                  {
+                    "text": "じよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "咎められたなら即あっかんべ べ べ べ",
+            "zh-CN": "若被责怪就立刻做鬼脸 略略略略",
+            "segments": [
+              {
+                "text": "咎められたなら即あっかんべ べ べ べ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "咎",
+                    "reading": "とが"
+                  },
+                  {
+                    "text": "められたなら"
+                  },
+                  {
+                    "text": "即",
+                    "reading": "そく"
+                  },
+                  {
+                    "text": "あっかんべ べ べ べ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "僕ら奇想天外怪異祟り",
+            "zh-CN": "我们是奇想天外的怪异作祟",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕ら奇想天外怪異祟り",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "ら"
+                  },
+                  {
+                    "text": "奇想天外怪異祟",
+                    "reading": "きそうてんがいかいいたた"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "フラフープクルクル傀儡回る",
+            "zh-CN": "呼啦圈咕噜咕噜 傀儡旋转回旋",
+            "segments": [
+              {
+                "text": "フラフープクルクル傀儡回る",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "フラフープクルクル"
+                  },
+                  {
+                    "text": "傀儡",
+                    "reading": "くぐつ"
+                  },
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "夢理想現実追う係",
+            "zh-CN": "追逐梦想理想现实的担当",
+            "segments": [
+              {
+                "text": "夢理想現実追う係",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "理想",
+                    "reading": "りそう"
+                  },
+                  {
+                    "text": "現実",
+                    "reading": "げんじつ"
+                  },
+                  {
+                    "text": "追",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "係",
+                    "reading": "かかり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "フラフープクルクル傀儡のうつつ",
+            "zh-CN": "呼啦圈咕噜咕噜 傀儡的虚妄之境",
+            "segments": [
+              {
+                "text": "フラフープクルクル傀儡のうつつ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "フラフープクルクル"
+                  },
+                  {
+                    "text": "傀儡",
+                    "reading": "くぐつ"
+                  },
+                  {
+                    "text": "のうつつ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Kugutsu no Utsutsu",
+          "revisionId": 328835,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kugutsu_no_Utsutsu?oldid=328835",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Kugutsu no Utsutsu",
+          "revisionId": 328835,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kugutsu_no_Utsutsu?oldid=328835",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Kugutsu no Utsutsu",
+          "revisionId": 328835,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kugutsu_no_Utsutsu?oldid=328835",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Kugutsu no Utsutsu",
+          "revisionId": 328835,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kugutsu_no_Utsutsu?oldid=328835",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Kugutsu no Utsutsu",
+          "revisionId": 328835,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kugutsu_no_Utsutsu?oldid=328835",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

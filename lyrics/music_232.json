@@ -1,0 +1,5008 @@
+{
+  "version": 3,
+  "musicId": 232,
+  "revision": 5,
+  "updatedAt": "2026-10-14T16:01:37Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-04",
+          "name": "日野森志歩"
+        },
+        {
+          "performerId": "歌唱者-08",
+          "name": "日野森雫"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "互い、違う映画の中で （ああ～）",
+            "zh-CN": "彼此身处不同的电影之中 （啊啊～）",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で "
+                  }
+                ]
+              },
+              {
+                "text": "（ああ～）",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "胸の奥に　いつかの跡",
+            "zh-CN": "胸膛深处 留存着曾经的印记痕迹",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "胸の奥に　いつかの跡",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "奥",
+                    "reading": "おく"
+                  },
+                  {
+                    "text": "に　いつかの"
+                  },
+                  {
+                    "text": "跡",
+                    "reading": "あと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "くびれた先の　丸い灯りは (Oh yeah)",
+            "zh-CN": "纤细瓶颈的前方 浑圆的灯火 (Oh yeah)",
+            "segments": [
+              {
+                "text": "くびれた先の　丸い灯りは ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "くびれた"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "丸",
+                    "reading": "まる"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "灯",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "りは "
+                  }
+                ]
+              },
+              {
+                "text": "(Oh yeah)",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-08",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "堤防のある街で",
+            "zh-CN": "在有着防波堤的街道上",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "堤防のある街で",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "堤防",
+                    "reading": "ていぼ"
+                  },
+                  {
+                    "text": "のある"
+                  },
+                  {
+                    "text": "街",
+                    "reading": "のまち"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "打ち上げ花火を並べている",
+            "zh-CN": "摆弄排列着一根根烟花",
+            "segments": [
+              {
+                "text": "打ち上げ花火を並べている",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "花火",
+                    "reading": "はなび"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "並",
+                    "reading": "なら"
+                  },
+                  {
+                    "text": "べている"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "逆さまに消えた　火花、",
+            "zh-CN": "颠倒消失的 璀璨火花、",
+            "segments": [
+              {
+                "text": "逆さまに消えた　火花、",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逆",
+                    "reading": "さか"
+                  },
+                  {
+                    "text": "さまに"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えた　"
+                  },
+                  {
+                    "text": "火花",
+                    "reading": "ひばな"
+                  },
+                  {
+                    "text": "、"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "ラムネを開ける音　夏、だった。",
+            "zh-CN": "开波子汽水的声音 那曾是、夏天。",
+            "segments": [
+              {
+                "text": "ラムネを開ける音　夏、だった。",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラムネを"
+                  },
+                  {
+                    "text": "開",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夏",
+                    "reading": "なつ"
+                  },
+                  {
+                    "text": "、だった。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "煤を被った　青色絵具",
+            "zh-CN": "沾满煤烟烟灰的 蓝色颜料",
+            "segments": [
+              {
+                "text": "煤を被った　",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "煤",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "被",
+                    "reading": "かぶ"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "青色絵具",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "青色絵具",
+                    "reading": "あおいろえのぐ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "互い、違う映画の中で",
+            "zh-CN": "彼此身处不同的电影之中",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "防波堤、金網の肌 Mmm",
+            "zh-CN": "防波堤 铁丝网的触感 Mmm",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "防波堤、金網の肌 Mmm",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "防波堤",
+                    "reading": "ぼうはてい"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "金網",
+                    "reading": "かなあみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "肌",
+                    "reading": "はだ"
+                  },
+                  {
+                    "text": " Mmm"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "不思議と子供心に残る",
+            "zh-CN": "不知为何仍留在孩童般的心中",
+            "segments": [
+              {
+                "text": "不思議と子供心に残る",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "不思議",
+                    "reading": "ふしぎ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "子供心",
+                    "reading": "こどもこころ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "手触りをなぞっている (Oh yeah)",
+            "zh-CN": "细细描摹着那份触感 (Oh yeah)",
+            "segments": [
+              {
+                "text": "手触りをなぞっている ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "手触",
+                    "reading": "てざわ"
+                  },
+                  {
+                    "text": "りをなぞっている "
+                  }
+                ]
+              },
+              {
+                "text": "(Oh yeah)",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-08",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "ガソリンの鼻をつく匂い",
+            "zh-CN": "汽油刺鼻扑鼻的气味",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ガソリンの鼻をつく匂い",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ガソリンの"
+                  },
+                  {
+                    "text": "鼻",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "をつく"
+                  },
+                  {
+                    "text": "匂",
+                    "reading": "にお"
+                  },
+                  {
+                    "text": "い"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "遠く鳴いてる鳶の声",
+            "zh-CN": "远方回荡鸣叫的鸢鸟啼声",
+            "segments": [
+              {
+                "text": "遠く鳴いてる鳶の声",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いてる"
+                  },
+                  {
+                    "text": "鳶",
+                    "reading": "とんび"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "オリーブグリーンの屋根",
+            "zh-CN": "橄榄绿色的屋顶",
+            "segments": [
+              {
+                "text": "オリーブグリーンの屋根",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "オリーブグリーンの"
+                  },
+                  {
+                    "text": "屋根",
+                    "reading": "やね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "陽に焼けた痕",
+            "zh-CN": "被阳光晒伤的红印痕迹",
+            "segments": [
+              {
+                "text": "陽に焼けた痕",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "陽",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "焼",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "けた"
+                  },
+                  {
+                    "text": "痕",
+                    "reading": "あと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "白波、泡が砕けてく",
+            "zh-CN": "白色的浪花 泡沫逐渐破碎散去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "白波、泡が砕けてく",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "白波",
+                    "reading": "しらなみ"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "泡",
+                    "reading": "あわ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "けてく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "砂粒の上に模様を描いていく",
+            "zh-CN": "在细小的沙粒上描绘勾勒着纹样",
+            "segments": [
+              {
+                "text": "砂粒の上に模様を描いていく",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "砂粒",
+                    "reading": "すなつぶ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "うえ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "模様",
+                    "reading": "もよう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "描",
+                    "reading": "えが"
+                  },
+                  {
+                    "text": "いていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "微炭酸の脳に響く言葉！",
+            "zh-CN": "在微弱碳酸的大脑中鸣响的话语！",
+            "segments": [
+              {
+                "text": "微炭酸の脳に響く言葉！",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "微炭酸",
+                    "reading": "びたんさん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "脳",
+                    "reading": "のう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "響",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "「ペンキ塗りたて」の色の海",
+            "zh-CN": "宛如「油漆未干」般色彩的大海",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "「ペンキ塗りたて」の色の海",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「ペンキ"
+                  },
+                  {
+                    "text": "塗",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "りたて」の"
+                  },
+                  {
+                    "text": "色",
+                    "reading": "いろ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海",
+                    "reading": "うみ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "いくつもの街の匂いを",
+            "zh-CN": "记住了无数街道的气味",
+            "segments": [
+              {
+                "text": "いくつもの街の匂いを",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "いくつもの"
+                  },
+                  {
+                    "text": "街",
+                    "reading": "まち"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "匂",
+                    "reading": "にお"
+                  },
+                  {
+                    "text": "いを"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "覚えて大人になってく",
+            "zh-CN": "逐渐长大成人",
+            "segments": [
+              {
+                "text": "覚えて大人になってく",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "覚",
+                    "reading": "おぼ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "大人",
+                    "reading": "おとな"
+                  },
+                  {
+                    "text": "になってく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "カケラの塩が光ってる（ああ～）",
+            "zh-CN": "碎屑般的盐粒闪烁着微光（啊啊～）",
+            "segments": [
+              {
+                "text": "カケラの塩が光ってる（ああ～）",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "カケラの"
+                  },
+                  {
+                    "text": "塩",
+                    "reading": "しお"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひか"
+                  },
+                  {
+                    "text": "ってる（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "掬えば　透き通る25℃",
+            "zh-CN": "掬起一捧 澄澈透明的25℃",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "掬えば　透き通る25℃",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "掬",
+                    "reading": "すく"
+                  },
+                  {
+                    "text": "えば　"
+                  },
+                  {
+                    "text": "透",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "る25℃"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "残り香萌葱　傾いたバス停",
+            "zh-CN": "残留的萌葱余香 倾斜歪斜的公交车站",
+            "segments": [
+              {
+                "text": "残り香萌葱　傾いたバス停",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "香",
+                    "reading": "が"
+                  },
+                  {
+                    "text": "萌葱",
+                    "reading": "もえぎ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "傾",
+                    "reading": "かたむ"
+                  },
+                  {
+                    "text": "いたバス"
+                  },
+                  {
+                    "text": "停",
+                    "reading": "てい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "どうにでもなればいい",
+            "zh-CN": "随它变成怎样都无所谓啦",
+            "segments": [
+              {
+                "text": "どうにでもなればいい",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうにでもなればいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "不安は車窓、流れていく",
+            "zh-CN": "不安在车窗外 缓缓流淌远去",
+            "segments": [
+              {
+                "text": "不安は車窓、流れていく",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "不安",
+                    "reading": "ふあん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "車窓",
+                    "reading": "しゃそう"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "流",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "れていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "互い、違う映画の中で（ああ～）",
+            "zh-CN": "彼此身处不同的电影之中（啊啊～）",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で（ああ～）",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-08",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "互い、違う映画の中で （ああ～）",
+            "zh-CN": "彼此身处不同的电影之中 （啊啊～）",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で "
+                  }
+                ]
+              },
+              {
+                "text": "（ああ～）",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "胸の奥に　いつかの跡",
+            "zh-CN": "胸膛深处 留存着曾经的印记痕迹",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "胸の奥に　いつかの跡",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "奥",
+                    "reading": "おく"
+                  },
+                  {
+                    "text": "に　いつかの"
+                  },
+                  {
+                    "text": "跡",
+                    "reading": "あと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "くびれた先の　丸い灯りは (Oh yeah)",
+            "zh-CN": "纤细瓶颈的前方 浑圆的灯火 (Oh yeah)",
+            "segments": [
+              {
+                "text": "くびれた先の　丸い灯りは ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "くびれた"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "丸",
+                    "reading": "まる"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "灯",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "りは "
+                  }
+                ]
+              },
+              {
+                "text": "(Oh yeah)",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-08",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh yeah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "堤防のある街で",
+            "zh-CN": "在有着防波堤的街道上",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "堤防のある街で",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "堤防",
+                    "reading": "ていぼ"
+                  },
+                  {
+                    "text": "のある"
+                  },
+                  {
+                    "text": "街",
+                    "reading": "のまち"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "打ち上げ花火を並べている",
+            "zh-CN": "摆弄排列着一根根烟花",
+            "segments": [
+              {
+                "text": "打ち上げ花火を並べている",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "花火",
+                    "reading": "はなび"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "並",
+                    "reading": "なら"
+                  },
+                  {
+                    "text": "べている"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "逆さまに消えた　火花、",
+            "zh-CN": "颠倒消失的 璀璨火花、",
+            "segments": [
+              {
+                "text": "逆さまに消えた　火花、",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逆",
+                    "reading": "さか"
+                  },
+                  {
+                    "text": "さまに"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えた　"
+                  },
+                  {
+                    "text": "火花",
+                    "reading": "ひばな"
+                  },
+                  {
+                    "text": "、"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "ラムネを開ける音　夏、だった。",
+            "zh-CN": "开波子汽水的声音 那曾是、夏天。",
+            "segments": [
+              {
+                "text": "ラムネを開ける音　夏、だった。",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラムネを"
+                  },
+                  {
+                    "text": "開",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夏",
+                    "reading": "なつ"
+                  },
+                  {
+                    "text": "、だった。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "煤を被った　青色絵具",
+            "zh-CN": "沾满煤烟烟灰的 蓝色颜料",
+            "segments": [
+              {
+                "text": "煤を被った　",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "煤",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "被",
+                    "reading": "かぶ"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "青色絵具",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "青色絵具",
+                    "reading": "あおいろえのぐ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "互い、違う映画の中で",
+            "zh-CN": "彼此身处不同的电影之中",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "掬えば　透き通る25℃",
+            "zh-CN": "掬起一捧 澄澈透明的25℃",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "掬えば　透き通る25℃",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "掬",
+                    "reading": "すく"
+                  },
+                  {
+                    "text": "えば　"
+                  },
+                  {
+                    "text": "透",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "る25℃"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "残り香萌葱　傾いたバス停",
+            "zh-CN": "残留的萌葱余香 倾斜歪斜的公交车站",
+            "segments": [
+              {
+                "text": "残り香萌葱　傾いたバス停",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "香",
+                    "reading": "が"
+                  },
+                  {
+                    "text": "萌葱",
+                    "reading": "もえぎ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "傾",
+                    "reading": "かたむ"
+                  },
+                  {
+                    "text": "いたバス"
+                  },
+                  {
+                    "text": "停",
+                    "reading": "てい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "どうにでもなればいい",
+            "zh-CN": "随它变成怎样都无所谓啦",
+            "segments": [
+              {
+                "text": "どうにでもなればいい",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうにでもなればいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "不安は車窓、流れていく",
+            "zh-CN": "不安在车窗外 缓缓流淌远去",
+            "segments": [
+              {
+                "text": "不安は車窓、流れていく",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "不安",
+                    "reading": "ふあん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "車窓",
+                    "reading": "しゃそう"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "流",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "れていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "互い、違う映画の中で（ああ～）",
+            "zh-CN": "彼此身处不同的电影之中（啊啊～）",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で（ああ～）",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-08",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035",
+          "full-000036",
+          "full-000037"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "互い、違う映画の中で（ああ～）",
+            "zh-CN": "彼此身处不同的电影之中 （啊啊～）",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              },
+              {
+                "text": "（ああ～）",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "胸の奥に　いつかの跡",
+            "zh-CN": "胸膛深处 留存着曾经的印记痕迹",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "胸の奥に　いつかの跡",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "奥",
+                    "reading": "おく"
+                  },
+                  {
+                    "text": "に　いつかの"
+                  },
+                  {
+                    "text": "跡",
+                    "reading": "あと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "くびれた先の　丸い灯りは (Oh yeah!)",
+            "zh-CN": "纤细瓶颈的前方 浑圆的灯火 (Oh yeah)",
+            "segments": [
+              {
+                "text": "くびれた先の　丸い灯りは ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "くびれた"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "丸",
+                    "reading": "まる"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "灯",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "りは "
+                  }
+                ]
+              },
+              {
+                "text": "(Oh yeah!)",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "堤防のある街で",
+            "zh-CN": "在有着防波堤的街道上",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "堤防のある街で",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "堤防",
+                    "reading": "ていぼ"
+                  },
+                  {
+                    "text": "のある"
+                  },
+                  {
+                    "text": "街",
+                    "reading": "のまち"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "打ち上げ花火を並べている",
+            "zh-CN": "摆弄排列着一根根烟花",
+            "segments": [
+              {
+                "text": "打ち上げ花火を並べている",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "花火",
+                    "reading": "はなび"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "並",
+                    "reading": "なら"
+                  },
+                  {
+                    "text": "べている"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "逆さまに消えた　火花、",
+            "zh-CN": "颠倒消失的 璀璨火花、",
+            "segments": [
+              {
+                "text": "逆さまに消えた　火花、",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逆",
+                    "reading": "さか"
+                  },
+                  {
+                    "text": "さまに"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えた　"
+                  },
+                  {
+                    "text": "火花",
+                    "reading": "ひばな"
+                  },
+                  {
+                    "text": "、"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "ラムネを開ける音　夏、だった。",
+            "zh-CN": "开波子汽水的声音 那曾是、夏天。",
+            "segments": [
+              {
+                "text": "ラムネを開ける音　夏、だった。",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラムネを"
+                  },
+                  {
+                    "text": "開",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夏",
+                    "reading": "なつ"
+                  },
+                  {
+                    "text": "、だった。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "煤を被った　青色絵具",
+            "zh-CN": "沾满煤烟烟灰的 蓝色颜料",
+            "segments": [
+              {
+                "text": "煤を被った　",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "煤",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "被",
+                    "reading": "かぶ"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "青色絵具",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "青色絵具",
+                    "reading": "あおいろえのぐ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "互い、違う映画の中で",
+            "zh-CN": "彼此身处不同的电影之中",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "防波堤、金網の肌",
+            "zh-CN": "防波堤 铁丝网的触感 Mmm",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "防波堤、金網の肌",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "防波堤",
+                    "reading": "ぼうはてい"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "金網",
+                    "reading": "かなあみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "肌",
+                    "reading": "はだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "不思議と子供心に残る",
+            "zh-CN": "不知为何仍留在孩童般的心中",
+            "segments": [
+              {
+                "text": "不思議と子供心に残る",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "不思議",
+                    "reading": "ふしぎ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "子供心",
+                    "reading": "こどもこころ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "手触りをなぞっている (Oh yeah!)",
+            "zh-CN": "细细描摹着那份触感 (Oh yeah)",
+            "segments": [
+              {
+                "text": "手触りをなぞっている ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "手触",
+                    "reading": "てざわ"
+                  },
+                  {
+                    "text": "りをなぞっている "
+                  }
+                ]
+              },
+              {
+                "text": "(Oh ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh "
+                  }
+                ]
+              },
+              {
+                "text": "yeah!)",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "ガソリンの鼻をつく匂い",
+            "zh-CN": "汽油刺鼻扑鼻的气味",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ガソリンの鼻をつく匂い",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ガソリンの"
+                  },
+                  {
+                    "text": "鼻",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "をつく"
+                  },
+                  {
+                    "text": "匂",
+                    "reading": "にお"
+                  },
+                  {
+                    "text": "い"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "遠く鳴いてる鳶の声",
+            "zh-CN": "远方回荡鸣叫的鸢鸟啼声",
+            "segments": [
+              {
+                "text": "遠く鳴いてる鳶の声",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いてる"
+                  },
+                  {
+                    "text": "鳶",
+                    "reading": "とんび"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "オリーブグリーンの屋根",
+            "zh-CN": "橄榄绿色的屋顶",
+            "segments": [
+              {
+                "text": "オリーブグリーンの屋根",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "オリーブグリーンの"
+                  },
+                  {
+                    "text": "屋根",
+                    "reading": "やね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "陽に焼けた痕",
+            "zh-CN": "被阳光晒伤的红印痕迹",
+            "segments": [
+              {
+                "text": "陽に焼けた痕",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "陽",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "焼",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "けた"
+                  },
+                  {
+                    "text": "痕",
+                    "reading": "あと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "白波、泡が砕けてく",
+            "zh-CN": "白色的浪花 泡沫逐渐破碎散去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "白波、泡が砕けてく",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "白波",
+                    "reading": "しらなみ"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "泡",
+                    "reading": "あわ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "けてく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "砂粒の上に模様を描いていく",
+            "zh-CN": "在细小的沙粒上描绘勾勒着纹样",
+            "segments": [
+              {
+                "text": "砂粒の上に模様を描いていく",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "砂粒",
+                    "reading": "すなつぶ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "うえ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "模様",
+                    "reading": "もよう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "描",
+                    "reading": "えが"
+                  },
+                  {
+                    "text": "いていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "微炭酸の脳に響く言葉！",
+            "zh-CN": "在微弱碳酸的大脑中鸣响的话语！",
+            "segments": [
+              {
+                "text": "微炭酸の",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "微炭酸",
+                    "reading": "びたんさん"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              },
+              {
+                "text": "脳に響く言葉！",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "脳",
+                    "reading": "のう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "響",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "「ペンキ塗りたて」の色の海",
+            "zh-CN": "宛如「油漆未干」般色彩的大海",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "「ペンキ塗りたて」の色の海",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「ペンキ"
+                  },
+                  {
+                    "text": "塗",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "りたて」の"
+                  },
+                  {
+                    "text": "色",
+                    "reading": "いろ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海",
+                    "reading": "うみ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "いくつもの街の匂いを",
+            "zh-CN": "记住了无数街道的气味",
+            "segments": [
+              {
+                "text": "いくつもの街の匂いを",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "いくつもの"
+                  },
+                  {
+                    "text": "街",
+                    "reading": "まち"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "匂",
+                    "reading": "にお"
+                  },
+                  {
+                    "text": "いを"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "覚えて大人になってく",
+            "zh-CN": "逐渐长大成人",
+            "segments": [
+              {
+                "text": "覚えて大人になってく",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "覚",
+                    "reading": "おぼ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "大人",
+                    "reading": "おとな"
+                  },
+                  {
+                    "text": "になってく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "カケラの塩が光ってる（ああ～）",
+            "zh-CN": "碎屑般的盐粒闪烁着微光（啊啊～）",
+            "segments": [
+              {
+                "text": "カケラの塩が光ってる（ああ～）",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "カケラの"
+                  },
+                  {
+                    "text": "塩",
+                    "reading": "しお"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひか"
+                  },
+                  {
+                    "text": "ってる（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "掬えば　透き通る25℃",
+            "zh-CN": "掬起一捧 澄澈透明的25℃",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "掬えば　透き通る25℃",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "掬",
+                    "reading": "すく"
+                  },
+                  {
+                    "text": "えば　"
+                  },
+                  {
+                    "text": "透",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "る25℃"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "残り香萌葱　傾いたバス停",
+            "zh-CN": "残留的萌葱余香 倾斜歪斜的公交车站",
+            "segments": [
+              {
+                "text": "残り香萌葱　傾いたバス停",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "香",
+                    "reading": "が"
+                  },
+                  {
+                    "text": "萌葱",
+                    "reading": "もえぎ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "傾",
+                    "reading": "かたむ"
+                  },
+                  {
+                    "text": "いたバス"
+                  },
+                  {
+                    "text": "停",
+                    "reading": "てい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "どうにでもなればいい",
+            "zh-CN": "随它变成怎样都无所谓啦",
+            "segments": [
+              {
+                "text": "どうにでもなればいい",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうにでもなればいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "不安は車窓、流れていく",
+            "zh-CN": "不安在车窗外 缓缓流淌远去",
+            "segments": [
+              {
+                "text": "不安は車窓、流れていく",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "不安",
+                    "reading": "ふあん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "車窓",
+                    "reading": "しゃそう"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "流",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "れていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "互い、違う映画の中で（ああ～）",
+            "zh-CN": "彼此身处不同的电影之中（啊啊～）",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で（ああ～）",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "互い、違う映画の中で（ああ～）",
+            "zh-CN": "彼此身处不同的电影之中 （啊啊～）",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              },
+              {
+                "text": "（ああ～）",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "胸の奥に　いつかの跡",
+            "zh-CN": "胸膛深处 留存着曾经的印记痕迹",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "胸の奥に　いつかの跡",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "奥",
+                    "reading": "おく"
+                  },
+                  {
+                    "text": "に　いつかの"
+                  },
+                  {
+                    "text": "跡",
+                    "reading": "あと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "くびれた先の　丸い灯りは (Oh yeah!)",
+            "zh-CN": "纤细瓶颈的前方 浑圆的灯火 (Oh yeah)",
+            "segments": [
+              {
+                "text": "くびれた先の　丸い灯りは ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "くびれた"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "丸",
+                    "reading": "まる"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "灯",
+                    "reading": "あか"
+                  },
+                  {
+                    "text": "りは "
+                  }
+                ]
+              },
+              {
+                "text": "(Oh yeah!)",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "堤防のある街で",
+            "zh-CN": "在有着防波堤的街道上",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "堤防のある街で",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "堤防",
+                    "reading": "ていぼ"
+                  },
+                  {
+                    "text": "のある"
+                  },
+                  {
+                    "text": "街",
+                    "reading": "のまち"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "打ち上げ花火を並べている",
+            "zh-CN": "摆弄排列着一根根烟花",
+            "segments": [
+              {
+                "text": "打ち上げ花火を並べている",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "花火",
+                    "reading": "はなび"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "並",
+                    "reading": "なら"
+                  },
+                  {
+                    "text": "べている"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "逆さまに消えた　火花、",
+            "zh-CN": "颠倒消失的 璀璨火花、",
+            "segments": [
+              {
+                "text": "逆さまに消えた　火花、",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逆",
+                    "reading": "さか"
+                  },
+                  {
+                    "text": "さまに"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えた　"
+                  },
+                  {
+                    "text": "火花",
+                    "reading": "ひばな"
+                  },
+                  {
+                    "text": "、"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "ラムネを開ける音　夏、だった。",
+            "zh-CN": "开波子汽水的声音 那曾是、夏天。",
+            "segments": [
+              {
+                "text": "ラムネを開ける音　夏、だった。",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラムネを"
+                  },
+                  {
+                    "text": "開",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夏",
+                    "reading": "なつ"
+                  },
+                  {
+                    "text": "、だった。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "煤を被った　青色絵具",
+            "zh-CN": "沾满煤烟烟灰的 蓝色颜料",
+            "segments": [
+              {
+                "text": "煤を被った　",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "煤",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "被",
+                    "reading": "かぶ"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "青色絵具",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "青色絵具",
+                    "reading": "あおいろえのぐ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "互い、違う映画の中で",
+            "zh-CN": "彼此身处不同的电影之中",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "掬えば　透き通る25℃",
+            "zh-CN": "掬起一捧 澄澈透明的25℃",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "掬えば　透き通る25℃",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "掬",
+                    "reading": "すく"
+                  },
+                  {
+                    "text": "えば　"
+                  },
+                  {
+                    "text": "透",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "る25℃"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "残り香萌葱　傾いたバス停",
+            "zh-CN": "残留的萌葱余香 倾斜歪斜的公交车站",
+            "segments": [
+              {
+                "text": "残り香萌葱　傾いたバス停",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "香",
+                    "reading": "が"
+                  },
+                  {
+                    "text": "萌葱",
+                    "reading": "もえぎ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "傾",
+                    "reading": "かたむ"
+                  },
+                  {
+                    "text": "いたバス"
+                  },
+                  {
+                    "text": "停",
+                    "reading": "てい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "どうにでもなればいい",
+            "zh-CN": "随它变成怎样都无所谓啦",
+            "segments": [
+              {
+                "text": "どうにでもなればいい",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうにでもなればいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "不安は車窓、流れていく",
+            "zh-CN": "不安在车窗外 缓缓流淌远去",
+            "segments": [
+              {
+                "text": "不安は車窓、流れていく",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "不安",
+                    "reading": "ふあん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "車窓",
+                    "reading": "しゃそう"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "流",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "れていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "ただ甘い生活を呪うだけ",
+            "zh-CN": "只是单纯诅咒着甜腻的生活罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ甘い生活を呪うだけ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "うだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "溶けたアイスを飲む　炎天下の海辺",
+            "zh-CN": "喝着融化的冰棒 烈日炎炎的海边",
+            "segments": [
+              {
+                "text": "溶けたアイスを飲む　炎天下の海辺",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けたアイスを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "む　"
+                  },
+                  {
+                    "text": "炎天下",
+                    "reading": "えんてんか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海辺",
+                    "reading": "うみべ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "廃ホテルを眺めて",
+            "zh-CN": "眺望着废弃的酒店",
+            "segments": [
+              {
+                "text": "廃ホテルを眺めて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "廃",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "ホテルを"
+                  },
+                  {
+                    "text": "眺",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "互い、違う映画の中で（ああ～）",
+            "zh-CN": "彼此身处不同的电影之中（啊啊～）",
+            "segments": [
+              {
+                "text": "互い、違う映画の中で（ああ～）",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "互",
+                    "reading": "たが"
+                  },
+                  {
+                    "text": "い、"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "映画",
+                    "reading": "えいが"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で（ああ～）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "vocaloid",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035",
+          "full-000036",
+          "full-000037"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "VIRTUAL SINGER Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/full_text",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Aoiro Enogu",
+          "revisionId": 326741,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aoiro_Enogu?oldid=326741",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

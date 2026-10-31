@@ -1,0 +1,3376 @@
+{
+  "version": 3,
+  "musicId": 195,
+  "revision": 4,
+  "updatedAt": "2026-10-15T13:26:46Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-09",
+          "name": "小豆沢こはね"
+        },
+        {
+          "performerId": "歌唱者-10",
+          "name": "白石杏"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "寂しくて眠れぬ日々も",
+            "zh-CN": "寂寞得难以入眠的日日夜夜",
+            "segments": [
+              {
+                "text": "寂しくて眠れぬ日々も",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "寂",
+                    "reading": "さみ"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "眠",
+                    "reading": "ねむ"
+                  },
+                  {
+                    "text": "れぬ"
+                  },
+                  {
+                    "text": "日々",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "今夜辺り、さよなら出来る気がする",
+            "zh-CN": "感觉今夜终于能够彻底道别了呢",
+            "segments": [
+              {
+                "text": "今夜辺り、さよなら出来る気がする",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今夜辺",
+                    "reading": "こにゃあた"
+                  },
+                  {
+                    "text": "り、さよなら"
+                  },
+                  {
+                    "text": "出来",
+                    "reading": "でき"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がする"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "胸の高鳴り",
+            "zh-CN": "胸膛中的小鹿乱撞",
+            "segments": [
+              {
+                "text": "胸の高鳴り",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "高鳴",
+                    "reading": "たかな"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "見透かされた行方知れずの",
+            "zh-CN": "被彻底看穿了 那下落不明的心思",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "見透かされた行方知れずの",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "見透",
+                    "reading": "みす"
+                  },
+                  {
+                    "text": "かされた"
+                  },
+                  {
+                    "text": "行方知",
+                    "reading": "ゆくえし"
+                  },
+                  {
+                    "text": "れずの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "気持ち隠しても既に遅いわ",
+            "zh-CN": "事到如今想要藏匿也为时已晚了呢",
+            "segments": [
+              {
+                "text": "気持ち隠しても既に",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "しても"
+                  },
+                  {
+                    "text": "既",
+                    "reading": "すで"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              },
+              {
+                "text": "遅いわ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "遅",
+                    "reading": "おそ"
+                  },
+                  {
+                    "text": "いわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "世の常",
+            "zh-CN": "世之常情",
+            "segments": [
+              {
+                "text": "世の常",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "常",
+                    "reading": "つね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "今から全てで飛ばしてあげる",
+            "zh-CN": "现在就用我的一切让你彻底飞扬吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  }
+                ]
+              },
+              {
+                "text": "から",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "から"
+                  }
+                ]
+              },
+              {
+                "text": "全てで",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てで"
+                  }
+                ]
+              },
+              {
+                "text": "飛ばしてあげる",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "飛",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ばしてあげる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "センセーション　愛想ぶらずに",
+            "zh-CN": "轰动全场 别再故作讨好",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "愛想ぶらずに",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛想",
+                    "reading": "あいそ"
+                  },
+                  {
+                    "text": "ぶらずに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "センセーション　巻き起こすのよ",
+            "zh-CN": "轰动全场 掀起狂澜吧",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "巻き起こすのよ",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "巻",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "起",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "こすのよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "センセーション　どこ吹く風も",
+            "zh-CN": "轰动全场 无论风吹何处",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "どこ吹く風も",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこ"
+                  },
+                  {
+                    "text": "吹",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "理解を通り越して",
+            "zh-CN": "统统超越理解极限",
+            "segments": [
+              {
+                "text": "理解を",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "理解",
+                    "reading": "りかい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "通り越して",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "センセーション　なんて素敵な",
+            "zh-CN": "轰动全场 何等美妙绝伦的",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "なんて素敵な",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "素敵",
+                    "reading": "すてき"
+                  },
+                  {
+                    "text": "な"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "絶頂感　満ち溢れてく",
+            "zh-CN": "绝顶感　满溢充盈心头",
+            "segments": [
+              {
+                "text": "絶頂感　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "絶頂感",
+                    "reading": "ぜっちょうかん"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "満ち溢れてく",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "溢",
+                    "reading": "あふ"
+                  },
+                  {
+                    "text": "れてく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "私が何者かも",
+            "zh-CN": "至于我究竟是何人",
+            "segments": [
+              {
+                "text": "私",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  }
+                ]
+              },
+              {
+                "text": "が何者かも",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "何者",
+                    "reading": "なにもの"
+                  },
+                  {
+                    "text": "かも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "どうでも良いからほら",
+            "zh-CN": "怎样都无所谓啦瞧啊",
+            "segments": [
+              {
+                "text": "どうでも良",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうでも"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "も"
+                  }
+                ]
+              },
+              {
+                "text": "いからほら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "いからほら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "その手で深くへ",
+            "zh-CN": "用那双手向更深处探寻吧",
+            "segments": [
+              {
+                "text": "その手で深くへ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "深",
+                    "reading": "ふか"
+                  },
+                  {
+                    "text": "くへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "ほろ苦いのに慣れたせい",
+            "zh-CN": "只是习惯了微苦滋味罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ほろ苦いのに慣れたせい",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "ほろ"
+                  },
+                  {
+                    "text": "苦",
+                    "reading": "にが"
+                  },
+                  {
+                    "text": "いのに"
+                  },
+                  {
+                    "text": "慣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "れたせい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "だけど塗り固めた上辺はそろそろ",
+            "zh-CN": "但层层粉饰的外表",
+            "segments": [
+              {
+                "text": "だけど塗り固めた上辺はそろそろ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "だけど"
+                  },
+                  {
+                    "text": "塗",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "固",
+                    "reading": "かた"
+                  },
+                  {
+                    "text": "めた"
+                  },
+                  {
+                    "text": "上辺",
+                    "reading": "うわべ"
+                  },
+                  {
+                    "text": "はそろそろ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "剥がれそうなの",
+            "zh-CN": "差不多也快要剥落褪去了",
+            "segments": [
+              {
+                "text": "剥がれそうなの",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "剥",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "がれそうなの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "中途半端は嫌いだから",
+            "zh-CN": "毕竟我最讨厌半吊子了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "中途半端は嫌いだから",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "中途半端",
+                    "reading": "ちゅうとはんぱ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "いだから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "混じり気の無い態度で入り込みましょう",
+            "zh-CN": "用毫无杂质的态度彻底融入吧",
+            "segments": [
+              {
+                "text": "混じり気の無い態度で",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "混",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "じり"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "態度",
+                    "reading": "たいど"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              },
+              {
+                "text": "入り込みましょう",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "入",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "みましょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "センセーション　恥じる気はゼロ",
+            "zh-CN": "轰动全场 羞耻心为零",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "恥じる気はゼロ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "恥",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "じる"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "はゼロ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "センセーション　侮らないで",
+            "zh-CN": "轰动全场 可别小看我哦",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "侮らないで",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "侮",
+                    "reading": "あなど"
+                  },
+                  {
+                    "text": "らないで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "センセーション　至難の技は",
+            "zh-CN": "轰动全场 极难的招式",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "至難の技は",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "至難",
+                    "reading": "しなん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "技",
+                    "reading": "わざ"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "事実ここにあるから",
+            "zh-CN": "确实就在此处展现",
+            "segments": [
+              {
+                "text": "事実ここにあるから",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "事実",
+                    "reading": "じじつ"
+                  },
+                  {
+                    "text": "ここにあるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "センセーション あえて繰り出す",
+            "zh-CN": "轰动全场 偏要亮出的",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション "
+                  }
+                ]
+              },
+              {
+                "text": "あえて繰り出す",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "あえて"
+                  },
+                  {
+                    "text": "繰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "す"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "真骨頂 ゾクゾクするわ",
+            "zh-CN": "真正看家本领 真是令人战栗兴奋啊",
+            "segments": [
+              {
+                "text": "真骨頂 ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "真骨頂",
+                    "reading": "しんこっちょう"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "ゾクゾクするわ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゾクゾクするわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "貴方の予想にない",
+            "zh-CN": "超出你的预料之外",
+            "segments": [
+              {
+                "text": "貴方",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "貴方",
+                    "reading": "あなた"
+                  }
+                ]
+              },
+              {
+                "text": "の予想にない",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "予想",
+                    "reading": "よそう"
+                  },
+                  {
+                    "text": "にない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "限度が狂う先の",
+            "zh-CN": "在极限失控狂乱的前方",
+            "segments": [
+              {
+                "text": "限度が狂う先の",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "限度",
+                    "reading": "げんど"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "狂",
+                    "reading": "くる"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "中毒症状",
+            "zh-CN": "中毒症状",
+            "segments": [
+              {
+                "text": "中毒症状",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "中毒症状",
+                    "reading": "ちゅうどくしょうじょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "誤魔化さなくても愛しているわ",
+            "zh-CN": "就算不加掩饰我也深爱着你哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誤魔",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "誤魔",
+                    "reading": "ごま"
+                  }
+                ]
+              },
+              {
+                "text": "化さ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "化",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              },
+              {
+                "text": "なく",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "なく"
+                  }
+                ]
+              },
+              {
+                "text": "ても愛しているわ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ても"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "しているわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "センセーション　軸はぶらさず",
+            "zh-CN": "轰动全场 核心轴绝不偏离",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "軸はぶらさず",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "軸",
+                    "reading": "じく"
+                  },
+                  {
+                    "text": "はぶらさず"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "センセーション　微々たる物も",
+            "zh-CN": "轰动全场 纵然微不足道",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "微々たる物も",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "微々",
+                    "reading": "びび"
+                  },
+                  {
+                    "text": "たる"
+                  },
+                  {
+                    "text": "物",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "センセーション　曝け出したい",
+            "zh-CN": "轰动全场 也想彻底展现无遗",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "曝け出したい",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "曝",
+                    "reading": "さら"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "したい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "リスクも承知の上",
+            "zh-CN": "冒着风险也是心知肚明",
+            "segments": [
+              {
+                "text": "リスクも承知の上",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "リスクも"
+                  },
+                  {
+                    "text": "承知",
+                    "reading": "しょうち"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "うえ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "センセーション　ここは歴史の",
+            "zh-CN": "轰动全场 此处正是历史的",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "ここは歴史の",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ここは"
+                  },
+                  {
+                    "text": "歴史",
+                    "reading": "れきし"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "最前線　止めてみなさい",
+            "zh-CN": "最前线　有本事就试着阻止看看吧",
+            "segments": [
+              {
+                "text": "最前線　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "最前線",
+                    "reading": "さいぜんせん"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "止めてみなさい",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "めてみなさい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "奇跡を見せてあげる",
+            "zh-CN": "让你见识一下奇迹的降临",
+            "segments": [
+              {
+                "text": "奇跡を見せてあげる",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "奇跡",
+                    "reading": "きせき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "せてあげる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "新時代の幕開け",
+            "zh-CN": "新时代拉开序幕",
+            "segments": [
+              {
+                "text": "新時代",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "新時代",
+                    "reading": "しんじだい"
+                  }
+                ]
+              },
+              {
+                "text": "の幕開け",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "幕開",
+                    "reading": "まくあ"
+                  },
+                  {
+                    "text": "け"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "センセーション　愛想ぶらずに",
+            "zh-CN": "轰动全场 别再故作讨好",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "愛想ぶらずに",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛想",
+                    "reading": "あいそ"
+                  },
+                  {
+                    "text": "ぶらずに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "センセーション　巻き起こすのよ",
+            "zh-CN": "轰动全场 掀起狂澜吧",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "巻き起こすのよ",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "巻",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "起",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "こすのよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "センセーション　どこ吹く風も",
+            "zh-CN": "轰动全场 无论风吹何处",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "どこ吹く風も",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこ"
+                  },
+                  {
+                    "text": "吹",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "理解を通り越して",
+            "zh-CN": "统统超越理解极限",
+            "segments": [
+              {
+                "text": "理解を",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "理解",
+                    "reading": "りかい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "通り越して",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "センセーション　なんて素敵な",
+            "zh-CN": "轰动全场 何等美妙绝伦的",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "なんて素敵な",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "素敵",
+                    "reading": "すてき"
+                  },
+                  {
+                    "text": "な"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "絶頂感　満ち溢れてく",
+            "zh-CN": "绝顶感　满溢充盈心头",
+            "segments": [
+              {
+                "text": "絶頂感　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "絶頂感",
+                    "reading": "ぜっちょうかん"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "満ち溢れてく",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "溢",
+                    "reading": "あふ"
+                  },
+                  {
+                    "text": "れてく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "私が何者かも",
+            "zh-CN": "至于我究竟是何人",
+            "segments": [
+              {
+                "text": "私",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  }
+                ]
+              },
+              {
+                "text": "が何者かも",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "何者",
+                    "reading": "なにもの"
+                  },
+                  {
+                    "text": "かも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000047",
+            "order": 46,
+            "japanese": "どうでも良いからほら",
+            "zh-CN": "怎样都无所谓啦瞧啊",
+            "segments": [
+              {
+                "text": "どうでも良",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうでも"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "も"
+                  }
+                ]
+              },
+              {
+                "text": "いからほら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "いからほら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000048",
+            "order": 47,
+            "japanese": "その手で深くへ",
+            "zh-CN": "用那双手向更深处探寻吧",
+            "segments": [
+              {
+                "text": "その手で深くへ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "深",
+                    "reading": "ふか"
+                  },
+                  {
+                    "text": "くへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000049",
+            "order": 48,
+            "japanese": "余す事も無く",
+            "zh-CN": "毫无保留全盘奉上",
+            "segments": [
+              {
+                "text": "余す事も無く",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "余",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "く"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "寂しくて眠れぬ日々も",
+            "zh-CN": "寂寞得难以入眠的日日夜夜",
+            "segments": [
+              {
+                "text": "寂しくて眠れぬ日々も",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "寂",
+                    "reading": "さみ"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "眠",
+                    "reading": "ねむ"
+                  },
+                  {
+                    "text": "れぬ"
+                  },
+                  {
+                    "text": "日々",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "今夜辺り、さよなら出来る気がする",
+            "zh-CN": "感觉今夜终于能够彻底道别了呢",
+            "segments": [
+              {
+                "text": "今夜辺り、さよなら出来る気がする",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今夜辺",
+                    "reading": "こにゃあた"
+                  },
+                  {
+                    "text": "り、さよなら"
+                  },
+                  {
+                    "text": "出来",
+                    "reading": "でき"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がする"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "胸の高鳴り",
+            "zh-CN": "胸膛中的小鹿乱撞",
+            "segments": [
+              {
+                "text": "胸の高鳴り",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "高鳴",
+                    "reading": "たかな"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "見透かされた行方知れずの",
+            "zh-CN": "被彻底看穿了 那下落不明的心思",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "見透かされた行方知れずの",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "見透",
+                    "reading": "みす"
+                  },
+                  {
+                    "text": "かされた"
+                  },
+                  {
+                    "text": "行方知",
+                    "reading": "ゆくえし"
+                  },
+                  {
+                    "text": "れずの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "気持ち隠しても既に遅いわ",
+            "zh-CN": "事到如今想要藏匿也为时已晚了呢",
+            "segments": [
+              {
+                "text": "気持ち隠しても既に",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "しても"
+                  },
+                  {
+                    "text": "既",
+                    "reading": "すで"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              },
+              {
+                "text": "遅いわ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "遅",
+                    "reading": "おそ"
+                  },
+                  {
+                    "text": "いわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "世の常",
+            "zh-CN": "世之常情",
+            "segments": [
+              {
+                "text": "世の常",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "常",
+                    "reading": "つね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "今から全てで飛ばしてあげる",
+            "zh-CN": "现在就用我的一切让你彻底飞扬吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  }
+                ]
+              },
+              {
+                "text": "から",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "から"
+                  }
+                ]
+              },
+              {
+                "text": "全てで",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てで"
+                  }
+                ]
+              },
+              {
+                "text": "飛ばしてあげる",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "飛",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ばしてあげる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "センセーション　愛想ぶらずに",
+            "zh-CN": "轰动全场 别再故作讨好",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "愛想ぶらずに",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛想",
+                    "reading": "あいそ"
+                  },
+                  {
+                    "text": "ぶらずに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "センセーション　巻き起こすのよ",
+            "zh-CN": "轰动全场 掀起狂澜吧",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "巻き起こすのよ",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "巻",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "起",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "こすのよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "センセーション　どこ吹く風も",
+            "zh-CN": "轰动全场 无论风吹何处",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "どこ吹く風も",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこ"
+                  },
+                  {
+                    "text": "吹",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "理解を通り越して",
+            "zh-CN": "统统超越理解极限",
+            "segments": [
+              {
+                "text": "理解を",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "理解",
+                    "reading": "りかい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "通り越して",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "センセーション　なんて素敵な",
+            "zh-CN": "轰动全场 何等美妙绝伦的",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "なんて素敵な",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "素敵",
+                    "reading": "すてき"
+                  },
+                  {
+                    "text": "な"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "絶頂感　満ち溢れてく",
+            "zh-CN": "绝顶感　满溢充盈心头",
+            "segments": [
+              {
+                "text": "絶頂感　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "絶頂感",
+                    "reading": "ぜっちょうかん"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "満ち溢れてく",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "溢",
+                    "reading": "あふ"
+                  },
+                  {
+                    "text": "れてく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "私が何者かも",
+            "zh-CN": "至于我究竟是何人",
+            "segments": [
+              {
+                "text": "私",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  }
+                ]
+              },
+              {
+                "text": "が何者かも",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "何者",
+                    "reading": "なにもの"
+                  },
+                  {
+                    "text": "かも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "どうでも良いからほら",
+            "zh-CN": "怎样都无所谓啦瞧啊",
+            "segments": [
+              {
+                "text": "どうでも良",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうでも"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "も"
+                  }
+                ]
+              },
+              {
+                "text": "いからほら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "いからほら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "その手で深くへ",
+            "zh-CN": "用那双手向更深处探寻吧",
+            "segments": [
+              {
+                "text": "その手で深くへ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "深",
+                    "reading": "ふか"
+                  },
+                  {
+                    "text": "くへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "誤魔化さなくても愛しているわ",
+            "zh-CN": "就算不加掩饰我也深爱着你哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誤魔",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "誤魔",
+                    "reading": "ごま"
+                  }
+                ]
+              },
+              {
+                "text": "化さ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "化",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              },
+              {
+                "text": "なく",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "なく"
+                  }
+                ]
+              },
+              {
+                "text": "ても愛しているわ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ても"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "しているわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "センセーション　愛想ぶらずに",
+            "zh-CN": "轰动全场 别再故作讨好",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "愛想ぶらずに",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛想",
+                    "reading": "あいそ"
+                  },
+                  {
+                    "text": "ぶらずに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "センセーション　巻き起こすのよ",
+            "zh-CN": "轰动全场 掀起狂澜吧",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "巻き起こすのよ",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "巻",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "起",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "こすのよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "センセーション　どこ吹く風も",
+            "zh-CN": "轰动全场 无论风吹何处",
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "どこ吹く風も",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこ"
+                  },
+                  {
+                    "text": "吹",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "風",
+                    "reading": "かぜ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "理解を通り越して",
+            "zh-CN": "统统超越理解极限",
+            "segments": [
+              {
+                "text": "理解を",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "理解",
+                    "reading": "りかい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "通り越して",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "センセーション　なんて素敵な",
+            "zh-CN": "轰动全场 何等美妙绝伦的",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "センセーション　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "センセーション　"
+                  }
+                ]
+              },
+              {
+                "text": "なんて素敵な",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "素敵",
+                    "reading": "すてき"
+                  },
+                  {
+                    "text": "な"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "絶頂感　満ち溢れてく",
+            "zh-CN": "绝顶感　满溢充盈心头",
+            "segments": [
+              {
+                "text": "絶頂感　",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "絶頂感",
+                    "reading": "ぜっちょうかん"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "満ち溢れてく",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "溢",
+                    "reading": "あふ"
+                  },
+                  {
+                    "text": "れてく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "私が何者かも",
+            "zh-CN": "至于我究竟是何人",
+            "segments": [
+              {
+                "text": "私",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  }
+                ]
+              },
+              {
+                "text": "が何者かも",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "何者",
+                    "reading": "なにもの"
+                  },
+                  {
+                    "text": "かも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "どうでも良いからほら",
+            "zh-CN": "怎样都无所谓啦瞧啊",
+            "segments": [
+              {
+                "text": "どうでも良",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうでも"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "も"
+                  }
+                ]
+              },
+              {
+                "text": "いからほら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "いからほら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "その手で深くへ",
+            "zh-CN": "用那双手向更深处探寻吧",
+            "segments": [
+              {
+                "text": "その手で深くへ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "深",
+                    "reading": "ふか"
+                  },
+                  {
+                    "text": "くへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "余す事も無く",
+            "zh-CN": "毫无保留全盘奉上",
+            "segments": [
+              {
+                "text": "余す事も無く",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "余",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "く"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000031",
+          "full-000040",
+          "full-000041",
+          "full-000042",
+          "full-000043",
+          "full-000044",
+          "full-000045",
+          "full-000046",
+          "full-000047",
+          "full-000048",
+          "full-000049"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "PaⅢ.SENSATION",
+          "revisionId": 330247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Pa%E2%85%A2.SENSATION?oldid=330247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "PaⅢ.SENSATION",
+          "revisionId": 330247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Pa%E2%85%A2.SENSATION?oldid=330247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "PaⅢ.SENSATION",
+          "revisionId": 330247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Pa%E2%85%A2.SENSATION?oldid=330247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "PaⅢ.SENSATION",
+          "revisionId": 330247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Pa%E2%85%A2.SENSATION?oldid=330247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "PaⅢ.SENSATION",
+          "revisionId": 330247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Pa%E2%85%A2.SENSATION?oldid=330247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

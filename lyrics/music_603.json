@@ -1,0 +1,2427 @@
+{
+  "version": 3,
+  "musicId": 603,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:02:02Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "はい はい はい はい はい！",
+            "zh-CN": "是 是 是 是 是！",
+            "segments": [
+              {
+                "text": "はい はい はい はい はい！",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "はい はい はい はい はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "丘を越えて山を越えて谷を越えてゆくんだ",
+            "zh-CN": "翻过小丘 越过高山 穿过山谷前行吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "丘を越えて山を越えて谷を越えてゆくんだ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "丘",
+                    "reading": "おか"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "山",
+                    "reading": "やま"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "谷",
+                    "reading": "たに"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えてゆくんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "川を越えて海を越えて空を越えてゆくんだ",
+            "zh-CN": "渡过河流 跨过大海 飞越长空前行吧",
+            "segments": [
+              {
+                "text": "川を越えて海を越えて空を越えてゆくんだ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "川",
+                    "reading": "かわ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "海",
+                    "reading": "うみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えてゆくんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "雨上がりの空　虹を描いて",
+            "zh-CN": "雨过天晴的天空 描绘出道道彩虹",
+            "segments": [
+              {
+                "text": "雨上がりの空　虹を描いて",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "雨上",
+                    "reading": "あめあ"
+                  },
+                  {
+                    "text": "がりの"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "虹",
+                    "reading": "にじ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "描",
+                    "reading": "えが"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "皆に会いにゆくよ",
+            "zh-CN": "前去与大家相见咯",
+            "segments": [
+              {
+                "text": "皆に会いにゆくよ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "会",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "いにゆくよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "大切なのは僕でいること　",
+            "zh-CN": "最重要的便是做最真实的自己",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "大切なのは僕でいること　",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "大切",
+                    "reading": "たいせつ"
+                  },
+                  {
+                    "text": "なのは"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "でいること　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "間違いだらけの毎日も",
+            "zh-CN": "纵然尽是错误百出的每一天",
+            "segments": [
+              {
+                "text": "間違いだらけの毎日も",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "いだらけの"
+                  },
+                  {
+                    "text": "毎日",
+                    "reading": "まいにち"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "手と手をつないで　目と目を合わせて",
+            "zh-CN": "手牵着手 双目相对",
+            "segments": [
+              {
+                "text": "手と手をつないで　目と目を合わせて",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "をつないで　"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わせて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "どこまでも歩こう",
+            "zh-CN": "无论天涯海角一同大步迈进吧",
+            "segments": [
+              {
+                "text": "どこまでも歩こう",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこまでも"
+                  },
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "こう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "おサルさんのロンド　キリンさんのロンド",
+            "zh-CN": "小猴子们的回旋曲 小长颈鹿们的回旋曲",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おサルさんのロンド　キリンさんのロンド",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "おサルさんのロンド　キリンさんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "ウサギさんのロンド　気がつけば僕も",
+            "zh-CN": "小兔子们的回旋曲 回过神来我也",
+            "segments": [
+              {
+                "text": "ウサギさんのロンド　気がつけば僕も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ウサギさんのロンド　"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がつけば"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "小鳥たちのロンド　子犬たちのロンド",
+            "zh-CN": "小鸟儿们的回旋曲 小狗儿们的回旋曲",
+            "segments": [
+              {
+                "text": "小鳥たちのロンド　子犬たちのロンド",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "小鳥",
+                    "reading": "ことり"
+                  },
+                  {
+                    "text": "たちのロンド　"
+                  },
+                  {
+                    "text": "子犬",
+                    "reading": "こいぬ"
+                  },
+                  {
+                    "text": "たちのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "子猫たちのロンド　笑顔で歌うよ",
+            "zh-CN": "小猫咪们的回旋曲 带着笑容放声歌唱哦",
+            "segments": [
+              {
+                "text": "子猫たちのロンド　笑顔で歌うよ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "子猫",
+                    "reading": "こねこ"
+                  },
+                  {
+                    "text": "たちのロンド　"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "朝を越えて昼を越えて夜を越えてゆくんだ",
+            "zh-CN": "越过清晨 穿过正午 跨越黑夜前行吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "朝を越えて昼を越えて夜を越えてゆくんだ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "朝",
+                    "reading": "あさ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "昼",
+                    "reading": "ひる"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えてゆくんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "雲を越えて月を越えて星を越えてゆくんだ",
+            "zh-CN": "穿过云层 越过明月 飞越繁星前行吧",
+            "segments": [
+              {
+                "text": "雲を越えて月を越えて星を越えてゆくんだ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "雲",
+                    "reading": "くも"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えてゆくんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "星空の下に　浮かべた涙",
+            "zh-CN": "繁星夜空之下 泛起的串串泪珠",
+            "segments": [
+              {
+                "text": "星空の下に　浮かべた涙",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "星空",
+                    "reading": "ほしぞら"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "下",
+                    "reading": "した"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "浮",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "かべた"
+                  },
+                  {
+                    "text": "涙",
+                    "reading": "なみだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "皆に会いにゆくよ",
+            "zh-CN": "前去与大家相见咯",
+            "segments": [
+              {
+                "text": "皆に会いにゆくよ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "会",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "いにゆくよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "大人になればわかるはずなのに",
+            "zh-CN": "明明只要成为大人就理应懂得",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "大人になればわかるはずなのに",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "大人",
+                    "reading": "おとな"
+                  },
+                  {
+                    "text": "になればわかるはずなのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "悩み事ばかり増えてゆく",
+            "zh-CN": "烦恼的事情却在不断增多",
+            "segments": [
+              {
+                "text": "悩み事ばかり増えてゆく",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "悩",
+                    "reading": "なや"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "ごと"
+                  },
+                  {
+                    "text": "ばかり"
+                  },
+                  {
+                    "text": "増",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "えてゆく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "そんなときには空を見上げて",
+            "zh-CN": "那种时候就抬头仰望天空",
+            "segments": [
+              {
+                "text": "そんなときには空を見上げて",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "そんなときには"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見上",
+                    "reading": "みあ"
+                  },
+                  {
+                    "text": "げて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "皆と一緒に歌いながら",
+            "zh-CN": "与大家一同放声高歌",
+            "segments": [
+              {
+                "text": "皆と一緒に歌いながら",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "一緒",
+                    "reading": "いっしょ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "いながら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "お医者さんのロンド　大工さんのロンド",
+            "zh-CN": "医生叔叔的回旋曲 木匠师傅的回旋曲",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "お医者さんのロンド　大工さんのロンド",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "医者",
+                    "reading": "いしゃ"
+                  },
+                  {
+                    "text": "さんのロンド　"
+                  },
+                  {
+                    "text": "大工",
+                    "reading": "だいく"
+                  },
+                  {
+                    "text": "さんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "八百屋さんのロンド　気がつけば僕も",
+            "zh-CN": "蔬菜店老板的回旋曲 回过神来我也",
+            "segments": [
+              {
+                "text": "八百屋さんのロンド　気がつけば僕も",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "八百屋",
+                    "reading": "やおや"
+                  },
+                  {
+                    "text": "さんのロンド　"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がつけば"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "山田さんのロンド　田中さんのロンド",
+            "zh-CN": "山田先生的回旋曲 田中先生的回旋曲",
+            "segments": [
+              {
+                "text": "山田さんのロンド　田中さんのロンド",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "山田",
+                    "reading": "やまだ"
+                  },
+                  {
+                    "text": "さんのロンド　"
+                  },
+                  {
+                    "text": "田中",
+                    "reading": "たなか"
+                  },
+                  {
+                    "text": "さんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "鈴木さんのロンド　笑顔で歌うよ",
+            "zh-CN": "铃木先生的回旋曲 带着笑容放声歌唱哦",
+            "segments": [
+              {
+                "text": "鈴木さんのロンド　笑顔で歌うよ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "鈴木",
+                    "reading": "すずき"
+                  },
+                  {
+                    "text": "さんのロンド　"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "小人さんのロンド　巨人さんのロンド",
+            "zh-CN": "小矮人们的回旋曲 巨人们的回旋曲",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "小人さんのロンド　",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "小人",
+                    "reading": "こびと"
+                  },
+                  {
+                    "text": "さんのロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "巨人さんのロンド",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "巨人",
+                    "reading": "きょじん"
+                  },
+                  {
+                    "text": "さんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "宇宙人のロンド　気がつけば僕も",
+            "zh-CN": "外星人们的回旋曲 回过神来我也",
+            "segments": [
+              {
+                "text": "宇宙人のロンド　",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "宇宙人",
+                    "reading": "うちゅうじん"
+                  },
+                  {
+                    "text": "のロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "気がつけば僕も",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がつけば"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "寂しがりのロンド　忘れんぼのロンド",
+            "zh-CN": "害怕寂寞之人的回旋曲 丢三落四之人的回旋曲",
+            "segments": [
+              {
+                "text": "寂しがりのロンド　",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "寂",
+                    "reading": "さみ"
+                  },
+                  {
+                    "text": "しがりのロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "忘れんぼのロンド",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れんぼのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "照れ屋さんのロンド　笑顔で歌うよ",
+            "zh-CN": "害羞腼腆之人的回旋曲 带着笑容放声歌唱哦",
+            "segments": [
+              {
+                "text": "照れ屋さんのロンド　",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "れ"
+                  },
+                  {
+                    "text": "屋",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "さんのロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "笑顔で歌うよ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "お母さんのロンド　お父さんのロンド",
+            "zh-CN": "妈妈的回旋曲 爸爸的回旋曲",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "お母さんのロンド　お父さんのロンド",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "母",
+                    "reading": "かあ"
+                  },
+                  {
+                    "text": "さんのロンド　お"
+                  },
+                  {
+                    "text": "父",
+                    "reading": "とう"
+                  },
+                  {
+                    "text": "さんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "お姉ちゃんのロンド　気がつけば僕も",
+            "zh-CN": "姐姐的回旋曲 回过神来我也",
+            "segments": [
+              {
+                "text": "お姉ちゃんのロンド　気がつけば僕も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "姉",
+                    "reading": "ねえ"
+                  },
+                  {
+                    "text": "ちゃんのロンド　"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がつけば"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "お婆ちゃんのロンド　お爺ちゃんのロンド",
+            "zh-CN": "奶奶的回旋曲 爷爷的回旋曲",
+            "segments": [
+              {
+                "text": "お婆ちゃんのロンド　お爺ちゃんのロンド",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "婆",
+                    "reading": "ばあ"
+                  },
+                  {
+                    "text": "ちゃんのロンド　お"
+                  },
+                  {
+                    "text": "爺",
+                    "reading": "じい"
+                  },
+                  {
+                    "text": "ちゃんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "君と僕のロンド　皆で歌えば",
+            "zh-CN": "你与我的回旋曲 只要大家一同歌唱",
+            "segments": [
+              {
+                "text": "君と僕のロンド　",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "のロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "皆で歌えば",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "えば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "世界は回って　笑顔になれるよ",
+            "zh-CN": "世界便会旋转起来 绽放出灿烂笑颜哦",
+            "segments": [
+              {
+                "text": "世界は回って　笑顔になれるよ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "って　"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "になれるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "はい！",
+            "zh-CN": "好嘞！",
+            "segments": [
+              {
+                "text": "はい！",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "はい はい はい はい はい！",
+            "zh-CN": "是 是 是 是 是！",
+            "segments": [
+              {
+                "text": "はい はい はい はい はい！",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "はい はい はい はい はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "丘を越えて山を越えて谷を越えてゆくんだ",
+            "zh-CN": "翻过小丘 越过高山 穿过山谷前行吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "丘を越えて山を越えて谷を越えてゆくんだ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "丘",
+                    "reading": "おか"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "山",
+                    "reading": "やま"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "谷",
+                    "reading": "たに"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えてゆくんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "川を越えて海を越えて空を越えてゆくんだ",
+            "zh-CN": "渡过河流 跨过大海 飞越长空前行吧",
+            "segments": [
+              {
+                "text": "川を越えて海を越えて空を越えてゆくんだ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "川",
+                    "reading": "かわ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "海",
+                    "reading": "うみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えてゆくんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "雨上がりの空　虹を描いて",
+            "zh-CN": "雨过天晴的天空 描绘出道道彩虹",
+            "segments": [
+              {
+                "text": "雨上がりの空　虹を描いて",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "雨上",
+                    "reading": "あめあ"
+                  },
+                  {
+                    "text": "がりの"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "虹",
+                    "reading": "にじ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "描",
+                    "reading": "えが"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "皆に会いにゆくよ",
+            "zh-CN": "前去与大家相见咯",
+            "segments": [
+              {
+                "text": "皆に会いにゆくよ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "会",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "いにゆくよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "大切なのは僕でいること　",
+            "zh-CN": "最重要的便是做最真实的自己",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "大切なのは僕でいること　",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "大切",
+                    "reading": "たいせつ"
+                  },
+                  {
+                    "text": "なのは"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "でいること　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "間違いだらけの毎日も",
+            "zh-CN": "纵然尽是错误百出的每一天",
+            "segments": [
+              {
+                "text": "間違いだらけの毎日も",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "いだらけの"
+                  },
+                  {
+                    "text": "毎日",
+                    "reading": "まいにち"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "手と手をつないで　目と目を合わせて",
+            "zh-CN": "手牵着手 双目相对",
+            "segments": [
+              {
+                "text": "手と手をつないで　目と目を合わせて",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "をつないで　"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わせて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "どこまでも歩こう",
+            "zh-CN": "无论天涯海角一同大步迈进吧",
+            "segments": [
+              {
+                "text": "どこまでも歩こう",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこまでも"
+                  },
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "こう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "おサルさんのロンド　キリンさんのロンド",
+            "zh-CN": "小猴子们的回旋曲 小长颈鹿们的回旋曲",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おサルさんのロンド　キリンさんのロンド",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "おサルさんのロンド　キリンさんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "ウサギさんのロンド　気がつけば僕も",
+            "zh-CN": "小兔子们的回旋曲 回过神来我也",
+            "segments": [
+              {
+                "text": "ウサギさんのロンド　気がつけば僕も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ウサギさんのロンド　"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がつけば"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "小鳥たちのロンド　子犬たちのロンド",
+            "zh-CN": "小鸟儿们的回旋曲 小狗儿们的回旋曲",
+            "segments": [
+              {
+                "text": "小鳥たちのロンド　子犬たちのロンド",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "小鳥",
+                    "reading": "ことり"
+                  },
+                  {
+                    "text": "たちのロンド　"
+                  },
+                  {
+                    "text": "子犬",
+                    "reading": "こいぬ"
+                  },
+                  {
+                    "text": "たちのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "子猫たちのロンド　笑顔で歌うよ",
+            "zh-CN": "小猫咪们的回旋曲 带着笑容放声歌唱哦",
+            "segments": [
+              {
+                "text": "子猫たちのロンド　笑顔で歌うよ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "子猫",
+                    "reading": "こねこ"
+                  },
+                  {
+                    "text": "たちのロンド　"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "小人さんのロンド　巨人さんのロンド",
+            "zh-CN": "小矮人们的回旋曲 巨人们的回旋曲",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "小人さんのロンド　",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "小人",
+                    "reading": "こびと"
+                  },
+                  {
+                    "text": "さんのロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "巨人さんのロンド",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "巨人",
+                    "reading": "きょじん"
+                  },
+                  {
+                    "text": "さんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "宇宙人のロンド　気がつけば僕も",
+            "zh-CN": "外星人们的回旋曲 回过神来我也",
+            "segments": [
+              {
+                "text": "宇宙人のロンド　",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "宇宙人",
+                    "reading": "うちゅうじん"
+                  },
+                  {
+                    "text": "のロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "気がつけば僕も",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がつけば"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "寂しがりのロンド　忘れんぼのロンド",
+            "zh-CN": "害怕寂寞之人的回旋曲 丢三落四之人的回旋曲",
+            "segments": [
+              {
+                "text": "寂しがりのロンド　",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "寂",
+                    "reading": "さみ"
+                  },
+                  {
+                    "text": "しがりのロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "忘れんぼのロンド",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れんぼのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "照れ屋さんのロンド　笑顔で歌うよ",
+            "zh-CN": "害羞腼腆之人的回旋曲 带着笑容放声歌唱哦",
+            "segments": [
+              {
+                "text": "照れ屋さんのロンド　",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "れ"
+                  },
+                  {
+                    "text": "屋",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "さんのロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "笑顔で歌うよ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "お母さんのロンド　お父さんのロンド",
+            "zh-CN": "妈妈的回旋曲 爸爸的回旋曲",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "お母さんのロンド　お父さんのロンド",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "母",
+                    "reading": "かあ"
+                  },
+                  {
+                    "text": "さんのロンド　お"
+                  },
+                  {
+                    "text": "父",
+                    "reading": "とう"
+                  },
+                  {
+                    "text": "さんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "お姉ちゃんのロンド　気がつけば僕も",
+            "zh-CN": "姐姐的回旋曲 回过神来我也",
+            "segments": [
+              {
+                "text": "お姉ちゃんのロンド　気がつけば僕も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "姉",
+                    "reading": "ねえ"
+                  },
+                  {
+                    "text": "ちゃんのロンド　"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "がつけば"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "お婆ちゃんのロンド　お爺ちゃんのロンド",
+            "zh-CN": "奶奶的回旋曲 爷爷的回旋曲",
+            "segments": [
+              {
+                "text": "お婆ちゃんのロンド　お爺ちゃんのロンド",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "婆",
+                    "reading": "ばあ"
+                  },
+                  {
+                    "text": "ちゃんのロンド　お"
+                  },
+                  {
+                    "text": "爺",
+                    "reading": "じい"
+                  },
+                  {
+                    "text": "ちゃんのロンド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "君と僕のロンド　皆で歌えば",
+            "zh-CN": "你与我的回旋曲 只要大家一同歌唱",
+            "segments": [
+              {
+                "text": "君と僕のロンド　",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "のロンド　"
+                  }
+                ]
+              },
+              {
+                "text": "皆で歌えば",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "えば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "世界は回って　笑顔になれるよ",
+            "zh-CN": "世界便会旋转起来 绽放出灿烂笑颜哦",
+            "segments": [
+              {
+                "text": "世界は回って　笑顔になれるよ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "って　"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "になれるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "はい！",
+            "zh-CN": "好嘞！",
+            "segments": [
+              {
+                "text": "はい！",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Do Re Mi Fa Rondo",
+          "revisionId": 328808,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo?oldid=328808",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Do Re Mi Fa Rondo",
+          "revisionId": 328808,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo?oldid=328808",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Do Re Mi Fa Rondo",
+          "revisionId": 328808,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo?oldid=328808",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Do Re Mi Fa Rondo",
+          "revisionId": 328808,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo?oldid=328808",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Do Re Mi Fa Rondo",
+          "revisionId": 328808,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo?oldid=328808",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Do Re Mi Fa Rondo",
+          "revisionId": 328808,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo?oldid=328808",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Do Re Mi Fa Rondo",
+          "revisionId": 328808,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo?oldid=328808",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Do Re Mi Fa Rondo",
+          "revisionId": 328808,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo?oldid=328808",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

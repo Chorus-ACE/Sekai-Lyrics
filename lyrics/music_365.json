@@ -1,0 +1,1664 @@
+{
+  "version": 3,
+  "musicId": 365,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:01:29Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-09",
+          "name": "小豆沢こはね"
+        },
+        {
+          "performerId": "歌唱者-10",
+          "name": "白石杏"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "もう行き場がないわ この恋の熱量",
+            "zh-CN": "这份恋慕的热量 已经无处安放了",
+            "segments": [
+              {
+                "text": "もう行き場がないわ この恋の熱量",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "場",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "がないわ この"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "熱量",
+                    "reading": "ねつりょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "嗚呼",
+            "zh-CN": "啊啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "嗚呼",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "嗚呼",
+                    "reading": "ああ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "灰色の雲 モノクロの喧騒",
+            "zh-CN": "灰色的云彩 黑白的喧嚣",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "灰色の雲 モノクロの喧騒",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "灰色",
+                    "reading": "はいいろ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雲",
+                    "reading": "くも"
+                  },
+                  {
+                    "text": " モノクロの"
+                  },
+                  {
+                    "text": "喧騒",
+                    "reading": "けんそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "日差しはかげり",
+            "zh-CN": "阳光渐暗",
+            "segments": [
+              {
+                "text": "日差しはかげり",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "日差",
+                    "reading": "ひざ"
+                  },
+                  {
+                    "text": "しはかげり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "夕暮れは色を変えていく",
+            "zh-CN": "黄昏不断变换着色彩",
+            "segments": [
+              {
+                "text": "夕暮れは色を変えていく",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "夕暮",
+                    "reading": "ゆうぐ"
+                  },
+                  {
+                    "text": "れは"
+                  },
+                  {
+                    "text": "色",
+                    "reading": "いろ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "えていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "嗚呼 世界がにじんで",
+            "zh-CN": "啊啊 世界泛起泪光",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "嗚呼 世界がにじんで",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "嗚呼",
+                    "reading": "ああ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "がにじんで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "それでも好きでいれるかなんて",
+            "zh-CN": "纵然如此 还能继续喜欢下去吗",
+            "segments": [
+              {
+                "text": "それでも好きでいれるかなんて",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "それでも"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "きでいれるかなんて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "わかってる けどどうすればいいの",
+            "zh-CN": "我心里明白 但究竟该如何是好",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "わかってる けどどうすればいいの",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "わかってる けどどうすればいいの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "どうしたら どうすれば",
+            "zh-CN": "该怎么做 该如何是好",
+            "segments": [
+              {
+                "text": "どうしたら どうすれば",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうしたら どうすれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "バカだな わたし・・・・・・",
+            "zh-CN": "真是个大笨蛋啊 我……",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "バカだな わたし・・・・・・",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "バカだな わたし・・・・・・"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "始めるのよ これは戦争",
+            "zh-CN": "要开打了 这是一场战争",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "始めるのよ これは戦争",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めるのよ これは"
+                  },
+                  {
+                    "text": "戦争",
+                    "reading": "せんそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "嬉しそうなキミをみるなんて",
+            "zh-CN": "看着你一脸开心的模样",
+            "segments": [
+              {
+                "text": "嬉しそうなキミをみるなんて",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "嬉",
+                    "reading": "うれ"
+                  },
+                  {
+                    "text": "しそうなキミをみるなんて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "切なる恋 それは罪",
+            "zh-CN": "迫切的恋慕 那便是罪过",
+            "segments": [
+              {
+                "text": "切なる恋 それは罪",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "切",
+                    "reading": "せつ"
+                  },
+                  {
+                    "text": "なる"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": " それは"
+                  },
+                  {
+                    "text": "罪",
+                    "reading": "つみ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "見せてあげる わたしの想いを",
+            "zh-CN": "让你见识一下 我的心意吧",
+            "segments": [
+              {
+                "text": "見せてあげる わたしの想いを",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "せてあげる わたしの"
+                  },
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いを"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "叫んでみた メガホンは壊れてたの",
+            "zh-CN": "试着大声呼喊 扩音喇叭却坏掉了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "叫んでみた メガホンは壊れてたの",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "叫",
+                    "reading": "さけ"
+                  },
+                  {
+                    "text": "んでみた メガホンは"
+                  },
+                  {
+                    "text": "壊",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "れてたの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "どれだけ背伸びしたって",
+            "zh-CN": "无论怎样踮起脚尖",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どれだけ背伸びしたって",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "どれだけ"
+                  },
+                  {
+                    "text": "背伸",
+                    "reading": "せの"
+                  },
+                  {
+                    "text": "びしたって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "君の視界に入らない",
+            "zh-CN": "都无法进入你的视线",
+            "segments": [
+              {
+                "text": "君の視界に入らない",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "視界",
+                    "reading": "しかい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "入",
+                    "reading": "はい"
+                  },
+                  {
+                    "text": "らない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "嗚呼 いつの間にか晴れた空",
+            "zh-CN": "啊啊 不知不觉间放晴的天空",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "嗚呼 いつの間にか晴れた空",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "嗚呼",
+                    "reading": "ああ"
+                  },
+                  {
+                    "text": " いつの"
+                  },
+                  {
+                    "text": "間",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "にか"
+                  },
+                  {
+                    "text": "晴",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "れた"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "全然似合わない",
+            "zh-CN": "跟我当下的心情根本不搭",
+            "segments": [
+              {
+                "text": "全然似合わない",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "全然似合",
+                    "reading": "ぜんぜんにあ"
+                  },
+                  {
+                    "text": "わない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "気持ちが抑えられなくて",
+            "zh-CN": "心情无法抑制",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "気持ちが抑えられなくて",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ちが"
+                  },
+                  {
+                    "text": "抑",
+                    "reading": "おさ"
+                  },
+                  {
+                    "text": "えられなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "どうしたら どうすれば",
+            "zh-CN": "该怎么做 该如何是好",
+            "segments": [
+              {
+                "text": "どうしたら どうすれば",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうしたら どうすれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "泣いてなんか ないんだからね",
+            "zh-CN": "我才没有 哭呢",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "泣いてなんか ないんだからね",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いてなんか ないんだからね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "大好き",
+            "zh-CN": "最喜欢你了",
+            "segments": [
+              {
+                "text": "大好き",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "たたかうのよ ハートを撃て",
+            "zh-CN": "战斗到底 击中你的心吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "たたかうのよ ハートを撃て",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "たたかうのよ ハートを"
+                  },
+                  {
+                    "text": "撃",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "て"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "手段なんて 選んでられない",
+            "zh-CN": "已经顾不上挑选手段了",
+            "segments": [
+              {
+                "text": "手段なんて 選んでられない",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "手段",
+                    "reading": "しゅだん"
+                  },
+                  {
+                    "text": "なんて "
+                  },
+                  {
+                    "text": "選",
+                    "reading": "えら"
+                  },
+                  {
+                    "text": "んでられない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "スカート ひらり 見せ付けるのよ",
+            "zh-CN": "裙摆轻扬 展现给你看",
+            "segments": [
+              {
+                "text": "スカート ひらり 見せ付けるのよ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "スカート ひらり "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "せ"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "けるのよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "君の視線奪ってみせるの",
+            "zh-CN": "一定要把你的视线夺过来",
+            "segments": [
+              {
+                "text": "君の視線奪ってみせるの",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "視線奪",
+                    "reading": "しせんうば"
+                  },
+                  {
+                    "text": "ってみせるの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "迎撃用意",
+            "zh-CN": "迎击准备",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "迎撃用意",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "迎撃用意",
+                    "reading": "げいげきようい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "戦況は未だ不利なのです",
+            "zh-CN": "战况至今依然不利",
+            "segments": [
+              {
+                "text": "戦況は未だ不利なのです",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "戦況",
+                    "reading": "せんきょう"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "未",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "だ"
+                  },
+                  {
+                    "text": "不利",
+                    "reading": "ふり"
+                  },
+                  {
+                    "text": "なのです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "恋は盲目",
+            "zh-CN": "恋爱令人盲目",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "恋は盲目",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "盲目",
+                    "reading": "もうもく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "君の口づけで目が覚めるの！",
+            "zh-CN": "唯有你的吻能将我唤醒！",
+            "segments": [
+              {
+                "text": "君の口づけで目が覚めるの！",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "口",
+                    "reading": "くち"
+                  },
+                  {
+                    "text": "づけで"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "覚",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "めるの！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "もう行き場がないわ この恋の熱量",
+            "zh-CN": "这份恋慕的热量 已经无处安放了",
+            "segments": [
+              {
+                "text": "もう行き場がないわ この恋の熱量",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "場",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "がないわ この"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "熱量",
+                    "reading": "ねつりょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "嗚呼",
+            "zh-CN": "啊啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "嗚呼",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "嗚呼",
+                    "reading": "ああ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "灰色の雲 モノクロの喧騒",
+            "zh-CN": "灰色的云彩 黑白的喧嚣",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "灰色の雲 モノクロの喧騒",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "灰色",
+                    "reading": "はいいろ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雲",
+                    "reading": "くも"
+                  },
+                  {
+                    "text": " モノクロの"
+                  },
+                  {
+                    "text": "喧騒",
+                    "reading": "けんそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "日差しはかげり",
+            "zh-CN": "阳光渐暗",
+            "segments": [
+              {
+                "text": "日差しはかげり",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "日差",
+                    "reading": "ひざ"
+                  },
+                  {
+                    "text": "しはかげり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "夕暮れは色を変えていく",
+            "zh-CN": "黄昏不断变换着色彩",
+            "segments": [
+              {
+                "text": "夕暮れは色を変えていく",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "夕暮",
+                    "reading": "ゆうぐ"
+                  },
+                  {
+                    "text": "れは"
+                  },
+                  {
+                    "text": "色",
+                    "reading": "いろ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "えていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "嗚呼 世界がにじんで",
+            "zh-CN": "啊啊 世界泛起泪光",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "嗚呼 世界がにじんで",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "嗚呼",
+                    "reading": "ああ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "がにじんで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "それでも好きでいれるかなんて",
+            "zh-CN": "纵然如此 还能继续喜欢下去吗",
+            "segments": [
+              {
+                "text": "それでも好きでいれるかなんて",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "それでも"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "きでいれるかなんて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "わかってる けどどうすればいいの",
+            "zh-CN": "我心里明白 但究竟该如何是好",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "わかってる けどどうすればいいの",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "わかってる けどどうすればいいの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "どうしたら どうすれば",
+            "zh-CN": "该怎么做 该如何是好",
+            "segments": [
+              {
+                "text": "どうしたら どうすれば",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうしたら どうすれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "バカだな わたし・・・・・・",
+            "zh-CN": "真是个大笨蛋啊 我……",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "バカだな わたし・・・・・・",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "バカだな わたし・・・・・・"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "始めるのよ これは戦争",
+            "zh-CN": "要开打了 这是一场战争",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "始めるのよ これは戦争",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めるのよ これは"
+                  },
+                  {
+                    "text": "戦争",
+                    "reading": "せんそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "嬉しそうなキミをみるなんて",
+            "zh-CN": "看着你一脸开心的模样",
+            "segments": [
+              {
+                "text": "嬉しそうなキミをみるなんて",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "嬉",
+                    "reading": "うれ"
+                  },
+                  {
+                    "text": "しそうなキミをみるなんて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "切なる恋 それは罪",
+            "zh-CN": "迫切的恋慕 那便是罪过",
+            "segments": [
+              {
+                "text": "切なる恋 それは罪",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "切",
+                    "reading": "せつ"
+                  },
+                  {
+                    "text": "なる"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": " それは"
+                  },
+                  {
+                    "text": "罪",
+                    "reading": "つみ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "見せてあげる わたしの想いを",
+            "zh-CN": "让你见识一下 我的心意吧",
+            "segments": [
+              {
+                "text": "見せてあげる わたしの想いを",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "せてあげる わたしの"
+                  },
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いを"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "迎撃用意",
+            "zh-CN": "迎击准备",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "迎撃用意",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "迎撃用意",
+                    "reading": "げいげきようい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "戦況は未だ不利なのです",
+            "zh-CN": "战况至今依然不利",
+            "segments": [
+              {
+                "text": "戦況は未だ不利なのです",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "戦況",
+                    "reading": "せんきょう"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "未",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "だ"
+                  },
+                  {
+                    "text": "不利",
+                    "reading": "ふり"
+                  },
+                  {
+                    "text": "なのです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "恋は盲目",
+            "zh-CN": "恋爱令人盲目",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "恋は盲目",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "盲目",
+                    "reading": "もうもく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "君の口づけで目が覚めるの！",
+            "zh-CN": "唯有你的吻能将我唤醒！",
+            "segments": [
+              {
+                "text": "君の口づけで目が覚めるの！",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "口",
+                    "reading": "くち"
+                  },
+                  {
+                    "text": "づけで"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "覚",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "めるの！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Koi wa Sensou",
+          "revisionId": 330257,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Koi_wa_Sensou?oldid=330257",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Koi wa Sensou",
+          "revisionId": 330257,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Koi_wa_Sensou?oldid=330257",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Koi wa Sensou",
+          "revisionId": 330257,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Koi_wa_Sensou?oldid=330257",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Koi wa Sensou",
+          "revisionId": 330257,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Koi_wa_Sensou?oldid=330257",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Koi wa Sensou",
+          "revisionId": 330257,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Koi_wa_Sensou?oldid=330257",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Koi wa Sensou",
+          "revisionId": 330257,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Koi_wa_Sensou?oldid=330257",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Koi wa Sensou",
+          "revisionId": 330257,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Koi_wa_Sensou?oldid=330257",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Koi wa Sensou",
+          "revisionId": 330257,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Koi_wa_Sensou?oldid=330257",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3726 @@
+{
+  "version": 3,
+  "musicId": 450,
+  "revision": 3,
+  "updatedAt": "2026-08-23T11:22:01Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "遥か 彼方の銀河から",
+            "zh-CN": "自遥远彼方的银河",
+            "segments": [
+              {
+                "text": "遥か 彼方の銀河から",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "遥",
+                    "reading": "はるか"
+                  },
+                  {
+                    "text": "か "
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "なた"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "銀河",
+                    "reading": "ぎんが"
+                  },
+                  {
+                    "text": "から"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "君に届け スペースオペラ！（ハイ！）",
+            "zh-CN": "传达给你吧 太空歌剧！（嗨！）",
+            "segments": [
+              {
+                "text": "君に届け スペースオペラ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け スペースオペラ！"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "ガラクタで作った スペースシップ",
+            "zh-CN": "用破铜烂铁打造的 太空飞船",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ガラクタで作った スペースシップ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ガラクタで"
+                  },
+                  {
+                    "text": "作",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "った スペースシップ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "あふれそうなハートごと 載せて",
+            "zh-CN": "满载着快要溢出的真心",
+            "segments": [
+              {
+                "text": "あふれそうなハートごと 載せて",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "あふれそうなハートごと "
+                  },
+                  {
+                    "text": "載",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "せて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "君のシグナル 探索中",
+            "zh-CN": "你的信号 正在搜寻中",
+            "segments": [
+              {
+                "text": "君のシグナル 探索中",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のシグナル "
+                  },
+                  {
+                    "text": "探索中",
+                    "reading": "たんさくちゅう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "いまだ！この惑星をとぶのだ！",
+            "zh-CN": "就是现在！飞离这颗行星吧！",
+            "segments": [
+              {
+                "text": "いまだ！この惑星をとぶのだ！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "いまだ！この"
+                  },
+                  {
+                    "text": "惑星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "をとぶのだ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "チェック チェック！進路だいじょぶ？",
+            "zh-CN": "检查 确认！航线没问题吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "チェック チェック！進路だいじょぶ？",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "チェック チェック！"
+                  },
+                  {
+                    "text": "進路",
+                    "reading": "しんろ"
+                  },
+                  {
+                    "text": "だいじょぶ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "行けば進路になるからだいじょぶ！",
+            "zh-CN": "只要前行就会成为航线 所以没问题！",
+            "segments": [
+              {
+                "text": "行けば進路になるからだいじょぶ！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "行",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "けば"
+                  },
+                  {
+                    "text": "進路",
+                    "reading": "しんろ"
+                  },
+                  {
+                    "text": "になるからだいじょぶ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "さあ ジャック ジャック！電波ジャックだ！",
+            "zh-CN": "来吧 劫持 占领！电波劫持啦！",
+            "segments": [
+              {
+                "text": "さあ ジャック ジャック！電波ジャックだ！",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "さあ ジャック ジャック！"
+                  },
+                  {
+                    "text": "電波",
+                    "reading": "でんぱ"
+                  },
+                  {
+                    "text": "ジャックだ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "あった！君の受信アンテナ",
+            "zh-CN": "找到了！你的接收天线",
+            "segments": [
+              {
+                "text": "あった！君の受信アンテナ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "あった！"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "受信",
+                    "reading": "じゅしん"
+                  },
+                  {
+                    "text": "アンテナ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "やっと 出逢えたね",
+            "zh-CN": "终于 能够相遇了呢",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "やっと 出逢えたね",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "やっと "
+                  },
+                  {
+                    "text": "出逢",
+                    "reading": "であ"
+                  },
+                  {
+                    "text": "えたね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "どこにいても見つけるよ",
+            "zh-CN": "无论你身在何方我都会找到你",
+            "segments": [
+              {
+                "text": "どこにいても見つけるよ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこにいても"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つけるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "振れた 気持ちを（オーオーオーオーオー）",
+            "zh-CN": "将动摇的 心绪（噢噢噢噢噢）",
+            "segments": [
+              {
+                "text": "振れた 気持ちを",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "振",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "れた "
+                  },
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ちを"
+                  }
+                ]
+              },
+              {
+                "text": "（オーオーオーオーオー）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（オーオーオーオーオー）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "歌に乗せて",
+            "zh-CN": "寄托于歌声中",
+            "segments": [
+              {
+                "text": "歌に乗せて",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "乗",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "せて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "この宇宙すべてに わんだほーい！",
+            "zh-CN": "向全宇宙放声 哇哒吼咿！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "この宇宙すべてに ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "すべてに "
+                  }
+                ]
+              },
+              {
+                "text": "わんだほーい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "わんだほーい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "オ！ペ！ラ！スペースオペラ！",
+            "zh-CN": "歌！剧！太空歌剧！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オ！ペ！ラ！スペースオペラ！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "オ！ペ！ラ！スペースオペラ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "君に！届いてアリア",
+            "zh-CN": "传达！给你吧 咏叹调",
+            "segments": [
+              {
+                "text": "君に！届いてアリア",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に！"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "いてアリア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "想いが（ハイ！）ラブが（ハイ！）",
+            "zh-CN": "心愿（嗨！）爱意（嗨！）",
+            "segments": [
+              {
+                "text": "想いが",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いが"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              },
+              {
+                "text": "ラブが",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブが"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "壮大すぎて 伝えきれない",
+            "zh-CN": "宏大壮阔到 无法全数言表",
+            "segments": [
+              {
+                "text": "壮大すぎて 伝えきれない",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "壮大",
+                    "reading": "そうだい"
+                  },
+                  {
+                    "text": "すぎて "
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えきれない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "オ！ペ！ラ！それでもいいや",
+            "zh-CN": "歌！剧！即便如此也无妨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オ！ペ！ラ！それでもいいや",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "オ！ペ！ラ！それでもいいや"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "その笑顔も 涙も",
+            "zh-CN": "那个笑容 还有泪水",
+            "segments": [
+              {
+                "text": "その笑顔も 涙も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "涙",
+                    "reading": "なみだ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "不器用な 愛情も",
+            "zh-CN": "生涩笨拙的 爱意",
+            "segments": [
+              {
+                "text": "不器用な 愛情も",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "不器用",
+                    "reading": "ぶきよ"
+                  },
+                  {
+                    "text": "な "
+                  },
+                  {
+                    "text": "愛情",
+                    "reading": "あいじょう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "ぜんぶ乗せて",
+            "zh-CN": "全部都装载而上",
+            "segments": [
+              {
+                "text": "ぜんぶ乗せて",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぜんぶ"
+                  },
+                  {
+                    "text": "乗",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "せて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "さあ ラタタタタタタタ タラッタ",
+            "zh-CN": "来吧 啦哒哒哒哒哒哒 哒啦哒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "さあ ラタタタタタタタ タラッタ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "さあ ラタタタタタタタ タラッタ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+            "zh-CN": "歌唱吧 噜嘟嘟嘟嘟嘟嘟 嘟噜嘟",
+            "segments": [
+              {
+                "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "ちいさな星からみれば悲劇も",
+            "zh-CN": "在渺小的星球看来纵使是悲剧",
+            "segments": [
+              {
+                "text": "ちいさな星からみれば悲劇も",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちいさな"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "からみれば"
+                  },
+                  {
+                    "text": "悲劇",
+                    "reading": "ひげき"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "宇宙からみれば喜劇だ！いえい！",
+            "zh-CN": "从宇宙宏观来看也不过是喜剧！耶！",
+            "segments": [
+              {
+                "text": "宇宙からみれば喜劇だ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "からみれば"
+                  },
+                  {
+                    "text": "喜劇",
+                    "reading": "きげき"
+                  },
+                  {
+                    "text": "だ！"
+                  }
+                ]
+              },
+              {
+                "text": "いえい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "いえい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "ラタタタタタタタ タラッタ",
+            "zh-CN": "Ratatatatatata Taratta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラタタタタタタタ タラッタ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラタタタタタタタ タラッタ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+            "zh-CN": "歌唱吧 噜嘟嘟嘟嘟嘟嘟 嘟噜嘟",
+            "segments": [
+              {
+                "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "遥か 彼方で恋をした",
+            "zh-CN": "在遥远的彼方坠入爱河",
+            "segments": [
+              {
+                "text": "遥か 彼方で恋をした",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "遥",
+                    "reading": "はるか"
+                  },
+                  {
+                    "text": "か "
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "なた"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "をした"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "君に届け スペースオペラ！（ハイ！）",
+            "zh-CN": "传达给你吧 太空歌剧！（嗨！）",
+            "segments": [
+              {
+                "text": "君に届け スペースオペラ！（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け スペースオペラ！（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "かさなる周波 つなぐ電波（でんぱ！）",
+            "zh-CN": "重叠的频率 紧连的电波（电波！）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "かさなる周波 つなぐ電波",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "かさなる"
+                  },
+                  {
+                    "text": "周波",
+                    "reading": "しゅうは"
+                  },
+                  {
+                    "text": " つなぐ"
+                  },
+                  {
+                    "text": "電波",
+                    "reading": "でんぱ"
+                  }
+                ]
+              },
+              {
+                "text": "（でんぱ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（でんぱ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "きかせて君の カデンツァ（カデンツァ！）",
+            "zh-CN": "让我听听你的 华彩乐段（华彩乐段！）",
+            "segments": [
+              {
+                "text": "きかせて君の カデンツァ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "きかせて"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の カデンツァ"
+                  }
+                ]
+              },
+              {
+                "text": "（カデンツァ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（カデンツァ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "輝く点と点が夜空で（合体！）",
+            "zh-CN": "闪耀的点与点在夜空中（合体！）",
+            "segments": [
+              {
+                "text": "輝く点と点が夜空で",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "輝",
+                    "reading": "かがや"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "夜空",
+                    "reading": "よぞら"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              },
+              {
+                "text": "（合体！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（"
+                  },
+                  {
+                    "text": "合体",
+                    "reading": "がったい"
+                  },
+                  {
+                    "text": "！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "降る五線譜 輝く星座",
+            "zh-CN": "倾泻而下的五线谱 闪烁的星座",
+            "segments": [
+              {
+                "text": "降る五線譜 輝く星座",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "降",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "五線譜",
+                    "reading": "ごせんふ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "輝",
+                    "reading": "かがや"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "星座",
+                    "reading": "せいざ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "ずっと探してた",
+            "zh-CN": "一直以来都在找寻",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ずっと探してた",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "探",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "してた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "また歌が生まれる意味を",
+            "zh-CN": "再次诞下歌声的意义",
+            "segments": [
+              {
+                "text": "また歌が生まれる意味を",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "また"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "まれる"
+                  },
+                  {
+                    "text": "意味",
+                    "reading": "いみ"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "キモチなんて理解ってもないまま 歌う",
+            "zh-CN": "连心意都尚未完全理解 却依然放声歌唱",
+            "segments": [
+              {
+                "text": "キモチなんて理解ってもないまま 歌う",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "キモチなんて"
+                  },
+                  {
+                    "text": "理解",
+                    "reading": "わか"
+                  },
+                  {
+                    "text": "ってもないまま "
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "う"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "ラーラーラーラーラーラー",
+            "zh-CN": "啦啦啦啦啦啦",
+            "segments": [
+              {
+                "text": "ラーラーラーラーラーラー",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラーラーラーラーラーラー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "それが遠く届き",
+            "zh-CN": "当歌声传至远方",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "それが遠く届き",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "それが"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "響きあったときこの歌に",
+            "zh-CN": "彼此产生共鸣的时刻",
+            "segments": [
+              {
+                "text": "響きあったときこの歌に",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "響",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "きあったときこの"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "君が意味を（オーオーオーオーオー）",
+            "zh-CN": "是你赋予了这首歌（噢噢噢噢噢）",
+            "segments": [
+              {
+                "text": "君が意味を",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "意味",
+                    "reading": "いみ"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "（オーオーオーオーオー）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（オーオーオーオーオー）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "与えたんだ！",
+            "zh-CN": "真正的意义！",
+            "segments": [
+              {
+                "text": "与えたんだ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "与",
+                    "reading": "あた"
+                  },
+                  {
+                    "text": "えたんだ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "この宇宙やっぱり わんだほーい！",
+            "zh-CN": "这个宇宙果然还是 哇哒吼咿！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "この宇宙やっぱり ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "やっぱり "
+                  }
+                ]
+              },
+              {
+                "text": "わんだほーい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "わんだほーい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "オペラ スペースオペラ",
+            "zh-CN": "歌剧 太空歌剧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オペラ スペースオペラ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "オペラ スペースオペラ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "これは ドラマじゃなくて",
+            "zh-CN": "这才不是虚构的电视剧",
+            "segments": [
+              {
+                "text": "これは ドラマじゃなくて",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "これは ドラマじゃなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000047",
+            "order": 46,
+            "japanese": "君と（ハイ！）僕は（ハイ！）",
+            "zh-CN": "你（嗨！）和我（嗨！）",
+            "segments": [
+              {
+                "text": "君と",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              },
+              {
+                "text": "僕は",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000048",
+            "order": 47,
+            "japanese": "この宇宙でいま生きてる！",
+            "zh-CN": "此时此刻真正活着在这个宇宙里！",
+            "segments": [
+              {
+                "text": "この宇宙でいま生きてる！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "でいま"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きてる！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000049",
+            "order": 48,
+            "japanese": "オ！ペ！ラ！そんな奇跡に！",
+            "zh-CN": "歌！剧！向着那般的奇迹！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オ！ペ！ラ！そんな奇跡に！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "オ！ペ！ラ！そんな"
+                  },
+                  {
+                    "text": "奇跡",
+                    "reading": "きせき"
+                  },
+                  {
+                    "text": "に！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000050",
+            "order": 49,
+            "japanese": "この喜劇も 悲劇も",
+            "zh-CN": "将这喜剧 悲剧",
+            "segments": [
+              {
+                "text": "この喜劇も 悲劇も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "喜劇",
+                    "reading": "きげき"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "悲劇",
+                    "reading": "ひげき"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000051",
+            "order": 50,
+            "japanese": "君と逢えた 感動も",
+            "zh-CN": "还有与你相逢的 感动",
+            "segments": [
+              {
+                "text": "君と逢えた 感動も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "逢",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "えた "
+                  },
+                  {
+                    "text": "感動",
+                    "reading": "かんどう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000052",
+            "order": 51,
+            "japanese": "ぜんぶ乗せたい！",
+            "zh-CN": "想要全部承载其上！",
+            "segments": [
+              {
+                "text": "ぜんぶ乗せたい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぜんぶ"
+                  },
+                  {
+                    "text": "乗",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "せたい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000053",
+            "order": 52,
+            "japanese": "さあ ラタタタタタタタ タラッタ",
+            "zh-CN": "来吧 啦哒哒哒哒哒哒 哒啦哒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "さあ ラタタタタタタタ タラッタ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "さあ ラタタタタタタタ タラッタ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000054",
+            "order": 53,
+            "japanese": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+            "zh-CN": "歌唱吧 噜嘟嘟嘟嘟嘟嘟 嘟噜嘟",
+            "segments": [
+              {
+                "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000055",
+            "order": 54,
+            "japanese": "ちいさな星からみれば悲劇も",
+            "zh-CN": "在渺小的星球看来纵使是悲剧",
+            "segments": [
+              {
+                "text": "ちいさな星からみれば悲劇も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちいさな"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "からみれば"
+                  },
+                  {
+                    "text": "悲劇",
+                    "reading": "ひげき"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000056",
+            "order": 55,
+            "japanese": "宇宙から見れば喜劇だ！いえい！",
+            "zh-CN": "从宇宙宏观来看也不过是喜剧！耶！",
+            "segments": [
+              {
+                "text": "宇宙から見れば喜劇だ！いえい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "れば"
+                  },
+                  {
+                    "text": "喜劇",
+                    "reading": "きげき"
+                  },
+                  {
+                    "text": "だ！いえい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000057",
+            "order": 56,
+            "japanese": "ラタタタタタタタ タラッタ",
+            "zh-CN": "Ratatatatatata Taratta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラタタタタタタタ タラッタ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラタタタタタタタ タラッタ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000058",
+            "order": 57,
+            "japanese": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+            "zh-CN": "歌唱吧 噜嘟嘟嘟嘟嘟嘟 嘟噜嘟",
+            "segments": [
+              {
+                "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000059",
+            "order": 58,
+            "japanese": "遥か 彼方の銀河ごと",
+            "zh-CN": "连同遥远彼方的整个银河",
+            "segments": [
+              {
+                "text": "遥か 彼方の銀河ごと",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "遥",
+                    "reading": "はるか"
+                  },
+                  {
+                    "text": "か "
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "なた"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "銀河",
+                    "reading": "ぎんが"
+                  },
+                  {
+                    "text": "ごと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000060",
+            "order": 59,
+            "japanese": "君と謳え スペースオペラ！（ハイ！）",
+            "zh-CN": "与你一同高歌 太空歌剧！（嗨！）",
+            "segments": [
+              {
+                "text": "君と謳え スペースオペラ！（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "謳",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え スペースオペラ！（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000061",
+            "order": 60,
+            "japanese": "君と作る スペースオペラ！",
+            "zh-CN": "与你一同谱写 太空歌剧！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君と作る スペースオペラ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "作",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "る スペースオペラ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "遥か 彼方の銀河から",
+            "zh-CN": "自遥远彼方的银河",
+            "segments": [
+              {
+                "text": "遥か 彼方の銀河から",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "遥",
+                    "reading": "はるか"
+                  },
+                  {
+                    "text": "か "
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "なた"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "銀河",
+                    "reading": "ぎんが"
+                  },
+                  {
+                    "text": "から"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "君に届け スペースオペラ！（ハイ！）",
+            "zh-CN": "传达给你吧 太空歌剧！（嗨！）",
+            "segments": [
+              {
+                "text": "君に届け スペースオペラ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け スペースオペラ！"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "ガラクタで作った スペースシップ",
+            "zh-CN": "用破铜烂铁打造的 太空飞船",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ガラクタで作った スペースシップ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ガラクタで"
+                  },
+                  {
+                    "text": "作",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "った スペースシップ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "あふれそうなハートごと 載せて",
+            "zh-CN": "满载着快要溢出的真心",
+            "segments": [
+              {
+                "text": "あふれそうなハートごと 載せて",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "あふれそうなハートごと "
+                  },
+                  {
+                    "text": "載",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "せて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "君のシグナル 探索中",
+            "zh-CN": "你的信号 正在搜寻中",
+            "segments": [
+              {
+                "text": "君のシグナル 探索中",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のシグナル "
+                  },
+                  {
+                    "text": "探索中",
+                    "reading": "たんさくちゅう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "いまだ！この惑星をとぶのだ！",
+            "zh-CN": "就是现在！飞离这颗行星吧！",
+            "segments": [
+              {
+                "text": "いまだ！この惑星をとぶのだ！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "いまだ！この"
+                  },
+                  {
+                    "text": "惑星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "をとぶのだ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "チェック チェック！進路だいじょぶ？",
+            "zh-CN": "检查 确认！航线没问题吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "チェック チェック！進路だいじょぶ？",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "チェック チェック！"
+                  },
+                  {
+                    "text": "進路",
+                    "reading": "しんろ"
+                  },
+                  {
+                    "text": "だいじょぶ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "行けば進路になるからだいじょぶ！",
+            "zh-CN": "只要前行就会成为航线 所以没问题！",
+            "segments": [
+              {
+                "text": "行けば進路になるからだいじょぶ！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "行",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "けば"
+                  },
+                  {
+                    "text": "進路",
+                    "reading": "しんろ"
+                  },
+                  {
+                    "text": "になるからだいじょぶ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "さあ ジャック ジャック！電波ジャックだ！",
+            "zh-CN": "来吧 劫持 占领！电波劫持啦！",
+            "segments": [
+              {
+                "text": "さあ ジャック ジャック！電波ジャックだ！",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "さあ ジャック ジャック！"
+                  },
+                  {
+                    "text": "電波",
+                    "reading": "でんぱ"
+                  },
+                  {
+                    "text": "ジャックだ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "あった！君の受信アンテナ",
+            "zh-CN": "找到了！你的接收天线",
+            "segments": [
+              {
+                "text": "あった！君の受信アンテナ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "あった！"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "受信",
+                    "reading": "じゅしん"
+                  },
+                  {
+                    "text": "アンテナ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "やっと 出逢えたね",
+            "zh-CN": "终于 能够相遇了呢",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "やっと 出逢えたね",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "やっと "
+                  },
+                  {
+                    "text": "出逢",
+                    "reading": "であ"
+                  },
+                  {
+                    "text": "えたね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "どこにいても見つけるよ",
+            "zh-CN": "无论你身在何方我都会找到你",
+            "segments": [
+              {
+                "text": "どこにいても見つけるよ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこにいても"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つけるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "振れた 気持ちを（オーオーオーオーオー）",
+            "zh-CN": "将动摇的 心绪（噢噢噢噢噢）",
+            "segments": [
+              {
+                "text": "振れた 気持ちを",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "振",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "れた "
+                  },
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ちを"
+                  }
+                ]
+              },
+              {
+                "text": "（オーオーオーオーオー）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（オーオーオーオーオー）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "歌に乗せて",
+            "zh-CN": "寄托于歌声中",
+            "segments": [
+              {
+                "text": "歌に乗せて",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "乗",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "せて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "この宇宙すべてに わんだほーい！",
+            "zh-CN": "向全宇宙放声 哇哒吼咿！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "この宇宙すべてに ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "すべてに "
+                  }
+                ]
+              },
+              {
+                "text": "わんだほーい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "わんだほーい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "オ！ペ！ラ！スペースオペラ！",
+            "zh-CN": "歌！剧！太空歌剧！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オ！ペ！ラ！スペースオペラ！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "オ！ペ！ラ！スペースオペラ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "君に！届いてアリア",
+            "zh-CN": "传达！给你吧 咏叹调",
+            "segments": [
+              {
+                "text": "君に！届いてアリア",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に！"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "いてアリア"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "想いが（ハイ！）ラブが（ハイ！）",
+            "zh-CN": "心愿（嗨！）爱意（嗨！）",
+            "segments": [
+              {
+                "text": "想いが",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いが"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              },
+              {
+                "text": "ラブが",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラブが"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "壮大すぎて 伝えきれない",
+            "zh-CN": "宏大壮阔到 无法全数言表",
+            "segments": [
+              {
+                "text": "壮大すぎて 伝えきれない",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "壮大",
+                    "reading": "そうだい"
+                  },
+                  {
+                    "text": "すぎて "
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えきれない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "オ！ペ！ラ！それでもいいや",
+            "zh-CN": "歌！剧！即便如此也无妨",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オ！ペ！ラ！それでもいいや",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "オ！ペ！ラ！それでもいいや"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "その笑顔も 涙も",
+            "zh-CN": "那个笑容 还有泪水",
+            "segments": [
+              {
+                "text": "その笑顔も 涙も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "笑顔",
+                    "reading": "えがお"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "涙",
+                    "reading": "なみだ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "不器用な 愛情も",
+            "zh-CN": "生涩笨拙的 爱意",
+            "segments": [
+              {
+                "text": "不器用な 愛情も",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "不器用",
+                    "reading": "ぶきよ"
+                  },
+                  {
+                    "text": "な "
+                  },
+                  {
+                    "text": "愛情",
+                    "reading": "あいじょう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "ぜんぶ乗せて",
+            "zh-CN": "全部都装载而上",
+            "segments": [
+              {
+                "text": "ぜんぶ乗せて",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぜんぶ"
+                  },
+                  {
+                    "text": "乗",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "せて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "さあ ラタタタタタタタ タラッタ",
+            "zh-CN": "来吧 啦哒哒哒哒哒哒 哒啦哒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "さあ ラタタタタタタタ タラッタ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "さあ ラタタタタタタタ タラッタ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+            "zh-CN": "歌唱吧 噜嘟嘟嘟嘟嘟嘟 嘟噜嘟",
+            "segments": [
+              {
+                "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "ちいさな星からみれば悲劇も",
+            "zh-CN": "在渺小的星球看来纵使是悲剧",
+            "segments": [
+              {
+                "text": "ちいさな星からみれば悲劇も",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちいさな"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "からみれば"
+                  },
+                  {
+                    "text": "悲劇",
+                    "reading": "ひげき"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "宇宙からみれば喜劇だ！いえい！",
+            "zh-CN": "从宇宙宏观来看也不过是喜剧！耶！",
+            "segments": [
+              {
+                "text": "宇宙からみれば喜劇だ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "からみれば"
+                  },
+                  {
+                    "text": "喜劇",
+                    "reading": "きげき"
+                  },
+                  {
+                    "text": "だ！"
+                  }
+                ]
+              },
+              {
+                "text": "いえい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "いえい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "ラタタタタタタタ タラッタ",
+            "zh-CN": "Ratatatatatata Taratta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ラタタタタタタタ タラッタ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラタタタタタタタ タラッタ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+            "zh-CN": "歌唱吧 噜嘟嘟嘟嘟嘟嘟 嘟噜嘟",
+            "segments": [
+              {
+                "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000030",
+            "order": 29,
+            "japanese": "遥か 彼方で恋をした",
+            "zh-CN": "在遥远的彼方坠入爱河",
+            "segments": [
+              {
+                "text": "遥か 彼方で恋をした",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "遥",
+                    "reading": "はるか"
+                  },
+                  {
+                    "text": "か "
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "なた"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "をした"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000031",
+            "order": 30,
+            "japanese": "君に届け スペースオペラ！（ハイ！）",
+            "zh-CN": "传达给你吧 太空歌剧！（嗨！）",
+            "segments": [
+              {
+                "text": "君に届け スペースオペラ！（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "け スペースオペラ！（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000032",
+            "order": 31,
+            "japanese": "オペラ スペースオペラ",
+            "zh-CN": "歌剧 太空歌剧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オペラ スペースオペラ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "オペラ スペースオペラ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000033",
+            "order": 32,
+            "japanese": "これは ドラマじゃなくて",
+            "zh-CN": "这才不是虚构的电视剧",
+            "segments": [
+              {
+                "text": "これは ドラマじゃなくて",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "これは ドラマじゃなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000034",
+            "order": 33,
+            "japanese": "君と（ハイ！）僕は（ハイ！）",
+            "zh-CN": "你（嗨！）和我（嗨！）",
+            "segments": [
+              {
+                "text": "君と",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              },
+              {
+                "text": "僕は",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              },
+              {
+                "text": "（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000035",
+            "order": 34,
+            "japanese": "この宇宙でいま生きてる！",
+            "zh-CN": "此时此刻真正活着在这个宇宙里！",
+            "segments": [
+              {
+                "text": "この宇宙でいま生きてる！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "宇宙",
+                    "reading": "うちゅう"
+                  },
+                  {
+                    "text": "でいま"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きてる！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000036",
+            "order": 35,
+            "japanese": "オ！ペ！ラ！そんな奇跡に！",
+            "zh-CN": "歌！剧！向着那般的奇迹！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "オ！ペ！ラ！そんな奇跡に！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "オ！ペ！ラ！そんな"
+                  },
+                  {
+                    "text": "奇跡",
+                    "reading": "きせき"
+                  },
+                  {
+                    "text": "に！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000037",
+            "order": 36,
+            "japanese": "この喜劇も 悲劇も",
+            "zh-CN": "将这喜剧 悲剧",
+            "segments": [
+              {
+                "text": "この喜劇も 悲劇も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "喜劇",
+                    "reading": "きげき"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "悲劇",
+                    "reading": "ひげき"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000038",
+            "order": 37,
+            "japanese": "君と逢えた 感動も",
+            "zh-CN": "还有与你相逢的 感动",
+            "segments": [
+              {
+                "text": "君と逢えた 感動も",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "逢",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "えた "
+                  },
+                  {
+                    "text": "感動",
+                    "reading": "かんどう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000039",
+            "order": 38,
+            "japanese": "ぜんぶ乗せたい！",
+            "zh-CN": "想要全部承载其上！",
+            "segments": [
+              {
+                "text": "ぜんぶ乗せたい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぜんぶ"
+                  },
+                  {
+                    "text": "乗",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "せたい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000040",
+            "order": 39,
+            "japanese": "さあ ラタタタタタタタ タラッタ",
+            "zh-CN": "来吧 啦哒哒哒哒哒哒 哒啦哒",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "さあ ラタタタタタタタ タラッタ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "さあ ラタタタタタタタ タラッタ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000041",
+            "order": 40,
+            "japanese": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+            "zh-CN": "歌唱吧 噜嘟嘟嘟嘟嘟嘟 嘟噜嘟",
+            "segments": [
+              {
+                "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000042",
+            "order": 41,
+            "japanese": "遥か 彼方の銀河ごと",
+            "zh-CN": "连同遥远彼方的整个银河",
+            "segments": [
+              {
+                "text": "遥か 彼方の銀河ごと",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "遥",
+                    "reading": "はるか"
+                  },
+                  {
+                    "text": "か "
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "なた"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "銀河",
+                    "reading": "ぎんが"
+                  },
+                  {
+                    "text": "ごと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000043",
+            "order": 42,
+            "japanese": "君と謳え スペースオペラ！（ハイ！）",
+            "zh-CN": "与你一同高歌 太空歌剧！（嗨！）",
+            "segments": [
+              {
+                "text": "君と謳え スペースオペラ！（ハイ！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "謳",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "え スペースオペラ！（ハイ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000044",
+            "order": 43,
+            "japanese": "君と作る スペースオペラ！",
+            "zh-CN": "与你一同谱写 太空歌剧！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君と作る スペースオペラ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "作",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "る スペースオペラ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000045",
+          "full-000046",
+          "full-000047",
+          "full-000048",
+          "full-000049",
+          "full-000050",
+          "full-000051",
+          "full-000052",
+          "full-000053",
+          "full-000054",
+          "full-000059",
+          "full-000060",
+          "full-000061"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Opera! Space Opera!",
+          "revisionId": 337436,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Opera%21_Space_Opera%21?oldid=337436",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Opera! Space Opera!",
+          "revisionId": 337436,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Opera%21_Space_Opera%21?oldid=337436",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Opera! Space Opera!",
+          "revisionId": 337436,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Opera%21_Space_Opera%21?oldid=337436",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Opera! Space Opera!",
+          "revisionId": 337436,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Opera%21_Space_Opera%21?oldid=337436",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Opera! Space Opera!",
+          "revisionId": 337436,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Opera%21_Space_Opera%21?oldid=337436",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Opera! Space Opera!",
+          "revisionId": 337436,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Opera%21_Space_Opera%21?oldid=337436",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Opera! Space Opera!",
+          "revisionId": 337436,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Opera%21_Space_Opera%21?oldid=337436",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Opera! Space Opera!",
+          "revisionId": 337436,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Opera%21_Space_Opera%21?oldid=337436",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

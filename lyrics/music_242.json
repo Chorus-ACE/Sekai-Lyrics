@@ -1,0 +1,2974 @@
+{
+  "version": 3,
+  "musicId": 242,
+  "revision": 5,
+  "updatedAt": "2026-10-15T13:31:05Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "alternate-alternate-vocal-rin-len",
+      "kind": "alternate",
+      "label": "Alternate Vocal — Rin, Len",
+      "availableVersions": [
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "game": {
+        "version": {
+          "kind": "alternate",
+          "label": "Alternate Vocal — Rin, Len"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "0と1が交差する地点",
+            "zh-CN": "0与1相互交错的交汇点",
+            "segments": [
+              {
+                "text": "0と1が交差する地点",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "0と1が"
+                  },
+                  {
+                    "text": "交差",
+                    "reading": "こうさ"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "地点",
+                    "reading": "ちてん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "間違いだらけの　コミュニケーション",
+            "zh-CN": "尽是差错谬误的 错乱沟通",
+            "segments": [
+              {
+                "text": "間違いだらけの　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "いだらけの　"
+                  }
+                ]
+              },
+              {
+                "text": "コミュニケーション",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "コミュニケーション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "アナタの名前は　何ですか？",
+            "zh-CN": "你的名字 究竟叫什么？",
+            "segments": [
+              {
+                "text": "アナタの名前は　何ですか？",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "アナタの"
+                  },
+                  {
+                    "text": "名前",
+                    "reading": "なまえ"
+                  },
+                  {
+                    "text": "は　"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "ですか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "10文字以内で　答エヨ",
+            "zh-CN": "请在10个字以内 作出回答",
+            "segments": [
+              {
+                "text": "10文字以内で　答エヨ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "10"
+                  },
+                  {
+                    "text": "文字",
+                    "reading": "もじ"
+                  },
+                  {
+                    "text": "以内",
+                    "reading": "いない"
+                  },
+                  {
+                    "text": "で　"
+                  },
+                  {
+                    "text": "答",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "エヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "過去と未来が　交差する地点",
+            "zh-CN": "过去与未来 相互交错的交汇点",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "過去と未来が　交差する地点",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "過去",
+                    "reading": "かこ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が　"
+                  },
+                  {
+                    "text": "交差",
+                    "reading": "こうさ"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "地点",
+                    "reading": "ちてん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "行く宛を失った　現在地",
+            "zh-CN": "失去前行方向的 所在现址",
+            "segments": [
+              {
+                "text": "行く宛を失った　",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "宛",
+                    "reading": "あて"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "失",
+                    "reading": "うしな"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "現在地",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "現在地",
+                    "reading": "げんざいち"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "アナタはどうして　生きているの？",
+            "zh-CN": "你究竟是为什么 而活着呢？",
+            "segments": [
+              {
+                "text": "アナタはどうして　生きているの？",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "アナタはどうして　"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きているの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "100文字以内で　答エヨ",
+            "zh-CN": "请在100个字以内 作出回答",
+            "segments": [
+              {
+                "text": "100文字以内で　答エヨ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "100"
+                  },
+                  {
+                    "text": "文字",
+                    "reading": "もじ"
+                  },
+                  {
+                    "text": "以内",
+                    "reading": "いない"
+                  },
+                  {
+                    "text": "で　"
+                  },
+                  {
+                    "text": "答",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "エヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "過去最高速の　夜が明ける",
+            "zh-CN": "历来最快速的 黎明拂晓降临",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "過去最高速の　夜が明ける",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "過去最高速",
+                    "reading": "かこさいこうそく"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ける"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "バランス取ることも　できないまま",
+            "zh-CN": "甚至连平衡感 都无法好好维持",
+            "segments": [
+              {
+                "text": "バランス取ることも　できないまま",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "バランス"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ることも　できないまま"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "自分だけどこか　取り残された",
+            "zh-CN": "唯独我自己不知为何 被遗留抛下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "自分だけどこか　取り残された",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "だけどこか　"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "された"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "音の無い世界　造られた世界",
+            "zh-CN": "毫无声音的世界 被人工制造的世界",
+            "segments": [
+              {
+                "text": "音の無い世界　造られた世界",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "造",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "られた"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "歪んだ景色に　塗りつぶされた",
+            "zh-CN": "被彻底涂抹覆盖在 扭曲变形的风景中",
+            "segments": [
+              {
+                "text": "歪んだ景色に　塗りつぶされた",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "歪",
+                    "reading": "いが"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "景色",
+                    "reading": "けしき"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "塗",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "りつぶされた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "真実はいらない　偽りでいいの",
+            "zh-CN": "根本不需要真实 哪怕是虚假伪装也无所谓",
+            "segments": [
+              {
+                "text": "真実はいらない　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "真実",
+                    "reading": "こたえ"
+                  },
+                  {
+                    "text": "はいらない　"
+                  }
+                ]
+              },
+              {
+                "text": "偽りでいいの",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "偽",
+                    "reading": "いつわ"
+                  },
+                  {
+                    "text": "りでいいの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "自分だけどこか　取り残された",
+            "zh-CN": "唯独我自己不知为何 被遗留抛下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "自分だけどこか　取り残された",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "だけどこか　"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "がと"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "された"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "色のない世界　夢に見た世界",
+            "zh-CN": "毫无色彩的世界 曾在梦中见过的世界",
+            "segments": [
+              {
+                "text": "色のない世界　夢に見た世界",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "色",
+                    "reading": "いろ"
+                  },
+                  {
+                    "text": "のない"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "傷んだ果実を　捨てることすら",
+            "zh-CN": "甚至连扔掉腐烂果实这件事",
+            "segments": [
+              {
+                "text": "傷んだ果実を　捨てることすら",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "果実",
+                    "reading": "かじつ"
+                  },
+                  {
+                    "text": "を　"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てることすら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "1人じゃ出来ない　傍にいてほしくて",
+            "zh-CN": "孤身一人都做不到 好想有你陪伴在身旁",
+            "segments": [
+              {
+                "text": "1人じゃ出来ない　",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "じゃ"
+                  },
+                  {
+                    "text": "出来",
+                    "reading": "でき"
+                  },
+                  {
+                    "text": "ない　"
+                  }
+                ]
+              },
+              {
+                "text": "傍にいて",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "傍",
+                    "reading": "そば"
+                  },
+                  {
+                    "text": "にいて"
+                  }
+                ]
+              },
+              {
+                "text": "ほしくて",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ほしくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Alternate Vocal — Rin, Len"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/alternate-alternate-vocal-rin-len/game_text",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-rin-len/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-rin-len/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-rin-len/relation",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-rin-len/version",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-06",
+          "name": "桐谷遥"
+        },
+        {
+          "performerId": "歌唱者-07",
+          "name": "桃井愛莉"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "0と1が交差する地点",
+            "zh-CN": "0与1相互交错的交汇点",
+            "segments": [
+              {
+                "text": "0と1が交差する地点",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "0と1が"
+                  },
+                  {
+                    "text": "交差",
+                    "reading": "こうさ"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "地点",
+                    "reading": "ちてん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "間違いだらけの　コミュニケーション",
+            "zh-CN": "尽是差错谬误的 错乱沟通",
+            "segments": [
+              {
+                "text": "間違いだらけの　",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "いだらけの　"
+                  }
+                ]
+              },
+              {
+                "text": "コミュニケーション",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "コミュニケーション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "アナタの名前は　何ですか？",
+            "zh-CN": "你的名字 究竟叫什么？",
+            "segments": [
+              {
+                "text": "アナタの名前は　何ですか？",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "アナタの"
+                  },
+                  {
+                    "text": "名前",
+                    "reading": "なまえ"
+                  },
+                  {
+                    "text": "は　"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "ですか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "10文字以内で　答エヨ",
+            "zh-CN": "请在10个字以内 作出回答",
+            "segments": [
+              {
+                "text": "10文字以内で　答エヨ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "10"
+                  },
+                  {
+                    "text": "文字",
+                    "reading": "もじ"
+                  },
+                  {
+                    "text": "以内",
+                    "reading": "いない"
+                  },
+                  {
+                    "text": "で　"
+                  },
+                  {
+                    "text": "答",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "エヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "過去と未来が　交差する地点",
+            "zh-CN": "过去与未来 相互交错的交汇点",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "過去と未来が　交差する地点",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "過去",
+                    "reading": "かこ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が　"
+                  },
+                  {
+                    "text": "交差",
+                    "reading": "こうさ"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "地点",
+                    "reading": "ちてん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "行く宛を失った　現在地",
+            "zh-CN": "失去前行方向的 所在现址",
+            "segments": [
+              {
+                "text": "行く宛を失った　",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "宛",
+                    "reading": "あて"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "失",
+                    "reading": "うしな"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "現在地",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "現在地",
+                    "reading": "げんざいち"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "アナタはどうして　生きているの？",
+            "zh-CN": "你究竟是为什么 而活着呢？",
+            "segments": [
+              {
+                "text": "アナタはどうして　生きているの？",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "アナタはどうして　"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きているの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "100文字以内で　答エヨ",
+            "zh-CN": "请在100个字以内 作出回答",
+            "segments": [
+              {
+                "text": "100文字以内で　答エヨ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "100"
+                  },
+                  {
+                    "text": "文字",
+                    "reading": "もじ"
+                  },
+                  {
+                    "text": "以内",
+                    "reading": "いない"
+                  },
+                  {
+                    "text": "で　"
+                  },
+                  {
+                    "text": "答",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "エヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "過去最高速の　夜が明ける",
+            "zh-CN": "历来最快速的 黎明拂晓降临",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "過去最高速の　夜が明ける",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "過去最高速",
+                    "reading": "かこさいこうそく"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ける"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "バランス取ることも　できないまま",
+            "zh-CN": "甚至连平衡感 都无法好好维持",
+            "segments": [
+              {
+                "text": "バランス取ることも　",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "バランス"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ることも　"
+                  }
+                ]
+              },
+              {
+                "text": "できないまま",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "できないまま"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "自分だけどこか　取り残された",
+            "zh-CN": "唯独我自己不知为何 被遗留抛下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "自分だけどこか　取り残された",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "だけどこか　"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "された"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "音の無い世界　造られた世界",
+            "zh-CN": "毫无声音的世界 被人工制造的世界",
+            "segments": [
+              {
+                "text": "音の無い世界　造られた世界",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "造",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "られた"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "傷んだ果実を　捨てるだけなら",
+            "zh-CN": "若只是扔掉腐烂的果实",
+            "segments": [
+              {
+                "text": "傷んだ果実を　捨てるだけなら",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "果実",
+                    "reading": "かじつ"
+                  },
+                  {
+                    "text": "を　"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てるだけなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "2人もいらない　1人で出来るから",
+            "zh-CN": "用不着两个人 我一个人就能做到",
+            "segments": [
+              {
+                "text": "2人もいらない　",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ふたり"
+                  },
+                  {
+                    "text": "もいらない　"
+                  }
+                ]
+              },
+              {
+                "text": "1人で出来るから",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "出来",
+                    "reading": "でき"
+                  },
+                  {
+                    "text": "るから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "昼と夜が　交差する地点 ",
+            "zh-CN": "昼与夜 交错的地点",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "昼と夜が　交差する地点 ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "昼",
+                    "reading": "ひる"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "が　"
+                  },
+                  {
+                    "text": "交差",
+                    "reading": "こうさ"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "地点",
+                    "reading": "ちてん"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "誰かに会いたくて　会えなくて",
+            "zh-CN": "好想与谁相见 却又无法相见",
+            "segments": [
+              {
+                "text": "誰かに会いたくて　",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かに"
+                  },
+                  {
+                    "text": "会",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "いたくて　"
+                  }
+                ]
+              },
+              {
+                "text": "会えなくて",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "会",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "えなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "ワタシの名前は　何ですか？ ",
+            "zh-CN": "我的名字 究竟叫什么？",
+            "segments": [
+              {
+                "text": "ワタシの名前は　何ですか？ ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "ワタシの"
+                  },
+                  {
+                    "text": "名前",
+                    "reading": "なまえ"
+                  },
+                  {
+                    "text": "は　"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "ですか？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "10文字以内で　教えて",
+            "zh-CN": "请在10个字以内 告诉我",
+            "segments": [
+              {
+                "text": "10文字以内で　教えて",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "10"
+                  },
+                  {
+                    "text": "文字",
+                    "reading": "もじ"
+                  },
+                  {
+                    "text": "以内",
+                    "reading": "いない"
+                  },
+                  {
+                    "text": "で　"
+                  },
+                  {
+                    "text": "教",
+                    "reading": "おし"
+                  },
+                  {
+                    "text": "えて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "嘘と本当が　交差する地点 ",
+            "zh-CN": "谎言与真实 交错的地点",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "嘘と本当が　交差する地点 ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "嘘",
+                    "reading": "うそ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "本当",
+                    "reading": "ほんとう"
+                  },
+                  {
+                    "text": "が　"
+                  },
+                  {
+                    "text": "交差",
+                    "reading": "こうさ"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "地点",
+                    "reading": "ちてん"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "呼吸が止まりそうな　閉塞感",
+            "zh-CN": "呼吸仿佛快要停止的 窒息感",
+            "segments": [
+              {
+                "text": "呼吸が止まりそうな　",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "呼吸",
+                    "reading": "こきゅう"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "まりそうな　"
+                  }
+                ]
+              },
+              {
+                "text": "閉塞感",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "閉塞感",
+                    "reading": "へいそくかん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "ワタシはどうして　生きているの？ ",
+            "zh-CN": "我究竟是为什么 而活着呢？",
+            "segments": [
+              {
+                "text": "ワタシはどうして　生きているの？ ",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "ワタシはどうして　"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きているの？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "100文字以内で　教えて",
+            "zh-CN": "请在100个字以内 告诉我",
+            "segments": [
+              {
+                "text": "100文字以内で　教えて",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "100"
+                  },
+                  {
+                    "text": "文字",
+                    "reading": "もじ"
+                  },
+                  {
+                    "text": "以内",
+                    "reading": "いない"
+                  },
+                  {
+                    "text": "で　"
+                  },
+                  {
+                    "text": "教",
+                    "reading": "おし"
+                  },
+                  {
+                    "text": "えて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "好き　嫌い　好き　嫌い　の繰り返しで",
+            "zh-CN": "在喜欢 讨厌 喜欢 讨厌的反复之中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "好き　嫌い　好き　嫌い　の繰り返しで",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き　"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "い　"
+                  },
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "き　"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "い　の"
+                  },
+                  {
+                    "text": "繰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "返",
+                    "reading": "かえ"
+                  },
+                  {
+                    "text": "しで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "疲れきった愛は　もういらない",
+            "zh-CN": "早已疲惫不堪的爱 我已经不再需要",
+            "segments": [
+              {
+                "text": "疲れきった愛は　",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "疲",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "れきった"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "は　"
+                  }
+                ]
+              },
+              {
+                "text": "もういらない",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "もういらない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "時間だけいつも　通り過ぎていく",
+            "zh-CN": "唯有时间总在 匆匆流逝",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "時間だけいつも　通り過ぎていく",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "時間",
+                    "reading": "じかん"
+                  },
+                  {
+                    "text": "だけいつも　"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "過",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "ぎていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "1秒ごとに　崩れていく世界",
+            "zh-CN": "每一秒都在 逐渐崩溃的世界",
+            "segments": [
+              {
+                "text": "1秒ごとに　崩れていく世界",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "秒",
+                    "reading": "びょう"
+                  },
+                  {
+                    "text": "ごとに　"
+                  },
+                  {
+                    "text": "崩",
+                    "reading": "くず"
+                  },
+                  {
+                    "text": "れていく"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "歪んだ景色に　塗りつぶされた",
+            "zh-CN": "被彻底涂抹覆盖在 扭曲变形的风景中",
+            "segments": [
+              {
+                "text": "歪んだ景色に　塗りつぶされた",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "歪",
+                    "reading": "いが"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "景色",
+                    "reading": "けしき"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "塗",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "りつぶされた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "真実はいらない　偽りでいいの",
+            "zh-CN": "根本不需要真实 哪怕是虚假伪装也无所谓",
+            "segments": [
+              {
+                "text": "真実はいらない　",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "真実",
+                    "reading": "こたえ"
+                  },
+                  {
+                    "text": "はいらない　"
+                  }
+                ]
+              },
+              {
+                "text": "偽りでいいの",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "偽",
+                    "reading": "いつわ"
+                  },
+                  {
+                    "text": "りでいいの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "自分だけどこか　取り残された",
+            "zh-CN": "唯独我自己不知为何 被遗留抛下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "自分だけどこか　取り残された",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "だけどこか　"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "がと"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "された"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "色のない世界　夢に見た世界",
+            "zh-CN": "毫无色彩的世界 曾在梦中见过的世界",
+            "segments": [
+              {
+                "text": "色のない世界　夢に見た世界",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "色",
+                    "reading": "いろ"
+                  },
+                  {
+                    "text": "のない"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "傷んだ果実を　捨てることすら",
+            "zh-CN": "甚至连扔掉腐烂果实这件事",
+            "segments": [
+              {
+                "text": "傷んだ果実を　捨てることすら",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "果実",
+                    "reading": "かじつ"
+                  },
+                  {
+                    "text": "を　"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てることすら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "1人じゃ出来ない　傍にいてほしくて",
+            "zh-CN": "孤身一人都做不到 好想有你陪伴在身旁",
+            "segments": [
+              {
+                "text": "1人じゃ出来ない　",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "じゃ"
+                  },
+                  {
+                    "text": "出来",
+                    "reading": "でき"
+                  },
+                  {
+                    "text": "ない　"
+                  }
+                ]
+              },
+              {
+                "text": "傍にいてほしくて",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "傍",
+                    "reading": "そば"
+                  },
+                  {
+                    "text": "にいてほしくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "0と1が交差する地点",
+            "zh-CN": "0与1相互交错的交汇点",
+            "segments": [
+              {
+                "text": "0と1が交差する地点",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "0と1が"
+                  },
+                  {
+                    "text": "交差",
+                    "reading": "こうさ"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "地点",
+                    "reading": "ちてん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "間違いだらけの　コミュニケーション",
+            "zh-CN": "尽是差错谬误的 错乱沟通",
+            "segments": [
+              {
+                "text": "間違いだらけの　",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "いだらけの　"
+                  }
+                ]
+              },
+              {
+                "text": "コミュニケーション",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "コミュニケーション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "アナタの名前は　何ですか？",
+            "zh-CN": "你的名字 究竟叫什么？",
+            "segments": [
+              {
+                "text": "アナタの名前は　何ですか？",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "アナタの"
+                  },
+                  {
+                    "text": "名前",
+                    "reading": "なまえ"
+                  },
+                  {
+                    "text": "は　"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "ですか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "10文字以内で　答エヨ",
+            "zh-CN": "请在10个字以内 作出回答",
+            "segments": [
+              {
+                "text": "10文字以内で　答エヨ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "10"
+                  },
+                  {
+                    "text": "文字",
+                    "reading": "もじ"
+                  },
+                  {
+                    "text": "以内",
+                    "reading": "いない"
+                  },
+                  {
+                    "text": "で　"
+                  },
+                  {
+                    "text": "答",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "エヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "過去と未来が　交差する地点",
+            "zh-CN": "过去与未来 相互交错的交汇点",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "過去と未来が　交差する地点",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "過去",
+                    "reading": "かこ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "が　"
+                  },
+                  {
+                    "text": "交差",
+                    "reading": "こうさ"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "地点",
+                    "reading": "ちてん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "行く宛を失った　現在地",
+            "zh-CN": "失去前行方向的 所在现址",
+            "segments": [
+              {
+                "text": "行く宛を失った　",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "宛",
+                    "reading": "あて"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "失",
+                    "reading": "うしな"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "現在地",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "現在地",
+                    "reading": "げんざいち"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "アナタはどうして　生きているの？",
+            "zh-CN": "你究竟是为什么 而活着呢？",
+            "segments": [
+              {
+                "text": "アナタはどうして　生きているの？",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "アナタはどうして　"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きているの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "100文字以内で　答エヨ",
+            "zh-CN": "请在100个字以内 作出回答",
+            "segments": [
+              {
+                "text": "100文字以内で　答エヨ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "100"
+                  },
+                  {
+                    "text": "文字",
+                    "reading": "もじ"
+                  },
+                  {
+                    "text": "以内",
+                    "reading": "いない"
+                  },
+                  {
+                    "text": "で　"
+                  },
+                  {
+                    "text": "答",
+                    "reading": "こた"
+                  },
+                  {
+                    "text": "エヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "過去最高速の　夜が明ける",
+            "zh-CN": "历来最快速的 黎明拂晓降临",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "過去最高速の　夜が明ける",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "過去最高速",
+                    "reading": "かこさいこうそく"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "明",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "ける"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "バランス取ることも　できないまま",
+            "zh-CN": "甚至连平衡感 都无法好好维持",
+            "segments": [
+              {
+                "text": "バランス取ることも　",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "バランス"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ることも　"
+                  }
+                ]
+              },
+              {
+                "text": "できないまま",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "できないまま"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "自分だけどこか　取り残された",
+            "zh-CN": "唯独我自己不知为何 被遗留抛下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "自分だけどこか　取り残された",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "だけどこか　"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "された"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "音の無い世界　造られた世界",
+            "zh-CN": "毫无声音的世界 被人工制造的世界",
+            "segments": [
+              {
+                "text": "音の無い世界　造られた世界",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "造",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "られた"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "歪んだ景色に　塗りつぶされた",
+            "zh-CN": "被彻底涂抹覆盖在 扭曲变形的风景中",
+            "segments": [
+              {
+                "text": "歪んだ景色に　塗りつぶされた",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "歪",
+                    "reading": "いが"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "景色",
+                    "reading": "けしき"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "塗",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "りつぶされた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "真実はいらない　偽りでいいの",
+            "zh-CN": "根本不需要真实 哪怕是虚假伪装也无所谓",
+            "segments": [
+              {
+                "text": "真実はいらない　",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "真実",
+                    "reading": "こたえ"
+                  },
+                  {
+                    "text": "はいらない　"
+                  }
+                ]
+              },
+              {
+                "text": "偽りでいいの",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "偽",
+                    "reading": "いつわ"
+                  },
+                  {
+                    "text": "りでいいの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "自分だけどこか　取り残された",
+            "zh-CN": "唯独我自己不知为何 被遗留抛下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "自分だけどこか　取り残された",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "だけどこか　"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "がと"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "された"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "色のない世界　夢に見た世界",
+            "zh-CN": "毫无色彩的世界 曾在梦中见过的世界",
+            "segments": [
+              {
+                "text": "色のない世界　夢に見た世界",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "色",
+                    "reading": "いろ"
+                  },
+                  {
+                    "text": "のない"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "た"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "傷んだ果実を　捨てることすら",
+            "zh-CN": "甚至连扔掉腐烂果实这件事",
+            "segments": [
+              {
+                "text": "傷んだ果実を　捨てることすら",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "果実",
+                    "reading": "かじつ"
+                  },
+                  {
+                    "text": "を　"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てることすら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "1人じゃ出来ない　傍にいてほしくて",
+            "zh-CN": "孤身一人都做不到 好想有你陪伴在身旁",
+            "segments": [
+              {
+                "text": "1人じゃ出来ない　",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "じゃ"
+                  },
+                  {
+                    "text": "出来",
+                    "reading": "でき"
+                  },
+                  {
+                    "text": "ない　"
+                  }
+                ]
+              },
+              {
+                "text": "傍にいてほしくて",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "傍",
+                    "reading": "そば"
+                  },
+                  {
+                    "text": "にいてほしくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000032"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Torinoko City",
+          "revisionId": 330500,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Torinoko_City?oldid=330500",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

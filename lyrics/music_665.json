@@ -1,0 +1,1845 @@
+{
+  "version": 3,
+  "musicId": 665,
+  "revision": 4,
+  "updatedAt": "2026-10-15T14:00:18Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-01",
+          "name": "星乃一歌"
+        },
+        {
+          "performerId": "歌唱者-02",
+          "name": "天馬咲希"
+        },
+        {
+          "performerId": "歌唱者-03",
+          "name": "望月穂波"
+        },
+        {
+          "performerId": "歌唱者-04",
+          "name": "日野森志歩"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "拝啓　人類は快晴なんか失くして",
+            "zh-CN": "敬启 人类早已丢失了朗朗晴空",
+            "segments": [
+              {
+                "text": "拝啓　人類は快晴なんか失くして",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "拝啓",
+                    "reading": "はいけい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "人類",
+                    "reading": "じんるい"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "快晴",
+                    "reading": "かいせい"
+                  },
+                  {
+                    "text": "なんか"
+                  },
+                  {
+                    "text": "失",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "大抵が最低です。　廃材置き場の毎日で",
+            "zh-CN": "大致上全是糟糕透顶。在废料场的平凡日常里",
+            "segments": [
+              {
+                "text": "大抵が最低です。　廃材置き場の毎日で",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "大抵",
+                    "reading": "たいてい"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "最低",
+                    "reading": "さいてい"
+                  },
+                  {
+                    "text": "です。　"
+                  },
+                  {
+                    "text": "廃材置",
+                    "reading": "はいざいお"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "場",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "毎日",
+                    "reading": "まいにち"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "「衛星都市にいこう」あなたは言った。",
+            "zh-CN": "「去卫星都市吧」你曾这般说道。",
+            "segments": [
+              {
+                "text": "「衛星都市にいこう」",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「"
+                  },
+                  {
+                    "text": "衛星都市",
+                    "reading": "えいせいとし"
+                  },
+                  {
+                    "text": "にいこう」"
+                  }
+                ]
+              },
+              {
+                "text": "あなたは言った。",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "あなたは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "った。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "「1.5リットルの現実逃避行計画さ」",
+            "zh-CN": "「那是1.5升的逃避现实航行计划哦」",
+            "segments": [
+              {
+                "text": "「1.5リットルの現実逃避行計画さ」",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「1.5リットルの"
+                  },
+                  {
+                    "text": "現実逃避行計画",
+                    "reading": "げんじつとうひこうけいかく"
+                  },
+                  {
+                    "text": "さ」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "乱反射　世界が透けて",
+            "zh-CN": "漫反射 整个世界通透澄澈",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "乱反射　世界が透けて",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "乱反射",
+                    "reading": "らんはんしゃ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "透",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "けて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "サイレンが遠くで鳴った　もう対流圏界面",
+            "zh-CN": "警笛在远方鸣响 早已冲破对流层顶",
+            "segments": [
+              {
+                "text": "サイレンが遠くで鳴った　",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "サイレンが"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くで"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "もう対流圏界面",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "対流圏界面",
+                    "reading": "たいりゅうけんかいめん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "週末、ぼくらは月の裏側で",
+            "zh-CN": "周末，我们在月球的背面",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "週末、ぼくらは月の裏側で",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "週末",
+                    "reading": "しゅうまつ"
+                  },
+                  {
+                    "text": "、ぼくらは"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "裏側",
+                    "reading": "うらがわ"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "「なんにもないね」　なんて、くだらなくて笑いあうだろう",
+            "zh-CN": "说着「什么都没有呢」，这般无聊地相视而笑吧",
+            "segments": [
+              {
+                "text": "「なんにもないね」　なんて、くだらなくて笑いあうだろう",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "「なんにもないね」　なんて、くだらなくて"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "いあうだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "それからぼくらは恋におちて",
+            "zh-CN": "随后我们双双坠入爱河",
+            "segments": [
+              {
+                "text": "それからぼくらは恋におちて",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "それからぼくらは"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "におちて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "この旅の果てなんてわかっていたって　知らないふりさ",
+            "zh-CN": "纵然深知这场旅途的末路终局 也装作一无所知",
+            "segments": [
+              {
+                "text": "この旅の果てなんてわかっていたって　知らないふりさ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "旅",
+                    "reading": "たび"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "果",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "てなんてわかっていたって　"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らないふりさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "今なら",
+            "zh-CN": "只要是当下",
+            "segments": [
+              {
+                "text": "今なら",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "なら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "八月の雪が降ったあの日は",
+            "zh-CN": "八月漫天飘雪的那一天",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "八月の雪が降ったあの日は",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "八月",
+                    "reading": "はちがつ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雪",
+                    "reading": "ゆき"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "降",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "ったあの"
+                  },
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "ビードロを覗いたようにみえた",
+            "zh-CN": "看起来宛如窥探着玻璃风铃一般",
+            "segments": [
+              {
+                "text": "ビードロを覗いたようにみえた",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ビードロを"
+                  },
+                  {
+                    "text": "覗",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "いたようにみえた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "「ねえ涙がなんか止まんないんだ　昨日から」",
+            "zh-CN": "「我说啊泪水不知为何止不住呢 自昨天开始」",
+            "segments": [
+              {
+                "text": "「ねえ涙がなんか止まんないんだ　昨日から」",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「ねえ"
+                  },
+                  {
+                    "text": "涙",
+                    "reading": "なみだ"
+                  },
+                  {
+                    "text": "がなんか"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "まんないんだ　"
+                  },
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "から」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "わずかに、崩壊する都市がみえた",
+            "zh-CN": "隐约窥见了，逐渐崩塌瓦解的都市",
+            "segments": [
+              {
+                "text": "わずかに、崩壊する都市がみえた",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "わずかに、"
+                  },
+                  {
+                    "text": "崩壊",
+                    "reading": "ほうかい"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "都市",
+                    "reading": "とし"
+                  },
+                  {
+                    "text": "がみえた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "それは最後の夏でした",
+            "zh-CN": "那是最后的夏日",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "それは最後の夏でした",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "それは"
+                  },
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "夏",
+                    "reading": "なつ"
+                  },
+                  {
+                    "text": "でした"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "終末、ぼくらは月の裏側で",
+            "zh-CN": "终末世界，我们在月球的背面",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "終末、ぼくらは月の裏側で",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "終末",
+                    "reading": "しゅうまつ"
+                  },
+                  {
+                    "text": "、ぼくらは"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "裏側",
+                    "reading": "うらがわ"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "傷つけあうのなんて馬鹿らしくて　笑いあうだろう",
+            "zh-CN": "觉得彼此伤害未免太愚蠢可笑 因而相视而笑吧",
+            "segments": [
+              {
+                "text": "傷つけあうのなんて馬鹿らしくて　笑いあうだろう",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "つけあうのなんて"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "らしくて　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "いあうだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "それからぼくらは恋におちて",
+            "zh-CN": "随后我们双双坠入爱河",
+            "segments": [
+              {
+                "text": "それからぼくらは恋におちて",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "それからぼくらは"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "におちて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "ふたり気付いていたって　もうね、この夢はさめないよ。",
+            "zh-CN": "就算两人早已察觉 已经啊，这场美梦再也不会苏醒了哦。",
+            "segments": [
+              {
+                "text": "ふたり気付いていたって　もうね、この夢はさめないよ。",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "ふたり"
+                  },
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いていたって　もうね、この"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "はさめないよ。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "そうさぼくら世界の片隅で",
+            "zh-CN": "没错我们在世界的角落一隅",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そうさぼくら世界の片隅で",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "そうさぼくら"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "片隅",
+                    "reading": "かたすみ"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "「失くしてばっか」なんて、心なんて埋まらなくても",
+            "zh-CN": "就算说着「净是失去」，哪怕内心根本无法得到填补",
+            "segments": [
+              {
+                "text": "「失くしてばっか」なんて、心なんて埋まらなくても",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "「"
+                  },
+                  {
+                    "text": "失",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くしてばっか」なんて、"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "埋",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "まらなくても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "何度もぼくらは星を巡るよ！",
+            "zh-CN": "我们也会无数次巡游漫游星际！",
+            "segments": [
+              {
+                "text": "何度もぼくらは星を巡るよ！",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "何度",
+                    "reading": "なんど"
+                  },
+                  {
+                    "text": "もぼくらは"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "巡",
+                    "reading": "めぐ"
+                  },
+                  {
+                    "text": "るよ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "拾った銀貨使って　ジュース買って　分けあって飲もう",
+            "zh-CN": "用捡来的银币 买瓶汽水 一同分享畅饮吧",
+            "segments": [
+              {
+                "text": "拾った銀貨使って　ジュース買って　分けあって飲もう",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "拾",
+                    "reading": "ひろ"
+                  },
+                  {
+                    "text": "った"
+                  },
+                  {
+                    "text": "銀貨使",
+                    "reading": "ぎんかつか"
+                  },
+                  {
+                    "text": "って　ジュース"
+                  },
+                  {
+                    "text": "買",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "って　"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "けあって"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "もう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "「サイダーがいいな」",
+            "zh-CN": "「要是苏打汽水就好了呢」",
+            "segments": [
+              {
+                "text": "「サイダーがいいな」",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "「サイダーがいいな」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "拝啓　人類は快晴なんか失くして",
+            "zh-CN": "敬启 人类早已丢失了朗朗晴空",
+            "segments": [
+              {
+                "text": "拝啓　人類は快晴なんか失くして",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "拝啓",
+                    "reading": "はいけい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "人類",
+                    "reading": "じんるい"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "快晴",
+                    "reading": "かいせい"
+                  },
+                  {
+                    "text": "なんか"
+                  },
+                  {
+                    "text": "失",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "大抵が最低です。　廃材置き場の毎日で",
+            "zh-CN": "大致上全是糟糕透顶。在废料场的平凡日常里",
+            "segments": [
+              {
+                "text": "大抵が最低です。　廃材置き場の毎日で",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "大抵",
+                    "reading": "たいてい"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "最低",
+                    "reading": "さいてい"
+                  },
+                  {
+                    "text": "です。　"
+                  },
+                  {
+                    "text": "廃材置",
+                    "reading": "はいざいお"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "場",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "毎日",
+                    "reading": "まいにち"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "「衛星都市にいこう」あなたは言った。",
+            "zh-CN": "「去卫星都市吧」你曾这般说道。",
+            "segments": [
+              {
+                "text": "「衛星都市にいこう」",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「"
+                  },
+                  {
+                    "text": "衛星都市",
+                    "reading": "えいせいとし"
+                  },
+                  {
+                    "text": "にいこう」"
+                  }
+                ]
+              },
+              {
+                "text": "あなたは言った。",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "あなたは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "った。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "「1.5リットルの現実逃避行計画さ」",
+            "zh-CN": "「那是1.5升的逃避现实航行计划哦」",
+            "segments": [
+              {
+                "text": "「1.5リットルの現実逃避行計画さ」",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「1.5リットルの"
+                  },
+                  {
+                    "text": "現実逃避行計画",
+                    "reading": "げんじつとうひこうけいかく"
+                  },
+                  {
+                    "text": "さ」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "乱反射　世界が透けて",
+            "zh-CN": "漫反射 整个世界通透澄澈",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "乱反射　世界が透けて",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "乱反射",
+                    "reading": "らんはんしゃ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "透",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "けて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "サイレンが遠くで鳴った　もう対流圏界面",
+            "zh-CN": "警笛在远方鸣响 早已冲破对流层顶",
+            "segments": [
+              {
+                "text": "サイレンが遠くで鳴った　",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "サイレンが"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くで"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "った　"
+                  }
+                ]
+              },
+              {
+                "text": "もう対流圏界面",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "対流圏界面",
+                    "reading": "たいりゅうけんかいめん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "週末、ぼくらは月の裏側で",
+            "zh-CN": "周末，我们在月球的背面",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "週末、ぼくらは月の裏側で",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "週末",
+                    "reading": "しゅうまつ"
+                  },
+                  {
+                    "text": "、ぼくらは"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "裏側",
+                    "reading": "うらがわ"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "「なんにもないね」　なんて、くだらなくて笑いあうだろう",
+            "zh-CN": "说着「什么都没有呢」，这般无聊地相视而笑吧",
+            "segments": [
+              {
+                "text": "「なんにもないね」　なんて、くだらなくて笑いあうだろう",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "「なんにもないね」　なんて、くだらなくて"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "いあうだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "それからぼくらは恋におちて",
+            "zh-CN": "随后我们双双坠入爱河",
+            "segments": [
+              {
+                "text": "それからぼくらは恋におちて",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "それからぼくらは"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "におちて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "この旅の果てなんてわかっていたって　知らないふりさ",
+            "zh-CN": "纵然深知这场旅途的末路终局 也装作一无所知",
+            "segments": [
+              {
+                "text": "この旅の果てなんてわかっていたって　知らないふりさ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "旅",
+                    "reading": "たび"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "果",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "てなんてわかっていたって　"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らないふりさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "今なら",
+            "zh-CN": "只要是当下",
+            "segments": [
+              {
+                "text": "今なら",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "なら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "八月の雪が降ったあの日は",
+            "zh-CN": "八月漫天飘雪的那一天",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "八月の雪が降ったあの日は",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "八月",
+                    "reading": "はちがつ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雪",
+                    "reading": "ゆき"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "降",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "ったあの"
+                  },
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "ビードロを覗いたようにみえた",
+            "zh-CN": "看起来宛如窥探着玻璃风铃一般",
+            "segments": [
+              {
+                "text": "ビードロを覗いたようにみえた",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ビードロを"
+                  },
+                  {
+                    "text": "覗",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "いたようにみえた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "「ねえ涙がなんか止まんないんだ　昨日から」",
+            "zh-CN": "「我说啊泪水不知为何止不住呢 自昨天开始」",
+            "segments": [
+              {
+                "text": "「ねえ涙がなんか止まんないんだ　昨日から」",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「ねえ"
+                  },
+                  {
+                    "text": "涙",
+                    "reading": "なみだ"
+                  },
+                  {
+                    "text": "がなんか"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "まんないんだ　"
+                  },
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "から」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "わずかに、崩壊する都市がみえた",
+            "zh-CN": "隐约窥见了，逐渐崩塌瓦解的都市",
+            "segments": [
+              {
+                "text": "わずかに、崩壊する都市がみえた",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "わずかに、"
+                  },
+                  {
+                    "text": "崩壊",
+                    "reading": "ほうかい"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "都市",
+                    "reading": "とし"
+                  },
+                  {
+                    "text": "がみえた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "それは最後の夏でした",
+            "zh-CN": "那是最后的夏日",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "それは最後の夏でした",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "それは"
+                  },
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "夏",
+                    "reading": "なつ"
+                  },
+                  {
+                    "text": "でした"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "終末、ぼくらは月の裏側で",
+            "zh-CN": "终末世界，我们在月球的背面",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "終末、ぼくらは月の裏側で",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "終末",
+                    "reading": "しゅうまつ"
+                  },
+                  {
+                    "text": "、ぼくらは"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "裏側",
+                    "reading": "うらがわ"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "傷つけあうのなんて馬鹿らしくて　笑いあうだろう",
+            "zh-CN": "觉得彼此伤害未免太愚蠢可笑 因而相视而笑吧",
+            "segments": [
+              {
+                "text": "傷つけあうのなんて馬鹿らしくて　笑いあうだろう",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "つけあうのなんて"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "らしくて　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "いあうだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "何度もぼくらは星を巡るよ！",
+            "zh-CN": "我们也会无数次巡游漫游星际！",
+            "segments": [
+              {
+                "text": "何度もぼくらは星を巡るよ！",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "何度",
+                    "reading": "なんど"
+                  },
+                  {
+                    "text": "もぼくらは"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "巡",
+                    "reading": "めぐ"
+                  },
+                  {
+                    "text": "るよ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "拾った銀貨使って　ジュース買って　分けあって飲もう",
+            "zh-CN": "用捡来的银币 买瓶汽水 一同分享畅饮吧",
+            "segments": [
+              {
+                "text": "拾った銀貨使って　ジュース買って　分けあって飲もう",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "拾",
+                    "reading": "ひろ"
+                  },
+                  {
+                    "text": "った"
+                  },
+                  {
+                    "text": "銀貨使",
+                    "reading": "ぎんかつか"
+                  },
+                  {
+                    "text": "って　ジュース"
+                  },
+                  {
+                    "text": "買",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "って　"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "けあって"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "もう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "「サイダーがいいな」",
+            "zh-CN": "「要是苏打汽水就好了呢」",
+            "segments": [
+              {
+                "text": "「サイダーがいいな」",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "「サイダーがいいな」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000023",
+          "full-000024",
+          "full-000025"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Rocket Cider",
+          "revisionId": 330624,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Rocket_Cider?oldid=330624",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Rocket Cider",
+          "revisionId": 330624,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Rocket_Cider?oldid=330624",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Rocket Cider",
+          "revisionId": 330624,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Rocket_Cider?oldid=330624",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Rocket Cider",
+          "revisionId": 330624,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Rocket_Cider?oldid=330624",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Rocket Cider",
+          "revisionId": 330624,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Rocket_Cider?oldid=330624",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1529 @@
+{
+  "version": 3,
+  "musicId": 95,
+  "revision": 4,
+  "updatedAt": "2026-08-18T03:07:12.163536Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-11",
+          "name": "東雲彰人"
+        },
+        {
+          "performerId": "歌唱者-12",
+          "name": "青柳冬弥"
+        },
+        {
+          "performerId": "歌唱者-26",
+          "name": "KAITO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "line-1",
+            "order": 0,
+            "japanese": "時には噛んだりして　痛みを覚えさせて",
+            "segments": [
+              {
+                "text": "時には噛んだりして　痛みを覚えさせて",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "には"
+                  },
+                  {
+                    "text": "噛",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "んだりして　"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みを"
+                  },
+                  {
+                    "text": "覚",
+                    "reading": "おぼ"
+                  },
+                  {
+                    "text": "えさせて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "有时轻轻啃咬 让我记住这份痛楚"
+          },
+          {
+            "id": "line-2",
+            "order": 1,
+            "japanese": "溢れるエキタイで　汚してよ　全部",
+            "segments": [
+              {
+                "text": "溢れるエキタイで　",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "溢",
+                    "reading": "あふ"
+                  },
+                  {
+                    "text": "れるエキタイで　"
+                  }
+                ]
+              },
+              {
+                "text": "汚してよ　全部",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "汚",
+                    "reading": "よご"
+                  },
+                  {
+                    "text": "してよ　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "用满溢的液体 将一切全部弄脏吧"
+          },
+          {
+            "id": "line-3",
+            "order": 2,
+            "japanese": "足の先から　ずっと　這わせたその神経はもう",
+            "segments": [
+              {
+                "text": "足の先から　ずっと　這わせたその神経はもう",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "あし"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "から　ずっと　"
+                  },
+                  {
+                    "text": "這",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "わせたその"
+                  },
+                  {
+                    "text": "神経",
+                    "reading": "しんけい"
+                  },
+                  {
+                    "text": "はもう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "从脚尖开始 一路蔓延攀附的神经早已"
+          },
+          {
+            "id": "line-4",
+            "order": 3,
+            "japanese": "感触に溺れる　身体ココロを連れて",
+            "segments": [
+              {
+                "text": "感触に溺れる　身体ココロを連れて",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "感触",
+                    "reading": "かんしょく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "溺",
+                    "reading": "おぼ"
+                  },
+                  {
+                    "text": "れる　"
+                  },
+                  {
+                    "text": "身体",
+                    "reading": "しんたい"
+                  },
+                  {
+                    "text": "ココロを"
+                  },
+                  {
+                    "text": "連",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "れて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "沉溺在触感之中 连同身体与心灵一并带走"
+          },
+          {
+            "id": "line-5",
+            "order": 4,
+            "japanese": "指くわえた我慢の中　欲してんのが理想？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "指くわえた我慢の中　",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "指",
+                    "reading": "ゆび"
+                  },
+                  {
+                    "text": "くわえた"
+                  },
+                  {
+                    "text": "我慢",
+                    "reading": "がまん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "欲してんのが理想？",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "欲",
+                    "reading": "ほっ"
+                  },
+                  {
+                    "text": "してんのが"
+                  },
+                  {
+                    "text": "理想",
+                    "reading": "りそう"
+                  },
+                  {
+                    "text": "？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "衔着手指忍耐之中 渴望的才是理想？"
+          },
+          {
+            "id": "line-6",
+            "order": 5,
+            "japanese": "いらない　全てはいらない　磨き上げてる邪魔な PRIDE",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "いらない　全てはいらない　磨き上げてる邪魔な PRIDE",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "いらない　"
+                  },
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てはいらない　"
+                  },
+                  {
+                    "text": "磨",
+                    "reading": "みが"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げてる"
+                  },
+                  {
+                    "text": "邪魔",
+                    "reading": "じゃま"
+                  },
+                  {
+                    "text": "な PRIDE"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "不需要 一切都不需要 磨砺得光鲜却碍事的 PRIDE"
+          },
+          {
+            "id": "line-7",
+            "order": 6,
+            "japanese": "無意味な世界のルールくらい　無駄としか言い様がない",
+            "segments": [
+              {
+                "text": "無意味な世界のルールくらい　無駄としか言い様がない",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "無意味",
+                    "reading": "むいみ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "のルールくらい　"
+                  },
+                  {
+                    "text": "無駄",
+                    "reading": "むだ"
+                  },
+                  {
+                    "text": "としか"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "様",
+                    "reading": "よう"
+                  },
+                  {
+                    "text": "がない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "毫无意义的世界规则 不过是徒劳无益罢了"
+          },
+          {
+            "id": "line-8",
+            "order": 7,
+            "japanese": "隠しているあなたの STYLE　剥き出しにあるがまま DIVE",
+            "segments": [
+              {
+                "text": "隠しているあなたの STYLE　剥き出しにあるがまま DIVE",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "しているあなたの STYLE　"
+                  },
+                  {
+                    "text": "剥",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "しにあるがまま DIVE"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "隐藏着的你的 STYLE 彻底袒露真实姿态 DIVE"
+          },
+          {
+            "id": "line-9",
+            "order": 8,
+            "japanese": "そこに生まれるのは期待　外れなんかじゃない　頂の SMILE",
+            "segments": [
+              {
+                "text": "そこに生まれるのは期待　外れなんかじゃない　頂の SMILE",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこに"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "まれるのは"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "外",
+                    "reading": "はず"
+                  },
+                  {
+                    "text": "れなんかじゃない　"
+                  },
+                  {
+                    "text": "頂",
+                    "reading": "いただき"
+                  },
+                  {
+                    "text": "の SMILE"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "由此诞生的绝非落空的期待 而是登峰造极的 SMILE"
+          },
+          {
+            "id": "line-10",
+            "order": 9,
+            "japanese": "吐息を合わせた相性　耳に吹きかける感情 ",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "吐息を合わせた相性　耳に吹きかける感情 ",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "吐息",
+                    "reading": "といき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わせた"
+                  },
+                  {
+                    "text": "相性",
+                    "reading": "あいしょう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "耳",
+                    "reading": "みみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "吹",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "きかける"
+                  },
+                  {
+                    "text": "感情",
+                    "reading": "かんじょう"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "气息交融的默契 向耳畔吹拂的情感"
+          },
+          {
+            "id": "line-11",
+            "order": 10,
+            "japanese": "破裂しそうな胸　騒ぎだす細胞",
+            "segments": [
+              {
+                "text": "破裂しそうな胸　",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "破裂",
+                    "reading": "はれつ"
+                  },
+                  {
+                    "text": "しそうな"
+                  },
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "騒ぎだす細胞",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "騒",
+                    "reading": "さわ"
+                  },
+                  {
+                    "text": "ぎだす"
+                  },
+                  {
+                    "text": "細胞",
+                    "reading": "さいぼう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "几欲炸裂的胸膛 躁动喧嚣的细胞"
+          },
+          {
+            "id": "line-12",
+            "order": 11,
+            "japanese": "脱ぎかけてるシャツ　優しく裂いてよ　まず　かまわず ",
+            "segments": [
+              {
+                "text": "脱ぎかけてるシャツ　優しく裂いてよ　まず　",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "脱",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "ぎかけてるシャツ　"
+                  },
+                  {
+                    "text": "優",
+                    "reading": "やさ"
+                  },
+                  {
+                    "text": "しく"
+                  },
+                  {
+                    "text": "裂",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "いてよ　まず　"
+                  }
+                ]
+              },
+              {
+                "text": "かまわず ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "かまわず "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "褪到一半的衬衫 温柔地撕开吧 别管那么多"
+          },
+          {
+            "id": "line-13",
+            "order": 12,
+            "japanese": "Get フライングも有り　躊躇わないで　darlin'",
+            "segments": [
+              {
+                "text": "Get フライングも有り　躊躇わないで　darlin'",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "Get フライングも"
+                  },
+                  {
+                    "text": "有",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "り　"
+                  },
+                  {
+                    "text": "躊躇",
+                    "reading": "ためら"
+                  },
+                  {
+                    "text": "わないで　darlin'"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "Get 抢先起跑也无所谓 别再犹豫了 darlin'"
+          },
+          {
+            "id": "line-14",
+            "order": 13,
+            "japanese": "自由な世界のど真ん中　夢見てんのが本性？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "自由な世界のど真ん中　",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "自由",
+                    "reading": "じゆう"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "のど"
+                  },
+                  {
+                    "text": "真",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "ん"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "夢見てんのが本性？",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢見",
+                    "reading": "ゆめみ"
+                  },
+                  {
+                    "text": "てんのが"
+                  },
+                  {
+                    "text": "本性",
+                    "reading": "ほんしょう"
+                  },
+                  {
+                    "text": "？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "在自由世界的正中央 做着美梦才是本性？"
+          },
+          {
+            "id": "line-15",
+            "order": 14,
+            "japanese": "いらない　全てはいらない　怖気づいた野望の TRY",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "いらない　全てはいらない　怖気づいた野望の TRY",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "いらない　"
+                  },
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てはいらない　"
+                  },
+                  {
+                    "text": "怖",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "づいた"
+                  },
+                  {
+                    "text": "野望",
+                    "reading": "やぼう"
+                  },
+                  {
+                    "text": "の TRY"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "不需要 一切都不需要 畏首畏尾的野心之 TRY"
+          },
+          {
+            "id": "line-16",
+            "order": 15,
+            "japanese": "満足なんてそこにない　目に見える哀れな未来",
+            "segments": [
+              {
+                "text": "満足なんてそこにない　目に見える哀れな未来",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "満足",
+                    "reading": "まんぞく"
+                  },
+                  {
+                    "text": "なんてそこにない　"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "哀",
+                    "reading": "あわ"
+                  },
+                  {
+                    "text": "れな"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "那里根本没有满足可言 唯有肉眼可见的可悲未来"
+          },
+          {
+            "id": "line-17",
+            "order": 16,
+            "japanese": "思い通りにできる LIFE　手にできるかはあなた次第",
+            "segments": [
+              {
+                "text": "思い通りにできる LIFE　手にできるかはあなた次第",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "どお"
+                  },
+                  {
+                    "text": "りにできる LIFE　"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "にできるかはあなた"
+                  },
+                  {
+                    "text": "次第",
+                    "reading": "しだい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "随心所欲的 LIFE 能否紧握手中全凭你自己"
+          },
+          {
+            "id": "line-18",
+            "order": 17,
+            "japanese": "隠したりなんかはしない　誰よりも誇らしげに　できる MIND",
+            "segments": [
+              {
+                "text": "隠したりなんかはしない　誰よりも誇らしげに　できる MIND",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "したりなんかはしない　"
+                  },
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "よりも"
+                  },
+                  {
+                    "text": "誇",
+                    "reading": "ほこ"
+                  },
+                  {
+                    "text": "らしげに　できる MIND"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "绝不遮遮掩掩 比任何人都要骄傲自信的 MIND"
+          },
+          {
+            "id": "line-19",
+            "order": 18,
+            "japanese": "ホラこの世界の中 他にはない",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ホラこの世界の中 ",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "ホラこの"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "他にはない",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "他",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "にはない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "瞧 在这个世界之中 绝无仅有"
+          },
+          {
+            "id": "line-20",
+            "order": 19,
+            "japanese": "確かなもの　自分以外は皆無",
+            "segments": [
+              {
+                "text": "確かなもの　",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "確",
+                    "reading": "たし"
+                  },
+                  {
+                    "text": "かなもの　"
+                  }
+                ]
+              },
+              {
+                "text": "自分以外は皆無",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "以外",
+                    "reading": "いがい"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "皆無",
+                    "reading": "かいむ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "确切无疑的事物 除了自己之外全皆虚无"
+          },
+          {
+            "id": "line-21",
+            "order": 20,
+            "japanese": "小さくなってる場合じゃない　いつだってNo Time! ALL RIGHT",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "小さくなってる場合じゃない　いつだってNo Time! ALL RIGHT",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "小",
+                    "reading": "ちい"
+                  },
+                  {
+                    "text": "さくなってる"
+                  },
+                  {
+                    "text": "場合",
+                    "reading": "ばあい"
+                  },
+                  {
+                    "text": "じゃない　いつだってNo Time! ALL RIGHT"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "现在可不是畏缩退却的时候 无论何时都是 No Time! ALL RIGHT"
+          },
+          {
+            "id": "line-22",
+            "order": 21,
+            "japanese": "上限値超え　エンジン　全開でいっちゃえ　BURN BURN BURN",
+            "segments": [
+              {
+                "text": "上限値超え　エンジン　全開でいっちゃえ　",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "上限",
+                    "reading": "じょうげん"
+                  },
+                  {
+                    "text": "値",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": "超",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "え　エンジン　"
+                  },
+                  {
+                    "text": "全開",
+                    "reading": "ぜんかい"
+                  },
+                  {
+                    "text": "でいっちゃえ　"
+                  }
+                ]
+              },
+              {
+                "text": "BURN BURN BURN",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "BURN BURN BURN"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "突破上限 引擎全开狂飙吧 BURN BURN BURN"
+          },
+          {
+            "id": "line-23",
+            "order": 22,
+            "japanese": "欲しがってんのは　そう　気持ちいいの more...",
+            "segments": [
+              {
+                "text": "欲しがってんのは　そう　",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "欲",
+                    "reading": "ほ"
+                  },
+                  {
+                    "text": "しがってんのは　そう　"
+                  }
+                ]
+              },
+              {
+                "text": "気持ちいいの more...",
+                "performerIds": [
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ちいいの more..."
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "真正渴望的 没错 正是更加舒服的 more..."
+          },
+          {
+            "id": "line-24",
+            "order": 23,
+            "japanese": "あるがままの想いでDANCE! イイナリでGET DOWN!",
+            "segments": [
+              {
+                "text": "あるがままの想いでDANCE! ",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "あるがままの"
+                  },
+                  {
+                    "text": "想",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "いでDANCE! "
+                  }
+                ]
+              },
+              {
+                "text": "イイナリでGET DOWN!",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "イイナリでGET DOWN!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "带着真实的本心 DANCE! 唯命是从地 GET DOWN!"
+          },
+          {
+            "id": "line-25",
+            "order": 24,
+            "japanese": "いらない　全てはいらない　磨き上げてる邪魔な PRIDE",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "いらない　全てはいらない　磨き上げてる邪魔な PRIDE",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "いらない　"
+                  },
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てはいらない　"
+                  },
+                  {
+                    "text": "磨",
+                    "reading": "みが"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げてる"
+                  },
+                  {
+                    "text": "邪魔",
+                    "reading": "じゃま"
+                  },
+                  {
+                    "text": "な PRIDE"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "不需要 一切都不需要 磨砺得光鲜却碍事的 PRIDE"
+          },
+          {
+            "id": "line-26",
+            "order": 25,
+            "japanese": "無意味な世界のルールくらい　無駄としか言い様がない",
+            "segments": [
+              {
+                "text": "無意味な世界のルールくらい　無駄としか言い様がない",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "無意味",
+                    "reading": "むいみ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "のルールくらい　"
+                  },
+                  {
+                    "text": "無駄",
+                    "reading": "むだ"
+                  },
+                  {
+                    "text": "としか"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "様",
+                    "reading": "よう"
+                  },
+                  {
+                    "text": "がない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "毫无意义的世界规则 不过是徒劳无益罢了"
+          },
+          {
+            "id": "line-27",
+            "order": 26,
+            "japanese": "隠しているあなたの STYLE　剥き出しにあるがまま DIVE",
+            "segments": [
+              {
+                "text": "隠しているあなたの STYLE　剥き出しにあるがまま DIVE",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "しているあなたの STYLE　"
+                  },
+                  {
+                    "text": "剥",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "しにあるがまま DIVE"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "隐藏着的你的 STYLE 彻底袒露真实姿态 DIVE"
+          },
+          {
+            "id": "line-28",
+            "order": 27,
+            "japanese": "そこに生まれるのは期待　外れなんかじゃない　頂の SMILE",
+            "segments": [
+              {
+                "text": "そこに生まれるのは期待　外れなんかじゃない　頂の SMILE",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこに"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "まれるのは"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "外",
+                    "reading": "はず"
+                  },
+                  {
+                    "text": "れなんかじゃない　"
+                  },
+                  {
+                    "text": "頂",
+                    "reading": "いただき"
+                  },
+                  {
+                    "text": "の SMILE"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "由此诞生的绝非落空的期待 而是登峰造极的 SMILE"
+          },
+          {
+            "id": "line-29",
+            "order": 28,
+            "japanese": "ホラこの世界で今 解き放って",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ホラこの世界で今 ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "ホラこの"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "解き放って",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "解",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "放",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "って"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "瞧 在这个世界中于此刻 彻底释放"
+          },
+          {
+            "id": "line-30",
+            "order": 29,
+            "japanese": "鋭くギラつかせた希望　もっと本気出していいよ",
+            "segments": [
+              {
+                "text": "鋭くギラつかせた希望　",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "鋭",
+                    "reading": "するど"
+                  },
+                  {
+                    "text": "くギラつかせた"
+                  },
+                  {
+                    "text": "希望",
+                    "reading": "きぼう"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "もっと本気出していいよ",
+                "performerIds": [
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "もっと"
+                  },
+                  {
+                    "text": "本気",
+                    "reading": "ほんき"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "していいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "闪烁着锐利光芒的希望 再多拿出点真本事也无妨哦"
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Ifuudoudou",
+          "revisionId": 331384,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ifuudoudou?oldid=331384",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Ifuudoudou",
+          "revisionId": 331384,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ifuudoudou?oldid=331384",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Ifuudoudou",
+          "revisionId": 331384,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ifuudoudou?oldid=331384",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

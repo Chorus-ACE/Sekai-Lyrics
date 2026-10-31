@@ -1,0 +1,1736 @@
+{
+  "version": 3,
+  "musicId": 120,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:00:51Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-01",
+          "name": "星乃一歌"
+        },
+        {
+          "performerId": "歌唱者-02",
+          "name": "天馬咲希"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "何でもないと口をつぐんだ",
+            "zh-CN": "闭口不谈谎称什么事都没有",
+            "segments": [
+              {
+                "text": "何でもないと口をつぐんだ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "でもないと"
+                  },
+                  {
+                    "text": "口",
+                    "reading": "くち"
+                  },
+                  {
+                    "text": "をつぐんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "ホントはちょっと足を止めたくて",
+            "zh-CN": "其实心中只是想稍稍停下脚步",
+            "segments": [
+              {
+                "text": "ホントはちょっと足を止めたくて",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "ホントはちょっと"
+                  },
+                  {
+                    "text": "足",
+                    "reading": "あし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "めたくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "だけどもきみは早足ですっと前を行くから",
+            "zh-CN": "但你却迈着快步径直走在前方",
+            "segments": [
+              {
+                "text": "だけどもきみは早足ですっと前を行くから",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "だけどもきみは"
+                  },
+                  {
+                    "text": "早足",
+                    "reading": "はやあし"
+                  },
+                  {
+                    "text": "ですっと"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "行",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "くから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "ぼくはそれを見つめてる",
+            "zh-CN": "我只能静静注视着你的背影",
+            "segments": [
+              {
+                "text": "ぼくはそれを見つめてる",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくはそれを"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つめてる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "最終便　きみは乗る　ぼくを置いてって",
+            "zh-CN": "末班车 你坐了上去 将我独自留下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "最終便　きみは乗る　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "最終便",
+                    "reading": "さいしゅうびん"
+                  },
+                  {
+                    "text": "　きみは"
+                  },
+                  {
+                    "text": "乗",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "る　"
+                  }
+                ]
+              },
+              {
+                "text": "ぼくを置いてって",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくを"
+                  },
+                  {
+                    "text": "置",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いてって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "はしりだす　ゆっくりと　地面がずれていく",
+            "zh-CN": "启动驰骋 缓缓前行 地面渐渐后退错开",
+            "segments": [
+              {
+                "text": "はしりだす　ゆっくりと　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "はしりだす　ゆっくりと　"
+                  }
+                ]
+              },
+              {
+                "text": "地面がずれていく",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "地面",
+                    "reading": "じめん"
+                  },
+                  {
+                    "text": "がずれていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "泣いちゃだめ　泣いちゃだめ",
+            "zh-CN": "不能哭 不能哭",
+            "segments": [
+              {
+                "text": "泣いちゃだめ　泣いちゃだめ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ　"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "でもホントは言いたいよ",
+            "zh-CN": "可是其实我好想对你说",
+            "segments": [
+              {
+                "text": "でもホントは言いたいよ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもホントは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "「いかないで」",
+            "zh-CN": "“请不要走”",
+            "segments": [
+              {
+                "text": "「いかないで」",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「いかないで」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "遠くへと 消えていく ぼくを置いてって",
+            "zh-CN": "渐渐消逝在远方 将我独自留下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "遠くへと 消えていく ぼくを置いてって",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くへと "
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えていく ぼくを"
+                  },
+                  {
+                    "text": "置",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いてって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "もう随分 見えないよ 夜が崩れていく",
+            "zh-CN": "已经完全看不见了 夜色正在崩塌沦陷",
+            "segments": [
+              {
+                "text": "もう随分 見えないよ 夜が崩れていく",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "随分",
+                    "reading": "ずいぶん"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えないよ "
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "崩",
+                    "reading": "くず"
+                  },
+                  {
+                    "text": "れていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "泣いちゃだめ 泣いちゃだめ でもホントは言いたいよ",
+            "zh-CN": "不能哭 不能哭 可是其实我好想对你说",
+            "segments": [
+              {
+                "text": "泣いちゃだめ 泣いちゃだめ でもホントは言いたいよ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ "
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ でもホントは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "「いかないで」",
+            "zh-CN": "“请不要走”",
+            "segments": [
+              {
+                "text": "「いかないで」",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「いかないで」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "祭りも終わればいつもと同じ",
+            "zh-CN": "祭典落幕后便一如往常",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "祭りも終わればいつもと同じ",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "祭",
+                    "reading": "まつ"
+                  },
+                  {
+                    "text": "りも"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わればいつもと"
+                  },
+                  {
+                    "text": "同",
+                    "reading": "おな"
+                  },
+                  {
+                    "text": "じ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "変わらぬ夜が来るんだと知った",
+            "zh-CN": "我明白了毫无改变的夜晚终会降临",
+            "segments": [
+              {
+                "text": "変わらぬ夜が来るんだと知った",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わらぬ"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "来",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "るんだと"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "った"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "だけどもきみはいつもよりずっと色っぽく見えて",
+            "zh-CN": "但你看起来却比平时更加动人妖娆",
+            "segments": [
+              {
+                "text": "だけどもきみはいつもよりずっと色っぽく見えて",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "だけどもきみはいつもよりずっと"
+                  },
+                  {
+                    "text": "色",
+                    "reading": "いろ"
+                  },
+                  {
+                    "text": "っぽく"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "ぼくはそれを見つめてる",
+            "zh-CN": "我只能静静凝视着你",
+            "segments": [
+              {
+                "text": "ぼくはそれを見つめてる",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくはそれを"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つめてる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "時間だけが　過ぎていく　ぼくを連れてって",
+            "zh-CN": "唯有时光在不断流逝 请把我也带走吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "時間だけが　過ぎていく　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "時間",
+                    "reading": "じかん"
+                  },
+                  {
+                    "text": "だけが　"
+                  },
+                  {
+                    "text": "過",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "ぎていく　"
+                  }
+                ]
+              },
+              {
+                "text": "ぼくを連れてって",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくを"
+                  },
+                  {
+                    "text": "連",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "れてって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "帰り道　暗いけれど　一人で大丈夫かな",
+            "zh-CN": "归途虽然一片漆黑 独自一人真的没问题吗",
+            "segments": [
+              {
+                "text": "帰り道　暗いけれど　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "帰",
+                    "reading": "かえ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "道",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "暗",
+                    "reading": "くら"
+                  },
+                  {
+                    "text": "いけれど　"
+                  }
+                ]
+              },
+              {
+                "text": "一人で大丈夫かな",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "大丈夫",
+                    "reading": "だいじょうぶ"
+                  },
+                  {
+                    "text": "かな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "街灯に　照らされて　影ができている ",
+            "zh-CN": "被路灯所照亮 倒映出影子",
+            "segments": [
+              {
+                "text": "街灯に　照らされて　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "街灯",
+                    "reading": "がいとう"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らされて　"
+                  }
+                ]
+              },
+              {
+                "text": "影ができている ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "影",
+                    "reading": "かげ"
+                  },
+                  {
+                    "text": "ができている "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "一人ぼっちさ",
+            "zh-CN": "只是孤零零的一人啊",
+            "segments": [
+              {
+                "text": "一人ぼっちさ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "ぼっちさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "遠くへと　消えていく　ぼくを置いてって",
+            "zh-CN": "渐渐消逝在远方 将我独自留下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "遠くへと　消えていく　ぼくを置いてって",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くへと　"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えていく　ぼくを"
+                  },
+                  {
+                    "text": "置",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いてって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "完全に　また今度　夜が滲んでいく",
+            "zh-CN": "彻底变成了“下次再见” 夜色渐渐晕染模糊",
+            "segments": [
+              {
+                "text": "完全に　また今度　夜が滲んでいく",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "完全",
+                    "reading": "かんぜん"
+                  },
+                  {
+                    "text": "に　また"
+                  },
+                  {
+                    "text": "今度",
+                    "reading": "こんど"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "滲",
+                    "reading": "にじ"
+                  },
+                  {
+                    "text": "んでいく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "泣いちゃだめ　泣いちゃだめ",
+            "zh-CN": "不能哭 不能哭",
+            "segments": [
+              {
+                "text": "泣いちゃだめ　泣いちゃだめ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ　"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "でもホントは言いたいよ",
+            "zh-CN": "可是其实我好想对你说",
+            "segments": [
+              {
+                "text": "でもホントは言いたいよ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもホントは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "「いかないで」",
+            "zh-CN": "“请不要走”",
+            "segments": [
+              {
+                "text": "「いかないで」",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「いかないで」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "泣いちゃだめ　泣いちゃだめ",
+            "zh-CN": "不能哭 不能哭",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "泣いちゃだめ　泣いちゃだめ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ　"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "でもホントは言いたいよ",
+            "zh-CN": "可是其实我好想对你说",
+            "segments": [
+              {
+                "text": "でもホントは言いたいよ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもホントは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "「いかないで」",
+            "zh-CN": "“请不要走”",
+            "segments": [
+              {
+                "text": "「いかないで」",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「いかないで」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "何でもないと口をつぐんだ",
+            "zh-CN": "闭口不谈谎称什么事都没有",
+            "segments": [
+              {
+                "text": "何でもないと口をつぐんだ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "でもないと"
+                  },
+                  {
+                    "text": "口",
+                    "reading": "くち"
+                  },
+                  {
+                    "text": "をつぐんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "ホントはちょっと足を止めたくて",
+            "zh-CN": "其实心中只是想稍稍停下脚步",
+            "segments": [
+              {
+                "text": "ホントはちょっと足を止めたくて",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "ホントはちょっと"
+                  },
+                  {
+                    "text": "足",
+                    "reading": "あし"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "めたくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "だけどもきみは早足ですっと前を行くから",
+            "zh-CN": "但你却迈着快步径直走在前方",
+            "segments": [
+              {
+                "text": "だけどもきみは早足ですっと前を行くから",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "だけどもきみは"
+                  },
+                  {
+                    "text": "早足",
+                    "reading": "はやあし"
+                  },
+                  {
+                    "text": "ですっと"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "行",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "くから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "ぼくはそれを見つめてる",
+            "zh-CN": "我只能静静注视着你的背影",
+            "segments": [
+              {
+                "text": "ぼくはそれを見つめてる",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくはそれを"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つめてる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "最終便　きみは乗る　ぼくを置いてって",
+            "zh-CN": "末班车 你坐了上去 将我独自留下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "最終便　きみは乗る　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "最終便",
+                    "reading": "さいしゅうびん"
+                  },
+                  {
+                    "text": "　きみは"
+                  },
+                  {
+                    "text": "乗",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "る　"
+                  }
+                ]
+              },
+              {
+                "text": "ぼくを置いてって",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくを"
+                  },
+                  {
+                    "text": "置",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いてって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "はしりだす　ゆっくりと　地面がずれていく",
+            "zh-CN": "启动驰骋 缓缓前行 地面渐渐后退错开",
+            "segments": [
+              {
+                "text": "はしりだす　ゆっくりと　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "はしりだす　ゆっくりと　"
+                  }
+                ]
+              },
+              {
+                "text": "地面がずれていく",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "地面",
+                    "reading": "じめん"
+                  },
+                  {
+                    "text": "がずれていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "泣いちゃだめ　泣いちゃだめ",
+            "zh-CN": "不能哭 不能哭",
+            "segments": [
+              {
+                "text": "泣いちゃだめ　泣いちゃだめ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ　"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "でもホントは言いたいよ",
+            "zh-CN": "可是其实我好想对你说",
+            "segments": [
+              {
+                "text": "でもホントは言いたいよ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもホントは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "「いかないで」",
+            "zh-CN": "“请不要走”",
+            "segments": [
+              {
+                "text": "「いかないで」",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「いかないで」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "遠くへと 消えていく ぼくを置いてって",
+            "zh-CN": "渐渐消逝在远方 将我独自留下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "遠くへと 消えていく ぼくを置いてって",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くへと "
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えていく ぼくを"
+                  },
+                  {
+                    "text": "置",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いてって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "もう随分 見えないよ 夜が崩れていく",
+            "zh-CN": "已经完全看不见了 夜色正在崩塌沦陷",
+            "segments": [
+              {
+                "text": "もう随分 見えないよ 夜が崩れていく",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "随分",
+                    "reading": "ずいぶん"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えないよ "
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "崩",
+                    "reading": "くず"
+                  },
+                  {
+                    "text": "れていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "泣いちゃだめ 泣いちゃだめ でもホントは言いたいよ",
+            "zh-CN": "不能哭 不能哭 可是其实我好想对你说",
+            "segments": [
+              {
+                "text": "泣いちゃだめ 泣いちゃだめ でもホントは言いたいよ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ "
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ でもホントは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "「いかないで」",
+            "zh-CN": "“请不要走”",
+            "segments": [
+              {
+                "text": "「いかないで」",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「いかないで」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "泣いちゃだめ　泣いちゃだめ",
+            "zh-CN": "不能哭 不能哭",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "泣いちゃだめ　泣いちゃだめ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ　"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いちゃだめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "でもホントは言いたいよ",
+            "zh-CN": "可是其实我好想对你说",
+            "segments": [
+              {
+                "text": "でもホントは言いたいよ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもホントは"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "いたいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "「いかないで」",
+            "zh-CN": "“请不要走”",
+            "segments": [
+              {
+                "text": "「いかないで」",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "「いかないで」"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000027",
+          "full-000028",
+          "full-000029"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Ikanaide",
+          "revisionId": 330673,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ikanaide?oldid=330673",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Ikanaide",
+          "revisionId": 330673,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ikanaide?oldid=330673",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Ikanaide",
+          "revisionId": 330673,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ikanaide?oldid=330673",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Ikanaide",
+          "revisionId": 330673,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ikanaide?oldid=330673",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Ikanaide",
+          "revisionId": 330673,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ikanaide?oldid=330673",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Ikanaide",
+          "revisionId": 330673,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ikanaide?oldid=330673",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Ikanaide",
+          "revisionId": 330673,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ikanaide?oldid=330673",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Ikanaide",
+          "revisionId": 330673,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ikanaide?oldid=330673",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

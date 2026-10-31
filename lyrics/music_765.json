@@ -1,0 +1,2511 @@
+{
+  "version": 3,
+  "musicId": 765,
+  "revision": 5,
+  "updatedAt": "2026-10-15T14:03:38Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-02",
+          "name": "天馬咲希"
+        },
+        {
+          "performerId": "歌唱者-12",
+          "name": "青柳冬弥"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-20",
+          "name": "暁山瑞希"
+        },
+        {
+          "performerId": "歌唱者-26",
+          "name": "KAITO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "ずっと前のこと　今更、思い出してさ",
+            "zh-CN": "很久以前的事 事到如今 却又忍不住回想起来",
+            "segments": [
+              {
+                "text": "ずっと前のこと　今更、思い出してさ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "のこと　"
+                  },
+                  {
+                    "text": "今更",
+                    "reading": "いまさら"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "してさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "暗闇へ手を伸ばしても虚しいだけ",
+            "zh-CN": "伸向黑暗中的双手 唯余一片空虚",
+            "segments": [
+              {
+                "text": "暗闇へ手を伸ばしても虚しいだけ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "へ"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "伸",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "ばしても"
+                  },
+                  {
+                    "text": "虚",
+                    "reading": "むな"
+                  },
+                  {
+                    "text": "しいだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "君のような優しい人の隣には",
+            "zh-CN": "像你这样温柔之人的身旁",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のような優しい人の",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のような"
+                  },
+                  {
+                    "text": "優",
+                    "reading": "やさ"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              },
+              {
+                "text": "隣には",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "隣",
+                    "reading": "となり"
+                  },
+                  {
+                    "text": "には"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "きっと僕ではない誰かが相応しいんだろう",
+            "zh-CN": "想必一定是有着比我更合适的人相称吧",
+            "segments": [
+              {
+                "text": "きっと僕ではない",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "ではない"
+                  }
+                ]
+              },
+              {
+                "text": "誰かが相応しいんだろう",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かが"
+                  },
+                  {
+                    "text": "相応",
+                    "reading": "ふさわ"
+                  },
+                  {
+                    "text": "しいんだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "最近ね。嫌な夢ばっかり見るんだよ",
+            "zh-CN": "最近呢。总是做着令人讨厌的噩梦哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "最近ね。嫌な夢ばっかり見るんだよ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "最近",
+                    "reading": "さいきん"
+                  },
+                  {
+                    "text": "ね。"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "いや"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "ばっかり"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "るんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "曖昧な痛みが胸を締め付けるんだよ",
+            "zh-CN": "隐隐作痛的感觉紧紧揪扯着胸口哦",
+            "segments": [
+              {
+                "text": "曖昧な痛みが胸を締め付けるんだよ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "曖昧",
+                    "reading": "あいまい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みが"
+                  },
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "締",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "め"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "けるんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "君のことを考えて飲み込んだ言葉も",
+            "zh-CN": "顾虑着关于你的事而咽回肚里的话语",
+            "segments": [
+              {
+                "text": "君のことを考えて飲み込んだ言葉も",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のことを"
+                  },
+                  {
+                    "text": "考",
+                    "reading": "かんが"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "愛しくて仕方ないんだ　笑っておくれよ",
+            "zh-CN": "也是那般惹人怜爱 给我一个笑容吧",
+            "segments": [
+              {
+                "text": "愛しくて仕方ないんだ　笑っておくれよ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "いと"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "仕方",
+                    "reading": "しかた"
+                  },
+                  {
+                    "text": "ないんだ　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っておくれよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "(Uuh)",
+            "zh-CN": "(Uuh)",
+            "segments": [
+              {
+                "text": "(Uuh)",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Uuh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "きっと今日のこと　これから思い出しては",
+            "zh-CN": "想必今天的事 今后每次回忆起来",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "きっと今日のこと　これから思い出しては",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "のこと　これから"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "しては"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "醜さを抱えながら眠りにつくだろう",
+            "zh-CN": "都会怀抱着这份丑陋沉沉入睡吧",
+            "segments": [
+              {
+                "text": "醜さを抱えながら眠りにつくだろう",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "醜",
+                    "reading": "みにく"
+                  },
+                  {
+                    "text": "さを"
+                  },
+                  {
+                    "text": "抱",
+                    "reading": "かか"
+                  },
+                  {
+                    "text": "えながら"
+                  },
+                  {
+                    "text": "眠",
+                    "reading": "ねむ"
+                  },
+                  {
+                    "text": "りにつくだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "君のような正しい人の隣には",
+            "zh-CN": "像你这样正直端正之人的身旁",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のような正しい人の",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のような"
+                  },
+                  {
+                    "text": "正",
+                    "reading": "ただ"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              },
+              {
+                "text": "隣には",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "隣",
+                    "reading": "となり"
+                  },
+                  {
+                    "text": "には"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "きっと僕ではない誰かが相応しいんだろう",
+            "zh-CN": "想必一定是有着比我更合适的人相称吧",
+            "segments": [
+              {
+                "text": "きっと僕ではない",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "ではない"
+                  }
+                ]
+              },
+              {
+                "text": "誰かが相応しいんだろう",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かが"
+                  },
+                  {
+                    "text": "相応",
+                    "reading": "ふさわ"
+                  },
+                  {
+                    "text": "しいんだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "なんてさ、わかっているのに",
+            "zh-CN": "诸如此类 明明心里十分清楚",
+            "segments": [
+              {
+                "text": "なんてさ、わかっているのに",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんてさ、わかっているのに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "(Ah)",
+            "zh-CN": "(Ah)",
+            "segments": [
+              {
+                "text": "(Ah)",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Ah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "最近ね。嫌な夢ばっかり見るんだよ",
+            "zh-CN": "最近呢。总是做着令人讨厌的噩梦哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "最近ね。嫌な夢ばっかり見るんだよ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "最近",
+                    "reading": "さいきん"
+                  },
+                  {
+                    "text": "ね。"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "いや"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "ばっかり"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "るんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "曖昧な痛みが胸を締め付けるんだよ",
+            "zh-CN": "隐隐作痛的感觉紧紧揪扯着胸口哦",
+            "segments": [
+              {
+                "text": "曖昧な痛みが胸を締め付けるんだよ",
+                "performerIds": [
+                  "歌唱者-12",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "曖昧",
+                    "reading": "あいまい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みが"
+                  },
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "締",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "め"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "けるんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "君のことを考えて飲み込んだ言葉も",
+            "zh-CN": "顾虑着关于你的事而咽回肚里的话语",
+            "segments": [
+              {
+                "text": "君のことを考えて飲み込んだ言葉も",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のことを"
+                  },
+                  {
+                    "text": "考",
+                    "reading": "かんが"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "愛しくて仕方ないんだ　笑っておくれよ",
+            "zh-CN": "也是那般惹人怜爱 给我一个笑容吧",
+            "segments": [
+              {
+                "text": "愛しくて仕方ないんだ　笑っておくれよ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "いと"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "仕方",
+                    "reading": "しかた"
+                  },
+                  {
+                    "text": "ないんだ　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っておくれよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "君のこと┃あなたのこと (ooh)",
+            "zh-CN": "关于你的事┃关于你的事 (ooh)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のこと┃",
+                "performerIds": [
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のこと┃"
+                  }
+                ]
+              },
+              {
+                "text": "あなたのこと ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "あなたのこと "
+                  }
+                ]
+              },
+              {
+                "text": "(ooh)",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ooh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "少しでも （少しでも） 分かってあげたらよかった",
+            "zh-CN": "哪怕是一点点（哪怕是一点点） 若能理解包容你就好了",
+            "segments": [
+              {
+                "text": "少しでも ",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しでも "
+                  }
+                ]
+              },
+              {
+                "text": "（少しでも） ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "（"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しでも） "
+                  }
+                ]
+              },
+              {
+                "text": "分かってあげたらよかった",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かってあげたらよかった"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "綺麗事を数えるほど傷付いた心も",
+            "zh-CN": "越是默数漂亮话就越是伤痕累累的心灵",
+            "segments": [
+              {
+                "text": "綺麗事を数えるほど傷付いた心も",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "綺麗事",
+                    "reading": "きれいごと"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "数",
+                    "reading": "かぞ"
+                  },
+                  {
+                    "text": "えるほど"
+                  },
+                  {
+                    "text": "傷付",
+                    "reading": "きずつ"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "愛しくて仕方ないんだ　笑っておくれよ",
+            "zh-CN": "也是那般惹人怜爱 给我一个笑容吧",
+            "segments": [
+              {
+                "text": "愛しくて仕方ないんだ　笑っておくれよ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "いと"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "仕方",
+                    "reading": "しかた"
+                  },
+                  {
+                    "text": "ないんだ　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っておくれよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "(Uuh)",
+            "zh-CN": "(Uuh)",
+            "segments": [
+              {
+                "text": "(Uuh)",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Uuh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ずっと前のこと　今更、思い出してさ",
+            "zh-CN": "很久以前的事 事到如今 却又忍不住回想起来",
+            "segments": [
+              {
+                "text": "ずっと前のこと　今更、思い出してさ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "のこと　"
+                  },
+                  {
+                    "text": "今更",
+                    "reading": "いまさら"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "してさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "暗闇へ手を伸ばしても虚しいだけ",
+            "zh-CN": "伸向黑暗中的双手 唯余一片空虚",
+            "segments": [
+              {
+                "text": "暗闇へ手を伸ばしても虚しいだけ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "へ"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "伸",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "ばしても"
+                  },
+                  {
+                    "text": "虚",
+                    "reading": "むな"
+                  },
+                  {
+                    "text": "しいだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "君のような優しい人の隣には",
+            "zh-CN": "像你这样温柔之人的身旁",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のような優しい人の",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のような"
+                  },
+                  {
+                    "text": "優",
+                    "reading": "やさ"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              },
+              {
+                "text": "隣には",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "隣",
+                    "reading": "となり"
+                  },
+                  {
+                    "text": "には"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "きっと僕ではない誰かが相応しいんだろう",
+            "zh-CN": "想必一定是有着比我更合适的人相称吧",
+            "segments": [
+              {
+                "text": "きっと僕ではない",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "ではない"
+                  }
+                ]
+              },
+              {
+                "text": "誰かが相応しいんだろう",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かが"
+                  },
+                  {
+                    "text": "相応",
+                    "reading": "ふさわ"
+                  },
+                  {
+                    "text": "しいんだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "最近ね。嫌な夢ばっかり見るんだよ",
+            "zh-CN": "最近呢。总是做着令人讨厌的噩梦哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "最近ね。嫌な夢ばっかり見るんだよ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "最近",
+                    "reading": "さいきん"
+                  },
+                  {
+                    "text": "ね。"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "いや"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "ばっかり"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "るんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "曖昧な痛みが胸を締め付けるんだよ",
+            "zh-CN": "隐隐作痛的感觉紧紧揪扯着胸口哦",
+            "segments": [
+              {
+                "text": "曖昧な痛みが胸を締め付けるんだよ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "曖昧",
+                    "reading": "あいまい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みが"
+                  },
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "締",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "め"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "けるんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "君のことを考えて飲み込んだ言葉も",
+            "zh-CN": "顾虑着关于你的事而咽回肚里的话语",
+            "segments": [
+              {
+                "text": "君のことを考えて飲み込んだ言葉も",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のことを"
+                  },
+                  {
+                    "text": "考",
+                    "reading": "かんが"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "愛しくて仕方ないんだ　笑っておくれよ",
+            "zh-CN": "也是那般惹人怜爱 给我一个笑容吧",
+            "segments": [
+              {
+                "text": "愛しくて仕方ないんだ　笑っておくれよ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "いと"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "仕方",
+                    "reading": "しかた"
+                  },
+                  {
+                    "text": "ないんだ　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っておくれよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "(Uuh)",
+            "zh-CN": "(Uuh)",
+            "segments": [
+              {
+                "text": "(Uuh)",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Uuh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "君のこと┃あなたのこと (ooh)",
+            "zh-CN": "关于你的事┃关于你的事 (ooh)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のこと┃",
+                "performerIds": [
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のこと┃"
+                  }
+                ]
+              },
+              {
+                "text": "あなたのこと ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "あなたのこと "
+                  }
+                ]
+              },
+              {
+                "text": "(ooh)",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ooh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "少しでも （少しでも） 分かってあげたらよかった",
+            "zh-CN": "哪怕是一点点（哪怕是一点点） 若能理解包容你就好了",
+            "segments": [
+              {
+                "text": "少しでも ",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しでも "
+                  }
+                ]
+              },
+              {
+                "text": "（少しでも） ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "（"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しでも） "
+                  }
+                ]
+              },
+              {
+                "text": "分かってあげたらよかった",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かってあげたらよかった"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "綺麗事を数えるほど傷付いた心も",
+            "zh-CN": "越是默数漂亮话就越是伤痕累累的心灵",
+            "segments": [
+              {
+                "text": "綺麗事を数えるほど傷付いた心も",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "綺麗事",
+                    "reading": "きれいごと"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "数",
+                    "reading": "かぞ"
+                  },
+                  {
+                    "text": "えるほど"
+                  },
+                  {
+                    "text": "傷付",
+                    "reading": "きずつ"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "愛しくて仕方ないんだ　笑っておくれよ",
+            "zh-CN": "也是那般惹人怜爱 给我一个笑容吧",
+            "segments": [
+              {
+                "text": "愛しくて仕方ないんだ　笑っておくれよ",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-12",
+                  "歌唱者-16",
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "いと"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "仕方",
+                    "reading": "しかた"
+                  },
+                  {
+                    "text": "ないんだ　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っておくれよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "(Uuh)",
+            "zh-CN": "(Uuh)",
+            "segments": [
+              {
+                "text": "(Uuh)",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Uuh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "外部歌唱者-02",
+          "name": "Kasane Teto"
+        },
+        {
+          "performerId": "外部歌唱者-03",
+          "name": "flower"
+        }
+      ],
+      "game": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ずっと前のこと　今更、思い出してさ",
+            "zh-CN": "很久以前的事 事到如今 却又忍不住回想起来",
+            "segments": [
+              {
+                "text": "ずっと前のこと　今更、思い出してさ",
+                "performerIds": [
+                  "外部歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "のこと　"
+                  },
+                  {
+                    "text": "今更",
+                    "reading": "いまさら"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "してさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "暗闇へ手を伸ばしても虚しいだけ",
+            "zh-CN": "伸向黑暗中的双手 唯余一片空虚",
+            "segments": [
+              {
+                "text": "暗闇へ手を伸ばしても虚しいだけ",
+                "performerIds": [
+                  "外部歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "へ"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "伸",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "ばしても"
+                  },
+                  {
+                    "text": "虚",
+                    "reading": "むな"
+                  },
+                  {
+                    "text": "しいだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "君のような優しい人の隣には",
+            "zh-CN": "像你这样温柔之人的身旁",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のような優しい人の隣には",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のような"
+                  },
+                  {
+                    "text": "優",
+                    "reading": "やさ"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "隣",
+                    "reading": "となり"
+                  },
+                  {
+                    "text": "には"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "きっと僕ではない誰かが相応しいんだろう",
+            "zh-CN": "想必一定是有着比我更合适的人相称吧",
+            "segments": [
+              {
+                "text": "きっと僕ではない",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "ではない"
+                  }
+                ]
+              },
+              {
+                "text": "誰かが相応しいんだろう",
+                "performerIds": [
+                  "外部歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かが"
+                  },
+                  {
+                    "text": "相応",
+                    "reading": "ふさわ"
+                  },
+                  {
+                    "text": "しいんだろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "最近ね。嫌な夢ばっかり見るんだよ",
+            "zh-CN": "最近呢。总是做着令人讨厌的噩梦哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "最近ね。嫌な夢ばっかり見るんだよ",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "最近",
+                    "reading": "さいきん"
+                  },
+                  {
+                    "text": "ね。"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "いや"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "ばっかり"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "るんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "曖昧な痛みが胸を締め付けるんだよ",
+            "zh-CN": "隐隐作痛的感觉紧紧揪扯着胸口哦",
+            "segments": [
+              {
+                "text": "曖昧な痛みが胸を締め付けるんだよ",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "曖昧",
+                    "reading": "あいまい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "みが"
+                  },
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "締",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "め"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "けるんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "君のことを考えて飲み込んだ言葉もも",
+            "zh-CN": "因顾及你而咽回肚里的话语",
+            "segments": [
+              {
+                "text": "君のことを考えて飲み込んだ言葉もも",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のことを"
+                  },
+                  {
+                    "text": "考",
+                    "reading": "かんが"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んだ"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "もも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "愛しくて仕方ないんだ　笑っておくれよ",
+            "zh-CN": "也是那般惹人怜爱 给我一个笑容吧",
+            "segments": [
+              {
+                "text": "愛しくて仕方ないんだ　笑っておくれよ",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "いと"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "仕方",
+                    "reading": "しかた"
+                  },
+                  {
+                    "text": "ないんだ　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っておくれよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "(Uuh)",
+            "zh-CN": "(Uuh)",
+            "segments": [
+              {
+                "text": "(Uuh)",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Uuh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "君のこと┃あなたのこと (ooh)",
+            "zh-CN": "关于你的事┃关于你的事 (ooh)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君のこと┃",
+                "performerIds": [
+                  "外部歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "のこと┃"
+                  }
+                ]
+              },
+              {
+                "text": "あなたのこと ",
+                "performerIds": [
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "あなたのこと "
+                  }
+                ]
+              },
+              {
+                "text": "(ooh)",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "(ooh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "少しでも（少しでも）分かってあげたらよかった",
+            "zh-CN": "哪怕只有一点点（哪怕只有一点点） 若能多理解你一些就好了",
+            "segments": [
+              {
+                "text": "少しでも（少しでも）分かってあげたらよかった",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しでも（"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しでも）"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かってあげたらよかった"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "綺麗事を数えるほど傷付いた心も",
+            "zh-CN": "越是默数漂亮话就越是伤痕累累的心灵",
+            "segments": [
+              {
+                "text": "綺麗事を数えるほど傷付いた心も",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "綺麗事",
+                    "reading": "きれいごと"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "数",
+                    "reading": "かぞ"
+                  },
+                  {
+                    "text": "えるほど"
+                  },
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "愛しくて仕方ないんだ　笑っておくれよ",
+            "zh-CN": "也是那般惹人怜爱 给我一个笑容吧",
+            "segments": [
+              {
+                "text": "愛しくて仕方ないんだ　笑っておくれよ",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "愛",
+                    "reading": "いと"
+                  },
+                  {
+                    "text": "しくて"
+                  },
+                  {
+                    "text": "仕方",
+                    "reading": "しかた"
+                  },
+                  {
+                    "text": "ないんだ　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っておくれよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "(Uuh)",
+            "zh-CN": "(Uuh)",
+            "segments": [
+              {
+                "text": "(Uuh)",
+                "performerIds": [
+                  "外部歌唱者-02",
+                  "外部歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Uuh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "VIRTUAL SINGER Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "REM",
+          "revisionId": 337495,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/REM?oldid=337495",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

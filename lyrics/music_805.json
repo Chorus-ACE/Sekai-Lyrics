@@ -1,0 +1,989 @@
+{
+  "version": 3,
+  "musicId": 805,
+  "revision": 2,
+  "updatedAt": "2026-10-03T14:33:21Z",
+  "state": "game_only",
+  "renditions": [
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        },
+        {
+          "performerId": "歌唱者-26",
+          "name": "KAITO"
+        }
+      ],
+      "game": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "上手く昨日を手放せなくて",
+            "zh-CN": "无法好好释怀昨天",
+            "segments": [
+              {
+                "text": "上手く昨日を手放せなくて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "上手",
+                    "reading": "うま"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "昨日",
+                    "reading": "きのう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "手放",
+                    "reading": "てばな"
+                  },
+                  {
+                    "text": "せなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "今日も明日を嫌って",
+            "zh-CN": "今天也依然厌恶着明天",
+            "segments": [
+              {
+                "text": "今日も明日を嫌って",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あす"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "って"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "逃げるよ　逃げるよ",
+            "zh-CN": "逃跑吧　逃跑吧",
+            "segments": [
+              {
+                "text": "逃げるよ　逃げるよ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逃",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "げるよ　"
+                  },
+                  {
+                    "text": "逃",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "げるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "誰もいないどこかへ",
+            "zh-CN": "逃往空无一人的某处",
+            "segments": [
+              {
+                "text": "誰もいないどこかへ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "もいないどこかへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "川の水を掬って飲んで",
+            "zh-CN": "掬起一捧河水饮下",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "川の水を掬って飲んで",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "川",
+                    "reading": "かわ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "水",
+                    "reading": "みず"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "掬",
+                    "reading": "すく"
+                  },
+                  {
+                    "text": "って"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "このまま溶けてしまおう",
+            "zh-CN": "就这般彻底消融散去吧",
+            "segments": [
+              {
+                "text": "このまま溶けてしまおう",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "このまま"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けてしまおう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "向かうよ　いよいよ",
+            "zh-CN": "启程吧　终于要前往了",
+            "segments": [
+              {
+                "text": "向かうよ　いよいよ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "かうよ　いよいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "人間のいない世界へ",
+            "zh-CN": "前往没有人类存在的世界",
+            "segments": [
+              {
+                "text": "人間のいない世界へ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "人間",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "のいない"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "へ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "そんなあなたを陰から覗いていたよ",
+            "zh-CN": "我就这样在阴影里悄悄窥视着你",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そんなあなたを陰から覗いていたよ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんなあなたを"
+                  },
+                  {
+                    "text": "陰",
+                    "reading": "かげ"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "覗",
+                    "reading": "のぞ"
+                  },
+                  {
+                    "text": "いていたよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "聞かせてよ　ヒトの世の事",
+            "zh-CN": "快跟我讲讲吧　关于人类尘世的事",
+            "segments": [
+              {
+                "text": "聞かせてよ　ヒトの世の事",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "聞",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "かせてよ　ヒトの"
+                  },
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "ありあまる自由と目障りな幸福",
+            "zh-CN": "泛滥无度的自由与分外刺眼的幸福",
+            "segments": [
+              {
+                "text": "ありあまる自由と目障りな幸福",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ありあまる"
+                  },
+                  {
+                    "text": "自由",
+                    "reading": "じゆう"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "目障",
+                    "reading": "めざわ"
+                  },
+                  {
+                    "text": "りな"
+                  },
+                  {
+                    "text": "幸福",
+                    "reading": "こうふく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "孤独と不幸に支配された光る世界",
+            "zh-CN": "被孤独与不幸所支配的那座耀眼世界",
+            "segments": [
+              {
+                "text": "孤独と不幸に支配された光る世界",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "孤独",
+                    "reading": "こどく"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "不幸",
+                    "reading": "ふこう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "支配",
+                    "reading": "しはい"
+                  },
+                  {
+                    "text": "された"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひか"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "あゝ",
+            "zh-CN": "啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "あゝ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "あゝ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "なんてつまらない悩みを抱えて",
+            "zh-CN": "真是多么无聊啊　怀揣着这般烦恼",
+            "segments": [
+              {
+                "text": "なんてつまらない",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんてつまらない"
+                  }
+                ]
+              },
+              {
+                "text": "悩みを抱えて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "悩",
+                    "reading": "なや"
+                  },
+                  {
+                    "text": "みを"
+                  },
+                  {
+                    "text": "抱",
+                    "reading": "かか"
+                  },
+                  {
+                    "text": "えて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "腐ってしまっているのでしょうか",
+            "zh-CN": "就这样一天天腐烂下去了吗",
+            "segments": [
+              {
+                "text": "腐ってしまっているのでしょうか",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "腐",
+                    "reading": "くさ"
+                  },
+                  {
+                    "text": "ってしまっているのでしょうか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "大して実りのない生命",
+            "zh-CN": "本就结不出什么硕果的生命",
+            "segments": [
+              {
+                "text": "大して実りのない生命",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "大",
+                    "reading": "たい"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "りのない"
+                  },
+                  {
+                    "text": "生命",
+                    "reading": "せいめい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "重さを測らないで",
+            "zh-CN": "就别去称量它的分量了吧",
+            "segments": [
+              {
+                "text": "重さを測らないで",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "重",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "さを"
+                  },
+                  {
+                    "text": "測",
+                    "reading": "はか"
+                  },
+                  {
+                    "text": "らないで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "私にとって蟲も貴方も同じなの",
+            "zh-CN": "对于我来说　虫豸与你并没有什么区别",
+            "segments": [
+              {
+                "text": "私にとって",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "にとって"
+                  }
+                ]
+              },
+              {
+                "text": "蟲も貴方も同じなの",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "蟲",
+                    "reading": "むし"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "貴方",
+                    "reading": "あなた"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "同",
+                    "reading": "おな"
+                  },
+                  {
+                    "text": "じなの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "大きくなる機会も",
+            "zh-CN": "茁壮成长的机会也好",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "大きくなる機会も",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "大",
+                    "reading": "おお"
+                  },
+                  {
+                    "text": "きくなる"
+                  },
+                  {
+                    "text": "機会",
+                    "reading": "きかい"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "芽吹く機会も開花の機会も",
+            "zh-CN": "破土萌芽或是绽放花朵的机会",
+            "segments": [
+              {
+                "text": "芽吹く機会も開花の機会も",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "芽吹",
+                    "reading": "めぶ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "機会",
+                    "reading": "きかい"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "開花",
+                    "reading": "かいか"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "機会",
+                    "reading": "きかい"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "逃して過ぎていく",
+            "zh-CN": "统统都在错过中渐渐流逝",
+            "segments": [
+              {
+                "text": "逃して過ぎていく",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "逃",
+                    "reading": "のが"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "過",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "ぎていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "皆　実り始めた",
+            "zh-CN": "大家　都已开始结出果实",
+            "segments": [
+              {
+                "text": "皆　実り始めた",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "皆",
+                    "reading": "みな"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "枝が裂けても　未来を愛した",
+            "zh-CN": "哪怕枝桠断裂　也依然热爱着未来",
+            "segments": [
+              {
+                "text": "枝が裂けても　未来を愛した",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "枝",
+                    "reading": "えだ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "裂",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "けても　"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "した"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "自分を愛してしまった",
+            "zh-CN": "却不由自主地爱上了自己",
+            "segments": [
+              {
+                "text": "自分を愛してしまった",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "してしまった"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "VIRTUAL SINGER Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Ki no Sei",
+          "revisionId": 348711,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ki_no_Sei?oldid=348711",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Ki no Sei",
+          "revisionId": 348711,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ki_no_Sei?oldid=348711",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Ki no Sei",
+          "revisionId": 348711,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ki_no_Sei?oldid=348711",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Ki no Sei",
+          "revisionId": 348711,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ki_no_Sei?oldid=348711",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Ki no Sei",
+          "revisionId": 348711,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ki_no_Sei?oldid=348711",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

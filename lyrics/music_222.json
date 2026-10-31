@@ -1,0 +1,818 @@
+{
+  "version": 3,
+  "musicId": 222,
+  "revision": 5,
+  "updatedAt": "2026-08-18T03:07:12.163536Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "full"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "line-1",
+            "order": 0,
+            "japanese": "ありふれた私という協奏曲を",
+            "segments": [
+              {
+                "text": "ありふれた私という協奏曲を",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "ありふれた"
+                  },
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "という"
+                  },
+                  {
+                    "text": "協奏曲",
+                    "reading": "きょうそうきょく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "将司空见惯名为我的协奏曲"
+          },
+          {
+            "id": "line-2",
+            "order": 1,
+            "japanese": "なぞらえる日々",
+            "segments": [
+              {
+                "text": "なぞらえる日々",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "なぞらえる"
+                  },
+                  {
+                    "text": "日々",
+                    "reading": "ひび"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "细细描摹的每一个日常"
+          },
+          {
+            "id": "line-3",
+            "order": 2,
+            "japanese": "それとなく指揮棒に合わせれば",
+            "segments": [
+              {
+                "text": "それとなく指揮棒に合わせれば",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "それとなく"
+                  },
+                  {
+                    "text": "指揮棒",
+                    "reading": "しきぼう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わせれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "只要漫不经心地配合着指挥棒"
+          },
+          {
+            "id": "line-4",
+            "order": 3,
+            "japanese": "保障される調和",
+            "segments": [
+              {
+                "text": "保障される調和",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "保障",
+                    "reading": "ほしょう"
+                  },
+                  {
+                    "text": "される"
+                  },
+                  {
+                    "text": "調和",
+                    "reading": "ちょうわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "便能得到保证的和谐旋律"
+          },
+          {
+            "id": "line-5",
+            "order": 4,
+            "japanese": "ダウンビート",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ダウンビート",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "ダウンビート"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "强劲节拍"
+          },
+          {
+            "id": "line-6",
+            "order": 5,
+            "japanese": "割とストイックで古典的な優等生",
+            "segments": [
+              {
+                "text": "割とストイックで古典的な優等生",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "割",
+                    "reading": "わり"
+                  },
+                  {
+                    "text": "とストイックで"
+                  },
+                  {
+                    "text": "古典",
+                    "reading": "こてん"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "優等生",
+                    "reading": "ゆうとうせい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "相当克己严谨古典派的优等生"
+          },
+          {
+            "id": "line-7",
+            "order": 6,
+            "japanese": "でもアップビートはアドリブでいかなきゃ退屈でしょう",
+            "segments": [
+              {
+                "text": "でもアップビートはアドリブでいかなきゃ退屈でしょう",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもアップビートはアドリブでいかなきゃ"
+                  },
+                  {
+                    "text": "退屈",
+                    "reading": "たいくつ"
+                  },
+                  {
+                    "text": "でしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "可弱拍若不用即兴发挥去演奏未免太无趣了吧"
+          },
+          {
+            "id": "line-8",
+            "order": 7,
+            "japanese": "楽譜通りの日常に",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "楽譜通りの日常に",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "楽譜",
+                    "reading": "がくふ"
+                  },
+                  {
+                    "text": "通",
+                    "reading": "どお"
+                  },
+                  {
+                    "text": "りの"
+                  },
+                  {
+                    "text": "日常",
+                    "reading": "にちじょう"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "若按照乐谱循规蹈矩的日常里"
+          },
+          {
+            "id": "line-9",
+            "order": 8,
+            "japanese": "枯れゆくこの命ならば",
+            "segments": [
+              {
+                "text": "枯れゆくこの命ならば",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "枯",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "れゆくこの"
+                  },
+                  {
+                    "text": "命",
+                    "reading": "いのち"
+                  },
+                  {
+                    "text": "ならば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "只能换来这道逐渐枯萎的生命"
+          },
+          {
+            "id": "line-10",
+            "order": 9,
+            "japanese": "いっそ背徳の渦に溺れてしまいたい",
+            "segments": [
+              {
+                "text": "いっそ背徳の渦に溺れてしまいたい",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "いっそ"
+                  },
+                  {
+                    "text": "背徳",
+                    "reading": "はいとく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "渦",
+                    "reading": "うず"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "溺",
+                    "reading": "おぼ"
+                  },
+                  {
+                    "text": "れてしまいたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "倒不如索性沉溺在背德的漩涡之中"
+          },
+          {
+            "id": "line-11",
+            "order": 10,
+            "japanese": "その指に光る愛の証さえ",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "その指に光る愛の証さえ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "指",
+                    "reading": "ゆび"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひか"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "証",
+                    "reading": "あかし"
+                  },
+                  {
+                    "text": "さえ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "甚至连那手指上闪烁的爱之誓约"
+          },
+          {
+            "id": "line-12",
+            "order": 11,
+            "japanese": "消え入りそうな程優しく",
+            "segments": [
+              {
+                "text": "消え入りそうな程優しく",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "入",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "りそうな"
+                  },
+                  {
+                    "text": "程",
+                    "reading": "ほど"
+                  },
+                  {
+                    "text": "優",
+                    "reading": "やさ"
+                  },
+                  {
+                    "text": "しく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "都温柔轻缓得仿佛快要消散"
+          },
+          {
+            "id": "line-13",
+            "order": 12,
+            "japanese": "囁いた言葉は",
+            "segments": [
+              {
+                "text": "囁いた言葉は",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "囁",
+                    "reading": "ささや"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "耳畔低声呢喃的细语"
+          },
+          {
+            "id": "line-14",
+            "order": 13,
+            "japanese": "禁断の小夜曲",
+            "segments": [
+              {
+                "text": "禁断の小夜曲",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "禁断",
+                    "reading": "きんだん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "小夜曲",
+                    "reading": "さよきょく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "正是禁忌的禁断小夜曲"
+          },
+          {
+            "id": "line-15",
+            "order": 14,
+            "japanese": "加速する愛のリズム　突き詰めて",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "加速する愛のリズム　突き詰めて",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "加速",
+                    "reading": "かそく"
+                  },
+                  {
+                    "text": "する"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "のリズム　"
+                  },
+                  {
+                    "text": "突",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "詰",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "加速狂飙的爱之节拍 探寻至深"
+          },
+          {
+            "id": "line-16",
+            "order": 15,
+            "japanese": "確かめ合うように",
+            "segments": [
+              {
+                "text": "確かめ合うように",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "確",
+                    "reading": "たし"
+                  },
+                  {
+                    "text": "かめ"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "うように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "宛如互相确认证明彼此一般"
+          },
+          {
+            "id": "line-17",
+            "order": 16,
+            "japanese": "今夜はフォルテシモでもいい",
+            "segments": [
+              {
+                "text": "今夜はフォルテシモでもいい",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "今夜",
+                    "reading": "こんや"
+                  },
+                  {
+                    "text": "はフォルテシモでもいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "今夜哪怕是最强音 也无妨"
+          },
+          {
+            "id": "line-18",
+            "order": 17,
+            "japanese": "強く強く抱き締めて",
+            "segments": [
+              {
+                "text": "強く強く抱き締めて",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "抱",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "締",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "紧紧地紧紧地将我拥入怀中吧"
+          },
+          {
+            "id": "line-19",
+            "order": 18,
+            "japanese": "重なり合うこの声は",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "重なり合うこの声は",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "重",
+                    "reading": "かさ"
+                  },
+                  {
+                    "text": "なり"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "うこの"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "彼此紧密交叠的这道声音"
+          },
+          {
+            "id": "line-20",
+            "order": 19,
+            "japanese": "闇に溶けて消えていくから",
+            "segments": [
+              {
+                "text": "闇に溶けて消えていくから",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "闇",
+                    "reading": "やみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "けて"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えていくから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "终将消融在黑暗中渐渐隐去"
+          },
+          {
+            "id": "line-21",
+            "order": 20,
+            "japanese": "きっと大丈夫よ",
+            "segments": [
+              {
+                "text": "きっと大丈夫よ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "大丈夫",
+                    "reading": "だいじょうぶ"
+                  },
+                  {
+                    "text": "よ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "一定没问题的哦"
+          },
+          {
+            "id": "line-22",
+            "order": 21,
+            "japanese": "何も悪いことじゃない",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "何も悪いことじゃない",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "いことじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "根本算不上什么坏事"
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/full_text",
+          "provider": "sekaipedia",
+          "title": "Piano×Forte×Scandal",
+          "revisionId": 291973,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Piano%C3%97Forte%C3%97Scandal?oldid=291973",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Piano×Forte×Scandal",
+          "revisionId": 291973,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Piano%C3%97Forte%C3%97Scandal?oldid=291973",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Piano×Forte×Scandal",
+          "revisionId": 291973,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Piano%C3%97Forte%C3%97Scandal?oldid=291973",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

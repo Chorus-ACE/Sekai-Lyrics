@@ -1,0 +1,53 @@
+name: Update Lyrics
+
+on:
+  schedule:
+    # Daily at 03:23 UTC (13:23 Australia/Brisbane).
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: auto performs a full refresh once each UTC calendar month
+        type: choice
+        options: [auto, missing, full]
+        default: auto
+  push:
+    paths: ['scripts/**', 'tests/**', '.github/workflows/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-lyrics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test updater
+        run: python -m unittest discover -s tests -v
+      - name: Update published lyrics
+        env:
+          UPDATE_MODE: ${{ inputs.mode || 'auto' }}
+        run: python scripts/update_lyrics.py --mode "$UPDATE_MODE"
+      - name: Publish changed data
+        run: |
+          git add --all -- .
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update lyrics'
+          git push origin HEAD:main
+      - name: Save update report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lyrics-update-report
+          path: .update-report.json
+          include-hidden-files: true

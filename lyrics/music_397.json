@@ -1,0 +1,2879 @@
+{
+  "version": 3,
+  "musicId": 397,
+  "revision": 4,
+  "updatedAt": "2026-10-15T13:44:01Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "まだ幼い頃夢みては 胸が高鳴ったんだ",
+            "zh-CN": "尚且幼小的时候做过的梦 曾让心潮澎湃雀跃",
+            "segments": [
+              {
+                "text": "まだ幼い頃夢みては 胸が高鳴ったんだ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "まだ"
+                  },
+                  {
+                    "text": "幼",
+                    "reading": "おさな"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "頃夢",
+                    "reading": "ころゆめ"
+                  },
+                  {
+                    "text": "みては "
+                  },
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "高鳴",
+                    "reading": "たかな"
+                  },
+                  {
+                    "text": "ったんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "また憧れに手を伸ばす",
+            "zh-CN": "再次朝着憧憬伸出双手",
+            "segments": [
+              {
+                "text": "また憧れに手を伸ばす",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "また"
+                  },
+                  {
+                    "text": "憧",
+                    "reading": "あこが"
+                  },
+                  {
+                    "text": "れに"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "伸",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "ばす"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "なんでもできそうだ",
+            "zh-CN": "仿佛无所不能",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "なんでもできそうだ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんでもできそうだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "魔法みたいなショータイム",
+            "zh-CN": "宛若魔法般的演出时刻",
+            "segments": [
+              {
+                "text": "魔法みたいなショータイム",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "みたいなショータイム"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "誰にでもなれそう",
+            "zh-CN": "仿佛能化身成为任何人",
+            "segments": [
+              {
+                "text": "誰にでもなれそう",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "にでもなれそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "君を笑わすヒーローにだって",
+            "zh-CN": "哪怕是逗你欢笑的英雄也是",
+            "segments": [
+              {
+                "text": "君を笑わすヒーローにだって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "わすヒーローにだって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "ドラマチック とても キラキラしてるね",
+            "zh-CN": "充满戏剧性 真是 闪闪发光呢",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ドラマチック とても キラキラしてるね",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "ドラマチック とても キラキラしてるね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "でも 独り",
+            "zh-CN": "可是 孤身一人",
+            "segments": [
+              {
+                "text": "でも 独り",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "でも "
+                  },
+                  {
+                    "text": "独",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "気持ちだけが空回りループしてしまうよ",
+            "zh-CN": "唯独心情在不断徒劳空转死循环",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "気持ちだけが空回りループしてしまうよ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ちだけが"
+                  },
+                  {
+                    "text": "空回",
+                    "reading": "からまわ"
+                  },
+                  {
+                    "text": "りループしてしまうよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "失敗ばかりのどうしようもない僕です。",
+            "zh-CN": "这就是净是碰壁失败无可救药的我。",
+            "segments": [
+              {
+                "text": "失敗ばかりのどうしようもない僕です。",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "ばかりのどうしようもない"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "です。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "今日も理想を探しているの",
+            "zh-CN": "今天也在追寻着理想",
+            "segments": [
+              {
+                "text": "今日も理想を探しているの",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "理想",
+                    "reading": "りそう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "探",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "しているの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "貴方みたいになれたらいいな",
+            "zh-CN": "若能成为像你那样的人就好了啊",
+            "segments": [
+              {
+                "text": "貴方みたいになれたらいいな",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "貴方",
+                    "reading": "あなた"
+                  },
+                  {
+                    "text": "みたいになれたらいいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "感性も感覚も 惹かれて光れ",
+            "zh-CN": "感性与感觉皆被其吸引 绽放光芒吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "感性も感覚も 惹かれて光れ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "感性",
+                    "reading": "かんせい"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "感覚",
+                    "reading": "かんかく"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "惹",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "かれて"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひか"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "たとえ見えない明日でも怖くないよ",
+            "zh-CN": "纵然是看不见的明天也毫不畏惧",
+            "segments": [
+              {
+                "text": "たとえ見えない明日でも怖くないよ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "たとえ"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えない"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "でも"
+                  },
+                  {
+                    "text": "怖",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "くないよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "一瞬の共鳴で 世界照らすフィラメント！さぁ！",
+            "zh-CN": "凭一瞬的共鸣 照亮世界的灯丝！来吧！",
+            "segments": [
+              {
+                "text": "一瞬の共鳴で 世界照らすフィラメント！さぁ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "一瞬",
+                    "reading": "いっしゅん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "共鳴",
+                    "reading": "きょうめい"
+                  },
+                  {
+                    "text": "で "
+                  },
+                  {
+                    "text": "世界照",
+                    "reading": "せかいて"
+                  },
+                  {
+                    "text": "らすフィラメント！さぁ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "才能の 一片を 見つけ出して",
+            "zh-CN": "探寻发掘出 才能的一隅碎片",
+            "segments": [
+              {
+                "text": "才能の 一片を 見つけ出して",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "才能",
+                    "reading": "さいのう"
+                  },
+                  {
+                    "text": "の "
+                  },
+                  {
+                    "text": "一片",
+                    "reading": "いっぺん"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つけ"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "だんだん 叶っていく 夢じゃないって",
+            "zh-CN": "渐渐得以实现 坚信那绝非虚梦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "だんだん 叶っていく ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "だんだん "
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "っていく "
+                  }
+                ]
+              },
+              {
+                "text": "夢じゃないって",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "じゃないって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "心の底を 貴方だけは 信じてくれないか",
+            "zh-CN": "发自内心 唯独你愿意相信我吗",
+            "segments": [
+              {
+                "text": "心の底を 貴方だけは 信じてくれないか",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "底",
+                    "reading": "そこ"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "貴方",
+                    "reading": "あなた"
+                  },
+                  {
+                    "text": "だけは "
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じてくれないか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "だんだん 叶っていく 夢じゃないって",
+            "zh-CN": "渐渐得以实现 坚信那绝非虚梦",
+            "segments": [
+              {
+                "text": "だんだん 叶っていく 夢じゃないって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "だんだん "
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "っていく "
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "じゃないって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "心の中 浮かす フィーバー ",
+            "zh-CN": "在心中 浮现的狂热激情",
+            "segments": [
+              {
+                "text": "心の中 浮かす フィーバー ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "浮",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "かす フィーバー "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "僕らの可能性を",
+            "zh-CN": "释放我们无限的可能性",
+            "segments": [
+              {
+                "text": "僕らの可能性を",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らの"
+                  },
+                  {
+                    "text": "可能性",
+                    "reading": "かのうせい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "変わっていく時の流れから逃げて",
+            "zh-CN": "逃避着不断变迁的时间流逝",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "変わっていく時の流れから逃げて",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わっていく"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "流",
+                    "reading": "なが"
+                  },
+                  {
+                    "text": "れから"
+                  },
+                  {
+                    "text": "逃",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "げて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "自分すら見失ってしまった",
+            "zh-CN": "连自己都迷失了方向",
+            "segments": [
+              {
+                "text": "自分すら見失ってしまった",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "すら"
+                  },
+                  {
+                    "text": "見失",
+                    "reading": "みうしな"
+                  },
+                  {
+                    "text": "ってしまった"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "でも憧れだけ離さなかった",
+            "zh-CN": "但唯独这份憧憬从未松手",
+            "segments": [
+              {
+                "text": "でも憧れだけ離さなかった",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "でも"
+                  },
+                  {
+                    "text": "憧",
+                    "reading": "あこが"
+                  },
+                  {
+                    "text": "れだけ"
+                  },
+                  {
+                    "text": "離",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "さなかった"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "どんなに根を上げお手上げ凹んじゃっても",
+            "zh-CN": "无论怎样吃不消举手投降心灰意冷",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どんなに根を上げお手上げ凹んじゃっても",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "どんなに"
+                  },
+                  {
+                    "text": "根",
+                    "reading": "ね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げお"
+                  },
+                  {
+                    "text": "手上",
+                    "reading": "てあ"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "凹",
+                    "reading": "へこ"
+                  },
+                  {
+                    "text": "んじゃっても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "ルポルタージュなんて書きたくないんだよ",
+            "zh-CN": "我可不想写什么实录报道啊",
+            "segments": [
+              {
+                "text": "ルポルタージュなんて書きたくないんだよ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ルポルタージュなんて"
+                  },
+                  {
+                    "text": "書",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "きたくないんだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "気持ちだって全てはここに込めるの",
+            "zh-CN": "连同所有心意统统倾注于此",
+            "segments": [
+              {
+                "text": "気持ちだって全てはここに込めるの",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ちだって"
+                  },
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てはここに"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "めるの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "僕だけしかできない表現を",
+            "zh-CN": "唯有我才能做到的表现形式",
+            "segments": [
+              {
+                "text": "僕だけしかできない表現を",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "だけしかできない"
+                  },
+                  {
+                    "text": "表現",
+                    "reading": "ひょうげん"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "感覚も情景に惹かれて光れ",
+            "zh-CN": "感觉也为情景所吸引 绽放光辉吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "感覚も情景に惹かれて光れ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "感覚",
+                    "reading": "かんかく"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "情景",
+                    "reading": "じょうけい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "惹",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "かれて"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひか"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "傷だらけの手でも痛くないよ",
+            "zh-CN": "哪怕双手伤痕累累也感觉不到痛",
+            "segments": [
+              {
+                "text": "傷だらけの手でも痛くないよ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "だらけの"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "でも"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "くないよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "繊細に鮮明に世界照らすフィラメント！あぁ！",
+            "zh-CN": "细腻地鲜明地照亮世界的灯丝！啊啊！",
+            "segments": [
+              {
+                "text": "繊細に鮮明に世界照らすフィラメント！あぁ！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "繊細",
+                    "reading": "せんさい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "鮮明",
+                    "reading": "せんめい"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "世界照",
+                    "reading": "せかいて"
+                  },
+                  {
+                    "text": "らすフィラメント！あぁ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "偶然も運命と言えたらいいのにな",
+            "zh-CN": "偶然也能被称作命运就好了啊",
+            "segments": [
+              {
+                "text": "偶然も運命と言えたらいいのにな",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "偶然",
+                    "reading": "ぐうぜん"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "運命",
+                    "reading": "うんめい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "えたらいいのにな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "ド派手な奇抜なショーじゃない",
+            "zh-CN": "虽然算不上大红大紫极其新奇的秀",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ド派手な奇抜なショーじゃない",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ド"
+                  },
+                  {
+                    "text": "派手",
+                    "reading": "はで"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "奇抜",
+                    "reading": "きばつ"
+                  },
+                  {
+                    "text": "なショーじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "でもこれこそ本当のショーじゃない？",
+            "zh-CN": "但这才是真正货真价实的秀不是吗？",
+            "segments": [
+              {
+                "text": "でもこれこそ本当のショーじゃない？",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもこれこそ"
+                  },
+                  {
+                    "text": "本当",
+                    "reading": "ほんとう"
+                  },
+                  {
+                    "text": "のショーじゃない？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "バックライト&道具じゃ騙せない",
+            "zh-CN": "仅凭背光与道具可瞒不过人",
+            "segments": [
+              {
+                "text": "バックライト&道具じゃ騙せない",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "バックライト&"
+                  },
+                  {
+                    "text": "道具",
+                    "reading": "どうぐ"
+                  },
+                  {
+                    "text": "じゃ"
+                  },
+                  {
+                    "text": "騙",
+                    "reading": "だま"
+                  },
+                  {
+                    "text": "せない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "lets Check Check Check Check 本領ならば",
+            "zh-CN": "lets Check Check Check Check 若是真本领",
+            "segments": [
+              {
+                "text": "lets Check Check Check Check 本領ならば",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "lets Check Check Check Check "
+                  },
+                  {
+                    "text": "本領",
+                    "reading": "ほんりょう"
+                  },
+                  {
+                    "text": "ならば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "細部内部捨てやしない",
+            "zh-CN": "细节与内核绝不会舍弃",
+            "segments": [
+              {
+                "text": "細部内部捨てやしない",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "細部内部捨",
+                    "reading": "さいぶないぶす"
+                  },
+                  {
+                    "text": "てやしない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "きっと誰かは違いが分かんない",
+            "zh-CN": "想必某些人根本分不清区别",
+            "segments": [
+              {
+                "text": "きっと誰かは違いが分かんない",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かは"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "いが"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かんない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "でもフェイク&シュールじゃあつまんない",
+            "zh-CN": "但全是假把式与荒诞未免太无聊",
+            "segments": [
+              {
+                "text": "でもフェイク&シュールじゃあつまんない",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "でもフェイク&シュールじゃあつまんない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "そんな僕らにとっては大問題なのさ",
+            "zh-CN": "对我们而言那可是天大的问题啊",
+            "segments": [
+              {
+                "text": "そんな僕らにとっては大問題なのさ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らにとっては"
+                  },
+                  {
+                    "text": "大問題",
+                    "reading": "だいもんだい"
+                  },
+                  {
+                    "text": "なのさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "また今日もこの胸を熱く灯して",
+            "zh-CN": "今天也再次在胸中点燃滚烫的灯火",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "また今日もこの胸を熱く灯して",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "また"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "もこの"
+                  },
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "熱",
+                    "reading": "あつ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "灯",
+                    "reading": "とも"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "僕の事ただ突き動かしている",
+            "zh-CN": "只是在不断驱使推动着我前行",
+            "segments": [
+              {
+                "text": "僕の事ただ突き動かしている",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "突",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "動",
+                    "reading": "うご"
+                  },
+                  {
+                    "text": "かしている"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "何回も何回も目指す憧れの歌",
+            "zh-CN": "无论多少次都执着追寻的憧憬之歌",
+            "segments": [
+              {
+                "text": "何回も何回も目指す憧れの歌",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "何回",
+                    "reading": "なんかい"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何回",
+                    "reading": "なんかい"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "目指",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "憧",
+                    "reading": "あこが"
+                  },
+                  {
+                    "text": "れの"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "思い出して",
+            "zh-CN": "重新回想起来",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "思い出して",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "感性も感覚も惹かれて光れ",
+            "zh-CN": "感性与感觉皆被其吸引 绽放光芒吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "感性も感覚も惹かれて光れ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "感性",
+                    "reading": "かんせい"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "感覚",
+                    "reading": "かんかく"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "惹",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "かれて"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひか"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "たとえ見えない明日でも怖くないよ",
+            "zh-CN": "纵然是看不见的明天也毫不畏惧",
+            "segments": [
+              {
+                "text": "たとえ見えない明日でも怖くないよ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "たとえ"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えない"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "でも"
+                  },
+                  {
+                    "text": "怖",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "くないよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000047",
+            "order": 46,
+            "japanese": "一瞬の共鳴で世界照らすフィラメント！さぁ！",
+            "zh-CN": "凭一瞬的共鸣 照亮世界的灯丝！来吧！",
+            "segments": [
+              {
+                "text": "一瞬の共鳴で世界照らすフィラメント！さぁ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "一瞬",
+                    "reading": "いっしゅん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "共鳴",
+                    "reading": "きょうめい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "世界照",
+                    "reading": "せかいて"
+                  },
+                  {
+                    "text": "らすフィラメント！さぁ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000048",
+            "order": 47,
+            "japanese": "才能の一片を見つけ出して",
+            "zh-CN": "探寻发掘出 才能的一隅碎片",
+            "segments": [
+              {
+                "text": "才能の一片を見つけ出して",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "才能",
+                    "reading": "さいのう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "一片",
+                    "reading": "いっぺん"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つけ"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000049",
+            "order": 48,
+            "japanese": "だんだん叶っていく　夢じゃないって",
+            "zh-CN": "渐渐得以实现 坚信那绝非虚梦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "だんだん叶っていく　夢じゃないって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "だんだん"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "っていく　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "じゃないって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000050",
+            "order": 49,
+            "japanese": "心の底を貴方だけは信じてくれないか",
+            "zh-CN": "发自内心 唯独你愿意相信我吗",
+            "segments": [
+              {
+                "text": "心の底を貴方だけは信じてくれないか",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "底",
+                    "reading": "そこ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "貴方",
+                    "reading": "あなた"
+                  },
+                  {
+                    "text": "だけは"
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じてくれないか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000051",
+            "order": 50,
+            "japanese": "だんだん叶っていく　夢じゃないって",
+            "zh-CN": "渐渐得以实现 坚信那绝非虚梦",
+            "segments": [
+              {
+                "text": "だんだん叶っていく　夢じゃないって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "だんだん"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "っていく　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "じゃないって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000052",
+            "order": 51,
+            "japanese": "心の中浮かすフィーバー",
+            "zh-CN": "在心中浮现的狂热激情",
+            "segments": [
+              {
+                "text": "心の中浮かすフィーバー",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中浮",
+                    "reading": "なかう"
+                  },
+                  {
+                    "text": "かすフィーバー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000053",
+            "order": 52,
+            "japanese": "僕らの可能性を",
+            "zh-CN": "释放我们无限的可能性",
+            "segments": [
+              {
+                "text": "僕らの可能性を",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らの"
+                  },
+                  {
+                    "text": "可能性",
+                    "reading": "かのうせい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000054",
+            "order": 53,
+            "japanese": "Yeah!",
+            "zh-CN": "Yeah!",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Yeah!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "Yeah!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "まだ幼い頃夢みては 胸が高鳴ったんだ",
+            "zh-CN": "尚且幼小的时候做过的梦 曾让心潮澎湃雀跃",
+            "segments": [
+              {
+                "text": "まだ幼い頃夢みては 胸が高鳴ったんだ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "まだ"
+                  },
+                  {
+                    "text": "幼",
+                    "reading": "おさな"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "頃夢",
+                    "reading": "ころゆめ"
+                  },
+                  {
+                    "text": "みては "
+                  },
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "高鳴",
+                    "reading": "たかな"
+                  },
+                  {
+                    "text": "ったんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "また憧れに手を伸ばす",
+            "zh-CN": "再次朝着憧憬伸出双手",
+            "segments": [
+              {
+                "text": "また憧れに手を伸ばす",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "また"
+                  },
+                  {
+                    "text": "憧",
+                    "reading": "あこが"
+                  },
+                  {
+                    "text": "れに"
+                  },
+                  {
+                    "text": "手",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "伸",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "ばす"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "なんでもできそうだ",
+            "zh-CN": "仿佛无所不能",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "なんでもできそうだ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんでもできそうだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "魔法みたいなショータイム",
+            "zh-CN": "宛若魔法般的演出时刻",
+            "segments": [
+              {
+                "text": "魔法みたいなショータイム",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "みたいなショータイム"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "誰にでもなれそう",
+            "zh-CN": "仿佛能化身成为任何人",
+            "segments": [
+              {
+                "text": "誰にでもなれそう",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "にでもなれそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "君を笑わすヒーローにだって",
+            "zh-CN": "哪怕是逗你欢笑的英雄也是",
+            "segments": [
+              {
+                "text": "君を笑わすヒーローにだって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "わすヒーローにだって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "ドラマチック とても キラキラしてるね",
+            "zh-CN": "充满戏剧性 真是 闪闪发光呢",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ドラマチック とても キラキラしてるね",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "ドラマチック とても キラキラしてるね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "でも 独り",
+            "zh-CN": "可是 孤身一人",
+            "segments": [
+              {
+                "text": "でも 独り",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "でも "
+                  },
+                  {
+                    "text": "独",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "気持ちだけが空回りループしてしまうよ",
+            "zh-CN": "唯独心情在不断徒劳空转死循环",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "気持ちだけが空回りループしてしまうよ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ちだけが"
+                  },
+                  {
+                    "text": "空回",
+                    "reading": "からまわ"
+                  },
+                  {
+                    "text": "りループしてしまうよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "失敗ばかりのどうしようもない僕です。",
+            "zh-CN": "这就是净是碰壁失败无可救药的我。",
+            "segments": [
+              {
+                "text": "失敗ばかりのどうしようもない僕です。",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "ばかりのどうしようもない"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "です。"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "今日も理想を探しているの",
+            "zh-CN": "今天也在追寻着理想",
+            "segments": [
+              {
+                "text": "今日も理想を探しているの",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "理想",
+                    "reading": "りそう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "探",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "しているの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "貴方みたいになれたらいいな",
+            "zh-CN": "若能成为像你那样的人就好了啊",
+            "segments": [
+              {
+                "text": "貴方みたいになれたらいいな",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "貴方",
+                    "reading": "あなた"
+                  },
+                  {
+                    "text": "みたいになれたらいいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "感性も感覚も 惹かれて光れ",
+            "zh-CN": "感性与感觉皆被其吸引 绽放光芒吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "感性も感覚も 惹かれて光れ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "感性",
+                    "reading": "かんせい"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "感覚",
+                    "reading": "かんかく"
+                  },
+                  {
+                    "text": "も "
+                  },
+                  {
+                    "text": "惹",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "かれて"
+                  },
+                  {
+                    "text": "光",
+                    "reading": "ひか"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "たとえ見えない明日でも怖くないよ",
+            "zh-CN": "纵然是看不见的明天也毫不畏惧",
+            "segments": [
+              {
+                "text": "たとえ見えない明日でも怖くないよ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "たとえ"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えない"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "でも"
+                  },
+                  {
+                    "text": "怖",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "くないよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "一瞬の共鳴で 世界照らすフィラメント！さぁ！",
+            "zh-CN": "凭一瞬的共鸣 照亮世界的灯丝！来吧！",
+            "segments": [
+              {
+                "text": "一瞬の共鳴で 世界照らすフィラメント！さぁ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "一瞬",
+                    "reading": "いっしゅん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "共鳴",
+                    "reading": "きょうめい"
+                  },
+                  {
+                    "text": "で "
+                  },
+                  {
+                    "text": "世界照",
+                    "reading": "せかいて"
+                  },
+                  {
+                    "text": "らすフィラメント！さぁ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "才能の 一片を 見つけ出して",
+            "zh-CN": "探寻发掘出 才能的一隅碎片",
+            "segments": [
+              {
+                "text": "才能の 一片を 見つけ出して",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "才能",
+                    "reading": "さいのう"
+                  },
+                  {
+                    "text": "の "
+                  },
+                  {
+                    "text": "一片",
+                    "reading": "いっぺん"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つけ"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "だんだん 叶っていく 夢じゃないって",
+            "zh-CN": "渐渐得以实现 坚信那绝非虚梦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "だんだん 叶っていく ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "だんだん "
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "っていく "
+                  }
+                ]
+              },
+              {
+                "text": "夢じゃないって",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "じゃないって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "心の底を 貴方だけは 信じてくれないか",
+            "zh-CN": "发自内心 唯独你愿意相信我吗",
+            "segments": [
+              {
+                "text": "心の底を 貴方だけは 信じてくれないか",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "底",
+                    "reading": "そこ"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "貴方",
+                    "reading": "あなた"
+                  },
+                  {
+                    "text": "だけは "
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じてくれないか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "だんだん 叶っていく 夢じゃないって",
+            "zh-CN": "渐渐得以实现 坚信那绝非虚梦",
+            "segments": [
+              {
+                "text": "だんだん 叶っていく 夢じゃないって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "だんだん "
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "っていく "
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "じゃないって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "心の中 浮かす フィーバー ",
+            "zh-CN": "在心中 浮现的狂热激情",
+            "segments": [
+              {
+                "text": "心の中 浮かす フィーバー ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "浮",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "かす フィーバー "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "僕らの可能性を",
+            "zh-CN": "释放我们无限的可能性",
+            "segments": [
+              {
+                "text": "僕らの可能性を",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らの"
+                  },
+                  {
+                    "text": "可能性",
+                    "reading": "かのうせい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "Yeah",
+            "zh-CN": "Yeah",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Yeah",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "Yeah"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Filament fever",
+          "revisionId": 337393,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Filament_fever?oldid=337393",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Filament fever",
+          "revisionId": 337393,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Filament_fever?oldid=337393",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Filament fever",
+          "revisionId": 337393,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Filament_fever?oldid=337393",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Filament fever",
+          "revisionId": 337393,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Filament_fever?oldid=337393",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Filament fever",
+          "revisionId": 337393,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Filament_fever?oldid=337393",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Filament fever",
+          "revisionId": 337393,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Filament_fever?oldid=337393",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Filament fever",
+          "revisionId": 337393,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Filament_fever?oldid=337393",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Filament fever",
+          "revisionId": 337393,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Filament_fever?oldid=337393",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

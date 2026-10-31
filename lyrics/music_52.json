@@ -1,0 +1,2840 @@
+{
+  "version": 3,
+  "musicId": 52,
+  "revision": 3,
+  "updatedAt": "2026-08-23T11:21:06Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "もう救えない　スクラブばかりのブルペンじゃ",
+            "zh-CN": "已经没救了 牛棚里尽是些杂鱼",
+            "segments": [
+              {
+                "text": "もう救えない　スクラブばかりのブルペンじゃ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "救",
+                    "reading": "すく"
+                  },
+                  {
+                    "text": "えない　スクラブばかりのブルペンじゃ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "ちゃちな青春も　お涙も　それすらないもんな",
+            "zh-CN": "廉价的青春也好 催泪的戏码也好 连这些都没有啊",
+            "segments": [
+              {
+                "text": "ちゃちな青春も　お涙も　それすらないもんな",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちゃちな"
+                  },
+                  {
+                    "text": "青春",
+                    "reading": "せいしゅん"
+                  },
+                  {
+                    "text": "も　お"
+                  },
+                  {
+                    "text": "涙",
+                    "reading": "なみだ"
+                  },
+                  {
+                    "text": "も　それすらないもんな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "相当に笑えない　コメディのワンシーンもままならない",
+            "zh-CN": "实在笑不出来 连喜剧里的一幕都演不像样",
+            "segments": [
+              {
+                "text": "相当に笑えない　コメディのワンシーンもままならない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "相当",
+                    "reading": "そうとう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "えない　コメディのワンシーンもままならない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "冷めたチャウダーを　ただ混ぜ合わした　さもそんな人生さ",
+            "zh-CN": "只是搅着一碗冷掉的杂烩汤 人生大概就是这样",
+            "segments": [
+              {
+                "text": "冷めたチャウダーを　ただ混ぜ合わした　さもそんな人生さ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "冷",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "めたチャウダーを　ただ"
+                  },
+                  {
+                    "text": "混",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "ぜ"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わした　さもそんな"
+                  },
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "掛け違えたボタンの身なりを",
+            "zh-CN": "扣错了纽扣的这副模样",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "掛け違えたボタンの身なりを",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "掛",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "えたボタンの"
+                  },
+                  {
+                    "text": "身",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "なりを"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "いつのいつまで見ぬ振りしようか",
+            "zh-CN": "到底还要装作没看见到什么时候",
+            "segments": [
+              {
+                "text": "いつのいつまで見ぬ振りしようか",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "いつのいつまで"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ぬ"
+                  },
+                  {
+                    "text": "振",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "りしようか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "そうかい　抗弁のしようもないな",
+            "zh-CN": "也是啊 根本无从辩解",
+            "segments": [
+              {
+                "text": "そうかい　抗弁のしようもないな",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "そうかい　"
+                  },
+                  {
+                    "text": "抗弁",
+                    "reading": "こうべん"
+                  },
+                  {
+                    "text": "のしようもないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "たまたま火事場に逃げ込んで",
+            "zh-CN": "碰巧逃进了火场",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "たまたま火事場に逃げ込んで",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "たまたま"
+                  },
+                  {
+                    "text": "火事場",
+                    "reading": "かじば"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "逃",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "善かれと油を放り込んで",
+            "zh-CN": "还自以为好心地往里泼油",
+            "segments": [
+              {
+                "text": "善かれと油を放り込んで",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "善",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "かれと"
+                  },
+                  {
+                    "text": "油",
+                    "reading": "あぶら"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "放",
+                    "reading": "ほう"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "生活も　計画も　全部がpotatoになっていく",
+            "zh-CN": "生活也好 计划也好 全都渐渐变成potato",
+            "segments": [
+              {
+                "text": "生活も　計画も　全部がpotatoになっていく",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "も　"
+                  },
+                  {
+                    "text": "計画",
+                    "reading": "けいかく"
+                  },
+                  {
+                    "text": "も　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "がpotatoになっていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "ぐつぐつ明日が泡吹いて",
+            "zh-CN": "明天咕嘟咕嘟地冒着泡",
+            "segments": [
+              {
+                "text": "ぐつぐつ明日が泡吹いて",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぐつぐつ"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "泡吹",
+                    "reading": "あわふ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "白目のままに茹で上がって",
+            "zh-CN": "翻着白眼被彻底煮熟",
+            "segments": [
+              {
+                "text": "白目のままに茹で上がって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "白目",
+                    "reading": "しろめ"
+                  },
+                  {
+                    "text": "のままに"
+                  },
+                  {
+                    "text": "茹",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "将来像　成功法　全部がpotatoになっていく",
+            "zh-CN": "未来蓝图 成功方法 全都渐渐变成potato",
+            "segments": [
+              {
+                "text": "将来像　成功法　全部がpotatoになっていく",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "将来像",
+                    "reading": "しょうらいぞう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "成功法",
+                    "reading": "せいこうほう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "がpotatoになっていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "このままみんなで浸り散らかして",
+            "zh-CN": "就这样大家一起泡得一塌糊涂",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "このままみんなで浸り散らかして",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "このままみんなで"
+                  },
+                  {
+                    "text": "浸",
+                    "reading": "ひた"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "散",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": "らかして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "どろどろに未来を溶かして",
+            "zh-CN": "把未来融得黏黏糊糊",
+            "segments": [
+              {
+                "text": "どろどろに未来を溶かして",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "どろどろに"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "かして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "そんな暮らしのままでKUSHA KUSHAになっていこうぜ",
+            "zh-CN": "就这么过下去 一起变得皱巴巴吧",
+            "segments": [
+              {
+                "text": "そんな暮らしのままでKUSHA KUSHAになっていこうぜ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "暮",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らしのままでKUSHA KUSHAになっていこうぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "もう時間がない　我等に見下す権利などない",
+            "zh-CN": "已经没时间了 我们也没资格瞧不起谁",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "もう時間がない　我等に見下す権利などない",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "時間",
+                    "reading": "じかん"
+                  },
+                  {
+                    "text": "がない　"
+                  },
+                  {
+                    "text": "我等",
+                    "reading": "われら"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "見下",
+                    "reading": "みくだ"
+                  },
+                  {
+                    "text": "す"
+                  },
+                  {
+                    "text": "権利",
+                    "reading": "けんり"
+                  },
+                  {
+                    "text": "などない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "有象無象が発した　ブーイングも　今なら勲章さ",
+            "zh-CN": "乌合之众发出的嘘声 如今也成了勋章",
+            "segments": [
+              {
+                "text": "有象無象が発した　ブーイングも　今なら勲章さ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "有象無象",
+                    "reading": "うぞうむぞう"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "した　ブーイングも　"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "なら"
+                  },
+                  {
+                    "text": "勲章",
+                    "reading": "くんしょう"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "相当に笑えない　誰だってそう言わざるを得ない",
+            "zh-CN": "实在笑不出来 任谁都只能这么说",
+            "segments": [
+              {
+                "text": "相当に笑えない　誰だってそう言わざるを得ない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "相当",
+                    "reading": "そうとう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "えない　"
+                  },
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "だってそう"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "わざるを"
+                  },
+                  {
+                    "text": "得",
+                    "reading": "え"
+                  },
+                  {
+                    "text": "ない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "バカの一つ覚えのように　空回って　ただバターになっている",
+            "zh-CN": "像只会这一招的傻瓜一样 白忙一场 最后只化成黄油",
+            "segments": [
+              {
+                "text": "バカの一つ覚えのように　空回って　ただバターになっている",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "バカの"
+                  },
+                  {
+                    "text": "一",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "つ"
+                  },
+                  {
+                    "text": "覚",
+                    "reading": "おぼ"
+                  },
+                  {
+                    "text": "えのように　"
+                  },
+                  {
+                    "text": "空回",
+                    "reading": "からまわ"
+                  },
+                  {
+                    "text": "って　ただバターになっている"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "始めはこんなつもりじゃなかった",
+            "zh-CN": "一开始明明不是打算变成这样的",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "始めはこんなつもりじゃなかった",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めはこんなつもりじゃなかった"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "誰か信じてくれやしないか",
+            "zh-CN": "就没人愿意相信我吗",
+            "segments": [
+              {
+                "text": "誰か信じてくれやしないか",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じてくれやしないか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "一切、反証の余地はないが",
+            "zh-CN": "虽然根本没有反驳的余地",
+            "segments": [
+              {
+                "text": "一切、反証の余地はないが",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "一切",
+                    "reading": "いっさい"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "反証",
+                    "reading": "はんしょう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "余地",
+                    "reading": "よち"
+                  },
+                  {
+                    "text": "はないが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "あたかも何も知らぬ顔で",
+            "zh-CN": "却还是装出一副什么都不知道的脸",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "あたかも何も知らぬ顔で",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "あたかも"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らぬ"
+                  },
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "ここぞと薪を投げ込んで",
+            "zh-CN": "抓准时机又往里添柴",
+            "segments": [
+              {
+                "text": "ここぞと薪を投げ込んで",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ここぞと"
+                  },
+                  {
+                    "text": "薪",
+                    "reading": "たきぎ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "投",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "生活も　計画も　全部がpotatoになっていく",
+            "zh-CN": "生活也好 计划也好 全都渐渐变成potato",
+            "segments": [
+              {
+                "text": "生活も　計画も　全部がpotatoになっていく",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "も　"
+                  },
+                  {
+                    "text": "計画",
+                    "reading": "けいかく"
+                  },
+                  {
+                    "text": "も　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "がpotatoになっていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "こんがり明日が煮え切って",
+            "zh-CN": "明天被煮得焦香熟透",
+            "segments": [
+              {
+                "text": "こんがり明日が煮え切って",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんがり"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "煮",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "切",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "って"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "姿見えぬほど燃え上がって",
+            "zh-CN": "烧得连模样都看不见",
+            "segments": [
+              {
+                "text": "姿見えぬほど燃え上がって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "姿見",
+                    "reading": "すがたみ"
+                  },
+                  {
+                    "text": "えぬほど"
+                  },
+                  {
+                    "text": "燃",
+                    "reading": "も"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "将来像　成功法　全部がpotatoになっていく",
+            "zh-CN": "未来蓝图 成功方法 全都渐渐变成potato",
+            "segments": [
+              {
+                "text": "将来像　成功法　全部がpotatoになっていく",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "将来像",
+                    "reading": "しょうらいぞう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "成功法",
+                    "reading": "せいこうほう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "がpotatoになっていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "このままみんなで浸り散らかして",
+            "zh-CN": "就这样大家一起泡得一塌糊涂",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "このままみんなで浸り散らかして",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "このままみんなで"
+                  },
+                  {
+                    "text": "浸",
+                    "reading": "ひた"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "散",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": "らかして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "どろどろに未来を溶かして",
+            "zh-CN": "把未来融得黏黏糊糊",
+            "segments": [
+              {
+                "text": "どろどろに未来を溶かして",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "どろどろに"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "かして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "そんなボウルの中で憂さ晴らしだとかしようぜ",
+            "zh-CN": "就在这样的碗里 发发牢骚什么的吧",
+            "segments": [
+              {
+                "text": "そんなボウルの中で憂さ晴らしだとかしようぜ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんなボウルの"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "憂",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "さ"
+                  },
+                  {
+                    "text": "晴",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "らしだとかしようぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "そんな暮らしのままでKUSHA KUSHAになっていこうぜ",
+            "zh-CN": "就这么过下去 一起变得皱巴巴吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そんな暮らしのままでKUSHA KUSHAになっていこうぜ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "暮",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らしのままでKUSHA KUSHAになっていこうぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "もう救えない　スクラブばかりのブルペンじゃ",
+            "zh-CN": "已经没救了 牛棚里尽是些杂鱼",
+            "segments": [
+              {
+                "text": "もう救えない　スクラブばかりのブルペンじゃ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "救",
+                    "reading": "すく"
+                  },
+                  {
+                    "text": "えない　スクラブばかりのブルペンじゃ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "ちゃちな青春も　お涙も　それすらないもんな",
+            "zh-CN": "廉价的青春也好 催泪的戏码也好 连这些都没有啊",
+            "segments": [
+              {
+                "text": "ちゃちな青春も　お涙も　それすらないもんな",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちゃちな"
+                  },
+                  {
+                    "text": "青春",
+                    "reading": "せいしゅん"
+                  },
+                  {
+                    "text": "も　お"
+                  },
+                  {
+                    "text": "涙",
+                    "reading": "なみだ"
+                  },
+                  {
+                    "text": "も　それすらないもんな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "相当に笑えない　コメディのワンシーンもままならない",
+            "zh-CN": "实在笑不出来 连喜剧里的一幕都演不像样",
+            "segments": [
+              {
+                "text": "相当に笑えない　コメディのワンシーンもままならない",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "相当",
+                    "reading": "そうとう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "えない　コメディのワンシーンもままならない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "冷めたチャウダーを　ただ混ぜ合わした　さもそんな人生さ",
+            "zh-CN": "只是搅着一碗冷掉的杂烩汤 人生大概就是这样",
+            "segments": [
+              {
+                "text": "冷めたチャウダーを　ただ混ぜ合わした　さもそんな人生さ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "冷",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "めたチャウダーを　ただ"
+                  },
+                  {
+                    "text": "混",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "ぜ"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わした　さもそんな"
+                  },
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "掛け違えたボタンの身なりを",
+            "zh-CN": "扣错了纽扣的这副模样",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "掛け違えたボタンの身なりを",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "掛",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "えたボタンの"
+                  },
+                  {
+                    "text": "身",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "なりを"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "いつのいつまで見ぬ振りしようか",
+            "zh-CN": "到底还要装作没看见到什么时候",
+            "segments": [
+              {
+                "text": "いつのいつまで見ぬ振りしようか",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "いつのいつまで"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ぬ"
+                  },
+                  {
+                    "text": "振",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "りしようか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "そうかい　抗弁のしようもないな",
+            "zh-CN": "也是啊 根本无从辩解",
+            "segments": [
+              {
+                "text": "そうかい　抗弁のしようもないな",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "そうかい　"
+                  },
+                  {
+                    "text": "抗弁",
+                    "reading": "こうべん"
+                  },
+                  {
+                    "text": "のしようもないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "たまたま火事場に逃げ込んで",
+            "zh-CN": "碰巧逃进了火场",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "たまたま火事場に逃げ込んで",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "たまたま"
+                  },
+                  {
+                    "text": "火事場",
+                    "reading": "かじば"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "逃",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "善かれと油を放り込んで",
+            "zh-CN": "还自以为好心地往里泼油",
+            "segments": [
+              {
+                "text": "善かれと油を放り込んで",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "善",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "かれと"
+                  },
+                  {
+                    "text": "油",
+                    "reading": "あぶら"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "放",
+                    "reading": "ほう"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "生活も　計画も　全部がpotatoになっていく",
+            "zh-CN": "生活也好 计划也好 全都渐渐变成potato",
+            "segments": [
+              {
+                "text": "生活も　計画も　全部がpotatoになっていく",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "も　"
+                  },
+                  {
+                    "text": "計画",
+                    "reading": "けいかく"
+                  },
+                  {
+                    "text": "も　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "がpotatoになっていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "ぐつぐつ明日が泡吹いて",
+            "zh-CN": "明天咕嘟咕嘟地冒着泡",
+            "segments": [
+              {
+                "text": "ぐつぐつ明日が泡吹いて",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぐつぐつ"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "泡吹",
+                    "reading": "あわふ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "白目のままに茹で上がって",
+            "zh-CN": "翻着白眼被彻底煮熟",
+            "segments": [
+              {
+                "text": "白目のままに茹で上がって",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "白目",
+                    "reading": "しろめ"
+                  },
+                  {
+                    "text": "のままに"
+                  },
+                  {
+                    "text": "茹",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "将来像　成功法　全部がpotatoになっていく",
+            "zh-CN": "未来蓝图 成功方法 全都渐渐变成potato",
+            "segments": [
+              {
+                "text": "将来像　成功法　全部がpotatoになっていく",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "将来像",
+                    "reading": "しょうらいぞう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "成功法",
+                    "reading": "せいこうほう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "がpotatoになっていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "このままみんなで浸り散らかして",
+            "zh-CN": "就这样大家一起泡得一塌糊涂",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "このままみんなで浸り散らかして",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "このままみんなで"
+                  },
+                  {
+                    "text": "浸",
+                    "reading": "ひた"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "散",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": "らかして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "どろどろに未来を溶かして",
+            "zh-CN": "把未来融得黏黏糊糊",
+            "segments": [
+              {
+                "text": "どろどろに未来を溶かして",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "どろどろに"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "かして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "そんなボウルの中で憂さ晴らしだとかしようぜ",
+            "zh-CN": "就在这样的碗里 发发牢骚什么的吧",
+            "segments": [
+              {
+                "text": "そんなボウルの中で憂さ晴らしだとかしようぜ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんなボウルの"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "憂",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "さ"
+                  },
+                  {
+                    "text": "晴",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "らしだとかしようぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "そんな暮らしのままでKUSHA KUSHAになっていこうぜ",
+            "zh-CN": "就这么过下去 一起变得皱巴巴吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そんな暮らしのままでKUSHA KUSHAになっていこうぜ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "暮",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らしのままでKUSHA KUSHAになっていこうぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000032",
+          "full-000033"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version",
+          "SEKAI"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        },
+        {
+          "performerId": "歌唱者-26",
+          "name": "KAITO"
+        }
+      ],
+      "game": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "もう救えない　スクラブばかりのブルペンじゃ",
+            "zh-CN": "已经没救了 牛棚里尽是些杂鱼",
+            "segments": [
+              {
+                "text": "もう救えない　スクラブばかりのブルペンじゃ",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "救",
+                    "reading": "すく"
+                  },
+                  {
+                    "text": "えない　スクラブばかりのブルペンじゃ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "ちゃちな青春も　お涙も　それすらないもんな",
+            "zh-CN": "廉价的青春也好 催泪的戏码也好 连这些都没有啊",
+            "segments": [
+              {
+                "text": "ちゃちな青春も　お涙も　それすらないもんな",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちゃちな"
+                  },
+                  {
+                    "text": "青春",
+                    "reading": "せいしゅん"
+                  },
+                  {
+                    "text": "も　お"
+                  },
+                  {
+                    "text": "涙",
+                    "reading": "なみだ"
+                  },
+                  {
+                    "text": "も　それすらないもんな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "相当に笑えない　コメディのワンシーンもままならない",
+            "zh-CN": "实在笑不出来 连喜剧里的一幕都演不像样",
+            "segments": [
+              {
+                "text": "相当に笑えない　コメディのワンシーンもままならない",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "相当",
+                    "reading": "そうとう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "えない　コメディのワンシーンもままならない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "冷めたチャウダーを　ただ混ぜ合わした　さもそんな人生さ",
+            "zh-CN": "只是搅着一碗冷掉的杂烩汤 人生大概就是这样",
+            "segments": [
+              {
+                "text": "冷めたチャウダーを　ただ混ぜ合わした　さもそんな人生さ",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "冷",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "めたチャウダーを　ただ"
+                  },
+                  {
+                    "text": "混",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "ぜ"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わした　さもそんな"
+                  },
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "掛け違えたボタンの身なりを",
+            "zh-CN": "扣错了纽扣的这副模样",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "掛け違えたボタンの身なりを",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "掛",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "えたボタンの"
+                  },
+                  {
+                    "text": "身",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "なりを"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "いつのいつまで見ぬ振りしようか",
+            "zh-CN": "到底还要装作没看见到什么时候",
+            "segments": [
+              {
+                "text": "いつのいつまで見ぬ振りしようか",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "いつのいつまで"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ぬ"
+                  },
+                  {
+                    "text": "振",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "りしようか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "そうかい　抗弁のしようもないな",
+            "zh-CN": "也是啊 根本无从辩解",
+            "segments": [
+              {
+                "text": "そうかい　抗弁のしようもないな",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "そうかい　"
+                  },
+                  {
+                    "text": "抗弁",
+                    "reading": "こうべん"
+                  },
+                  {
+                    "text": "のしようもないな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "たまたま火事場に逃げ込んで",
+            "zh-CN": "碰巧逃进了火场",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "たまたま火事場に逃げ込んで",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "たまたま"
+                  },
+                  {
+                    "text": "火事場",
+                    "reading": "かじば"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "逃",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "げ"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "善かれと油を放り込んで",
+            "zh-CN": "还自以为好心地往里泼油",
+            "segments": [
+              {
+                "text": "善かれと油を放り込んで",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "善",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "かれと"
+                  },
+                  {
+                    "text": "油",
+                    "reading": "あぶら"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "放",
+                    "reading": "ほう"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "生活も　計画も　全部がpotatoになっていく",
+            "zh-CN": "生活也好 计划也好 全都渐渐变成potato",
+            "segments": [
+              {
+                "text": "生活も　計画も　全部がpotatoになっていく",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "生活",
+                    "reading": "せいかつ"
+                  },
+                  {
+                    "text": "も　"
+                  },
+                  {
+                    "text": "計画",
+                    "reading": "けいかく"
+                  },
+                  {
+                    "text": "も　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "がpotatoになっていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "ぐつぐつ明日が泡吹いて",
+            "zh-CN": "明天咕嘟咕嘟地冒着泡",
+            "segments": [
+              {
+                "text": "ぐつぐつ明日が泡吹いて",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぐつぐつ"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "泡吹",
+                    "reading": "あわふ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "白目のままに茹で上がって",
+            "zh-CN": "翻着白眼被彻底煮熟",
+            "segments": [
+              {
+                "text": "白目のままに茹で上がって",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "白目",
+                    "reading": "しろめ"
+                  },
+                  {
+                    "text": "のままに"
+                  },
+                  {
+                    "text": "茹",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "将来像　成功法　全部がpotatoになっていく",
+            "zh-CN": "未来蓝图 成功方法 全都渐渐变成potato",
+            "segments": [
+              {
+                "text": "将来像　成功法　全部がpotatoになっていく",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "将来像",
+                    "reading": "しょうらいぞう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "成功法",
+                    "reading": "せいこうほう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "がpotatoになっていく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "このままみんなで浸り散らかして",
+            "zh-CN": "就这样大家一起泡得一塌糊涂",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "このままみんなで浸り散らかして",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "このままみんなで"
+                  },
+                  {
+                    "text": "浸",
+                    "reading": "ひた"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "散",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": "らかして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "どろどろに未来を溶かして",
+            "zh-CN": "把未来融得黏黏糊糊",
+            "segments": [
+              {
+                "text": "どろどろに未来を溶かして",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どろどろに"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "かして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "そんなボウルの中で憂さ晴らしだとかしようぜ",
+            "zh-CN": "就在这样的碗里 发发牢骚什么的吧",
+            "segments": [
+              {
+                "text": "そんなボウルの中で憂さ晴らしだとかしようぜ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんなボウルの"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "憂",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "さ"
+                  },
+                  {
+                    "text": "晴",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "らしだとかしようぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "そんな暮らしのままでKUSHA KUSHAになっていこうぜ",
+            "zh-CN": "就这么过下去 一起变得皱巴巴吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そんな暮らしのままでKUSHA KUSHAになっていこうぜ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "暮",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らしのままでKUSHA KUSHAになっていこうぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Game Version",
+          "VIRTUAL SINGER"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Potato ni Natte iku",
+          "revisionId": 337162,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Potato_ni_Natte_iku?oldid=337162",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

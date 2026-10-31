@@ -1,0 +1,5565 @@
+{
+  "version": 3,
+  "musicId": 575,
+  "revision": 6,
+  "updatedAt": "2026-10-15T13:54:30Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-05",
+          "name": "花里みのり"
+        },
+        {
+          "performerId": "歌唱者-06",
+          "name": "桐谷遥"
+        },
+        {
+          "performerId": "歌唱者-07",
+          "name": "桃井愛莉"
+        },
+        {
+          "performerId": "歌唱者-08",
+          "name": "日野森雫"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "失敗してもダメじゃない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "就算失败了也绝非不行 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない、",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "夢の最新版　君にもっとインストールしてあげちゃお",
+            "zh-CN": "梦想的最新版本 让我为你安装更多吧",
+            "segments": [
+              {
+                "text": "夢の最新版　君にもっとインストールしてあげちゃお",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新版",
+                    "reading": "さいしんばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にもっとインストールしてあげちゃお"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "しんどいなって思うこと　君も何回だってあったよね ",
+            "zh-CN": "感到艰辛不易的事 你也经历过无数次对吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "しんどいなって思うこと　君も何回だってあったよね ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "しんどいなって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うこと　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何回",
+                    "reading": "なんかい"
+                  },
+                  {
+                    "text": "だってあったよね "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "一回ちょっと吐き出して休もう",
+            "zh-CN": "索性先痛快倾诉一番好好休息吧",
+            "segments": [
+              {
+                "text": "一回ちょっと吐き出して休もう",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "一回",
+                    "reading": "いっかい"
+                  },
+                  {
+                    "text": "ちょっと"
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "休",
+                    "reading": "やす"
+                  },
+                  {
+                    "text": "もう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "いっぱい君が悩む時　僕が一瞬だって照らせたら",
+            "zh-CN": "在你满心烦恼之时 哪怕唯有一瞬我也想为你照亮前方",
+            "segments": [
+              {
+                "text": "いっぱい君が悩む時　僕が一瞬だって照らせたら",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "いっぱい"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "悩",
+                    "reading": "なや"
+                  },
+                  {
+                    "text": "む"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "一瞬",
+                    "reading": "いっしゅん"
+                  },
+                  {
+                    "text": "だって"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らせたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "足りないものを渡せたらいいな",
+            "zh-CN": "若能将你欠缺的东西递交给你就好了呢",
+            "segments": [
+              {
+                "text": "足りないものを渡せたらいいな",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "りないものを"
+                  },
+                  {
+                    "text": "渡",
+                    "reading": "わた"
+                  },
+                  {
+                    "text": "せたらいいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "きっと叶うから　君と僕でどこまでも走っていこう",
+            "zh-CN": "一定能够如愿以偿 和你一起无论天涯海角都要奔跑下去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "きっと叶うから　君と僕でどこまでも走っていこう",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "うから　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "でどこまでも"
+                  },
+                  {
+                    "text": "走",
+                    "reading": "はし"
+                  },
+                  {
+                    "text": "っていこう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "きっと叶うから　嬉しい悲しいも思うたび分けっこしよう",
+            "zh-CN": "一定能够如愿以偿 喜悦与悲伤每一次都让我们一同分享吧",
+            "segments": [
+              {
+                "text": "きっと叶うから　嬉しい悲しいも思うたび分けっこしよう",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "うから　"
+                  },
+                  {
+                    "text": "嬉",
+                    "reading": "うれ"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "悲",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "しいも"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うたび"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "けっこしよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "失敗してもダメじゃない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "就算失败了也绝非不行 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない、",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "夢の最新版　君にもっとインストールしてあげちゃお",
+            "zh-CN": "梦想的最新版本 让我为你安装更多吧",
+            "segments": [
+              {
+                "text": "夢の最新版　君にもっとインストールしてあげちゃお",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新版",
+                    "reading": "さいしんばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にもっとインストールしてあげちゃお"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "鳴らせFUN!!　まだワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 还能再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　まだワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　まだワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "リスタートも悪くはない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "重新启程其实也挺不错的不是吗 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "リスタートも悪くはない、",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "リスタートも"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "くはない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "ゼロになったって　間違ったって　一生君の味方だよ",
+            "zh-CN": "哪怕归零 哪怕犯错 一生都会站在你这边哦",
+            "segments": [
+              {
+                "text": "ゼロになったって　間違ったって　一生君の味方だよ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゼロになったって　"
+                  },
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "ったって　"
+                  },
+                  {
+                    "text": "一生君",
+                    "reading": "いっしょうきみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "だよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "君ならできるはず　そう思わせてくれるとこ大好き",
+            "zh-CN": "你一定能做到的 总是让我这般坚信的你我最喜欢了",
+            "segments": [
+              {
+                "text": "君ならできるはず　そう思わせてくれるとこ大好き",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ならできるはず　そう"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "わせてくれるとこ"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "君だけの魔法が　ありえないほど大好き",
+            "zh-CN": "只属于你的奇妙魔法 喜欢到无法自拔",
+            "segments": [
+              {
+                "text": "君だけの魔法が　ありえないほど大好き",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だけの"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "が　ありえないほど"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "失敗してもダメじゃない",
+            "zh-CN": "就算失败了也绝非不行",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "しんどいなって思うこと　僕も何回だってあったんだ",
+            "zh-CN": "感到艰辛不易的事 我也经历过很多很多次",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "しんどいなって思うこと　僕も何回だってあったんだ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "しんどいなって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うこと　"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何回",
+                    "reading": "なんかい"
+                  },
+                  {
+                    "text": "だってあったんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "「大丈夫」をくれたのは君だ",
+            "zh-CN": "对我说出“没关系”的那个人正是你",
+            "segments": [
+              {
+                "text": "「大丈夫」をくれたのは君だ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "「"
+                  },
+                  {
+                    "text": "大丈夫",
+                    "reading": "だいじょうぶ"
+                  },
+                  {
+                    "text": "」をくれたのは"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "ここまでやってこれたのは　君がくれた言葉があったからだって思うから",
+            "zh-CN": "能一路坚持走到今天 正是因为有你赠予我的那些话语",
+            "segments": [
+              {
+                "text": "ここまでやってこれたのは　君がくれた言葉があったからだって思うから",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "ここまでやってこれたのは　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "がくれた"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "があったからだって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "だから寄り添いたい　次は僕の番だ",
+            "zh-CN": "所以我想依偎在你身旁 这次该轮到我了",
+            "segments": [
+              {
+                "text": "だから寄り添いたい　次は僕の番だ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "寄",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "添",
+                    "reading": "そ"
+                  },
+                  {
+                    "text": "いたい　"
+                  },
+                  {
+                    "text": "次",
+                    "reading": "つぎ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "番",
+                    "reading": "ばん"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "やっぱ叶う時　君がどんな顔するのか見張っていたい",
+            "zh-CN": "果然在梦想成真时 好想盯着看你究竟会露出怎样的表情",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "やっぱ叶う時　君がどんな顔するのか見張っていたい",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "やっぱ"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "がどんな"
+                  },
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "するのか"
+                  },
+                  {
+                    "text": "見張",
+                    "reading": "みは"
+                  },
+                  {
+                    "text": "っていたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "やっぱ叶う時　君の隣　泣きながら笑っていたい",
+            "zh-CN": "果然在梦想成真时 好想在你的身旁 一边流泪一边欢笑",
+            "segments": [
+              {
+                "text": "やっぱ叶う時　君の隣　泣きながら笑っていたい",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "やっぱ"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "隣",
+                    "reading": "となり"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "きながら"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っていたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "笑っていたい",
+            "zh-CN": "想要一同欢笑",
+            "segments": [
+              {
+                "text": "笑っていたい",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っていたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "失敗から始めるよ",
+            "zh-CN": "从失败重新启程吧",
+            "segments": [
+              {
+                "text": "失敗から始めるよ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "夢の最新版　君ときっと最高のエンディングへ",
+            "zh-CN": "梦想的最新版本 一定能与你一同走向最棒的终章",
+            "segments": [
+              {
+                "text": "夢の最新版　君ときっと最高のエンディングへ",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新",
+                    "reading": "さいしん"
+                  },
+                  {
+                    "text": "版",
+                    "reading": "ばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ときっと"
+                  },
+                  {
+                    "text": "最高",
+                    "reading": "さいこう"
+                  },
+                  {
+                    "text": "のエンディングへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "鳴らせFUN!!　まだワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 还能再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　まだワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　まだワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "リスタート (Yeah!) も悪くはない、 じゃじゃじゃじゃん？ ",
+            "zh-CN": "重新启程 (Yeah!) 其实也挺不错的不是吗 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "リスタート ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "リスタート "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!) ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!) "
+                  }
+                ]
+              },
+              {
+                "text": "も悪くはない、 ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "くはない、 "
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "ゼロになったって　間違ったって　一生君の味方だよ",
+            "zh-CN": "哪怕归零 哪怕犯错 一生都会站在你这边哦",
+            "segments": [
+              {
+                "text": "ゼロになったって　間違ったって　一生君の味方だよ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゼロになったって　"
+                  },
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "ったって　"
+                  },
+                  {
+                    "text": "一生君",
+                    "reading": "いっしょうきみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "だよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "君ならできるはず　そう思わせてくれるとこ大好き",
+            "zh-CN": "你一定能做到的 总是让我这般坚信的你我最喜欢了",
+            "segments": [
+              {
+                "text": "君ならできるはず　そう思わせてくれるとこ大好き",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ならできるはず　そう"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "わせてくれるとこ"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "君だけの魔法が　ありえないほど大好き",
+            "zh-CN": "只属于你的奇妙魔法 喜欢到无法自拔",
+            "segments": [
+              {
+                "text": "君だけの魔法が　ありえないほど大好き",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だけの"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "が　ありえないほど"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "うー、はい！はい！はい！",
+            "zh-CN": "呜—— 好！好！好！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "うー、はい！はい！はい！",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "うー、はい！はい！はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "僕たちは弱いです！ 1→2→3で落ち込みます！",
+            "zh-CN": "我们确实很软弱！数到 1→2→3 就会沮丧失落！",
+            "segments": [
+              {
+                "text": "僕たちは弱いです！ 1→2→3で落ち込みます！",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "たちは"
+                  },
+                  {
+                    "text": "弱",
+                    "reading": "よわ"
+                  },
+                  {
+                    "text": "いです！ 1→2→3で"
+                  },
+                  {
+                    "text": "落",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "みます！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "でも何度だって目覚める理由は君だ君だ、君だ！",
+            "zh-CN": "但无论多少次都能重新苏醒的理由 正是你正是你，正是你！",
+            "segments": [
+              {
+                "text": "でも何度だって目覚める理由は君",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "でも"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "度",
+                    "reading": "ど"
+                  },
+                  {
+                    "text": "だって"
+                  },
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "める"
+                  },
+                  {
+                    "text": "理由",
+                    "reading": "りゆう"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  }
+                ]
+              },
+              {
+                "text": "だ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "だ"
+                  }
+                ]
+              },
+              {
+                "text": "君だ、",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だ、"
+                  }
+                ]
+              },
+              {
+                "text": "君だ！",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "うー、はい！はい！はい！",
+            "zh-CN": "呜—— 好！好！好！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "うー、はい！はい！はい！",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "うー、はい！はい！はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "僕たちは強いです！散々だって夢を見ます！",
+            "zh-CN": "我们其实很坚强！纵经坎坷磨难也要怀抱梦想！",
+            "segments": [
+              {
+                "text": "僕たちは強いです！散々だって夢を見ます！",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "たちは"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "いです！"
+                  },
+                  {
+                    "text": "散々",
+                    "reading": "さんざん"
+                  },
+                  {
+                    "text": "だって"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ます！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "ずっと支え合えちゃうこと　いつもほんとにありがとう",
+            "zh-CN": "能够一直互相扶持 一直以来真的非常感谢你",
+            "segments": [
+              {
+                "text": "ずっと支え合えちゃうこと　いつもほんとにありがとう",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "支",
+                    "reading": "ささ"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "えちゃうこと　いつもほんとにありがとう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "失敗してもダメじゃない",
+            "zh-CN": "就算失败了也绝非不行",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "失敗してもダメじゃない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "就算失败了也绝非不行 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない、",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "夢の最新版　君にもっとインストールしてあげちゃお",
+            "zh-CN": "梦想的最新版本 让我为你安装更多吧",
+            "segments": [
+              {
+                "text": "夢の最新版　君にもっとインストールしてあげちゃお",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新版",
+                    "reading": "さいしんばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にもっとインストールしてあげちゃお"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "しんどいなって思うこと　君も何回だってあったよね ",
+            "zh-CN": "感到艰辛不易的事 你也经历过无数次对吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "しんどいなって思うこと　君も何回だってあったよね ",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "しんどいなって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うこと　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何回",
+                    "reading": "なんかい"
+                  },
+                  {
+                    "text": "だってあったよね "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "一回ちょっと吐き出して休もう",
+            "zh-CN": "索性先痛快倾诉一番好好休息吧",
+            "segments": [
+              {
+                "text": "一回ちょっと吐き出して休もう",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "一回",
+                    "reading": "いっかい"
+                  },
+                  {
+                    "text": "ちょっと"
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "休",
+                    "reading": "やす"
+                  },
+                  {
+                    "text": "もう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "いっぱい君が悩む時　僕が一瞬だって照らせたら",
+            "zh-CN": "在你满心烦恼之时 哪怕唯有一瞬我也想为你照亮前方",
+            "segments": [
+              {
+                "text": "いっぱい君が悩む時　僕が一瞬だって照らせたら",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "いっぱい"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "悩",
+                    "reading": "なや"
+                  },
+                  {
+                    "text": "む"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "一瞬",
+                    "reading": "いっしゅん"
+                  },
+                  {
+                    "text": "だって"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らせたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "足りないものを渡せたらいいな",
+            "zh-CN": "若能将你欠缺的东西递交给你就好了呢",
+            "segments": [
+              {
+                "text": "足りないものを渡せたらいいな",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "りないものを"
+                  },
+                  {
+                    "text": "渡",
+                    "reading": "わた"
+                  },
+                  {
+                    "text": "せたらいいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "きっと叶うから　君と僕でどこまでも走っていこう",
+            "zh-CN": "一定能够如愿以偿 和你一起无论天涯海角都要奔跑下去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "きっと叶うから　君と僕でどこまでも走っていこう",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "うから　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "でどこまでも"
+                  },
+                  {
+                    "text": "走",
+                    "reading": "はし"
+                  },
+                  {
+                    "text": "っていこう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "きっと叶うから　嬉しい悲しいも思うたび分けっこしよう",
+            "zh-CN": "一定能够如愿以偿 喜悦与悲伤每一次都让我们一同分享吧",
+            "segments": [
+              {
+                "text": "きっと叶うから　嬉しい悲しいも思うたび分けっこしよう",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "うから　"
+                  },
+                  {
+                    "text": "嬉",
+                    "reading": "うれ"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "悲",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "しいも"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うたび"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "けっこしよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "失敗してもダメじゃない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "就算失败了也绝非不行 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない、",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "夢の最新版　君にもっとインストールしてあげちゃお",
+            "zh-CN": "梦想的最新版本 让我为你安装更多吧",
+            "segments": [
+              {
+                "text": "夢の最新版　君にもっとインストールしてあげちゃお",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新版",
+                    "reading": "さいしんばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にもっとインストールしてあげちゃお"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "鳴らせFUN!!　まだワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 还能再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　まだワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　まだワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "リスタートも悪くはない、じゃじゃん？ ",
+            "zh-CN": "重新启程其实也不坏 锵锵？",
+            "segments": [
+              {
+                "text": "リスタートも悪くはない、",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "リスタートも"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "くはない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "ゼロになったって　間違ったって　一生君の味方だよ",
+            "zh-CN": "哪怕归零 哪怕犯错 一生都会站在你这边哦",
+            "segments": [
+              {
+                "text": "ゼロになったって　間違ったって　一生君の味方だよ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゼロになったって　"
+                  },
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "ったって　"
+                  },
+                  {
+                    "text": "一生君",
+                    "reading": "いっしょうきみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "だよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "君ならできるはず　そう思わせてくれるとこ大好き",
+            "zh-CN": "你一定能做到的 总是让我这般坚信的你我最喜欢了",
+            "segments": [
+              {
+                "text": "君ならできるはず　そう思わせてくれるとこ大好き",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ならできるはず　そう"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "わせてくれるとこ"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "君だけの魔法が　ありえないほど大好き",
+            "zh-CN": "只属于你的奇妙魔法 喜欢到无法自拔",
+            "segments": [
+              {
+                "text": "君だけの魔法が　ありえないほど大好き",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だけの"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "が　ありえないほど"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "失敗してもダメじゃない",
+            "zh-CN": "就算失败了也绝非不行",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "失敗してもダメじゃない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "就算失败了也绝非不行 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない、",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "夢の最新版　君にもっとインストールしてあげちゃお",
+            "zh-CN": "梦想的最新版本 让我为你安装更多吧",
+            "segments": [
+              {
+                "text": "夢の最新版　君にもっとインストールしてあげちゃお",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新版",
+                    "reading": "さいしんばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にもっとインストールしてあげちゃお"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "しんどいなって思うこと　君も何回だってあったよね ",
+            "zh-CN": "感到艰辛不易的事 你也经历过无数次对吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "しんどいなって思うこと　君も何回だってあったよね ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "しんどいなって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うこと　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何回",
+                    "reading": "なんかい"
+                  },
+                  {
+                    "text": "だってあったよね "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "一回ちょっと吐き出して休もう",
+            "zh-CN": "索性先痛快倾诉一番好好休息吧",
+            "segments": [
+              {
+                "text": "一回ちょっと吐き出して休もう",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "一回",
+                    "reading": "いっかい"
+                  },
+                  {
+                    "text": "ちょっと"
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "休",
+                    "reading": "やす"
+                  },
+                  {
+                    "text": "もう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "いっぱい君が悩む時　僕が一瞬だって照らせたら",
+            "zh-CN": "在你满心烦恼之时 哪怕唯有一瞬我也想为你照亮前方",
+            "segments": [
+              {
+                "text": "いっぱい君が悩む時　僕が一瞬だって照らせたら",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "いっぱい"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "悩",
+                    "reading": "なや"
+                  },
+                  {
+                    "text": "む"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "一瞬",
+                    "reading": "いっしゅん"
+                  },
+                  {
+                    "text": "だって"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らせたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "足りないものを渡せたらいいな",
+            "zh-CN": "若能将你欠缺的东西递交给你就好了呢",
+            "segments": [
+              {
+                "text": "足りないものを渡せたらいいな",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "りないものを"
+                  },
+                  {
+                    "text": "渡",
+                    "reading": "わた"
+                  },
+                  {
+                    "text": "せたらいいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "きっと叶うから　君と僕でどこまでも走っていこう",
+            "zh-CN": "一定能够如愿以偿 和你一起无论天涯海角都要奔跑下去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "きっと叶うから　君と僕でどこまでも走っていこう",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "うから　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "でどこまでも"
+                  },
+                  {
+                    "text": "走",
+                    "reading": "はし"
+                  },
+                  {
+                    "text": "っていこう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "きっと叶うから　嬉しい悲しいも思うたび分けっこしよう",
+            "zh-CN": "一定能够如愿以偿 喜悦与悲伤每一次都让我们一同分享吧",
+            "segments": [
+              {
+                "text": "きっと叶うから　嬉しい悲しいも思うたび分けっこしよう",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "うから　"
+                  },
+                  {
+                    "text": "嬉",
+                    "reading": "うれ"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "悲",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "しいも"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うたび"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "けっこしよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "失敗してもダメじゃない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "就算失败了也绝非不行 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない、",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "夢の最新版　君にもっとインストールしてあげちゃお",
+            "zh-CN": "梦想的最新版本 让我为你安装更多吧",
+            "segments": [
+              {
+                "text": "夢の最新版　君にもっとインストールしてあげちゃお",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新版",
+                    "reading": "さいしんばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にもっとインストールしてあげちゃお"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "鳴らせFUN!!　まだワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 还能再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　まだワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　まだワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "リスタートも悪くはない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "重新启程其实也挺不错的不是吗 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "リスタートも悪くはない、",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "リスタートも"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "くはない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "ゼロになったって　間違ったって　一生君の味方だよ",
+            "zh-CN": "哪怕归零 哪怕犯错 一生都会站在你这边哦",
+            "segments": [
+              {
+                "text": "ゼロになったって　間違ったって　一生君の味方だよ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゼロになったって　"
+                  },
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "ったって　"
+                  },
+                  {
+                    "text": "一生君",
+                    "reading": "いっしょうきみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "だよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "君ならできるはず　そう思わせてくれるとこ大好き",
+            "zh-CN": "你一定能做到的 总是让我这般坚信的你我最喜欢了",
+            "segments": [
+              {
+                "text": "君ならできるはず　そう思わせてくれるとこ大好き",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ならできるはず　そう"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "わせてくれるとこ"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "君だけの魔法が　ありえないほど大好き",
+            "zh-CN": "只属于你的奇妙魔法 喜欢到无法自拔",
+            "segments": [
+              {
+                "text": "君だけの魔法が　ありえないほど大好き",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だけの"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "が　ありえないほど"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "失敗してもダメじゃない",
+            "zh-CN": "就算失败了也绝非不行",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "しんどいなって思うこと　僕も何回だってあったんだ",
+            "zh-CN": "感到艰辛不易的事 我也经历过很多很多次",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "しんどいなって思うこと　僕も何回だってあったんだ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "しんどいなって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うこと　"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何回",
+                    "reading": "なんかい"
+                  },
+                  {
+                    "text": "だってあったんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "「大丈夫」をくれたのは君だ",
+            "zh-CN": "对我说出“没关系”的那个人正是你",
+            "segments": [
+              {
+                "text": "「大丈夫」をくれたのは君だ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "「"
+                  },
+                  {
+                    "text": "大丈夫",
+                    "reading": "だいじょうぶ"
+                  },
+                  {
+                    "text": "」をくれたのは"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "ここまでやってこれたのは　君がくれた言葉があったからだって思うから",
+            "zh-CN": "能一路坚持走到今天 正是因为有你赠予我的那些话语",
+            "segments": [
+              {
+                "text": "ここまでやってこれたのは　君がくれた言葉があったからだって思うから",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ここまでやってこれたのは　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "がくれた"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  },
+                  {
+                    "text": "があったからだって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "だから寄り添いたい　次は僕の番だ",
+            "zh-CN": "所以我想依偎在你身旁 这次该轮到我了",
+            "segments": [
+              {
+                "text": "だから寄り添いたい　次は僕の番だ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "寄",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "添",
+                    "reading": "そ"
+                  },
+                  {
+                    "text": "いたい　"
+                  },
+                  {
+                    "text": "次",
+                    "reading": "つぎ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "番",
+                    "reading": "ばん"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "やっぱ叶う時　君がどんな顔するのか見張っていたい",
+            "zh-CN": "果然在梦想成真时 好想盯着看你究竟会露出怎样的表情",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "やっぱ叶う時　君がどんな顔するのか見張っていたい",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "やっぱ"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "がどんな"
+                  },
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "するのか"
+                  },
+                  {
+                    "text": "見張",
+                    "reading": "みは"
+                  },
+                  {
+                    "text": "っていたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "やっぱ叶う時　君の隣　泣きながら笑っていたい",
+            "zh-CN": "果然在梦想成真时 好想在你的身旁 一边流泪一边欢笑",
+            "segments": [
+              {
+                "text": "やっぱ叶う時　君の隣　泣きながら笑っていたい",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "やっぱ"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "隣",
+                    "reading": "となり"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "きながら"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っていたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "笑っていたい",
+            "zh-CN": "想要一同欢笑",
+            "segments": [
+              {
+                "text": "笑っていたい",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "っていたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "失敗から始めるよ",
+            "zh-CN": "从失败重新启程吧",
+            "segments": [
+              {
+                "text": "失敗から始めるよ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "夢の最新版　君ときっと最高のエンディングへ",
+            "zh-CN": "梦想的最新版本 一定能与你一同走向最棒的终章",
+            "segments": [
+              {
+                "text": "夢の最新版　君ときっと最高のエンディングへ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新",
+                    "reading": "さいしん"
+                  },
+                  {
+                    "text": "版",
+                    "reading": "ばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ときっと"
+                  },
+                  {
+                    "text": "最高",
+                    "reading": "さいこう"
+                  },
+                  {
+                    "text": "のエンディングへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "鳴らせFUN!!　まだワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 还能再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　まだワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　まだワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "リスタート (Yeah!) も悪くはない、 じゃじゃじゃじゃん？ ",
+            "zh-CN": "重新启程 (Yeah!) 其实也挺不错的不是吗 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "リスタート ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "リスタート "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!) ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!) "
+                  }
+                ]
+              },
+              {
+                "text": "も悪くはない、 ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "くはない、 "
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "ゼロになったって　間違ったって　一生君の味方だよ",
+            "zh-CN": "哪怕归零 哪怕犯错 一生都会站在你这边哦",
+            "segments": [
+              {
+                "text": "ゼロになったって　間違ったって　一生君の味方だよ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゼロになったって　"
+                  },
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "ったって　"
+                  },
+                  {
+                    "text": "一生君",
+                    "reading": "いっしょうきみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "だよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "君ならできるはず　そう思わせてくれるとこ大好き",
+            "zh-CN": "你一定能做到的 总是让我这般坚信的你我最喜欢了",
+            "segments": [
+              {
+                "text": "君ならできるはず　そう思わせてくれるとこ大好き",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ならできるはず　そう"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "わせてくれるとこ"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "君だけの魔法が　ありえないほど大好き",
+            "zh-CN": "只属于你的奇妙魔法 喜欢到无法自拔",
+            "segments": [
+              {
+                "text": "君だけの魔法が　ありえないほど大好き",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だけの"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "が　ありえないほど"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "うー、はい！はい！はい！",
+            "zh-CN": "呜—— 好！好！好！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "うー、はい！はい！はい！",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "うー、はい！はい！はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "僕たちは弱いです！ 1→2→3で落ち込みます！",
+            "zh-CN": "我们确实很软弱！数到 1→2→3 就会沮丧失落！",
+            "segments": [
+              {
+                "text": "僕たちは弱いです！ 1→2→3で落ち込みます！",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "たちは"
+                  },
+                  {
+                    "text": "弱",
+                    "reading": "よわ"
+                  },
+                  {
+                    "text": "いです！ 1→2→3で"
+                  },
+                  {
+                    "text": "落",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "込",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "みます！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "でも何度だって目覚める理由は君だ君だ、君だ！",
+            "zh-CN": "但无论多少次都能重新苏醒的理由 正是你正是你，正是你！",
+            "segments": [
+              {
+                "text": "でも何度だって目覚める理由は君",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "でも"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "度",
+                    "reading": "ど"
+                  },
+                  {
+                    "text": "だって"
+                  },
+                  {
+                    "text": "目覚",
+                    "reading": "めざ"
+                  },
+                  {
+                    "text": "める"
+                  },
+                  {
+                    "text": "理由",
+                    "reading": "りゆう"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  }
+                ]
+              },
+              {
+                "text": "だ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "だ"
+                  }
+                ]
+              },
+              {
+                "text": "君だ、",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だ、"
+                  }
+                ]
+              },
+              {
+                "text": "君だ！",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "うー、はい！はい！はい！",
+            "zh-CN": "呜—— 好！好！好！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "うー、はい！はい！はい！",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "うー、はい！はい！はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "僕たちは強いです！散々だって夢を見ます！",
+            "zh-CN": "我们其实很坚强！纵经坎坷磨难也要怀抱梦想！",
+            "segments": [
+              {
+                "text": "僕たちは強いです！散々だって夢を見ます！",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "たちは"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "いです！"
+                  },
+                  {
+                    "text": "散々",
+                    "reading": "さんざん"
+                  },
+                  {
+                    "text": "だって"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ます！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "ずっと支え合えちゃうこと　いつもほんとにありがとう",
+            "zh-CN": "能够一直互相扶持 一直以来真的非常感谢你",
+            "segments": [
+              {
+                "text": "ずっと支え合えちゃうこと　いつもほんとにありがとう",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずっと"
+                  },
+                  {
+                    "text": "支",
+                    "reading": "ささ"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "えちゃうこと　いつもほんとにありがとう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "失敗してもダメじゃない",
+            "zh-CN": "就算失败了也绝非不行",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "失敗してもダメじゃない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "就算失败了也绝非不行 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない、",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "夢の最新版　君にもっとインストールしてあげちゃお",
+            "zh-CN": "梦想的最新版本 让我为你安装更多吧",
+            "segments": [
+              {
+                "text": "夢の最新版　君にもっとインストールしてあげちゃお",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新版",
+                    "reading": "さいしんばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にもっとインストールしてあげちゃお"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "しんどいなって思うこと　君も何回だってあったよね ",
+            "zh-CN": "感到艰辛不易的事 你也经历过无数次对吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "しんどいなって思うこと　君も何回だってあったよね ",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "しんどいなって"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うこと　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "何回",
+                    "reading": "なんかい"
+                  },
+                  {
+                    "text": "だってあったよね "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "一回ちょっと吐き出して休もう",
+            "zh-CN": "索性先痛快倾诉一番好好休息吧",
+            "segments": [
+              {
+                "text": "一回ちょっと吐き出して休もう",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "一回",
+                    "reading": "いっかい"
+                  },
+                  {
+                    "text": "ちょっと"
+                  },
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "休",
+                    "reading": "やす"
+                  },
+                  {
+                    "text": "もう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "いっぱい君が悩む時　僕が一瞬だって照らせたら",
+            "zh-CN": "在你满心烦恼之时 哪怕唯有一瞬我也想为你照亮前方",
+            "segments": [
+              {
+                "text": "いっぱい君が悩む時　僕が一瞬だって照らせたら",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "いっぱい"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "悩",
+                    "reading": "なや"
+                  },
+                  {
+                    "text": "む"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "一瞬",
+                    "reading": "いっしゅん"
+                  },
+                  {
+                    "text": "だって"
+                  },
+                  {
+                    "text": "照",
+                    "reading": "て"
+                  },
+                  {
+                    "text": "らせたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "足りないものを渡せたらいいな",
+            "zh-CN": "若能将你欠缺的东西递交给你就好了呢",
+            "segments": [
+              {
+                "text": "足りないものを渡せたらいいな",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "足",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "りないものを"
+                  },
+                  {
+                    "text": "渡",
+                    "reading": "わた"
+                  },
+                  {
+                    "text": "せたらいいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "きっと叶うから　君と僕でどこまでも走っていこう",
+            "zh-CN": "一定能够如愿以偿 和你一起无论天涯海角都要奔跑下去",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "きっと叶うから　君と僕でどこまでも走っていこう",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "うから　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "でどこまでも"
+                  },
+                  {
+                    "text": "走",
+                    "reading": "はし"
+                  },
+                  {
+                    "text": "っていこう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "きっと叶うから　嬉しい悲しいも思うたび分けっこしよう",
+            "zh-CN": "一定能够如愿以偿 喜悦与悲伤每一次都让我们一同分享吧",
+            "segments": [
+              {
+                "text": "きっと叶うから　嬉しい悲しいも思うたび分けっこしよう",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "叶",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "うから　"
+                  },
+                  {
+                    "text": "嬉",
+                    "reading": "うれ"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "悲",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "しいも"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "うたび"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "けっこしよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "失敗してもダメじゃない、じゃじゃじゃじゃん？ ",
+            "zh-CN": "就算失败了也绝非不行 锵锵锵锵？",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない、",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃじゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃじゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "夢の最新版　君にもっとインストールしてあげちゃお",
+            "zh-CN": "梦想的最新版本 让我为你安装更多吧",
+            "segments": [
+              {
+                "text": "夢の最新版　君にもっとインストールしてあげちゃお",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "最新版",
+                    "reading": "さいしんばん"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にもっとインストールしてあげちゃお"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "鳴らせFUN!!　まだワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 还能再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　まだワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　まだワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "リスタートも悪くはない、じゃじゃん？ ",
+            "zh-CN": "重新启程其实也不坏 锵锵？",
+            "segments": [
+              {
+                "text": "リスタートも悪くはない、",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "リスタートも"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "わる"
+                  },
+                  {
+                    "text": "くはない、"
+                  }
+                ]
+              },
+              {
+                "text": "じゃじゃん？ ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "じゃじゃん？ "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "ゼロになったって　間違ったって　一生君の味方だよ",
+            "zh-CN": "哪怕归零 哪怕犯错 一生都会站在你这边哦",
+            "segments": [
+              {
+                "text": "ゼロになったって　間違ったって　一生君の味方だよ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゼロになったって　"
+                  },
+                  {
+                    "text": "間違",
+                    "reading": "まちが"
+                  },
+                  {
+                    "text": "ったって　"
+                  },
+                  {
+                    "text": "一生君",
+                    "reading": "いっしょうきみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "だよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "君ならできるはず　そう思わせてくれるとこ大好き",
+            "zh-CN": "你一定能做到的 总是让我这般坚信的你我最喜欢了",
+            "segments": [
+              {
+                "text": "君ならできるはず　そう思わせてくれるとこ大好き",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ならできるはず　そう"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "わせてくれるとこ"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "Say yeah!! (Yeah!)",
+            "zh-CN": "Say yeah!! (Yeah!)",
+            "segments": [
+              {
+                "text": "Say yeah!! ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "Say yeah!! "
+                  }
+                ]
+              },
+              {
+                "text": "(Yeah!)",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Yeah!)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "君だけの魔法が　ありえないほど大好き",
+            "zh-CN": "只属于你的奇妙魔法 喜欢到无法自拔",
+            "segments": [
+              {
+                "text": "君だけの魔法が　ありえないほど大好き",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "だけの"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "が　ありえないほど"
+                  },
+                  {
+                    "text": "大好",
+                    "reading": "だいす"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "鳴らせFUN!!　ほらワンモアジャンプ",
+            "zh-CN": "奏响FUN!! 瞧啊再一次跃起",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "鳴らせFUN!!　ほらワンモアジャンプ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせFUN!!　ほらワンモアジャンプ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "失敗してもダメじゃない",
+            "zh-CN": "就算失败了也绝非不行",
+            "segments": [
+              {
+                "text": "失敗してもダメじゃない",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-24",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "失敗",
+                    "reading": "しっぱい"
+                  },
+                  {
+                    "text": "してもダメじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "VIRTUAL SINGER Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/full_text",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_ruby",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "FUN!!",
+          "revisionId": 328004,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/FUN%21%21?oldid=328004",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

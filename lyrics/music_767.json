@@ -1,0 +1,2480 @@
+{
+  "version": 3,
+  "musicId": 767,
+  "revision": 4,
+  "updatedAt": "2026-10-14T17:09:28Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-09",
+          "name": "小豆沢こはね"
+        },
+        {
+          "performerId": "歌唱者-10",
+          "name": "白石杏"
+        },
+        {
+          "performerId": "歌唱者-11",
+          "name": "東雲彰人"
+        },
+        {
+          "performerId": "歌唱者-12",
+          "name": "青柳冬弥"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "プレイバック　俯いてどうした",
+            "zh-CN": "回放着痛苦　何必垂头丧气",
+            "segments": [
+              {
+                "text": "プレイバック　俯いてどうした",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "プレイバック　"
+                  },
+                  {
+                    "text": "俯",
+                    "reading": "うつむ"
+                  },
+                  {
+                    "text": "いてどうした"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "この先の明日　瞬きの合間　儚き",
+            "zh-CN": "未来的明日　转瞬之间便如泡影消散",
+            "segments": [
+              {
+                "text": "この先の明日　瞬きの合間　儚き",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "瞬",
+                    "reading": "まばた"
+                  },
+                  {
+                    "text": "きの"
+                  },
+                  {
+                    "text": "合間",
+                    "reading": "あいま"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "儚",
+                    "reading": "はかな"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "メイクアップ　まだ見えてますか",
+            "zh-CN": "粉饰着伪装　眼前可还能看清？",
+            "segments": [
+              {
+                "text": "メイクアップ　まだ見えてますか",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "メイクアップ　まだ"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えてますか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "底知れぬ谷が　その先の　夢を見てる",
+            "zh-CN": "深不见底的绝谷　正痴望着远方的虚梦",
+            "segments": [
+              {
+                "text": "底知れぬ谷が　その先の　夢を見てる",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "底",
+                    "reading": "そこ"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "れぬ"
+                  },
+                  {
+                    "text": "谷",
+                    "reading": "たに"
+                  },
+                  {
+                    "text": "が　その"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "てる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "目の前にほら　広がる世界と",
+            "zh-CN": "你看眼前　分明展现着广阔世界",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目の前にほら　広がる世界と",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "にほら　"
+                  },
+                  {
+                    "text": "広",
+                    "reading": "ひろ"
+                  },
+                  {
+                    "text": "がる"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "と"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "意味嫌うその　悪を裁く時",
+            "zh-CN": "可一旦要去清算　那令人避之不及的罪恶",
+            "segments": [
+              {
+                "text": "意味嫌うその　悪を裁く時",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "意味",
+                    "reading": "いみ"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "うその　"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "あく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "裁",
+                    "reading": "さば"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "背を向けた性　蔓延る世の常",
+            "zh-CN": "转身逃避的天性　便化作世间泛滥的常态",
+            "segments": [
+              {
+                "text": "背を向けた性　蔓延る世の常",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "背",
+                    "reading": "せ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "けた"
+                  },
+                  {
+                    "text": "性",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "蔓延",
+                    "reading": "はびこ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "常",
+                    "reading": "つね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "根を疑わず　　そのまま",
+            "zh-CN": "从不去追究根由　就这般任其肆虐",
+            "segments": [
+              {
+                "text": "根を疑わず　　そのまま",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "根",
+                    "reading": "ね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "疑",
+                    "reading": "うたが"
+                  },
+                  {
+                    "text": "わず　　そのまま"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "もう私は一人きりじゃないわ",
+            "zh-CN": "如今的我已不再是孤身一人",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "もう私は一人きりじゃないわ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "きりじゃないわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "そうここから続く道はないわ",
+            "zh-CN": "没错　从这里起便再无正道可循",
+            "segments": [
+              {
+                "text": "そうここから続く道はないわ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "そうここから"
+                  },
+                  {
+                    "text": "続",
+                    "reading": "つづ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "道",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "はないわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "故に遠くに遠くに　耽美に無様に　芽生えたら",
+            "zh-CN": "所以若是在更遥远之处　唯美又狼狈地萌生欲念",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "故に遠くに遠くに　耽美に無様に　芽生えたら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "故",
+                    "reading": "ゆえ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに　"
+                  },
+                  {
+                    "text": "耽美",
+                    "reading": "たんび"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "無様",
+                    "reading": "ぶざま"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "芽生",
+                    "reading": "めば"
+                  },
+                  {
+                    "text": "えたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "明日にgo　give me all　give me all　さらば人よ",
+            "zh-CN": "那就奔向明天 go give me all give me all 永别了人类之身啊",
+            "segments": [
+              {
+                "text": "明日にgo　give me all　give me all　さらば人よ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "明日",
+                    "reading": "あす"
+                  },
+                  {
+                    "text": "にgo　give me all　give me all　さらば"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "よ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "ダイスロールは一度だけ　Show Time　So Fly",
+            "zh-CN": "命运掷骰仅此一回　Show time so fly",
+            "segments": [
+              {
+                "text": "ダイスロールは一度だけ　Show Time　So Fly",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ダイスロールは"
+                  },
+                  {
+                    "text": "一度",
+                    "reading": "いちど"
+                  },
+                  {
+                    "text": "だけ　Show Time　So Fly"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "発せよいっそ馬鹿どもraider",
+            "zh-CN": "索性攻过来吧　蠢货侵入者们",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "発せよいっそ馬鹿どもraider",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "せよいっそ"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "どもraider"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "最後はどんな顔してるメイクアップ",
+            "zh-CN": "粉饰着死妆　收场时又会是怎样一副嘴脸",
+            "segments": [
+              {
+                "text": "最後はどんな顔してるメイクアップ",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "はどんな"
+                  },
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "してるメイクアップ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "発せよいっそ馬鹿どもraider",
+            "zh-CN": "索性攻过来吧　蠢货侵入者们",
+            "segments": [
+              {
+                "text": "発せよいっそ馬鹿どもraider",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "せよいっそ"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "どもraider"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "最後はきっと忘却のプレイバック",
+            "zh-CN": "终局必然不过是　归于遗忘的走马回放",
+            "segments": [
+              {
+                "text": "最後はきっと忘却のプレイバック",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "はきっと"
+                  },
+                  {
+                    "text": "忘却",
+                    "reading": "ぼうきゃく"
+                  },
+                  {
+                    "text": "のプレイバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "魅せる圧倒的な理想型",
+            "zh-CN": "展现出令人沉沦的绝对理想姿态",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "魅せる圧倒的な理想型",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "魅",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "せる"
+                  },
+                  {
+                    "text": "圧倒的",
+                    "reading": "あっとうてき"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "理想",
+                    "reading": "りそう"
+                  },
+                  {
+                    "text": "型",
+                    "reading": "がた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "そんな期待されてもう一生止まらない",
+            "zh-CN": "被这般寄予无尽厚望　此生便再也无法止步",
+            "segments": [
+              {
+                "text": "そんな期待されてもう一生止まらない",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "そんな"
+                  },
+                  {
+                    "text": "期待",
+                    "reading": "きたい"
+                  },
+                  {
+                    "text": "されてもう"
+                  },
+                  {
+                    "text": "一生",
+                    "reading": "いっしょう"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "まらない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "糸切れたマリオネット",
+            "zh-CN": "挣断提线的木偶",
+            "segments": [
+              {
+                "text": "糸切れたマリオネット",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "糸",
+                    "reading": "いと"
+                  },
+                  {
+                    "text": "切",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "れたマリオネット"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "わがままな子だわ",
+            "zh-CN": "真是个任性妄为的孩子呢",
+            "segments": [
+              {
+                "text": "わがままな子だわ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "わがままな"
+                  },
+                  {
+                    "text": "子",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "だわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "あなたは恋したマリオネット",
+            "zh-CN": "而你不过是坠入爱河的提线木偶",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "あなたは恋したマリオネット",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "あなたは"
+                  },
+                  {
+                    "text": "恋",
+                    "reading": "こい"
+                  },
+                  {
+                    "text": "したマリオネット"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "きっと幸せなことが続くでしょう",
+            "zh-CN": "定以为往后会一直沉浸在幸福中吧",
+            "segments": [
+              {
+                "text": "きっと幸せなことが続くでしょう",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "きっと"
+                  },
+                  {
+                    "text": "幸",
+                    "reading": "しあわ"
+                  },
+                  {
+                    "text": "せなことが"
+                  },
+                  {
+                    "text": "続",
+                    "reading": "つづ"
+                  },
+                  {
+                    "text": "くでしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "神のエッセイ舞い踊れ",
+            "zh-CN": "就在神明写就的随笔剧本上翩跹起舞吧",
+            "segments": [
+              {
+                "text": "神のエッセイ舞い踊れ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "神",
+                    "reading": "かみ"
+                  },
+                  {
+                    "text": "のエッセイ"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "博学か無知か",
+            "zh-CN": "究竟是通晓世理　还是愚昧无知",
+            "segments": [
+              {
+                "text": "博学か無知か",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "博学",
+                    "reading": "はくがく"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "無知",
+                    "reading": "むち"
+                  },
+                  {
+                    "text": "か"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "遠くに遠くに　耽美に無様に　芽生えたら",
+            "zh-CN": "若是在更遥远之处　唯美又狼狈地萌生欲念",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "遠くに遠くに　耽美に無様に　芽生えたら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに　"
+                  },
+                  {
+                    "text": "耽美",
+                    "reading": "たんび"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "無様",
+                    "reading": "ぶざま"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "芽生",
+                    "reading": "めば"
+                  },
+                  {
+                    "text": "えたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "明日にgo　give me all　give me all　さらば人よ",
+            "zh-CN": "那就奔向明天 go give me all give me all 永别了人类之身啊",
+            "segments": [
+              {
+                "text": "明日にgo　give me all　give me all　さらば人よ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "明日",
+                    "reading": "あす"
+                  },
+                  {
+                    "text": "にgo　give me all　give me all　さらば"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "よ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "だってライフは一つだけ",
+            "zh-CN": "毕竟生命仅此一回",
+            "segments": [
+              {
+                "text": "だってライフは一つだけ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だってライフは"
+                  },
+                  {
+                    "text": "一",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "つだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "故に遠くに遠くに　耽美に無様に　芽生えたら",
+            "zh-CN": "所以若是在更遥远之处　唯美又狼狈地萌生欲念",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "故に遠くに遠くに　耽美に無様に　芽生えたら",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "故",
+                    "reading": "ゆえ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに　"
+                  },
+                  {
+                    "text": "耽美",
+                    "reading": "たんび"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "無様",
+                    "reading": "ぶざま"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "芽生",
+                    "reading": "めば"
+                  },
+                  {
+                    "text": "えたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "明日にgo　give me all　give me all　さらば友よ",
+            "zh-CN": "那就奔向明天 go give me all give me all 永别了同道旧友啊",
+            "segments": [
+              {
+                "text": "明日にgo　give me all　give me all　さらば友よ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "明日",
+                    "reading": "あす"
+                  },
+                  {
+                    "text": "にgo　give me all　give me all　さらば"
+                  },
+                  {
+                    "text": "友",
+                    "reading": "とも"
+                  },
+                  {
+                    "text": "よ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "ダイスロールは一度だけ　Show Time　So Fly",
+            "zh-CN": "命运掷骰仅此一回　Show time so fly",
+            "segments": [
+              {
+                "text": "ダイスロールは",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "ダイスロールは"
+                  }
+                ]
+              },
+              {
+                "text": "一度だけ　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "一度",
+                    "reading": "いちど"
+                  },
+                  {
+                    "text": "だけ　"
+                  }
+                ]
+              },
+              {
+                "text": "Show Time　So Fly",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "Show Time　So Fly"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "発せよいっそ馬鹿どもraider",
+            "zh-CN": "索性攻过来吧　蠢货侵入者们",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "発せよいっそ馬鹿どもraider",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "せよいっそ"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "どもraider"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "最後はどんな顔してるメイクアップ",
+            "zh-CN": "粉饰着死妆　收场时又会是怎样一副嘴脸",
+            "segments": [
+              {
+                "text": "最後はどんな顔してるメイクアップ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "はどんな"
+                  },
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "してるメイクアップ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "発せよいっそ馬鹿どもraider",
+            "zh-CN": "索性攻过来吧　蠢货侵入者们",
+            "segments": [
+              {
+                "text": "発せよいっそ馬鹿どもraider",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "せよいっそ"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "どもraider"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "最後はきっと忘却のプレイバック",
+            "zh-CN": "终局必然不过是　归于遗忘的走马回放",
+            "segments": [
+              {
+                "text": "最後はきっと忘却のプレイバック",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "はきっと"
+                  },
+                  {
+                    "text": "忘却",
+                    "reading": "ぼうきゃく"
+                  },
+                  {
+                    "text": "のプレイバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "プレイバック　俯いてどうした",
+            "zh-CN": "回放着痛苦　何必垂头丧气",
+            "segments": [
+              {
+                "text": "プレイバック　俯いてどうした",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "プレイバック　"
+                  },
+                  {
+                    "text": "俯",
+                    "reading": "うつむ"
+                  },
+                  {
+                    "text": "いてどうした"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "この先の明日　瞬きの合間　儚き",
+            "zh-CN": "未来的明日　转瞬之间便如泡影消散",
+            "segments": [
+              {
+                "text": "この先の明日　瞬きの合間　儚き",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "瞬",
+                    "reading": "まばた"
+                  },
+                  {
+                    "text": "きの"
+                  },
+                  {
+                    "text": "合間",
+                    "reading": "あいま"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "儚",
+                    "reading": "はかな"
+                  },
+                  {
+                    "text": "き"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "メイクアップ　まだ見えてますか",
+            "zh-CN": "粉饰着伪装　眼前可还能看清？",
+            "segments": [
+              {
+                "text": "メイクアップ　まだ見えてますか",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "メイクアップ　まだ"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "えてますか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "底知れぬ谷が　その先の　夢を見てる",
+            "zh-CN": "深不见底的绝谷　正痴望着远方的虚梦",
+            "segments": [
+              {
+                "text": "底知れぬ谷が　その先の　夢を見てる",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "底",
+                    "reading": "そこ"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "れぬ"
+                  },
+                  {
+                    "text": "谷",
+                    "reading": "たに"
+                  },
+                  {
+                    "text": "が　その"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "の　"
+                  },
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "てる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "目の前にほら　広がる世界と",
+            "zh-CN": "你看眼前　分明展现着广阔世界",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "目の前にほら　広がる世界と",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "にほら　"
+                  },
+                  {
+                    "text": "広",
+                    "reading": "ひろ"
+                  },
+                  {
+                    "text": "がる"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "と"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "意味嫌うその　悪を裁く時",
+            "zh-CN": "可一旦要去清算　那令人避之不及的罪恶",
+            "segments": [
+              {
+                "text": "意味嫌うその　悪を裁く時",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "意味",
+                    "reading": "いみ"
+                  },
+                  {
+                    "text": "嫌",
+                    "reading": "きら"
+                  },
+                  {
+                    "text": "うその　"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "あく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "裁",
+                    "reading": "さば"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "背を向けた性　蔓延る世の常",
+            "zh-CN": "转身逃避的天性　便化作世间泛滥的常态",
+            "segments": [
+              {
+                "text": "背を向けた性　蔓延る世の常",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "背",
+                    "reading": "せ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "けた"
+                  },
+                  {
+                    "text": "性",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "蔓延",
+                    "reading": "はびこ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "常",
+                    "reading": "つね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "根を疑わず　　そのまま",
+            "zh-CN": "从不去追究根由　就这般任其肆虐",
+            "segments": [
+              {
+                "text": "根を疑わず　　そのまま",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "根",
+                    "reading": "ね"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "疑",
+                    "reading": "うたが"
+                  },
+                  {
+                    "text": "わず　　そのまま"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "もう私は一人きりじゃないわ",
+            "zh-CN": "如今的我已不再是孤身一人",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "もう私は一人きりじゃないわ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "もう"
+                  },
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "きりじゃないわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "そうここから続く道はないわ",
+            "zh-CN": "没错　从这里起便再无正道可循",
+            "segments": [
+              {
+                "text": "そうここから続く道はないわ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "そうここから"
+                  },
+                  {
+                    "text": "続",
+                    "reading": "つづ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "道",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "はないわ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "故に遠くに遠くに　耽美に無様に　芽生えたら",
+            "zh-CN": "所以若是在更遥远之处　唯美又狼狈地萌生欲念",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "故に遠くに遠くに　耽美に無様に　芽生えたら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "故",
+                    "reading": "ゆえ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに　"
+                  },
+                  {
+                    "text": "耽美",
+                    "reading": "たんび"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "無様",
+                    "reading": "ぶざま"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "芽生",
+                    "reading": "めば"
+                  },
+                  {
+                    "text": "えたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "明日にgo　give me all　give me all　さらば人よ",
+            "zh-CN": "那就奔向明天 go give me all give me all 永别了人类之身啊",
+            "segments": [
+              {
+                "text": "明日にgo　give me all　give me all　さらば人よ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "明日",
+                    "reading": "あす"
+                  },
+                  {
+                    "text": "にgo　give me all　give me all　さらば"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "よ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "ダイスロールは一度だけ　Show Time　So Fly",
+            "zh-CN": "命运掷骰仅此一回　Show time so fly",
+            "segments": [
+              {
+                "text": "ダイスロールは一度だけ　Show Time　So Fly",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ダイスロールは"
+                  },
+                  {
+                    "text": "一度",
+                    "reading": "いちど"
+                  },
+                  {
+                    "text": "だけ　Show Time　So Fly"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "発せよいっそ馬鹿どもraider",
+            "zh-CN": "索性攻过来吧　蠢货侵入者们",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "発せよいっそ馬鹿どもraider",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "せよいっそ"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "どもraider"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "最後はどんな顔してるメイクアップ",
+            "zh-CN": "粉饰着死妆　收场时又会是怎样一副嘴脸",
+            "segments": [
+              {
+                "text": "最後はどんな顔してるメイクアップ",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "はどんな"
+                  },
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "してるメイクアップ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "発せよいっそ馬鹿どもraider",
+            "zh-CN": "索性攻过来吧　蠢货侵入者们",
+            "segments": [
+              {
+                "text": "発せよいっそ馬鹿どもraider",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "せよいっそ"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "どもraider"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "最後はきっと忘却のプレイバック",
+            "zh-CN": "终局必然不过是　归于遗忘的走马回放",
+            "segments": [
+              {
+                "text": "最後はきっと忘却のプレイバック",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "はきっと"
+                  },
+                  {
+                    "text": "忘却",
+                    "reading": "ぼうきゃく"
+                  },
+                  {
+                    "text": "のプレイバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "遠くに遠くに　耽美に無様に　芽生えたら",
+            "zh-CN": "若是在更遥远之处　唯美又狼狈地萌生欲念",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "遠くに遠くに　耽美に無様に　芽生えたら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに　"
+                  },
+                  {
+                    "text": "耽美",
+                    "reading": "たんび"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "無様",
+                    "reading": "ぶざま"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "芽生",
+                    "reading": "めば"
+                  },
+                  {
+                    "text": "えたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "明日にgo　give me all　give me all　さらば人よ",
+            "zh-CN": "那就奔向明天 go give me all give me all 永别了人类之身啊",
+            "segments": [
+              {
+                "text": "明日にgo　give me all　give me all　さらば人よ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "明日",
+                    "reading": "あす"
+                  },
+                  {
+                    "text": "にgo　give me all　give me all　さらば"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "よ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "だってライフは一つだけ",
+            "zh-CN": "毕竟生命仅此一回",
+            "segments": [
+              {
+                "text": "だってライフは一つだけ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だってライフは"
+                  },
+                  {
+                    "text": "一",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "つだけ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "故に遠くに遠くに　耽美に無様に　芽生えたら",
+            "zh-CN": "所以若是在更遥远之处　唯美又狼狈地萌生欲念",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "故に遠くに遠くに　耽美に無様に　芽生えたら",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "故",
+                    "reading": "ゆえ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに"
+                  },
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くに　"
+                  },
+                  {
+                    "text": "耽美",
+                    "reading": "たんび"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "無様",
+                    "reading": "ぶざま"
+                  },
+                  {
+                    "text": "に　"
+                  },
+                  {
+                    "text": "芽生",
+                    "reading": "めば"
+                  },
+                  {
+                    "text": "えたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "明日にgo　give me all　give me all　さらば友よ",
+            "zh-CN": "那就奔向明天 go give me all give me all 永别了同道旧友啊",
+            "segments": [
+              {
+                "text": "明日にgo　give me all　give me all　さらば友よ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "明日",
+                    "reading": "あす"
+                  },
+                  {
+                    "text": "にgo　give me all　give me all　さらば"
+                  },
+                  {
+                    "text": "友",
+                    "reading": "とも"
+                  },
+                  {
+                    "text": "よ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "ダイスロールは一度だけ　Show Time　So Fly",
+            "zh-CN": "命运掷骰仅此一回　Show time so fly",
+            "segments": [
+              {
+                "text": "ダイスロールは",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "ダイスロールは"
+                  }
+                ]
+              },
+              {
+                "text": "一度だけ　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "一度",
+                    "reading": "いちど"
+                  },
+                  {
+                    "text": "だけ　"
+                  }
+                ]
+              },
+              {
+                "text": "Show Time　So Fly",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "Show Time　So Fly"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "発せよいっそ馬鹿どもraider",
+            "zh-CN": "索性攻过来吧　蠢货侵入者们",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "発せよいっそ馬鹿どもraider",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "せよいっそ"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "どもraider"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "最後はどんな顔してるメイクアップ",
+            "zh-CN": "粉饰着死妆　收场时又会是怎样一副嘴脸",
+            "segments": [
+              {
+                "text": "最後はどんな顔してるメイクアップ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "はどんな"
+                  },
+                  {
+                    "text": "顔",
+                    "reading": "かお"
+                  },
+                  {
+                    "text": "してるメイクアップ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "発せよいっそ馬鹿どもraider",
+            "zh-CN": "索性攻过来吧　蠢货侵入者们",
+            "segments": [
+              {
+                "text": "発せよいっそ馬鹿どもraider",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "発",
+                    "reading": "はっ"
+                  },
+                  {
+                    "text": "せよいっそ"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  },
+                  {
+                    "text": "どもraider"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "最後はきっと忘却のプレイバック",
+            "zh-CN": "终局必然不过是　归于遗忘的走马回放",
+            "segments": [
+              {
+                "text": "最後はきっと忘却のプレイバック",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "最後",
+                    "reading": "さいご"
+                  },
+                  {
+                    "text": "はきっと"
+                  },
+                  {
+                    "text": "忘却",
+                    "reading": "ぼうきゃく"
+                  },
+                  {
+                    "text": "のプレイバック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Demon Lord",
+          "revisionId": 351125,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Demon_Lord?oldid=351125",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Demon Lord",
+          "revisionId": 351125,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Demon_Lord?oldid=351125",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Demon Lord",
+          "revisionId": 351125,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Demon_Lord?oldid=351125",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Demon Lord",
+          "revisionId": 351125,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Demon_Lord?oldid=351125",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Demon Lord",
+          "revisionId": 351125,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Demon_Lord?oldid=351125",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

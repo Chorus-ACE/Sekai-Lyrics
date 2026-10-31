@@ -1,0 +1,2590 @@
+{
+  "version": 3,
+  "musicId": 123,
+  "revision": 4,
+  "updatedAt": "2026-10-15T13:04:21Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-05",
+          "name": "花里みのり"
+        },
+        {
+          "performerId": "歌唱者-06",
+          "name": "桐谷遥"
+        },
+        {
+          "performerId": "歌唱者-07",
+          "name": "桃井愛莉"
+        },
+        {
+          "performerId": "歌唱者-08",
+          "name": "日野森雫"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "恋心を実らせた　(実らせた) 純情可憐な女の子 (女の子)",
+            "zh-CN": "让爱慕之心开花结果　(开花结果) 纯情可人的女孩 (女孩)",
+            "segments": [
+              {
+                "text": "恋心を実らせた　",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "恋心",
+                    "reading": "こいごころ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "らせた　"
+                  }
+                ]
+              },
+              {
+                "text": "(実らせた) ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "("
+                  },
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "らせた) "
+                  }
+                ]
+              },
+              {
+                "text": "純情可憐な女の子 ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "純情可憐",
+                    "reading": "じゅんじょうかれん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "女",
+                    "reading": "おんな"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "子",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "(女の子)",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "("
+                  },
+                  {
+                    "text": "女",
+                    "reading": "おんな"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "子",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "目の下　くまくま！コンシーラー (どこ)",
+            "zh-CN": "眼底下的黑眼圈！遮瑕膏 (在哪呢)",
+            "segments": [
+              {
+                "text": "目の下　くまくま！コンシーラー ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "下",
+                    "reading": "した"
+                  },
+                  {
+                    "text": "　くまくま！コンシーラー "
+                  }
+                ]
+              },
+              {
+                "text": "(どこ)",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "(どこ)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "あー！　なんで今日がバレンタイン…",
+            "zh-CN": "啊——！偏偏今天就是情人节…",
+            "segments": [
+              {
+                "text": "あー！　なんで今日がバレンタイン…",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "あー！　なんで"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "がバレンタイン…"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "ニブいあいつもチラチラ (チラチラ)",
+            "zh-CN": "那个迟钝的家伙也频频偷瞄 (频频偷瞄)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ニブいあいつもチラチラ ",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "ニブいあいつもチラチラ "
+                  }
+                ]
+              },
+              {
+                "text": "(チラチラ)",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "(チラチラ)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "さすがに意識してるみたい",
+            "zh-CN": "看来再怎么说也开始在意起来了",
+            "segments": [
+              {
+                "text": "さすがに意識してるみたい",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "さすがに"
+                  },
+                  {
+                    "text": "意識",
+                    "reading": "いしき"
+                  },
+                  {
+                    "text": "してるみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "日の浅い二人にとって",
+            "zh-CN": "对于相识尚浅的两人而言",
+            "segments": [
+              {
+                "text": "日の浅い二人にとって",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "浅",
+                    "reading": "あさ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "二人",
+                    "reading": "ふたり"
+                  },
+                  {
+                    "text": "にとって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "今日はそうだね",
+            "zh-CN": "今天确实是呢",
+            "segments": [
+              {
+                "text": "今日はそうだね",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "はそうだね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "特別な日さ",
+            "zh-CN": "特别的日子呀",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "特別な日さ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "特別",
+                    "reading": "とくべつ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "スウィートな甘さをキミだけに",
+            "zh-CN": "甜美甜蜜只献给你一人",
+            "segments": [
+              {
+                "text": "スウィートな甘さをキミだけに",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "スウィートな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さをキミだけに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "そのハートに届けたいな",
+            "zh-CN": "好想传达到你的心扉里啊",
+            "segments": [
+              {
+                "text": "そのハートに届けたいな",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのハートに"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "ビターな甘さで包んでね",
+            "zh-CN": "用微苦的甘甜层层包裹吧",
+            "segments": [
+              {
+                "text": "ビターな甘さで包んでね",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "ビターな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さで"
+                  },
+                  {
+                    "text": "包",
+                    "reading": "つつ"
+                  },
+                  {
+                    "text": "んでね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "どりーみんチュッチュッチュッ",
+            "zh-CN": "梦幻啾啾啾",
+            "segments": [
+              {
+                "text": "どりーみんチュッチュッチュッ",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュッチュッチュッ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "放課後屋上で待ち合わせ",
+            "zh-CN": "放学后在天台相约碰面",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "放課後屋上で待ち合わせ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "放課後屋上",
+                    "reading": "ほうかごおくじょう"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "待",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "ドキドキ鼓動が高鳴る",
+            "zh-CN": "扑通扑通 心跳剧烈加速",
+            "segments": [
+              {
+                "text": "ドキドキ鼓動が高鳴る",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "ドキドキ"
+                  },
+                  {
+                    "text": "鼓動",
+                    "reading": "こどう"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "高鳴",
+                    "reading": "たかな"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "階段上るキミの足音が",
+            "zh-CN": "你走上楼梯的脚步声",
+            "segments": [
+              {
+                "text": "階段上るキミの足音が",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "階段上",
+                    "reading": "かいだんのぼ"
+                  },
+                  {
+                    "text": "るキミの"
+                  },
+                  {
+                    "text": "足音",
+                    "reading": "あしおと"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "私の体を震わせた",
+            "zh-CN": "让我的全身都微微颤抖",
+            "segments": [
+              {
+                "text": "私の体を震わせた",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "体",
+                    "reading": "からだ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "震",
+                    "reading": "ふる"
+                  },
+                  {
+                    "text": "わせた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "向かい合う二人",
+            "zh-CN": "相对而立的两人",
+            "segments": [
+              {
+                "text": "向かい合う二人",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "かい"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "二人",
+                    "reading": "ふたり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "スウィートな甘さをキミだけに",
+            "zh-CN": "甜美甜蜜只献给你一人",
+            "segments": [
+              {
+                "text": "スウィートな甘さをキミだけに",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "スウィートな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さをキミだけに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "そのハートに届けたいな",
+            "zh-CN": "好想传达到你的心扉里啊",
+            "segments": [
+              {
+                "text": "そのハートに届けたいな",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのハートに"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "ビターな甘さで包んでね",
+            "zh-CN": "用微苦的甘甜层层包裹吧",
+            "segments": [
+              {
+                "text": "ビターな甘さで包んでね",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "ビターな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さで"
+                  },
+                  {
+                    "text": "包",
+                    "reading": "つつ"
+                  },
+                  {
+                    "text": "んでね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "どりーみんチュッチュッチュッ",
+            "zh-CN": "梦幻啾啾啾",
+            "segments": [
+              {
+                "text": "どりーみんチュッチュッチュッ",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュッチュッチュッ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "私のココロとキミのココロ",
+            "zh-CN": "我的心意与你的心意",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "私のココロとキミのココロ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "のココロとキミのココロ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "キミのココロと私のココロ",
+            "zh-CN": "你的心意与我的心意",
+            "segments": [
+              {
+                "text": "キミのココロと私のココロ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミのココロと"
+                  },
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "のココロ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "その距離を繋ぐチョコレート",
+            "zh-CN": "拉近彼此距离的巧克力",
+            "segments": [
+              {
+                "text": "その距離を繋ぐチョコレート",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "距離",
+                    "reading": "きょり"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "繋",
+                    "reading": "つな"
+                  },
+                  {
+                    "text": "ぐチョコレート"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "夢の中で何度も描いたこの時は",
+            "zh-CN": "在梦境中描绘过无数次的这个时刻",
+            "segments": [
+              {
+                "text": "夢の中で何度も描いたこの時は",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "何度",
+                    "reading": "なんど"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "描",
+                    "reading": "えが"
+                  },
+                  {
+                    "text": "いたこの"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "世界にひとつだけだよ",
+            "zh-CN": "是这世间绝无仅有的哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "世界にひとつだけだよ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "にひとつだけだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "この瞬間キミだけの為に",
+            "zh-CN": "这一瞬间只为了你一个人",
+            "segments": [
+              {
+                "text": "この瞬間",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  }
+                ]
+              },
+              {
+                "text": "キミだけの為に",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミだけの"
+                  },
+                  {
+                    "text": "為",
+                    "reading": "ため"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "スウィートなこの気持ち",
+            "zh-CN": "这份甜蜜的心意",
+            "segments": [
+              {
+                "text": "スウィートなこの気持ち",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "スウィートなこの"
+                  },
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ち"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "送るからね",
+            "zh-CN": "传递给你哦",
+            "segments": [
+              {
+                "text": "送るからね",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "送",
+                    "reading": "おく"
+                  },
+                  {
+                    "text": "るからね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "受け止めてね",
+            "zh-CN": "一定要好好收下哦",
+            "segments": [
+              {
+                "text": "受け止めてね",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "受",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "めてね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "スウィートな甘さをキミだけに",
+            "zh-CN": "甜美甜蜜只献给你一人",
+            "segments": [
+              {
+                "text": "スウィートな甘さをキミだけに",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "スウィートな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さをキミだけに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "そのハートに届けたいな",
+            "zh-CN": "好想传达到你的心扉里啊",
+            "segments": [
+              {
+                "text": "そのハートに届けたいな",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのハートに"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000047",
+            "order": 46,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000048",
+            "order": 47,
+            "japanese": "ビターな甘さで包んでね",
+            "zh-CN": "用微苦的甘甜层层包裹吧",
+            "segments": [
+              {
+                "text": "ビターな甘さで包んでね",
+                "performerIds": [
+                  "歌唱者-08",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ビターな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さで"
+                  },
+                  {
+                    "text": "包",
+                    "reading": "つつ"
+                  },
+                  {
+                    "text": "んでね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000049",
+            "order": 48,
+            "japanese": "どりーみんチュッチュッチュッ",
+            "zh-CN": "梦幻啾啾啾",
+            "segments": [
+              {
+                "text": "どりーみんチュッチュッチュッ",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュッチュッチュッ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000050",
+            "order": 49,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000051",
+            "order": 50,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000052",
+            "order": 51,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "恋心を実らせた　(実らせた) 純情可憐な女の子 (女の子)",
+            "zh-CN": "让爱慕之心开花结果　(开花结果) 纯情可人的女孩 (女孩)",
+            "segments": [
+              {
+                "text": "恋心を実らせた　",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "恋心",
+                    "reading": "こいごころ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "らせた　"
+                  }
+                ]
+              },
+              {
+                "text": "(実らせた) ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "("
+                  },
+                  {
+                    "text": "実",
+                    "reading": "みの"
+                  },
+                  {
+                    "text": "らせた) "
+                  }
+                ]
+              },
+              {
+                "text": "純情可憐な女の子 ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "純情可憐",
+                    "reading": "じゅんじょうかれん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "女",
+                    "reading": "おんな"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "子",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "(女の子)",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "("
+                  },
+                  {
+                    "text": "女",
+                    "reading": "おんな"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "子",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "目の下　くまくま！コンシーラー (どこ)",
+            "zh-CN": "眼底下的黑眼圈！遮瑕膏 (在哪呢)",
+            "segments": [
+              {
+                "text": "目の下　くまくま！コンシーラー ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "下",
+                    "reading": "した"
+                  },
+                  {
+                    "text": "　くまくま！コンシーラー "
+                  }
+                ]
+              },
+              {
+                "text": "(どこ)",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "(どこ)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "あー！　なんで今日がバレンタイン…",
+            "zh-CN": "啊——！偏偏今天就是情人节…",
+            "segments": [
+              {
+                "text": "あー！　なんで今日がバレンタイン…",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "あー！　なんで"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "がバレンタイン…"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "ニブいあいつもチラチラ (チラチラ)",
+            "zh-CN": "那个迟钝的家伙也频频偷瞄 (频频偷瞄)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ニブいあいつもチラチラ ",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "ニブいあいつもチラチラ "
+                  }
+                ]
+              },
+              {
+                "text": "(チラチラ)",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "(チラチラ)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "さすがに意識してるみたい",
+            "zh-CN": "看来再怎么说也开始在意起来了",
+            "segments": [
+              {
+                "text": "さすがに意識してるみたい",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "さすがに"
+                  },
+                  {
+                    "text": "意識",
+                    "reading": "いしき"
+                  },
+                  {
+                    "text": "してるみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "日の浅い二人にとって",
+            "zh-CN": "对于相识尚浅的两人而言",
+            "segments": [
+              {
+                "text": "日の浅い二人にとって",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "浅",
+                    "reading": "あさ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "二人",
+                    "reading": "ふたり"
+                  },
+                  {
+                    "text": "にとって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "今日はそうだね",
+            "zh-CN": "今天确实是呢",
+            "segments": [
+              {
+                "text": "今日はそうだね",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "はそうだね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "特別な日さ",
+            "zh-CN": "特别的日子呀",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "特別な日さ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "特別",
+                    "reading": "とくべつ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "スウィートな甘さをキミだけに",
+            "zh-CN": "甜美甜蜜只献给你一人",
+            "segments": [
+              {
+                "text": "スウィートな甘さをキミだけに",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "スウィートな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さをキミだけに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "そのハートに届けたいな",
+            "zh-CN": "好想传达到你的心扉里啊",
+            "segments": [
+              {
+                "text": "そのハートに届けたいな",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのハートに"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "ビターな甘さで包んでね",
+            "zh-CN": "用微苦的甘甜层层包裹吧",
+            "segments": [
+              {
+                "text": "ビターな甘さで包んでね",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "ビターな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さで"
+                  },
+                  {
+                    "text": "包",
+                    "reading": "つつ"
+                  },
+                  {
+                    "text": "んでね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "どりーみんチュッチュッチュッ",
+            "zh-CN": "梦幻啾啾啾",
+            "segments": [
+              {
+                "text": "どりーみんチュッチュッチュッ",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュッチュッチュッ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "チョコ la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "私のココロとキミのココロ",
+            "zh-CN": "我的心意与你的心意",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "私のココロとキミのココロ",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "のココロとキミのココロ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "キミのココロと私のココロ",
+            "zh-CN": "你的心意与我的心意",
+            "segments": [
+              {
+                "text": "キミのココロと私のココロ",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミのココロと"
+                  },
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "のココロ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "その距離を繋ぐチョコレート",
+            "zh-CN": "拉近彼此距离的巧克力",
+            "segments": [
+              {
+                "text": "その距離を繋ぐチョコレート",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "距離",
+                    "reading": "きょり"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "繋",
+                    "reading": "つな"
+                  },
+                  {
+                    "text": "ぐチョコレート"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "夢の中で何度も描いたこの時は",
+            "zh-CN": "在梦境中描绘过无数次的这个时刻",
+            "segments": [
+              {
+                "text": "夢の中で何度も描いたこの時は",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "夢",
+                    "reading": "ゆめ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "何度",
+                    "reading": "なんど"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "描",
+                    "reading": "えが"
+                  },
+                  {
+                    "text": "いたこの"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "とき"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "世界にひとつだけだよ",
+            "zh-CN": "是这世间绝无仅有的哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "世界にひとつだけだよ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "にひとつだけだよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "この瞬間キミだけの為に",
+            "zh-CN": "这一瞬间只为了你一个人",
+            "segments": [
+              {
+                "text": "この瞬間",
+                "performerIds": [
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "瞬間",
+                    "reading": "しゅんかん"
+                  }
+                ]
+              },
+              {
+                "text": "キミだけの為に",
+                "performerIds": [
+                  "歌唱者-05"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミだけの"
+                  },
+                  {
+                    "text": "為",
+                    "reading": "ため"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "スウィートなこの気持ち",
+            "zh-CN": "这份甜蜜的心意",
+            "segments": [
+              {
+                "text": "スウィートなこの気持ち",
+                "performerIds": [
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "スウィートなこの"
+                  },
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ち"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "送るからね",
+            "zh-CN": "传递给你哦",
+            "segments": [
+              {
+                "text": "送るからね",
+                "performerIds": [
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "送",
+                    "reading": "おく"
+                  },
+                  {
+                    "text": "るからね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "受け止めてね",
+            "zh-CN": "一定要好好收下哦",
+            "segments": [
+              {
+                "text": "受け止めてね",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06"
+                ],
+                "ruby": [
+                  {
+                    "text": "受",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "めてね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-08"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "スウィートな甘さをキミだけに",
+            "zh-CN": "甜美甜蜜只献给你一人",
+            "segments": [
+              {
+                "text": "スウィートな甘さをキミだけに",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "スウィートな"
+                  },
+                  {
+                    "text": "甘",
+                    "reading": "あま"
+                  },
+                  {
+                    "text": "さをキミだけに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000030",
+            "order": 29,
+            "japanese": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+            "zh-CN": "梦幻啾啾★ 巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "どりーみんチュチュ★ チョコ la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-06",
+                  "歌唱者-07"
+                ],
+                "ruby": [
+                  {
+                    "text": "どりーみんチュチュ★ チョコ la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000031",
+            "order": 30,
+            "japanese": "choko la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "choko la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-07",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "choko la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000032",
+            "order": 31,
+            "japanese": "choko la ta ta ta ta",
+            "zh-CN": "巧克力 la ta ta ta ta",
+            "segments": [
+              {
+                "text": "choko la ta ta ta ta",
+                "performerIds": [
+                  "歌唱者-05",
+                  "歌唱者-06",
+                  "歌唱者-07",
+                  "歌唱者-08",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "choko la ta ta ta ta"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Dreamin chuchu",
+          "revisionId": 337194,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Dreamin_chuchu?oldid=337194",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Dreamin chuchu",
+          "revisionId": 337194,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Dreamin_chuchu?oldid=337194",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Dreamin chuchu",
+          "revisionId": 337194,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Dreamin_chuchu?oldid=337194",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Dreamin chuchu",
+          "revisionId": 337194,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Dreamin_chuchu?oldid=337194",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Dreamin chuchu",
+          "revisionId": 337194,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Dreamin_chuchu?oldid=337194",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Dreamin chuchu",
+          "revisionId": 337194,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Dreamin_chuchu?oldid=337194",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Dreamin chuchu",
+          "revisionId": 337194,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Dreamin_chuchu?oldid=337194",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Dreamin chuchu",
+          "revisionId": 337194,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Dreamin_chuchu?oldid=337194",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

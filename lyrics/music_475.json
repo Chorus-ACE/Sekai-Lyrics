@@ -1,0 +1,3171 @@
+{
+  "version": 3,
+  "musicId": 475,
+  "revision": 4,
+  "updatedAt": "2026-08-18T03:07:12.163536Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "line-1",
+            "order": 0,
+            "japanese": "1 2 ナン",
+            "segments": [
+              {
+                "text": "1 2 ナン",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "1 2 ナン"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "1 2 None"
+          },
+          {
+            "id": "line-2",
+            "order": 1,
+            "japanese": "キミと！ ぼくら！ ちがう！ ヒトで！ だから素晴らし！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "キミと！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミと！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくら！ ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくら！ "
+                  }
+                ]
+              },
+              {
+                "text": "ちがう！ ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう！ "
+                  }
+                ]
+              },
+              {
+                "text": "ヒトで！ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ヒトで！ "
+                  }
+                ]
+              },
+              {
+                "text": "だから素晴らし！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "素晴",
+                    "reading": "すば"
+                  },
+                  {
+                    "text": "らし！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "你！我们！全都不一样！不同的人！所以才绝妙！"
+          },
+          {
+            "id": "line-3",
+            "order": 2,
+            "japanese": "広い世界なのにここで会えた！！！（あァァァァァーッ！！！！！）",
+            "segments": [
+              {
+                "text": "広い世界なのにここで会えた！！！",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "広",
+                    "reading": "ひろ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "なのにここで"
+                  },
+                  {
+                    "text": "会",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "えた！！！"
+                  }
+                ]
+              },
+              {
+                "text": "（あァァァァァーッ！！！！！）",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あァァァァァーッ！！！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "明明世界这么辽阔却能在这里相聚！！！（啊啊啊啊啊啊！！！！！）"
+          },
+          {
+            "id": "line-4",
+            "order": 3,
+            "japanese": "タイムラインにのっかって （Ah!!!!!）",
+            "segments": [
+              {
+                "text": "タイムラインにのっかって ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "タイムラインにのっかって "
+                  }
+                ]
+              },
+              {
+                "text": "（Ah!!!!!）",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "（Ah!!!!!）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "乘上时间线 （Ah!!!!!）"
+          },
+          {
+            "id": "line-5",
+            "order": 4,
+            "japanese": "めっちゃ奇跡的な確率でしょでしょ？",
+            "segments": [
+              {
+                "text": "めっちゃ奇跡的な確率でしょでしょ？",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "めっちゃ"
+                  },
+                  {
+                    "text": "奇跡",
+                    "reading": "きせき"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "確率",
+                    "reading": "かくりつ"
+                  },
+                  {
+                    "text": "でしょでしょ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "这绝对是奇迹般的概率对不对对不对？"
+          },
+          {
+            "id": "line-6",
+            "order": 5,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-7",
+            "order": 6,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-8",
+            "order": 7,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-9",
+            "order": 8,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY! (FIGHT ON)",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY! (FIGHT ON)",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY! (FIGHT ON)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY! (FIGHT ON)"
+          },
+          {
+            "id": "line-10",
+            "order": 9,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-11",
+            "order": 10,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-12",
+            "order": 11,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-13",
+            "order": 12,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-14",
+            "order": 13,
+            "japanese": "HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-15",
+            "order": 14,
+            "japanese": "よぉ はい！ よぉ YEAH! よぉ はい！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "よぉ はい！ よぉ YEAH! よぉ はい！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "よぉ はい！ よぉ YEAH! よぉ はい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "哟 嗨！ 哟 YEAH! 哟 嗨！"
+          },
+          {
+            "id": "line-16",
+            "order": 15,
+            "japanese": "YO! アッッッッッッッ！！！！！",
+            "segments": [
+              {
+                "text": "YO! アッッッッッッッ！！！！！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "YO! アッッッッッッッ！！！！！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "YO! 啊啊啊啊啊！！！！！"
+          },
+          {
+            "id": "line-17",
+            "order": 16,
+            "japanese": "(yo yo yo yo) 平日ずっとヤなことばっか",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(yo yo yo yo) ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "(yo yo yo yo) "
+                  }
+                ]
+              },
+              {
+                "text": "平日ずっとヤなことばっか",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "平日",
+                    "reading": "へいじつ"
+                  },
+                  {
+                    "text": "ずっとヤなことばっか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "(yo yo yo yo) 工作日净是些讨厌的事"
+          },
+          {
+            "id": "line-18",
+            "order": 17,
+            "japanese": "ゲームでばっかLv上げ",
+            "segments": [
+              {
+                "text": "ゲームでばっかLv上げ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゲームでばっかLv"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "只能在游戏里拼命刷级"
+          },
+          {
+            "id": "line-19",
+            "order": 18,
+            "japanese": "ちょちょちょちょっとまったァ！！疲れてるんじゃん？",
+            "segments": [
+              {
+                "text": "ちょちょちょちょっとまったァ！！疲れてるんじゃん？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちょちょちょちょっとまったァ！！"
+                  },
+                  {
+                    "text": "疲",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "れてるんじゃん？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "等等等等等一下！！这不是已经累趴了吗？"
+          },
+          {
+            "id": "line-20",
+            "order": 19,
+            "japanese": "パッと休んでパスタいこ？",
+            "segments": [
+              {
+                "text": "パッと休んでパスタいこ？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッと"
+                  },
+                  {
+                    "text": "休",
+                    "reading": "やす"
+                  },
+                  {
+                    "text": "んでパスタいこ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "赶紧休息去吃意面吧？"
+          },
+          {
+            "id": "line-21",
+            "order": 20,
+            "japanese": "(yo yo yo yo) マジでふっと食らった精神射撃",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(yo yo yo yo) ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "(yo yo yo yo) "
+                  }
+                ]
+              },
+              {
+                "text": "マジでふっと食らった精神射撃",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "マジでふっと"
+                  },
+                  {
+                    "text": "食",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "らった"
+                  },
+                  {
+                    "text": "精神",
+                    "reading": "せいしん"
+                  },
+                  {
+                    "text": "射撃",
+                    "reading": "しゃげき"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "(yo yo yo yo) 真是冷不丁遭受精神暴击"
+          },
+          {
+            "id": "line-22",
+            "order": 21,
+            "japanese": "ＳＮＳ没入性闇病領域",
+            "segments": [
+              {
+                "text": "ＳＮＳ没入性闇病領域",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ＳＮＳ"
+                  },
+                  {
+                    "text": "没入",
+                    "reading": "ぼつにゅう"
+                  },
+                  {
+                    "text": "性",
+                    "reading": "せい"
+                  },
+                  {
+                    "text": "闇",
+                    "reading": "やみ"
+                  },
+                  {
+                    "text": "病",
+                    "reading": "びょう"
+                  },
+                  {
+                    "text": "領域",
+                    "reading": "りょういき"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "社交媒体沉迷性暗黑病态领域"
+          },
+          {
+            "id": "line-23",
+            "order": 22,
+            "japanese": "DAKARA！今夜はそっとヘッドフォン推奨",
+            "segments": [
+              {
+                "text": "DAKARA！今夜はそっとヘッドフォン推奨",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "DAKARA！"
+                  },
+                  {
+                    "text": "今夜",
+                    "reading": "こんや"
+                  },
+                  {
+                    "text": "はそっとヘッドフォン"
+                  },
+                  {
+                    "text": "推奨",
+                    "reading": "すいしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "所以！今夜建议悄悄戴上耳机"
+          },
+          {
+            "id": "line-24",
+            "order": 23,
+            "japanese": "パンクなロック聴きましょう",
+            "segments": [
+              {
+                "text": "パンクなロック聴きましょう",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "パンクなロック"
+                  },
+                  {
+                    "text": "聴",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "きましょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "来听朋克摇滚吧"
+          },
+          {
+            "id": "line-25",
+            "order": 24,
+            "japanese": "誰でもちがう生き方（あ~）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誰でもちがう生き方（あ~）",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "でもちがう"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "方",
+                    "reading": "かた"
+                  },
+                  {
+                    "text": "（あ~）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "每个人都有不同的活法（啊~）"
+          },
+          {
+            "id": "line-26",
+            "order": 25,
+            "japanese": "生まルルぇた時にオギャって バブりまして",
+            "segments": [
+              {
+                "text": "生まルルぇた時にオギャって ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "なま"
+                  },
+                  {
+                    "text": "まルルぇた"
+                  },
+                  {
+                    "text": "時",
+                    "reading": "じ"
+                  },
+                  {
+                    "text": "にオギャって "
+                  }
+                ]
+              },
+              {
+                "text": "バブりまして",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "バブりまして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "出生时哇哇大哭 婴儿般撒娇"
+          },
+          {
+            "id": "line-27",
+            "order": 26,
+            "japanese": "（あ~）誰かと違う生き方（ああああああああー！！！）",
+            "segments": [
+              {
+                "text": "（あ~）",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あ~）"
+                  }
+                ]
+              },
+              {
+                "text": "誰かと違う生き方（ああああああああー！！！）",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かと"
+                  },
+                  {
+                    "text": "違",
+                    "reading": "ちが"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "方",
+                    "reading": "かた"
+                  },
+                  {
+                    "text": "（ああああああああー！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "（啊~）寻找与别人不同的活法（啊啊啊啊啊啊啊ー！！！）"
+          },
+          {
+            "id": "line-28",
+            "order": 27,
+            "japanese": "探したはずがなんだか似てるね",
+            "segments": [
+              {
+                "text": "探したはずがなんだか",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "探",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "したはずがなんだか"
+                  }
+                ]
+              },
+              {
+                "text": "似てるね",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "似",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "てるね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "本以为在找寻 怎么不知不觉又挺像的呢"
+          },
+          {
+            "id": "line-29",
+            "order": 28,
+            "japanese": "キミと！ ぼくら！ ちがう！ ひとで！ だから素晴らし!!",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "キミと！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミと！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくら！ ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくら！ "
+                  }
+                ]
+              },
+              {
+                "text": "ちがう！ ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう！ "
+                  }
+                ]
+              },
+              {
+                "text": "ひとで！ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ひとで！ "
+                  }
+                ]
+              },
+              {
+                "text": "だから素晴らし!!",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "素晴",
+                    "reading": "すば"
+                  },
+                  {
+                    "text": "らし!!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "你！我们！全都不一样！不同的人！所以才绝妙！！"
+          },
+          {
+            "id": "line-30",
+            "order": 29,
+            "japanese": "ちがう場所で同じ空をみてる （あァァァァァーッ！！！！！）",
+            "segments": [
+              {
+                "text": "ちがう場所で同じ空をみてる ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう"
+                  },
+                  {
+                    "text": "場所",
+                    "reading": "ばしょ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "同",
+                    "reading": "おな"
+                  },
+                  {
+                    "text": "じ"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "をみてる "
+                  }
+                ]
+              },
+              {
+                "text": "（あァァァァァーッ！！！！！）",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あァァァァァーッ！！！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "在不同的地方仰望着同一片天空 （啊啊啊啊啊啊！！！！！）"
+          },
+          {
+            "id": "line-31",
+            "order": 30,
+            "japanese": "（あ~） タイムラインにのっかって〜〜〜！",
+            "segments": [
+              {
+                "text": "（あ~） ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あ~） "
+                  }
+                ]
+              },
+              {
+                "text": "タイムラインにのっかって〜〜〜！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "タイムラインにのっかって〜〜〜！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "（啊~） 乘上时间线～～～！"
+          },
+          {
+            "id": "line-32",
+            "order": 31,
+            "japanese": "時間と場所も越える！ キセキテキネ☆",
+            "segments": [
+              {
+                "text": "時間と場所も越える！ ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "時間",
+                    "reading": "じかん"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "場所",
+                    "reading": "ばしょ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "える！ "
+                  }
+                ]
+              },
+              {
+                "text": "キセキテキネ☆",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "キセキテキネ☆"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "跨越时间与空间！ 真是奇迹呢☆"
+          },
+          {
+            "id": "line-33",
+            "order": 32,
+            "japanese": "キミと！ ぼくら！ ちがう！ ひとで！ だから素晴らし！！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "キミと！ ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミと！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくら！ ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくら！ "
+                  }
+                ]
+              },
+              {
+                "text": "ちがう！ ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう！ "
+                  }
+                ]
+              },
+              {
+                "text": "ひとで！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ひとで！ "
+                  }
+                ]
+              },
+              {
+                "text": "だから素晴らし！！",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "素晴",
+                    "reading": "すば"
+                  },
+                  {
+                    "text": "らし！！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "你！我们！全都不一样！不同的人！所以才绝妙！！"
+          },
+          {
+            "id": "line-34",
+            "order": 33,
+            "japanese": "ちがう場所でキミは何をしてるっ？ （あァァァァァーッ！！！！！）",
+            "segments": [
+              {
+                "text": "ちがう場所でキミは何をしてるっ？ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう"
+                  },
+                  {
+                    "text": "場所",
+                    "reading": "ばしょ"
+                  },
+                  {
+                    "text": "でキミは"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "をしてるっ？ "
+                  }
+                ]
+              },
+              {
+                "text": "（あァァァァァーッ！！！！！）",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あァァァァァーッ！！！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "在不同的地方你正在做着什么呢？ （啊啊啊啊啊啊！！！！！）"
+          },
+          {
+            "id": "line-35",
+            "order": 34,
+            "japanese": "タイムラインにのっかって",
+            "segments": [
+              {
+                "text": "タイムラインにのっかって",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "タイムラインにのっかって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "乘上时间线"
+          },
+          {
+            "id": "line-36",
+            "order": 35,
+            "japanese": "指さした君はらっきーでしょでしょ？",
+            "segments": [
+              {
+                "text": "指さした君はらっきーでしょでしょ？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "指",
+                    "reading": "ゆび"
+                  },
+                  {
+                    "text": "さした"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "はらっきーでしょでしょ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "伸出手指的你真是超级幸运对不对对不对？"
+          },
+          {
+            "id": "line-37",
+            "order": 36,
+            "japanese": "いち！に！さん！よん！ご！ろく！しち！はち！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "いち！に！さん！よん！ご！ろく！しち！はち！",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "いち！に！さん！よん！ご！ろく！しち！はち！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "一！二！三！四！五！六！七！八！"
+          },
+          {
+            "id": "line-38",
+            "order": 37,
+            "japanese": "いち！に！さん！よん！ ぶえええええッ？！",
+            "segments": [
+              {
+                "text": "いち！に！さん！よん！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "いち！に！さん！よん！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぶえええええッ？！",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぶえええええッ？！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "一！二！三！四！ 哇啊啊啊啊？！"
+          },
+          {
+            "id": "line-39",
+            "order": 38,
+            "japanese": "(yo yo yo yo) あいつがA こっちはB いっぱいあったらなんかすげー",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(yo yo yo yo) ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "(yo yo yo yo) "
+                  }
+                ]
+              },
+              {
+                "text": "あいつがA こっちはB いっぱいあったらなんかすげー",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "あいつがA こっちはB いっぱいあったらなんかすげー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "(yo yo yo yo) 那个是A 这边是B 种类繁多总觉得好厉害"
+          },
+          {
+            "id": "line-40",
+            "order": 39,
+            "japanese": "この世はまるで遊園地 ワンチャンあるならやるしかなくね？",
+            "segments": [
+              {
+                "text": "この世はまるで遊園地 ワンチャンあるならやるしかなくね？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "世",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "はまるで"
+                  },
+                  {
+                    "text": "遊園",
+                    "reading": "ゆうえん"
+                  },
+                  {
+                    "text": "地",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": " ワンチャンあるならやるしかなくね？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "这世界简直就像游乐园 要是有哪怕一丝机会就非干不可吧？"
+          },
+          {
+            "id": "line-41",
+            "order": 40,
+            "japanese": "嫉妬ねたんでブルーでも",
+            "segments": [
+              {
+                "text": "嫉妬ねたんでブルーでも",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "嫉妬",
+                    "reading": "しっと"
+                  },
+                  {
+                    "text": "ねたんでブルーでも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "就算因为嫉妒眼红而心情郁闷"
+          },
+          {
+            "id": "line-42",
+            "order": 41,
+            "japanese": "ちがって当然他人どうし",
+            "segments": [
+              {
+                "text": "ちがって当然他人どうし",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがって"
+                  },
+                  {
+                    "text": "当然",
+                    "reading": "とうぜん"
+                  },
+                  {
+                    "text": "他人",
+                    "reading": "たにん"
+                  },
+                  {
+                    "text": "どうし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "互不相同本就是理所当然的陌生人"
+          },
+          {
+            "id": "line-43",
+            "order": 42,
+            "japanese": "(yo yo yo yo)ワレワレハチガウニンゲン だったらあんたもオリジナル",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(yo yo yo yo)",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "(yo yo yo yo)"
+                  }
+                ]
+              },
+              {
+                "text": "ワレワレハチガウニンゲン だったらあんたもオリジナル",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ワレワレハチガウニンゲン だったらあんたもオリジナル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "(yo yo yo yo)我们是截然不同的人类 既然如此你也是独一无二的"
+          },
+          {
+            "id": "line-44",
+            "order": 43,
+            "japanese": "やりたいことやってみよう！ そっからすべてが始まるサ･･･",
+            "segments": [
+              {
+                "text": "やりたいことやってみよう！ そっからすべてが始まるサ･･･",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "やりたいことやってみよう！ そっからすべてが"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "まるサ･･･"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "去做想做的事吧！一切便从那里拉开序幕……"
+          },
+          {
+            "id": "line-45",
+            "order": 44,
+            "japanese": "くさって泣いたあとに笑って",
+            "segments": [
+              {
+                "text": "くさって泣いたあとに笑って",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "くさって"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いたあとに"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "って"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "懊丧哭泣过后破涕为笑"
+          },
+          {
+            "id": "line-46",
+            "order": 45,
+            "japanese": "「OK、余裕」つぶやいた",
+            "segments": [
+              {
+                "text": "「OK、余裕」つぶやいた",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "「OK、"
+                  },
+                  {
+                    "text": "余裕",
+                    "reading": "よゆう"
+                  },
+                  {
+                    "text": "」つぶやいた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "“OK，小菜一碟”这般低语呢喃"
+          },
+          {
+            "id": "line-47",
+            "order": 46,
+            "japanese": "誰でも似てる生き方！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誰でも似てる生き方！",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "でも"
+                  },
+                  {
+                    "text": "似",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "てる"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "方",
+                    "reading": "かた"
+                  },
+                  {
+                    "text": "！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "每个人都有着相似的活法！"
+          },
+          {
+            "id": "line-48",
+            "order": 47,
+            "japanese": "（あ~） 生まれたあとにちがって 分かち合って〜〜〜!!",
+            "segments": [
+              {
+                "text": "（あ~） ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あ~） "
+                  }
+                ]
+              },
+              {
+                "text": "生まれたあとにちがって ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "まれたあとにちがって "
+                  }
+                ]
+              },
+              {
+                "text": "分かち合って〜〜〜!!",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かち"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "って〜〜〜!!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "（啊~） 出生之后各自不同 彼此分享～～～！！"
+          },
+          {
+            "id": "line-49",
+            "order": 48,
+            "japanese": "他人に似せる生き方 (にゃん)",
+            "segments": [
+              {
+                "text": "他人に似せる生き方 ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "他人",
+                    "reading": "たにん"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "似",
+                    "reading": "に"
+                  },
+                  {
+                    "text": "せる"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "方",
+                    "reading": "かた"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "(にゃん)",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "(にゃん)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "模仿他人的活法 (喵)"
+          },
+          {
+            "id": "line-50",
+            "order": 49,
+            "japanese": "気付いたらあれ？なんだかちがうネ",
+            "segments": [
+              {
+                "text": "気付いたらあれ？なんだかちがうネ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "気付",
+                    "reading": "きづ"
+                  },
+                  {
+                    "text": "いたらあれ？なんだかちがうネ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "回过神来 咦？不知怎的又不一样了呢"
+          },
+          {
+            "id": "line-51",
+            "order": 50,
+            "japanese": "キミと！ ぼくら！ ちがう！ ひとで！ だから素晴らし!!",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "キミと！ ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミと！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくら！ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくら！ "
+                  }
+                ]
+              },
+              {
+                "text": "ちがう！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう！ "
+                  }
+                ]
+              },
+              {
+                "text": "ひとで！ ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ひとで！ "
+                  }
+                ]
+              },
+              {
+                "text": "だから素晴らし!!",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "素晴",
+                    "reading": "すば"
+                  },
+                  {
+                    "text": "らし!!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "你！我们！全都不一样！不同的人！所以才绝妙！！"
+          },
+          {
+            "id": "line-52",
+            "order": 51,
+            "japanese": "suki na koto de warau kimi ga suki sa （あァァァァァーッ！！！！！）",
+            "segments": [
+              {
+                "text": "suki na koto de warau kimi ga suki sa ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "suki na koto de warau kimi ga suki sa "
+                  }
+                ]
+              },
+              {
+                "text": "（あァァァァァーッ！！！！！）",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あァァァァァーッ！！！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "我最喜欢因热爱之事而欢笑的你啦 （啊啊啊啊啊啊！！！！！）"
+          },
+          {
+            "id": "line-53",
+            "order": 52,
+            "japanese": "辛いときは思い出して〜〜〜！ （あ~）",
+            "segments": [
+              {
+                "text": "辛いときは思い出して〜〜〜！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "辛",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "いときは"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "して〜〜〜！ "
+                  }
+                ]
+              },
+              {
+                "text": "（あ~）",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あ~）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "难受的时候请想起来～～～！ （啊~）"
+          },
+          {
+            "id": "line-54",
+            "order": 53,
+            "japanese": "こんな歌も味方だよ チョイ 照レルネ☆",
+            "segments": [
+              {
+                "text": "こんな歌も味方だよ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "味方",
+                    "reading": "みかた"
+                  },
+                  {
+                    "text": "だよ "
+                  }
+                ]
+              },
+              {
+                "text": "チョイ 照レルネ☆",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "チョイ "
+                  },
+                  {
+                    "text": "照",
+                    "reading": "あきら"
+                  },
+                  {
+                    "text": "レルネ☆"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "这样的歌也是你的同伴哦 稍微有点害羞呢☆"
+          },
+          {
+            "id": "line-55",
+            "order": 54,
+            "japanese": "キミと！ ぼくら！ ちがう！ ひとで！ だから素晴らし!!",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "キミと！ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミと！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくら！ ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくら！ "
+                  }
+                ]
+              },
+              {
+                "text": "ちがう！ ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう！ "
+                  }
+                ]
+              },
+              {
+                "text": "ひとで！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ひとで！ "
+                  }
+                ]
+              },
+              {
+                "text": "だから素晴らし!!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "素晴",
+                    "reading": "すば"
+                  },
+                  {
+                    "text": "らし!!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "你！我们！全都不一样！不同的人！所以才绝妙！！"
+          },
+          {
+            "id": "line-56",
+            "order": 55,
+            "japanese": "キミの道を歩くキミへ唄を〜〜〜 （あァァァァァーッ！！！！！）",
+            "segments": [
+              {
+                "text": "キミの道を歩くキミへ唄を〜〜〜 ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミの"
+                  },
+                  {
+                    "text": "道",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "くキミへ"
+                  },
+                  {
+                    "text": "唄",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "を〜〜〜 "
+                  }
+                ]
+              },
+              {
+                "text": "（あァァァァァーッ！！！！！）",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あァァァァァーッ！！！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "将歌声送给迈步在属于自己道路上的你～～～ （啊啊啊啊啊啊！！！！！）"
+          },
+          {
+            "id": "line-57",
+            "order": 56,
+            "japanese": "誰かの真似はすんなって",
+            "segments": [
+              {
+                "text": "誰かの真似はすんなって",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かの"
+                  },
+                  {
+                    "text": "真似",
+                    "reading": "まね"
+                  },
+                  {
+                    "text": "はすんなって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "别去一味模仿别人"
+          },
+          {
+            "id": "line-58",
+            "order": 57,
+            "japanese": "未知/道はどこにだってある でしょでしょ？",
+            "segments": [
+              {
+                "text": "未知/",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "未知",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "/"
+                  }
+                ]
+              },
+              {
+                "text": "道はどこにだってある でしょでしょ？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "道",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "はどこにだってある でしょでしょ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "未知/道路在任何地方都有 对不对对不对？"
+          },
+          {
+            "id": "line-59",
+            "order": 58,
+            "japanese": "いくよ☆",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "いくよ☆",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "いくよ☆"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "上咯☆"
+          },
+          {
+            "id": "line-60",
+            "order": 59,
+            "japanese": "誰かに合わす生き方",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "誰かに合わす生き方",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "かに"
+                  },
+                  {
+                    "text": "合",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "わす"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "方",
+                    "reading": "かた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "迎合他人的活法"
+          },
+          {
+            "id": "line-61",
+            "order": 60,
+            "japanese": "（あ〜） 砕けた後は僕らはここで会って!!",
+            "segments": [
+              {
+                "text": "（あ〜） ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あ〜） "
+                  }
+                ]
+              },
+              {
+                "text": "砕けた後は僕らは",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "けた"
+                  },
+                  {
+                    "text": "後",
+                    "reading": "のち"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らは"
+                  }
+                ]
+              },
+              {
+                "text": "ここで会って!!",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ここで"
+                  },
+                  {
+                    "text": "会",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "って!!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "（啊〜） 碰壁破碎之后我们在此相遇！！"
+          },
+          {
+            "id": "line-62",
+            "order": 61,
+            "japanese": "他人とあわすてのひら （あァァァァァーッ！！！！！）",
+            "segments": [
+              {
+                "text": "他人とあわすてのひら ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "他人",
+                    "reading": "たにん"
+                  },
+                  {
+                    "text": "とあわすてのひら "
+                  }
+                ]
+              },
+              {
+                "text": "（あァァァァァーッ！！！！！）",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あァァァァァーッ！！！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "与他人相贴的手掌 （啊啊啊啊啊啊！！！！！）"
+          },
+          {
+            "id": "line-63",
+            "order": 62,
+            "japanese": "見付けたらホラ案外いけるね！ 遠くへ!!!!!!",
+            "segments": [
+              {
+                "text": "見付けたらホラ案外いけるね！ ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "見付",
+                    "reading": "みつ"
+                  },
+                  {
+                    "text": "けたらホラ"
+                  },
+                  {
+                    "text": "案外",
+                    "reading": "あんがい"
+                  },
+                  {
+                    "text": "いけるね！ "
+                  }
+                ]
+              },
+              {
+                "text": "遠くへ!!!!!!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "くへ!!!!!!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "找到之后 瞧啊 意外地能行呢！ 奔向远方！！！！！！"
+          },
+          {
+            "id": "line-64",
+            "order": 63,
+            "japanese": "キミは！ キミで！ ぼくは！ ぼくで！ だから出会えた！！！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "キミは！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミは！ "
+                  }
+                ]
+              },
+              {
+                "text": "キミで！ ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミで！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくは！ ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくは！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくで！ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくで！ "
+                  }
+                ]
+              },
+              {
+                "text": "だから出会えた！！！",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "出会",
+                    "reading": "であ"
+                  },
+                  {
+                    "text": "えた！！！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "你！就是你！我！就是我！所以才能相遇！！！"
+          },
+          {
+            "id": "line-65",
+            "order": 64,
+            "japanese": "ちがう同士とどくように歌う （あァァァァァーッ！！！！！）",
+            "segments": [
+              {
+                "text": "ちがう同士とどくように歌う ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう"
+                  },
+                  {
+                    "text": "同士",
+                    "reading": "どうし"
+                  },
+                  {
+                    "text": "とどくように"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "う "
+                  }
+                ]
+              },
+              {
+                "text": "（あァァァァァーッ！！！！！）",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あァァァァァーッ！！！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "为了让彼此不同的同伴听见而歌唱 （啊啊啊啊啊啊！！！！！）"
+          },
+          {
+            "id": "line-66",
+            "order": 65,
+            "japanese": "（Ah!!!!!） タイムラインにのっかって",
+            "segments": [
+              {
+                "text": "（Ah!!!!!） ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "（Ah!!!!!） "
+                  }
+                ]
+              },
+              {
+                "text": "タイムラインにのっかって",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "タイムラインにのっかって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "（Ah!!!!!） 乘上时间线"
+          },
+          {
+            "id": "line-67",
+            "order": 66,
+            "japanese": "めっちゃ奇跡的な確率 でしょでしょ？",
+            "segments": [
+              {
+                "text": "めっちゃ奇跡的な確率 でしょでしょ？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "めっちゃ"
+                  },
+                  {
+                    "text": "奇跡",
+                    "reading": "きせき"
+                  },
+                  {
+                    "text": "的",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "確率",
+                    "reading": "かくりつ"
+                  },
+                  {
+                    "text": " でしょでしょ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "这绝对是奇迹般的概率 对不对对不对？"
+          },
+          {
+            "id": "line-68",
+            "order": 67,
+            "japanese": "キミと！ ぼくら！ ちがう！ ひとで！ だから仲良し!!!",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "キミと！ ",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミと！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくら！ ",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくら！ "
+                  }
+                ]
+              },
+              {
+                "text": "ちがう！ ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう！ "
+                  }
+                ]
+              },
+              {
+                "text": "ひとで！ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ひとで！ "
+                  }
+                ]
+              },
+              {
+                "text": "だから仲良し!!!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "だから"
+                  },
+                  {
+                    "text": "仲良",
+                    "reading": "なかよ"
+                  },
+                  {
+                    "text": "し!!!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "你！我们！全都不一样！不同的人！所以才是好朋友！！！"
+          },
+          {
+            "id": "line-69",
+            "order": 68,
+            "japanese": "好きなものもちがうぼくらだけど〜〜〜 （あァァァァァーッ！！！！！）",
+            "segments": [
+              {
+                "text": "好きなものもちがう",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "好",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "きなものもちがう"
+                  }
+                ]
+              },
+              {
+                "text": "ぼくらだけ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくらだけ"
+                  }
+                ]
+              },
+              {
+                "text": "ど〜〜〜 ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ど〜〜〜 "
+                  }
+                ]
+              },
+              {
+                "text": "（あァァァァァーッ！！！！！）",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "（あァァァァァーッ！！！！！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "虽说喜欢的物事各不相同～～～ （啊啊啊啊啊啊！！！！！）"
+          },
+          {
+            "id": "line-70",
+            "order": 69,
+            "japanese": "だいぶ前からこうやって",
+            "segments": [
+              {
+                "text": "だいぶ前からこうやって",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "だいぶ"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "からこうやって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "但很久以前就隐隐预感到"
+          },
+          {
+            "id": "line-71",
+            "order": 70,
+            "japanese": "出会える予感してた!!!! キセキテキネ☆",
+            "segments": [
+              {
+                "text": "出会える予感してた!!!! キセキテキネ☆",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "出会",
+                    "reading": "であ"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "予感",
+                    "reading": "よかん"
+                  },
+                  {
+                    "text": "してた!!!! キセキテキネ☆"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "会像这样相遇了！！！！ 真是奇迹呢☆"
+          },
+          {
+            "id": "line-72",
+            "order": 71,
+            "japanese": "キミと！ ぼくら！ ちがう！ ヒトで！ だからシアワセ!!!",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "キミと！ ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミと！ "
+                  }
+                ]
+              },
+              {
+                "text": "ぼくら！ ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくら！ "
+                  }
+                ]
+              },
+              {
+                "text": "ちがう！ ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちがう！ "
+                  }
+                ]
+              },
+              {
+                "text": "ヒトで！ ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ヒトで！ "
+                  }
+                ]
+              },
+              {
+                "text": "だからシアワセ!!!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "だからシアワセ!!!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "你！我们！全都不一样！不同的人！所以才是幸福！！！"
+          },
+          {
+            "id": "line-73",
+            "order": 72,
+            "japanese": "キミのもとへ鳴り響けロッケンロール〜〜〜！！！！！",
+            "segments": [
+              {
+                "text": "キミのもとへ鳴り響けロッケンロール〜〜〜！！！！！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "キミのもとへ"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "響",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "けロッケンロール〜〜〜！！！！！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "奔向你的身旁 摇滚乐放声响彻吧～～～！！！！！"
+          },
+          {
+            "id": "line-74",
+            "order": 73,
+            "japanese": "どんな日々でもこーやって！！",
+            "segments": [
+              {
+                "text": "どんな日々でもこーやって！！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "どんな"
+                  },
+                  {
+                    "text": "日々",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "でもこーやって！！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "无论怎样的日常 只要像这样！！"
+          },
+          {
+            "id": "line-75",
+            "order": 74,
+            "japanese": "飛びだせばきっとハッピー でしょでしょ？",
+            "segments": [
+              {
+                "text": "飛びだせばきっとハッピー でしょでしょ？",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "飛",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "びだせばきっとハッピー でしょでしょ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "飞跃而出就必定能收获快乐 对不对对不对？"
+          },
+          {
+            "id": "line-76",
+            "order": 75,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-77",
+            "order": 76,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-78",
+            "order": 77,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-79",
+            "order": 78,
+            "japanese": "HEY! HEY! HEY! HEY! HEY! HEY!",
+            "segments": [
+              {
+                "text": "HEY! HEY! HEY! HEY! HEY! HEY!",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "HEY! HEY! HEY! HEY! HEY! HEY!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "HEY! HEY! HEY! HEY! HEY! HEY!"
+          },
+          {
+            "id": "line-80",
+            "order": 79,
+            "japanese": "うわあ~い☆",
+            "segments": [
+              {
+                "text": "うわあ~い☆",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "うわあ~い☆"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "哇——啊☆"
+          },
+          {
+            "id": "line-81",
+            "order": 80,
+            "japanese": "はっはっ！　やったな！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "はっはっ！　やったな！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "はっはっ！　やったな！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": [],
+            "zh-CN": "哈哈！ 太棒啦！"
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Chigau!!!",
+          "revisionId": 340330,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Chigau%21%21%21?oldid=340330",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Chigau!!!",
+          "revisionId": 340330,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Chigau%21%21%21?oldid=340330",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Chigau!!!",
+          "revisionId": 340330,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Chigau%21%21%21?oldid=340330",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

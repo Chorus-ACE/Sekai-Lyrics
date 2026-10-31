@@ -1,0 +1,3379 @@
+{
+  "version": 3,
+  "musicId": 78,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:00:44Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "ぼうけんのしょがきえました！",
+            "zh-CN": "冒险之书消失了！",
+            "segments": [
+              {
+                "text": "ぼうけんのしょがきえました！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼうけんのしょがきえました！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "てくてく歩いてマモノと遭遇",
+            "zh-CN": "晃晃悠悠漫步 遭遇了魔物",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "てくてく歩いてマモノと遭遇",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "てくてく"
+                  },
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "いてマモノと"
+                  },
+                  {
+                    "text": "遭遇",
+                    "reading": "そうぐう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "そこそこ強い俺に皆（so good）",
+            "zh-CN": "对相当强力的我 大家纷纷夸奖 (so good)",
+            "segments": [
+              {
+                "text": "そこそこ強い俺に皆",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこそこ"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "俺",
+                    "reading": "おれ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  }
+                ]
+              },
+              {
+                "text": "（so good）",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（so good）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "世界で一番勇者っぽいぜ　（yeah! yeah!）",
+            "zh-CN": "堪称全世界最具勇者风范啦 (yeah! yeah!)",
+            "segments": [
+              {
+                "text": "世界で一番勇者っぽいぜ　",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "一番勇者",
+                    "reading": "いちばんゆうしゃ"
+                  },
+                  {
+                    "text": "っぽいぜ　"
+                  }
+                ]
+              },
+              {
+                "text": "（yeah! yeah!）",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（yeah! yeah!）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "余裕じゃんね？",
+            "zh-CN": "游刃有余对吧？",
+            "segments": [
+              {
+                "text": "余裕じゃんね？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "余裕",
+                    "reading": "よゆう"
+                  },
+                  {
+                    "text": "じゃんね？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "ちょこまか動くな　このゲル野郎",
+            "zh-CN": "别在那窜来窜去的 这个史莱姆凝胶混蛋",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ちょこまか動くな　このゲル野郎",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ちょこまか"
+                  },
+                  {
+                    "text": "動",
+                    "reading": "うご"
+                  },
+                  {
+                    "text": "くな　このゲル"
+                  },
+                  {
+                    "text": "野郎",
+                    "reading": "やろう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "わしとて魔法くらい使えるわ！（えるわ！）",
+            "zh-CN": "老夫好歹也是能使用魔法的啊！（的啊！）",
+            "segments": [
+              {
+                "text": "わしとて魔法くらい使えるわ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "わしとて"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "くらい"
+                  },
+                  {
+                    "text": "使",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "えるわ！"
+                  }
+                ]
+              },
+              {
+                "text": "（えるわ！）",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（えるわ！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "ほれほれ火あぶりの刑じゃ（ぼう！ぼう！）",
+            "zh-CN": "瞧好了 赐你火刑伺候（呼！呼！）",
+            "segments": [
+              {
+                "text": "ほれほれ火あぶりの刑じゃ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ほれほれ"
+                  },
+                  {
+                    "text": "火",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "あぶりの"
+                  },
+                  {
+                    "text": "刑",
+                    "reading": "けい"
+                  },
+                  {
+                    "text": "じゃ"
+                  }
+                ]
+              },
+              {
+                "text": "（ぼう！ぼう！）",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ぼう！ぼう！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "燃えてるぜぃ！",
+            "zh-CN": "彻底燃烧起来啦！",
+            "segments": [
+              {
+                "text": "燃えてるぜぃ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "燃",
+                    "reading": "も"
+                  },
+                  {
+                    "text": "えてるぜぃ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "教えて王様　あなたはさ、将棋でいうところの王将で",
+            "zh-CN": "请告诉我吧 国王陛下 您在象棋里可是“将”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "教えて王様　あなたはさ、将棋でいうところの王将で",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "教",
+                    "reading": "おし"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "王様",
+                    "reading": "おうさま"
+                  },
+                  {
+                    "text": "　あなたはさ、"
+                  },
+                  {
+                    "text": "将棋",
+                    "reading": "しょぎ"
+                  },
+                  {
+                    "text": "でいうところの"
+                  },
+                  {
+                    "text": "王将",
+                    "reading": "おうしょう"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "どうしてパーティの一員になる必要があるんですか！",
+            "zh-CN": "为什么非得亲自加入冒险队伍不可啊！",
+            "segments": [
+              {
+                "text": "どうしてパーティの一員になる必要があるん",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうしてパーティの"
+                  },
+                  {
+                    "text": "一員",
+                    "reading": "いちいん"
+                  },
+                  {
+                    "text": "になる"
+                  },
+                  {
+                    "text": "必要",
+                    "reading": "ひつよう"
+                  },
+                  {
+                    "text": "があるん"
+                  }
+                ]
+              },
+              {
+                "text": "ですか！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ですか！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "・・細かいことをきにしすぎ！",
+            "zh-CN": "……你太在意细节啦！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "・・細かいことを",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "・・"
+                  },
+                  {
+                    "text": "細",
+                    "reading": "ごま"
+                  },
+                  {
+                    "text": "かいことを"
+                  }
+                ]
+              },
+              {
+                "text": "きにしすぎ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "きにしすぎ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "おお、神様、今僕にお告げをください　ください　くださいな",
+            "zh-CN": "哦 神明大人 请赐予我神谕吧 赐予我 赐予我吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おお、",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "おお、"
+                  }
+                ]
+              },
+              {
+                "text": "神様、今僕にお告げをください　ください　",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "神様",
+                    "reading": "かみさま"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "今僕",
+                    "reading": "いまぼく"
+                  },
+                  {
+                    "text": "にお"
+                  },
+                  {
+                    "text": "告",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "げをください　ください　"
+                  }
+                ]
+              },
+              {
+                "text": "くださいな",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "くださいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "ついでにあのおバカさんの頭をよくして！",
+            "zh-CN": "顺便也把那个大笨蛋的脑子变聪明点吧！",
+            "segments": [
+              {
+                "text": "ついでにあのおバカさんの頭をよくして！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ついでにあのおバカさんの"
+                  },
+                  {
+                    "text": "頭",
+                    "reading": "あたま"
+                  },
+                  {
+                    "text": "をよくして！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "世界の平和を求め我らは旅してる",
+            "zh-CN": "为寻求世界和平 我们踏上旅途",
+            "segments": [
+              {
+                "text": "世界の平和を求め我らは旅してる",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "平和",
+                    "reading": "へいわ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "求",
+                    "reading": "もと"
+                  },
+                  {
+                    "text": "め"
+                  },
+                  {
+                    "text": "我",
+                    "reading": "われ"
+                  },
+                  {
+                    "text": "らは"
+                  },
+                  {
+                    "text": "旅",
+                    "reading": "たび"
+                  },
+                  {
+                    "text": "してる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "でも、やりましたついに",
+            "zh-CN": "但是 终于还是酿成大祸了",
+            "segments": [
+              {
+                "text": "でも、やりましたついに",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "でも、やりましたついに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "ぼうけんのしょがきえました！（テヘ）",
+            "zh-CN": "冒险之书消失了！（嘿嘿）",
+            "segments": [
+              {
+                "text": "ぼうけんのしょがきえました！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼうけんのしょがきえました！"
+                  }
+                ]
+              },
+              {
+                "text": "（テヘ）",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（テヘ）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "おいおいなにしてんの？何やった？ え？",
+            "zh-CN": "喂喂 你在干什么啊？干了什么好事？ 诶？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おいおいなにしてんの？何やった？ ",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "おいおいなにしてんの？"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "やった？ "
+                  }
+                ]
+              },
+              {
+                "text": "え？",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "え？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "何やった？どうしてくれんの？",
+            "zh-CN": "干了什么好事？这下你打算怎么办啊？",
+            "segments": [
+              {
+                "text": "何やった？どうしてくれんの？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "やった？どうしてくれんの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "ノープロブレム　I'm KING　3.2.1...",
+            "zh-CN": "No problem I'm KING 3.2.1...",
+            "segments": [
+              {
+                "text": "ノープロブレム　I'm KING　3.2.1...",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ノープロブレム　I'm KING　3.2.1..."
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "ホリット　ホリット　ホリットじゃ！",
+            "zh-CN": "荷里特 荷里特 荷里特魔法！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ホリット　ホリット　ホリットじゃ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ホリット　ホリット　ホリットじゃ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "なかなかどうして僕らの旅は",
+            "zh-CN": "怎么搞的 我们的这场旅途",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "なかなかどうして僕らの旅は",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "なかなかどうして"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らの"
+                  },
+                  {
+                    "text": "旅",
+                    "reading": "たび"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "一筋縄ではいかない様子",
+            "zh-CN": "看起来绝非轻而易举能搞定的样子",
+            "segments": [
+              {
+                "text": "一筋縄ではいかない様子",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "一筋縄",
+                    "reading": "ひとすじなわ"
+                  },
+                  {
+                    "text": "ではいかない"
+                  },
+                  {
+                    "text": "様子",
+                    "reading": "ようす"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "ある朝起きたら牢屋のなかに！？（ろう！や！）",
+            "zh-CN": "某天早晨醒来居然身在牢房之中！？（牢！房！）",
+            "segments": [
+              {
+                "text": "ある朝起きたら牢屋のなかに！？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "ある"
+                  },
+                  {
+                    "text": "朝起",
+                    "reading": "あさお"
+                  },
+                  {
+                    "text": "きたら"
+                  },
+                  {
+                    "text": "牢屋",
+                    "reading": "ろうや"
+                  },
+                  {
+                    "text": "のなかに！？"
+                  }
+                ]
+              },
+              {
+                "text": "（ろう！や！）",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（ろう！や！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "何があった？！",
+            "zh-CN": "到底发生了什么？！",
+            "segments": [
+              {
+                "text": "何があった？！",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "があった？！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "どうやら敵につかまったようじゃ",
+            "zh-CN": "看来好像是被敌人给抓住了啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どうやら敵につかまったようじゃ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうやら"
+                  },
+                  {
+                    "text": "敵",
+                    "reading": "てき"
+                  },
+                  {
+                    "text": "につかまったようじゃ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "何かの罠にはめられたようじゃ",
+            "zh-CN": "看来是中了某种陷阱圈套啊",
+            "segments": [
+              {
+                "text": "何かの罠にはめられたようじゃ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "かの"
+                  },
+                  {
+                    "text": "罠",
+                    "reading": "わな"
+                  },
+                  {
+                    "text": "にはめられたようじゃ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "ここから出るのは至難の技じゃ！（じゃあ？！じゃあ？！）",
+            "zh-CN": "想从这里脱身可是难如登天啊！（啊？！啊？！）",
+            "segments": [
+              {
+                "text": "ここから出るのは至難の技じゃ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ここから"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "で"
+                  },
+                  {
+                    "text": "るのは"
+                  },
+                  {
+                    "text": "至難",
+                    "reading": "しなん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "技",
+                    "reading": "わざ"
+                  },
+                  {
+                    "text": "じゃ！"
+                  }
+                ]
+              },
+              {
+                "text": "（じゃあ？！じゃあ？！）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（じゃあ？！じゃあ？！）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "・・どうするよ？",
+            "zh-CN": "……该怎么办啊？",
+            "segments": [
+              {
+                "text": "・・どうするよ？",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "・・どうするよ？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "教えて王様　もしかして",
+            "zh-CN": "请告诉我吧 国王陛下 难不成",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "教えて王様　もしかして",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "教",
+                    "reading": "おし"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "王様",
+                    "reading": "おうさま"
+                  },
+                  {
+                    "text": "　もしかして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "ものすごくエンジョイしていますね？",
+            "zh-CN": "您其实乐在其中享受得不得了吧？",
+            "segments": [
+              {
+                "text": "ものすごくエンジョイしていますね？",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ものすごくエンジョイしていますね？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "この状況でワクワクできるのはマジ羨ましいかぎりです",
+            "zh-CN": "这种状况下居然还能兴奋雀跃 真是让人实名羡慕啊",
+            "segments": [
+              {
+                "text": "この状況でワクワクできるのはマジ羨ましい",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "状況",
+                    "reading": "じょうきょう"
+                  },
+                  {
+                    "text": "でワクワクできるのはマジ"
+                  },
+                  {
+                    "text": "羨",
+                    "reading": "うらや"
+                  },
+                  {
+                    "text": "ましい"
+                  }
+                ]
+              },
+              {
+                "text": "かぎりです",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "かぎりです"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "あたりまえだぜ！",
+            "zh-CN": "那是理所当然的啦！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "あたりまえだぜ！",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "あたりまえだぜ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "ハートの導火線に火をつけてくぜ",
+            "zh-CN": "要将内心的导火索彻底点燃啦",
+            "segments": [
+              {
+                "text": "ハートの導火線に火をつけてくぜ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハートの"
+                  },
+                  {
+                    "text": "導火線",
+                    "reading": "どうかせん"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "火",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "をつけてくぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "KING OF ROCK！!",
+            "zh-CN": "KING OF ROCK!!",
+            "segments": [
+              {
+                "text": "KING OF ROCK！!",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "KING OF ROCK！!"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "oh..あり得ない展開はまさに想像超える魔法だ",
+            "zh-CN": "oh.. 意想不到的神展开简直是超越想象的魔法",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "oh..あり得ない展開はまさに想像超える魔法だ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "oh..あり"
+                  },
+                  {
+                    "text": "得",
+                    "reading": "え"
+                  },
+                  {
+                    "text": "ない"
+                  },
+                  {
+                    "text": "展開",
+                    "reading": "てんかい"
+                  },
+                  {
+                    "text": "はまさに"
+                  },
+                  {
+                    "text": "想像超",
+                    "reading": "そうぞうこ"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "強大な悪に打ち勝てる、そんな力を今！",
+            "zh-CN": "能战胜强大邪恶的 便是此刻这份力量！",
+            "segments": [
+              {
+                "text": "強大な悪に打ち勝てる、そんな力を今！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "強大",
+                    "reading": "きょうだい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "あく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "勝",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "てる、そんな"
+                  },
+                  {
+                    "text": "力",
+                    "reading": "ちから"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "13の魔法をすべて今、使いこなし",
+            "zh-CN": "将全部13种魔法于此刻 运用自如",
+            "segments": [
+              {
+                "text": "13の魔法をすべて今、使いこなし",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "13の"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "をすべて"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "使",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "いこなし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "魔王のいるフロアへとすすめ！",
+            "zh-CN": "向魔王所在的楼层奋勇前进！",
+            "segments": [
+              {
+                "text": "魔王のいるフロアへとすすめ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "魔王",
+                    "reading": "まおう"
+                  },
+                  {
+                    "text": "のいるフロアへとすすめ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "おお、神様、今僕に力をください　ください　くださいな",
+            "zh-CN": "哦 神明大人 请赐予我力量吧 赐予我 赐予我吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おお、神様、今僕に力をください　ください　くださいな",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "おお、"
+                  },
+                  {
+                    "text": "神様",
+                    "reading": "かみさま"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "今僕",
+                    "reading": "いまぼく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "力",
+                    "reading": "ちから"
+                  },
+                  {
+                    "text": "をください　ください　くださいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "勇者じゃなくてもいいから　立ち向かう勇気を！",
+            "zh-CN": "哪怕不是勇者也没关系 请赐予我迎难而上的勇气！",
+            "segments": [
+              {
+                "text": "勇者じゃなくてもいいから　立ち向かう勇気を！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "勇者",
+                    "reading": "ゆうしゃ"
+                  },
+                  {
+                    "text": "じゃなくてもいいから　"
+                  },
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "かう"
+                  },
+                  {
+                    "text": "勇気",
+                    "reading": "ゆうき"
+                  },
+                  {
+                    "text": "を！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "世界の平和まであと少しというとこで",
+            "zh-CN": "距离拯救世界和平明明就只差最后一步了",
+            "segments": [
+              {
+                "text": "世界の平和まであと少しというとこで",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "平和",
+                    "reading": "へいわ"
+                  },
+                  {
+                    "text": "まであと"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しというとこで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "世またまた、やらかしたよ",
+            "zh-CN": "结果又又又 酿成大祸啦",
+            "segments": [
+              {
+                "text": "世またまた、やらかしたよ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "世",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "またまた、やらかしたよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "ぼうけんのしょがきえました！",
+            "zh-CN": "冒险之书消失了！",
+            "segments": [
+              {
+                "text": "ぼうけんのしょがきえました！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼうけんのしょがきえました！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "oh..信じられない（わしも）",
+            "zh-CN": "oh.. 简直难以置信（老夫也是）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "oh..信じられない",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "oh.."
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じられない"
+                  }
+                ]
+              },
+              {
+                "text": "（わしも）",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（わしも）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "僕の（わしらの）",
+            "zh-CN": "我的（我们的）",
+            "segments": [
+              {
+                "text": "僕の",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              },
+              {
+                "text": "（わしらの）",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（わしらの）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000047",
+            "order": 46,
+            "japanese": "心は折れそう",
+            "zh-CN": "心灵简直快要彻底崩溃了",
+            "segments": [
+              {
+                "text": "心は折れそう",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "折",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "れそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ぼうけんのしょがきえました！",
+            "zh-CN": "冒险之书消失了！",
+            "segments": [
+              {
+                "text": "ぼうけんのしょがきえました！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼうけんのしょがきえました！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "てくてく歩いてマモノと遭遇",
+            "zh-CN": "晃晃悠悠漫步 遭遇了魔物",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "てくてく歩いてマモノと遭遇",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "てくてく"
+                  },
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "いてマモノと"
+                  },
+                  {
+                    "text": "遭遇",
+                    "reading": "そうぐう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "そこそこ強い俺に皆（so good）",
+            "zh-CN": "对相当强力的我 大家纷纷夸奖 (so good)",
+            "segments": [
+              {
+                "text": "そこそこ強い俺に皆",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこそこ"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "俺",
+                    "reading": "おれ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  }
+                ]
+              },
+              {
+                "text": "（so good）",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（so good）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "世界で一番勇者っぽいぜ　（yeah! yeah!）",
+            "zh-CN": "堪称全世界最具勇者风范啦 (yeah! yeah!)",
+            "segments": [
+              {
+                "text": "世界で一番勇者っぽいぜ　",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "一番勇者",
+                    "reading": "いちばんゆうしゃ"
+                  },
+                  {
+                    "text": "っぽいぜ　"
+                  }
+                ]
+              },
+              {
+                "text": "（yeah! yeah!）",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（yeah! yeah!）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "余裕じゃんね？",
+            "zh-CN": "游刃有余对吧？",
+            "segments": [
+              {
+                "text": "余裕じゃんね？",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "余裕",
+                    "reading": "よゆう"
+                  },
+                  {
+                    "text": "じゃんね？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "教えて王様　あなたはさ、将棋でいうところの王将で",
+            "zh-CN": "请告诉我吧 国王陛下 您在象棋里可是“将”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "教えて王様　あなたはさ、将棋でいうところの王将で",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "教",
+                    "reading": "おし"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "王様",
+                    "reading": "おうさま"
+                  },
+                  {
+                    "text": "　あなたはさ、"
+                  },
+                  {
+                    "text": "将棋",
+                    "reading": "しょぎ"
+                  },
+                  {
+                    "text": "でいうところの"
+                  },
+                  {
+                    "text": "王将",
+                    "reading": "おうしょう"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "どうしてパーティの一員になる必要があるんですか！",
+            "zh-CN": "为什么非得亲自加入冒险队伍不可啊！",
+            "segments": [
+              {
+                "text": "どうしてパーティの一員になる必要があるんですか！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうしてパーティの"
+                  },
+                  {
+                    "text": "一員",
+                    "reading": "いちいん"
+                  },
+                  {
+                    "text": "になる"
+                  },
+                  {
+                    "text": "必要",
+                    "reading": "ひつよう"
+                  },
+                  {
+                    "text": "があるんですか！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "・・細かいことをきにしすぎ！",
+            "zh-CN": "……你太在意细节啦！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "・・細かいことを",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "・・"
+                  },
+                  {
+                    "text": "細",
+                    "reading": "ごま"
+                  },
+                  {
+                    "text": "かいことを"
+                  }
+                ]
+              },
+              {
+                "text": "きにしすぎ！",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "きにしすぎ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "oh..あり得ない展開はまさに想像超える魔法だ",
+            "zh-CN": "oh.. 意想不到的神展开简直是超越想象的魔法",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "oh..あり得ない展開はまさに想像超える魔法だ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "oh..あり"
+                  },
+                  {
+                    "text": "得",
+                    "reading": "え"
+                  },
+                  {
+                    "text": "ない"
+                  },
+                  {
+                    "text": "展開",
+                    "reading": "てんかい"
+                  },
+                  {
+                    "text": "はまさに"
+                  },
+                  {
+                    "text": "想像超",
+                    "reading": "そうぞうこ"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "強大な悪に打ち勝てる、そんな力を今！",
+            "zh-CN": "能战胜强大邪恶的 便是此刻这份力量！",
+            "segments": [
+              {
+                "text": "強大な悪に打ち勝てる、そんな力を今！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "強大",
+                    "reading": "きょうだい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "あく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "勝",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "てる、そんな"
+                  },
+                  {
+                    "text": "力",
+                    "reading": "ちから"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "13の魔法をすべて今、使いこなし",
+            "zh-CN": "将全部13种魔法于此刻 运用自如",
+            "segments": [
+              {
+                "text": "13の魔法をすべて今、使いこなし",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "13の"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "をすべて"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "使",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "いこなし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "魔王のいるフロアへとすすめ！",
+            "zh-CN": "向魔王所在的楼层奋勇前进！",
+            "segments": [
+              {
+                "text": "魔王のいるフロアへとすすめ！",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "魔王",
+                    "reading": "まおう"
+                  },
+                  {
+                    "text": "のいるフロアへとすすめ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "おお、神様、今僕に力をください　ください　くださいな",
+            "zh-CN": "哦 神明大人 请赐予我力量吧 赐予我 赐予我吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おお、神様、今僕に力をください　ください　くださいな",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "おお、"
+                  },
+                  {
+                    "text": "神様",
+                    "reading": "かみさま"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "今僕",
+                    "reading": "いまぼく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "力",
+                    "reading": "ちから"
+                  },
+                  {
+                    "text": "をください　ください　くださいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "勇者じゃなくてもいいから　立ち向かう勇気を！",
+            "zh-CN": "哪怕不是勇者也没关系 请赐予我迎难而上的勇气！",
+            "segments": [
+              {
+                "text": "勇者じゃなくてもいいから　立ち向かう勇気を！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "勇者",
+                    "reading": "ゆうしゃ"
+                  },
+                  {
+                    "text": "じゃなくてもいいから　"
+                  },
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "かう"
+                  },
+                  {
+                    "text": "勇気",
+                    "reading": "ゆうき"
+                  },
+                  {
+                    "text": "を！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "世界の平和まであと少しというとこで",
+            "zh-CN": "距离拯救世界和平明明就只差最后一步了",
+            "segments": [
+              {
+                "text": "世界の平和まであと少しというとこで",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "平和",
+                    "reading": "へいわ"
+                  },
+                  {
+                    "text": "まであと"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しというとこで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "世またまた、やらかしたよ",
+            "zh-CN": "结果又又又 酿成大祸啦",
+            "segments": [
+              {
+                "text": "世またまた、やらかしたよ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "世",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "またまた、やらかしたよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "ぼうけんのしょがきえました！",
+            "zh-CN": "冒险之书消失了！",
+            "segments": [
+              {
+                "text": "ぼうけんのしょがきえました！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼうけんのしょがきえました！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "oh..信じられない（わしも）",
+            "zh-CN": "oh.. 简直难以置信（老夫也是）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "oh..信じられない",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "oh.."
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じられない"
+                  }
+                ]
+              },
+              {
+                "text": "（わしも）",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（わしも）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "僕の（わしらの）",
+            "zh-CN": "我的（我们的）",
+            "segments": [
+              {
+                "text": "僕の",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              },
+              {
+                "text": "（わしらの）",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（わしらの）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "心は折れそう",
+            "zh-CN": "心灵简直快要彻底崩溃了",
+            "segments": [
+              {
+                "text": "心は折れそう",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "折",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "れそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000036",
+          "full-000037",
+          "full-000038",
+          "full-000039",
+          "full-000040",
+          "full-000041",
+          "full-000042",
+          "full-000043",
+          "full-000044",
+          "full-000045",
+          "full-000046",
+          "full-000047"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version",
+          "SEKAI"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "game": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ぼうけんのしょがきえました！",
+            "zh-CN": "冒险之书消失了！",
+            "segments": [
+              {
+                "text": "ぼうけんのしょがきえました！",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼうけんのしょがきえました！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "てくてく歩いてマモノと遭遇",
+            "zh-CN": "晃晃悠悠漫步 遭遇了魔物",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "てくてく歩いてマモノと遭遇",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "てくてく"
+                  },
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "いてマモノと"
+                  },
+                  {
+                    "text": "遭遇",
+                    "reading": "そうぐう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "そこそこ強い俺に皆（so good）",
+            "zh-CN": "对相当强力的我 大家纷纷夸奖 (so good)",
+            "segments": [
+              {
+                "text": "そこそこ強い俺に皆",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこそこ"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "俺",
+                    "reading": "おれ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "皆",
+                    "reading": "みんな"
+                  }
+                ]
+              },
+              {
+                "text": "（so good）",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（so good）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "世界で一番勇者っぽいぜ　（yeah! yeah!）",
+            "zh-CN": "堪称全世界最具勇者风范啦 (yeah! yeah!)",
+            "segments": [
+              {
+                "text": "世界で一番勇者っぽいぜ　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "一番勇者",
+                    "reading": "いちばんゆうしゃ"
+                  },
+                  {
+                    "text": "っぽいぜ　"
+                  }
+                ]
+              },
+              {
+                "text": "（yeah! yeah!）",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（yeah! yeah!）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "余裕じゃんね？",
+            "zh-CN": "游刃有余对吧？",
+            "segments": [
+              {
+                "text": "余裕じゃんね？",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "余裕",
+                    "reading": "よゆう"
+                  },
+                  {
+                    "text": "じゃんね？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "教えて王様　あなたはさ、将棋でいうところの王将で",
+            "zh-CN": "请告诉我吧 国王陛下 您在象棋里可是“将”",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "教えて王様　あなたはさ、将棋でいうところの王将で",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "教",
+                    "reading": "おし"
+                  },
+                  {
+                    "text": "えて"
+                  },
+                  {
+                    "text": "王様",
+                    "reading": "おうさま"
+                  },
+                  {
+                    "text": "　あなたはさ、"
+                  },
+                  {
+                    "text": "将棋",
+                    "reading": "しょぎ"
+                  },
+                  {
+                    "text": "でいうところの"
+                  },
+                  {
+                    "text": "王将",
+                    "reading": "おうしょう"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "どうしてパーティの一員になる必要があるんですか！",
+            "zh-CN": "为什么非得亲自加入冒险队伍不可啊！",
+            "segments": [
+              {
+                "text": "どうしてパーティの一員になる必要があるんですか！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "どうしてパーティの"
+                  },
+                  {
+                    "text": "一員",
+                    "reading": "いちいん"
+                  },
+                  {
+                    "text": "になる"
+                  },
+                  {
+                    "text": "必要",
+                    "reading": "ひつよう"
+                  },
+                  {
+                    "text": "があるんですか！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "・・細かいことをきにしすぎ！",
+            "zh-CN": "……你太在意细节啦！",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "・・細かいことをきにしすぎ！",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "・・"
+                  },
+                  {
+                    "text": "細",
+                    "reading": "ごま"
+                  },
+                  {
+                    "text": "かいことをきにしすぎ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "oh..あり得ない展開はまさに想像超える魔法だ",
+            "zh-CN": "oh.. 意想不到的神展开简直是超越想象的魔法",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "oh..あり得ない展開はまさに想像超える魔法だ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "oh..あり"
+                  },
+                  {
+                    "text": "得",
+                    "reading": "え"
+                  },
+                  {
+                    "text": "ない"
+                  },
+                  {
+                    "text": "展開",
+                    "reading": "てんかい"
+                  },
+                  {
+                    "text": "はまさに"
+                  },
+                  {
+                    "text": "想像超",
+                    "reading": "そうぞうこ"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "強大な悪に打ち勝てる、そんな力を今！",
+            "zh-CN": "能战胜强大邪恶的 便是此刻这份力量！",
+            "segments": [
+              {
+                "text": "強大な悪に打ち勝てる、そんな力を今！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "強大",
+                    "reading": "きょうだい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "悪",
+                    "reading": "あく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "勝",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "てる、そんな"
+                  },
+                  {
+                    "text": "力",
+                    "reading": "ちから"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "13の魔法をすべて今、使いこなし",
+            "zh-CN": "将全部13种魔法于此刻 运用自如",
+            "segments": [
+              {
+                "text": "13の魔法をすべて今、使いこなし",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "13の"
+                  },
+                  {
+                    "text": "魔法",
+                    "reading": "まほう"
+                  },
+                  {
+                    "text": "をすべて"
+                  },
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "使",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "いこなし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "魔王のいるフロアへとすすめ！",
+            "zh-CN": "向魔王所在的楼层奋勇前进！",
+            "segments": [
+              {
+                "text": "魔王のいるフロアへとすすめ！",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "魔王",
+                    "reading": "まおう"
+                  },
+                  {
+                    "text": "のいるフロアへとすすめ！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "おお、神様、今僕に力をください　ください　くださいな",
+            "zh-CN": "哦 神明大人 请赐予我力量吧 赐予我 赐予我吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おお、神様、今僕に力をください　ください　くださいな",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "おお、"
+                  },
+                  {
+                    "text": "神様",
+                    "reading": "かみさま"
+                  },
+                  {
+                    "text": "、"
+                  },
+                  {
+                    "text": "今僕",
+                    "reading": "いまぼく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "力",
+                    "reading": "ちから"
+                  },
+                  {
+                    "text": "をください　ください　くださいな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "勇者じゃなくてもいいから　立ち向かう勇気を！",
+            "zh-CN": "哪怕不是勇者也没关系 请赐予我迎难而上的勇气！",
+            "segments": [
+              {
+                "text": "勇者じゃなくてもいいから　立ち向かう勇気を！",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "勇者",
+                    "reading": "ゆうしゃ"
+                  },
+                  {
+                    "text": "じゃなくてもいいから　"
+                  },
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "かう"
+                  },
+                  {
+                    "text": "勇気",
+                    "reading": "ゆうき"
+                  },
+                  {
+                    "text": "を！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "世界の平和まであと少しというとこで",
+            "zh-CN": "距离拯救世界和平明明就只差最后一步了",
+            "segments": [
+              {
+                "text": "世界の平和まであと少しというとこで",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "平和",
+                    "reading": "へいわ"
+                  },
+                  {
+                    "text": "まであと"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "しというとこで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "世またまた、やらかしたよ",
+            "zh-CN": "结果又又又 酿成大祸啦",
+            "segments": [
+              {
+                "text": "世またまた、やらかしたよ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "世",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "またまた、やらかしたよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "ぼうけんのしょがきえました！",
+            "zh-CN": "冒险之书消失了！",
+            "segments": [
+              {
+                "text": "ぼうけんのしょがきえました！",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼうけんのしょがきえました！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "oh..信じられない（わしも）",
+            "zh-CN": "oh.. 简直难以置信（老夫也是）",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "oh..信じられない",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "oh.."
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じられない"
+                  }
+                ]
+              },
+              {
+                "text": "（わしも）",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（わしも）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "僕の（わしらの）",
+            "zh-CN": "我的（我们的）",
+            "segments": [
+              {
+                "text": "僕の",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  }
+                ]
+              },
+              {
+                "text": "（わしらの）",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "（わしらの）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "心は折れそう",
+            "zh-CN": "心灵简直快要彻底崩溃了",
+            "segments": [
+              {
+                "text": "心は折れそう",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "折",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "れそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Game Version",
+          "VIRTUAL SINGER"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Bouken no Sho ga Kiemashita!",
+          "revisionId": 326791,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

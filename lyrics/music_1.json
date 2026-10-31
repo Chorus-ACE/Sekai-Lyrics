@@ -1,0 +1,891 @@
+{
+  "version": 4,
+  "musicId": 1,
+  "revision": 5,
+  "updatedAt": "2026-08-25T04:38:43Z",
+  "state": "complete",
+  "defaultTranslationEditionKey": "main",
+  "translationEditions": [
+    {
+      "key": "main",
+      "label": "默认译本",
+      "renditions": [
+        {
+          "renditionKey": "vocaloid",
+          "translationCredits": {
+            "translation": "雪莹ちゃん"
+          },
+          "full": {
+            "translations": [
+              "为了不遗忘那无形的心意",
+              "抹去了早已定型的排版",
+              "捕捉偶然轻哼出的一句旋律",
+              "乘上深藏于心的话语 向着天空尽情释放",
+              "想要向你传达的心意",
+              "想要向你传递的心意",
+              "无数的点连成线",
+              "响彻遥远的彼方",
+              "想要向你传达的话语",
+              "想要向你传递的声音",
+              "诸多的线连成圆",
+              "将一切紧密相连 无论在何方 (ah...)",
+              "想要向你传达的心意",
+              "想要向你传递的心意",
+              "无数的点连成线",
+              "你想要传达的心意",
+              "你想要传递的心意",
+              "无数的点连成线",
+              "响彻遥远的彼方",
+              "你想要传达的话语",
+              "你想要传递的声音",
+              "诸多的线连成圆",
+              "将一切紧密相连 无论在何方 (ah...)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "testedition",
+      "label": "测试译本",
+      "renditions": [
+        {
+          "renditionKey": "vocaloid",
+          "translationCredits": {
+            "translation": "雪莹ちゃん"
+          },
+          "full": {
+            "translations": [
+              "为了不遗忘那无形的心意",
+              "抹去了早已定型的排版",
+              "捕捉偶然轻哼出的一句旋律",
+              "乘上深藏于心的话语 向着天空尽情释放",
+              "想要向你传达的心意",
+              "想要向你传递的心意",
+              "无数的点连成线",
+              "响彻遥远的彼方",
+              "想要向你传达的话语",
+              "想要向你传递的声音",
+              "诸多的线连成圆",
+              "将一切紧密相连 无论在何方 (ah...)",
+              "想要向你传达的心意",
+              "想要向你传递的心意",
+              "无数的点连成线",
+              "你想要传达的心意",
+              "你想要传递的心意",
+              "无数的点连成线",
+              "响彻遥远的彼方",
+              "你想要传达的话语",
+              "你想要传递的声音",
+              "诸多的线连成圆",
+              "将一切紧密相连 无论在何方 (ah...)"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "renditions": [
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "full"
+      ],
+      "performers": [],
+      "full": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "形のない気持ち忘れないように",
+            "segments": [
+              {
+                "text": "形のない気持ち忘れないように",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "形",
+                    "reading": "かたち"
+                  },
+                  {
+                    "text": "のない"
+                  },
+                  {
+                    "text": "気持",
+                    "reading": "きも"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "忘",
+                    "reading": "わす"
+                  },
+                  {
+                    "text": "れないように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "決まりきったレイアウトを消した",
+            "segments": [
+              {
+                "text": "決まりきったレイアウトを消した",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "決",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "まりきったレイアウトを"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "した"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "ふと口ずさんだフレーズを掴まえて",
+            "segments": [
+              {
+                "text": "ふと口ずさんだフレーズを掴まえて",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "ふと"
+                  },
+                  {
+                    "text": "口",
+                    "reading": "くち"
+                  },
+                  {
+                    "text": "ずさんだフレーズを"
+                  },
+                  {
+                    "text": "掴",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "まえて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "胸に秘めた言葉乗せ空に解き放つの",
+            "segments": [
+              {
+                "text": "胸に秘めた言葉乗せ空に解き放つの",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "胸",
+                    "reading": "むね"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "秘",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "めた"
+                  },
+                  {
+                    "text": "言葉乗",
+                    "reading": "ことばの"
+                  },
+                  {
+                    "text": "せ"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "解",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "放",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "つの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "君に伝えたいことが",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君に伝えたいことが",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えたいことが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "君に届けたいことが",
+            "segments": [
+              {
+                "text": "君に届けたいことが",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたいことが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "たくさんの点は線になって",
+            "segments": [
+              {
+                "text": "たくさんの点は線になって",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "たくさんの"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "線",
+                    "reading": "せん"
+                  },
+                  {
+                    "text": "になって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "遠く彼方へと響く",
+            "segments": [
+              {
+                "text": "遠く彼方へと響く",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "かなた"
+                  },
+                  {
+                    "text": "へと"
+                  },
+                  {
+                    "text": "響",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "く"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "君に伝えたい言葉",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君に伝えたい言葉",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えたい"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "君に届けたい音が",
+            "segments": [
+              {
+                "text": "君に届けたい音が",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたい"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "いくつもの線は円になって",
+            "segments": [
+              {
+                "text": "いくつもの線は円になって",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "いくつもの"
+                  },
+                  {
+                    "text": "線",
+                    "reading": "せん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "円",
+                    "reading": "えん"
+                  },
+                  {
+                    "text": "になって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "全て繋げてく　どこにだって (ah...)",
+            "segments": [
+              {
+                "text": "全て繋げてく　どこにだって (ah...)",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "て"
+                  },
+                  {
+                    "text": "繋",
+                    "reading": "つな"
+                  },
+                  {
+                    "text": "げてく　どこにだって (ah...)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "君に伝えたいことが",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君に伝えたいことが",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えたいことが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "君に届けたいことが",
+            "segments": [
+              {
+                "text": "君に届けたいことが",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたいことが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "たくさんの点は線になって",
+            "segments": [
+              {
+                "text": "たくさんの点は線になって",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "たくさんの"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "線",
+                    "reading": "せん"
+                  },
+                  {
+                    "text": "になって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "君が伝えたいことは",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君が伝えたいことは",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えたいことは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "君が届けたいことは",
+            "segments": [
+              {
+                "text": "君が届けたいことは",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたいことは"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "たくさんの点は線になって",
+            "segments": [
+              {
+                "text": "たくさんの点は線になって",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "たくさんの"
+                  },
+                  {
+                    "text": "点",
+                    "reading": "てん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "線",
+                    "reading": "せん"
+                  },
+                  {
+                    "text": "になって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "遠く彼方へと響く",
+            "segments": [
+              {
+                "text": "遠く彼方へと響く",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "遠",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "かなた"
+                  },
+                  {
+                    "text": "へと"
+                  },
+                  {
+                    "text": "響",
+                    "reading": "ひび"
+                  },
+                  {
+                    "text": "く"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "君が伝えたい言葉",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "君が伝えたい言葉",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えたい"
+                  },
+                  {
+                    "text": "言葉",
+                    "reading": "ことば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "君が届けたい音は",
+            "segments": [
+              {
+                "text": "君が届けたい音は",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "けたい"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "いくつもの線は円になって",
+            "segments": [
+              {
+                "text": "いくつもの線は円になって",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "いくつもの"
+                  },
+                  {
+                    "text": "線",
+                    "reading": "せん"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "円",
+                    "reading": "えん"
+                  },
+                  {
+                    "text": "になって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "全て繋げてく　どこにだって (ah...)",
+            "segments": [
+              {
+                "text": "全て繋げてく　どこにだって (ah...)",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "て"
+                  },
+                  {
+                    "text": "繋",
+                    "reading": "つな"
+                  },
+                  {
+                    "text": "げてく　どこにだって (ah...)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/full_text",
+          "provider": "sekaipedia",
+          "title": "Tell Your World",
+          "revisionId": 281846,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tell_Your_World?oldid=281846",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Tell Your World",
+          "revisionId": 281846,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tell_Your_World?oldid=281846",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Tell Your World",
+          "revisionId": 281846,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tell_Your_World?oldid=281846",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Tell Your World",
+          "revisionId": 281846,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tell_Your_World?oldid=281846",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2281 @@
+{
+  "version": 3,
+  "musicId": 110,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:00:49Z",
+  "state": "game_only",
+  "renditions": [
+    {
+      "key": "alternate-colorful-live-miku-rin-len-luka-meiko-kaito",
+      "kind": "alternate",
+      "label": "COLORFUL LIVE — miku, rin, len, luka, meiko, kaito",
+      "availableVersions": [
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        },
+        {
+          "performerId": "歌唱者-26",
+          "name": "KAITO"
+        }
+      ],
+      "game": {
+        "version": {
+          "kind": "alternate",
+          "label": "COLORFUL LIVE — miku, rin, len, luka, meiko, kaito"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "大胆不敵にハイカラ革命",
+            "zh-CN": "大胆不羁的摩登革命",
+            "segments": [
+              {
+                "text": "大胆不敵にハイカラ革命",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "大胆不敵",
+                    "reading": "だいたんふてき"
+                  },
+                  {
+                    "text": "にハイカラ"
+                  },
+                  {
+                    "text": "革命",
+                    "reading": "かくめい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "磊々落々反戦国家",
+            "zh-CN": "光明磊落的反战国家",
+            "segments": [
+              {
+                "text": "磊々落々反戦国家",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "磊々落々",
+                    "reading": "らいらいらくらく"
+                  },
+                  {
+                    "text": "反戦国家",
+                    "reading": "はんせんこっか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "日の丸印の二輪車転がし",
+            "zh-CN": "骑乘着印有日之丸的二轮单车",
+            "segments": [
+              {
+                "text": "日の丸印の二輪車転がし",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "丸印",
+                    "reading": "まるじるし"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "二輪車転",
+                    "reading": "にりんしゃころ"
+                  },
+                  {
+                    "text": "がし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "悪霊退散　ICBM",
+            "zh-CN": "恶灵退散 ICBM",
+            "segments": [
+              {
+                "text": "悪霊退散　ICBM",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "悪霊退散",
+                    "reading": "あくりょうたいさん"
+                  },
+                  {
+                    "text": "　ICBM"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "環状線を走り抜けて",
+            "zh-CN": "飞驰穿过环状线",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "環状線を走り抜けて",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "環状線",
+                    "reading": "かんじょうせん"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "走",
+                    "reading": "はし"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "抜",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "けて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "東奔西走なんのその",
+            "zh-CN": "东奔西走何足挂齿",
+            "segments": [
+              {
+                "text": "東奔西走なんのそ",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "東奔西走",
+                    "reading": "とうほんせいそう"
+                  },
+                  {
+                    "text": "なんのそ"
+                  }
+                ]
+              },
+              {
+                "text": "の",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "の"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "少年少女戦国無双",
+            "zh-CN": "少年少女战国无双",
+            "segments": [
+              {
+                "text": "少年少女戦国無双",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "少年少女戦国無双",
+                    "reading": "しょうねんしょうじょせんごくむそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "浮世の 随に",
+            "zh-CN": "随浮世沉浮",
+            "segments": [
+              {
+                "text": "浮世の 随に",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "浮世",
+                    "reading": "うきよ"
+                  },
+                  {
+                    "text": "の "
+                  },
+                  {
+                    "text": "随",
+                    "reading": "まにま"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "千本桜　夜ニ紛レ",
+            "zh-CN": "千本樱 隐入夜色之中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "千本桜　夜ニ紛レ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "千本",
+                    "reading": "せんぼん"
+                  },
+                  {
+                    "text": "桜",
+                    "reading": "さくら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "ニ"
+                  },
+                  {
+                    "text": "紛",
+                    "reading": "まぎ"
+                  },
+                  {
+                    "text": "レ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "君ノ声モ届カナイヨ",
+            "zh-CN": "你的声音也无法传达",
+            "segments": [
+              {
+                "text": "君ノ声モ届カナイヨ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ノ"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "モ"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "カナイヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "此処は宴　鋼の檻",
+            "zh-CN": "此处是盛宴 钢铁的囚笼",
+            "segments": [
+              {
+                "text": "此処は宴　鋼の檻",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "宴",
+                    "reading": "うたげ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "鋼",
+                    "reading": "はがね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "檻",
+                    "reading": "おり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "その断頭台で見下ろして",
+            "zh-CN": "自那断头台上俯视而下",
+            "segments": [
+              {
+                "text": "その断頭台で見下ろして",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "断頭台",
+                    "reading": "だんとうだい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "見下",
+                    "reading": "みお"
+                  },
+                  {
+                    "text": "ろして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "三千世界　 常世之闇",
+            "zh-CN": "三千世界 常世之暗",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "三千世界　 常世之闇",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "三千世界",
+                    "reading": "さんぜんせかい"
+                  },
+                  {
+                    "text": "　 "
+                  },
+                  {
+                    "text": "常世之闇",
+                    "reading": "とこよのやみ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "嘆ク唄モ聞コエナイヨ",
+            "zh-CN": "悲叹的歌声也无法听闻",
+            "segments": [
+              {
+                "text": "嘆ク唄モ聞コエナイヨ",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "嘆",
+                    "reading": "なげ"
+                  },
+                  {
+                    "text": "ク"
+                  },
+                  {
+                    "text": "唄",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "モ"
+                  },
+                  {
+                    "text": "聞",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "コエナイヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "青藍の空　遥か彼方",
+            "zh-CN": "青蓝的天空 遥远彼方",
+            "segments": [
+              {
+                "text": "青藍の空　遥か彼方",
+                "performerIds": [
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "青藍",
+                    "reading": "せいらん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "遥",
+                    "reading": "はるか"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "なた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "その光線銃で打ち抜いて",
+            "zh-CN": "用那把光线枪击穿射透",
+            "segments": [
+              {
+                "text": "その光線銃で打ち抜いて",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "光線銃",
+                    "reading": "こうせんじゅう"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "抜",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "環状線を走り抜けて",
+            "zh-CN": "飞驰穿过环状线",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "環状線を走り抜けて",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "環状線",
+                    "reading": "かんじょうせん"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "走",
+                    "reading": "はし"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "抜",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "けて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "東奔西走なんのその",
+            "zh-CN": "东奔西走何足挂齿",
+            "segments": [
+              {
+                "text": "東奔西走なんのそ",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "東奔西走",
+                    "reading": "とうほんせいそう"
+                  },
+                  {
+                    "text": "なんのそ"
+                  }
+                ]
+              },
+              {
+                "text": "の",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "の"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "少年少女戦国無双",
+            "zh-CN": "少年少女战国无双",
+            "segments": [
+              {
+                "text": "少年少女戦国無双",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "少年少女戦国無双",
+                    "reading": "しょうねんしょうじょせんごくむそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "浮世の 随に",
+            "zh-CN": "随浮世沉浮",
+            "segments": [
+              {
+                "text": "浮世の 随に",
+                "performerIds": [
+                  "歌唱者-23",
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "浮世",
+                    "reading": "うきよ"
+                  },
+                  {
+                    "text": "の "
+                  },
+                  {
+                    "text": "随",
+                    "reading": "まにま"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "千本桜　夜ニ紛レ",
+            "zh-CN": "千本樱 隐入夜色之中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "千本桜　夜ニ紛レ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "千本",
+                    "reading": "せんぼん"
+                  },
+                  {
+                    "text": "桜",
+                    "reading": "さくら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "ニ"
+                  },
+                  {
+                    "text": "紛",
+                    "reading": "まぎ"
+                  },
+                  {
+                    "text": "レ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "君ノ声モ届カナイヨ",
+            "zh-CN": "你的声音也无法传达",
+            "segments": [
+              {
+                "text": "君ノ声モ届カナイヨ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ノ"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "モ"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "カナイヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "此処は宴　鋼の檻",
+            "zh-CN": "此处是盛宴 钢铁的囚笼",
+            "segments": [
+              {
+                "text": "此処は宴　鋼の檻",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "宴",
+                    "reading": "うたげ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "鋼",
+                    "reading": "はがね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "檻",
+                    "reading": "おり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "その断頭台を飛び降りて",
+            "zh-CN": "自那断头台上一跃而下",
+            "segments": [
+              {
+                "text": "その断頭台を飛び降りて",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "断頭台",
+                    "reading": "だんとうだい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "飛",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "び"
+                  },
+                  {
+                    "text": "降",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "りて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "千本桜　夜ニ紛レ",
+            "zh-CN": "千本樱 隐入夜色之中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "千本桜　夜ニ紛レ",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "千本",
+                    "reading": "せんぼん"
+                  },
+                  {
+                    "text": "桜",
+                    "reading": "さくら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "ニ"
+                  },
+                  {
+                    "text": "紛",
+                    "reading": "まぎ"
+                  },
+                  {
+                    "text": "レ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "君が歌い僕は踊る",
+            "zh-CN": "你放声歌唱我尽情起舞",
+            "segments": [
+              {
+                "text": "君が歌い僕は踊る",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "此処は宴　鋼の檻",
+            "zh-CN": "此处是盛宴 钢铁的囚笼",
+            "segments": [
+              {
+                "text": "此処は宴　鋼の檻",
+                "performerIds": [
+                  "歌唱者-25"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "宴",
+                    "reading": "うたげ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "鋼",
+                    "reading": "はがね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "檻",
+                    "reading": "おり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "さあ光線銃を撃ちまくれ",
+            "zh-CN": "来吧 疯狂扣动光线枪扫射吧",
+            "segments": [
+              {
+                "text": "さあ光線銃を撃ちまくれ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "さあ"
+                  },
+                  {
+                    "text": "光線銃",
+                    "reading": "こうせんじゅう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "撃",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ちまくれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Game Version",
+          "COLORFUL LIVE"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/alternate-colorful-live-miku-rin-len-luka-meiko-kaito/game_text",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-colorful-live-miku-rin-len-luka-meiko-kaito/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-colorful-live-miku-rin-len-luka-meiko-kaito/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-colorful-live-miku-rin-len-luka-meiko-kaito/relation",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-colorful-live-miku-rin-len-luka-meiko-kaito/version",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    },
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "Game Version",
+      "availableVersions": [
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        },
+        {
+          "performerId": "歌唱者-25",
+          "name": "MEIKO"
+        },
+        {
+          "performerId": "歌唱者-26",
+          "name": "KAITO"
+        }
+      ],
+      "game": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "Game Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "大胆不敵にハイカラ革命",
+            "zh-CN": "大胆不羁的摩登革命",
+            "segments": [
+              {
+                "text": "大胆不敵にハイカラ革命",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "大胆不敵",
+                    "reading": "だいたんふてき"
+                  },
+                  {
+                    "text": "にハイカラ"
+                  },
+                  {
+                    "text": "革命",
+                    "reading": "かくめい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "磊々落々 反戦国家",
+            "zh-CN": "光明磊落的反战国家",
+            "segments": [
+              {
+                "text": "磊々落々 ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "磊々落々",
+                    "reading": "らいらいらくらく"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "反戦国家",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "反戦国家",
+                    "reading": "はんせんこっか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "日の丸印の二輪車転がし",
+            "zh-CN": "骑乘着印有日之丸的二轮单车",
+            "segments": [
+              {
+                "text": "日の丸印の二輪車転がし",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "丸印",
+                    "reading": "まるじるし"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "二輪車転",
+                    "reading": "にりんしゃころ"
+                  },
+                  {
+                    "text": "がし"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "悪霊退散　ICBM",
+            "zh-CN": "恶灵退散 ICBM",
+            "segments": [
+              {
+                "text": "悪霊退散　ICBM",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "悪霊退散",
+                    "reading": "あくりょうたいさん"
+                  },
+                  {
+                    "text": "　ICBM"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "環状線を走り抜けて",
+            "zh-CN": "飞驰穿过环状线",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "環状線を走り抜けて",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "環状線",
+                    "reading": "かんじょうせん"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "走",
+                    "reading": "はし"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "抜",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "けて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "東奔西走なんのその",
+            "zh-CN": "东奔西走何足挂齿",
+            "segments": [
+              {
+                "text": "東奔西走なんのその",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "東奔西走",
+                    "reading": "とうほんせいそう"
+                  },
+                  {
+                    "text": "なんのその"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "少年少女戦国無双",
+            "zh-CN": "少年少女战国无双",
+            "segments": [
+              {
+                "text": "少年少女戦国無双",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "少年少女戦国無双",
+                    "reading": "しょうねんしょうじょせんごくむそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "浮世の 随に",
+            "zh-CN": "随浮世沉浮",
+            "segments": [
+              {
+                "text": "浮世の 随に",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "浮世",
+                    "reading": "うきよ"
+                  },
+                  {
+                    "text": "の "
+                  },
+                  {
+                    "text": "随",
+                    "reading": "まにま"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "千本桜　夜ニ紛レ",
+            "zh-CN": "千本樱 隐入夜色之中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "千本桜　夜ニ紛レ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "千本",
+                    "reading": "せんぼん"
+                  },
+                  {
+                    "text": "桜",
+                    "reading": "さくら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "ニ"
+                  },
+                  {
+                    "text": "紛",
+                    "reading": "まぎ"
+                  },
+                  {
+                    "text": "レ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "君ノ声モ届カナイヨ",
+            "zh-CN": "你的声音也无法传达",
+            "segments": [
+              {
+                "text": "君ノ声モ届カナイヨ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ノ"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "モ"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "カナイヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "此処は宴　鋼の檻",
+            "zh-CN": "此处是盛宴 钢铁的囚笼",
+            "segments": [
+              {
+                "text": "此処は宴　鋼の檻",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "宴",
+                    "reading": "うたげ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "鋼",
+                    "reading": "はがね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "檻",
+                    "reading": "おり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "その断頭台で見下ろして",
+            "zh-CN": "自那断头台上俯视而下",
+            "segments": [
+              {
+                "text": "その断頭台で見下ろして",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "断頭台",
+                    "reading": "だんとうだい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "見下",
+                    "reading": "みお"
+                  },
+                  {
+                    "text": "ろして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "三千世界　 常世之闇",
+            "zh-CN": "三千世界 常世之暗",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "三千世界　 常世之闇",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "三千世界",
+                    "reading": "さんぜんせかい"
+                  },
+                  {
+                    "text": "　 "
+                  },
+                  {
+                    "text": "常世之闇",
+                    "reading": "とこよのやみ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "嘆ク唄モ聞コエナイヨ",
+            "zh-CN": "悲叹的歌声也无法听闻",
+            "segments": [
+              {
+                "text": "嘆ク唄モ聞コエナイヨ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "嘆",
+                    "reading": "なげ"
+                  },
+                  {
+                    "text": "ク"
+                  },
+                  {
+                    "text": "唄",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "モ"
+                  },
+                  {
+                    "text": "聞",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "コエナイヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "青藍の空　遥か彼方",
+            "zh-CN": "青蓝的天空 遥远彼方",
+            "segments": [
+              {
+                "text": "青藍の空　遥か彼方",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "青藍",
+                    "reading": "せいらん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "遥",
+                    "reading": "はるか"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "彼方",
+                    "reading": "なた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "その光線銃で打ち抜いて",
+            "zh-CN": "用那把光线枪击穿射透",
+            "segments": [
+              {
+                "text": "その光線銃で打ち抜いて",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "光線銃",
+                    "reading": "こうせんじゅう"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "抜",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "環状線を走り抜けて",
+            "zh-CN": "飞驰穿过环状线",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "環状線を走り抜けて",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "環状線",
+                    "reading": "かんじょうせん"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "走",
+                    "reading": "はし"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "抜",
+                    "reading": "ぬ"
+                  },
+                  {
+                    "text": "けて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "東奔西走なんのその",
+            "zh-CN": "东奔西走何足挂齿",
+            "segments": [
+              {
+                "text": "東奔西走なんのその",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "東奔西走",
+                    "reading": "とうほんせいそう"
+                  },
+                  {
+                    "text": "なんのその"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "少年少女戦国無双",
+            "zh-CN": "少年少女战国无双",
+            "segments": [
+              {
+                "text": "少年少女戦国無双",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "少年少女戦国無双",
+                    "reading": "しょうねんしょうじょせんごくむそう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "浮世の 随に",
+            "zh-CN": "随浮世沉浮",
+            "segments": [
+              {
+                "text": "浮世の 随に",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "浮世",
+                    "reading": "うきよ"
+                  },
+                  {
+                    "text": "の "
+                  },
+                  {
+                    "text": "随",
+                    "reading": "まにま"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "千本桜　夜ニ紛レ",
+            "zh-CN": "千本樱 隐入夜色之中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "千本桜　夜ニ紛レ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "千本",
+                    "reading": "せんぼん"
+                  },
+                  {
+                    "text": "桜",
+                    "reading": "さくら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "ニ"
+                  },
+                  {
+                    "text": "紛",
+                    "reading": "まぎ"
+                  },
+                  {
+                    "text": "レ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "君ノ声モ届カナイヨ",
+            "zh-CN": "你的声音也无法传达",
+            "segments": [
+              {
+                "text": "君ノ声モ届カナイヨ",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "ノ"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "モ"
+                  },
+                  {
+                    "text": "届",
+                    "reading": "とど"
+                  },
+                  {
+                    "text": "カナイヨ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "此処は宴　鋼の檻",
+            "zh-CN": "此处是盛宴 钢铁的囚笼",
+            "segments": [
+              {
+                "text": "此処は宴　鋼の檻",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "宴",
+                    "reading": "うたげ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "鋼",
+                    "reading": "はがね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "檻",
+                    "reading": "おり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "その断頭台を飛び降りて",
+            "zh-CN": "自那断头台上一跃而下",
+            "segments": [
+              {
+                "text": "その断頭台を",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "断頭台",
+                    "reading": "だんとうだい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "飛び降りて",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "飛",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "び"
+                  },
+                  {
+                    "text": "降",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "りて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "千本桜　夜ニ紛レ",
+            "zh-CN": "千本樱 隐入夜色之中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "千本桜　夜ニ紛レ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "千本",
+                    "reading": "せんぼん"
+                  },
+                  {
+                    "text": "桜",
+                    "reading": "さくら"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "ニ"
+                  },
+                  {
+                    "text": "紛",
+                    "reading": "まぎ"
+                  },
+                  {
+                    "text": "レ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "君が歌い僕は踊る",
+            "zh-CN": "你放声歌唱我尽情起舞",
+            "segments": [
+              {
+                "text": "君が歌い僕は踊る",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "此処は宴　鋼の檻",
+            "zh-CN": "此处是盛宴 钢铁的囚笼",
+            "segments": [
+              {
+                "text": "此処は宴　鋼の檻",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "宴",
+                    "reading": "うたげ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "鋼",
+                    "reading": "はがね"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "檻",
+                    "reading": "おり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "さあ光線銃を撃ちまくれ",
+            "zh-CN": "来吧 疯狂扣动光线枪扫射吧",
+            "segments": [
+              {
+                "text": "さあ光線銃を撃ちまくれ",
+                "performerIds": [
+                  "歌唱者-21",
+                  "歌唱者-22",
+                  "歌唱者-23",
+                  "歌唱者-24",
+                  "歌唱者-25",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "さあ"
+                  },
+                  {
+                    "text": "光線銃",
+                    "reading": "こうせんじゅう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "撃",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ちまくれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "Game Version",
+          "VIRTUAL SINGER"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Senbonzakura",
+          "revisionId": 326992,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Senbonzakura?oldid=326992",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

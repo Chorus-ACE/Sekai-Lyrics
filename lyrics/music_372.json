@@ -1,0 +1,2481 @@
+{
+  "version": 3,
+  "musicId": 372,
+  "revision": 4,
+  "updatedAt": "2026-10-14T16:18:30Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-01",
+          "name": "星乃一歌"
+        },
+        {
+          "performerId": "歌唱者-04",
+          "name": "日野森志歩"
+        },
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "青い時間 さよなら告げる",
+            "zh-CN": "向青涩时光 告别道别",
+            "segments": [
+              {
+                "text": "青い時間 さよなら告げる",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "青",
+                    "reading": "あお"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "時間",
+                    "reading": "じかん"
+                  },
+                  {
+                    "text": " さよなら"
+                  },
+                  {
+                    "text": "告",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "げる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "雨避けの傘は僕を抛ほうり捨てた",
+            "zh-CN": "避雨的雨伞 将我抛弃丢弃",
+            "segments": [
+              {
+                "text": "雨避けの傘は僕を抛ほうり捨てた",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "雨避",
+                    "reading": "あまよ"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "傘",
+                    "reading": "かさ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "抛",
+                    "reading": "くお"
+                  },
+                  {
+                    "text": "ほうり"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "訪れてた 夏にも気付かずに",
+            "zh-CN": "连悄然降临的盛夏 都未曾察觉",
+            "segments": [
+              {
+                "text": "訪れてた 夏にも気付かずに",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "訪",
+                    "reading": "おとず"
+                  },
+                  {
+                    "text": "れてた "
+                  },
+                  {
+                    "text": "夏",
+                    "reading": "なつ"
+                  },
+                  {
+                    "text": "にも"
+                  },
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "かずに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "此処は何処だ 僕は誰だと 吼ほえる",
+            "zh-CN": "怒吼着 这里是何处 我又是何人",
+            "segments": [
+              {
+                "text": "此処は何処だ 僕は誰だと 吼ほえる",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "何処",
+                    "reading": "どこ"
+                  },
+                  {
+                    "text": "だ "
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "だと "
+                  },
+                  {
+                    "text": "吼",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ほえる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "終わりが無い、と 行き先を殺す",
+            "zh-CN": "叹息着永无终结 抹杀了前行的去向",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "終わりが無い、と 行き先を殺す",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わりが"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い、と "
+                  },
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "殺",
+                    "reading": "ころ"
+                  },
+                  {
+                    "text": "す"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "分かるはずが無い、と 景色を刺した",
+            "zh-CN": "断言着绝不可能明白 刺穿了眼前的风景",
+            "segments": [
+              {
+                "text": "分かるはずが無い、と 景色を刺した",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かるはずが"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い、と "
+                  },
+                  {
+                    "text": "景色",
+                    "reading": "けしき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "刺",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "した"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "自分で築いた森の外に踏み出せずに",
+            "zh-CN": "无法踏出亲手筑起的森林之外",
+            "segments": [
+              {
+                "text": "自分で築いた森の外に踏み出せずに",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "築",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "森",
+                    "reading": "もり"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "外",
+                    "reading": "そと"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "踏",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "せずに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "何故 歩き出さないの？",
+            "zh-CN": "为何 不迈步前行呢？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "何故 ",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "何故",
+                    "reading": "なぜ"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "歩き出さないの？",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "さないの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "何故 創り上げないの？",
+            "zh-CN": "为何 不亲手开创呢？",
+            "segments": [
+              {
+                "text": "何故 ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "何故",
+                    "reading": "なぜ"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "創り上げ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "創",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げ"
+                  }
+                ]
+              },
+              {
+                "text": "ないの？",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ないの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "そうして何も始まらないまま",
+            "zh-CN": "于是乎在万物尚未启封之时",
+            "segments": [
+              {
+                "text": "そうして何も始まらないまま",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "そうして"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "まらないまま"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "朽ちて腐り行く人を 屍を 超えて",
+            "zh-CN": "跨越那逐渐腐朽的人群 跨越具具枯骨",
+            "segments": [
+              {
+                "text": "朽ちて腐り行く人を 屍を 超えて",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "朽",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "ちて"
+                  },
+                  {
+                    "text": "腐",
+                    "reading": "くさ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "屍",
+                    "reading": "しかばね"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "超",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "今 打ち鳴らす衝動の刃が 世界を砕く",
+            "zh-CN": "如今 敲响的冲动利刃 碎裂整个世界",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今 打ち鳴らす衝動の刃が 世界を砕く",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らす"
+                  },
+                  {
+                    "text": "衝動",
+                    "reading": "しょうどう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "刃",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "が "
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "く"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "朝焼けが追いつく前に",
+            "zh-CN": "在朝霞追赶上之前",
+            "segments": [
+              {
+                "text": "朝焼けが追いつく前に",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "朝焼",
+                    "reading": "あさや"
+                  },
+                  {
+                    "text": "けが"
+                  },
+                  {
+                    "text": "追",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いつく"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "ぐしゃぐしゃに割れた音で構わない",
+            "zh-CN": "哪怕是杂乱破碎的音律也无妨",
+            "segments": [
+              {
+                "text": "ぐしゃぐしゃに割れた音で構わない",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぐしゃぐしゃに"
+                  },
+                  {
+                    "text": "割",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "れた"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "構",
+                    "reading": "かま"
+                  },
+                  {
+                    "text": "わない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "天樂を",
+            "zh-CN": "奏响这天乐吧",
+            "segments": [
+              {
+                "text": "天樂を",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "天樂",
+                    "reading": "てんがく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "削れたピック 朽ち果てたギター",
+            "zh-CN": "磨损的拨片 腐朽破败的吉他",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "削れたピック 朽ち果てたギター",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "削",
+                    "reading": "けず"
+                  },
+                  {
+                    "text": "れたピック "
+                  },
+                  {
+                    "text": "朽",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "果",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "てたギター"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "いたずらに僕の扉を暴く",
+            "zh-CN": "徒然暴露出我紧闭的心门",
+            "segments": [
+              {
+                "text": "いたずらに僕の扉を暴く",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "いたずらに"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "扉",
+                    "reading": "とびら"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "暴",
+                    "reading": "あば"
+                  },
+                  {
+                    "text": "く"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "通り過ぎた 秋がすぐそこまで",
+            "zh-CN": "已然远去的秋意 就在眼前咫尺",
+            "segments": [
+              {
+                "text": "通り過ぎた 秋がすぐそこまで",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "通",
+                    "reading": "とお"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "過",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "ぎた "
+                  },
+                  {
+                    "text": "秋",
+                    "reading": "あき"
+                  },
+                  {
+                    "text": "がすぐそこまで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "始めよう 無様な真実を 隠せ",
+            "zh-CN": "开始吧 将狼狈不堪的真相 彻底掩藏",
+            "segments": [
+              {
+                "text": "始めよう 無様な真実を 隠せ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "めよう "
+                  },
+                  {
+                    "text": "無様",
+                    "reading": "ぶざま"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "真実",
+                    "reading": "しんじつ"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "隠",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "せ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "何故 立ち止まっていたのか？",
+            "zh-CN": "为何 曾经停滞不前？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "何故 ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "何故",
+                    "reading": "なぜ"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "立ち止まっていたのか？",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "ど"
+                  },
+                  {
+                    "text": "まっていたのか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "何故 拒み続けたのか？",
+            "zh-CN": "为何 始终抗拒排斥？",
+            "segments": [
+              {
+                "text": "何故 ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "何故",
+                    "reading": "なぜ"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "拒み続けたのか？",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "拒",
+                    "reading": "こば"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "続",
+                    "reading": "つづ"
+                  },
+                  {
+                    "text": "けたのか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "そうして悩み続けた先には",
+            "zh-CN": "于是乎在无尽苦恼的前方",
+            "segments": [
+              {
+                "text": "そうして悩み続けた先には",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "そうして"
+                  },
+                  {
+                    "text": "悩",
+                    "reading": "なや"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "続",
+                    "reading": "つづ"
+                  },
+                  {
+                    "text": "けた"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "には"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "芽生え狂い咲く音を 帰り道 捨てて",
+            "zh-CN": "萌发狂放盛开的声音 丢弃归途",
+            "segments": [
+              {
+                "text": "芽生え狂い咲く音を 帰り道 捨てて",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "芽生",
+                    "reading": "めば"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "狂",
+                    "reading": "くる"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "咲",
+                    "reading": "ざ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "帰",
+                    "reading": "かえ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "道",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "今 打ち鳴らす衝動の刃が 世界を砕く",
+            "zh-CN": "如今 敲响的冲动利刃 碎裂整个世界",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今 打ち鳴らす衝動の刃が 世界を砕く",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らす"
+                  },
+                  {
+                    "text": "衝動",
+                    "reading": "しょうどう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "刃",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "が "
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "く"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "目が眩むほど美しい",
+            "zh-CN": "美丽得令人目眩神迷",
+            "segments": [
+              {
+                "text": "目が眩むほど美しい",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "眩",
+                    "reading": "くら"
+                  },
+                  {
+                    "text": "むほど"
+                  },
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "泡沫に揺れた音で貫いて",
+            "zh-CN": "以摇曳于泡沫中的声响将其贯穿",
+            "segments": [
+              {
+                "text": "泡沫に揺れた音で",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "泡沫",
+                    "reading": "うたかた"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "揺",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "れた"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              },
+              {
+                "text": "貫いて",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "貫",
+                    "reading": "つらぬ"
+                  },
+                  {
+                    "text": "いて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "天樂を",
+            "zh-CN": "奏响这天乐吧",
+            "segments": [
+              {
+                "text": "天樂を",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "天樂",
+                    "reading": "てんがく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "今 咲き誇る狂色きょうしょくの葉が 世界を飾る",
+            "zh-CN": "如今 盛放的狂色之叶 装点着整个世界",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今 咲き誇る狂色きょうしょくの葉が 世界を飾る",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "い"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "咲",
+                    "reading": "まさ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "誇",
+                    "reading": "ほ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "狂色",
+                    "reading": "こる"
+                  },
+                  {
+                    "text": "きょうしょくの"
+                  },
+                  {
+                    "text": "葉",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "が "
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "飾",
+                    "reading": "かざ"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "朝焼けが追いつく前に",
+            "zh-CN": "在朝霞追赶上之前",
+            "segments": [
+              {
+                "text": "朝焼けが追いつく前に",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "朝焼",
+                    "reading": "あさや"
+                  },
+                  {
+                    "text": "けが"
+                  },
+                  {
+                    "text": "追",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いつく"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "その核に触れた声を張り上げて",
+            "zh-CN": "触碰核心扯开嗓子放声呐喊",
+            "segments": [
+              {
+                "text": "その核に触れた声を張り上げて",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "核",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "触",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "れた"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "張",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "天樂を",
+            "zh-CN": "奏响这天乐吧",
+            "segments": [
+              {
+                "text": "天樂を",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "天樂",
+                    "reading": "てんがく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "青い時間 さよなら告げる",
+            "zh-CN": "向青涩时光 告别道别",
+            "segments": [
+              {
+                "text": "青い時間 さよなら告げる",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "青",
+                    "reading": "あお"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "時間",
+                    "reading": "じかん"
+                  },
+                  {
+                    "text": " さよなら"
+                  },
+                  {
+                    "text": "告",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "げる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "雨避けの傘は僕を抛ほうり捨てた",
+            "zh-CN": "避雨的雨伞 将我抛弃丢弃",
+            "segments": [
+              {
+                "text": "雨避けの傘は僕を抛ほうり捨てた",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "雨避",
+                    "reading": "あまよ"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "傘",
+                    "reading": "かさ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "抛",
+                    "reading": "くお"
+                  },
+                  {
+                    "text": "ほうり"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "訪れてた 夏にも気付かずに",
+            "zh-CN": "连悄然降临的盛夏 都未曾察觉",
+            "segments": [
+              {
+                "text": "訪れてた 夏にも気付かずに",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "訪",
+                    "reading": "おとず"
+                  },
+                  {
+                    "text": "れてた "
+                  },
+                  {
+                    "text": "夏",
+                    "reading": "なつ"
+                  },
+                  {
+                    "text": "にも"
+                  },
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "かずに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "此処は何処だ 僕は誰だと 吼ほえる",
+            "zh-CN": "怒吼着 这里是何处 我又是何人",
+            "segments": [
+              {
+                "text": "此処は何処だ 僕は誰だと 吼ほえる",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "何処",
+                    "reading": "どこ"
+                  },
+                  {
+                    "text": "だ "
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "だと "
+                  },
+                  {
+                    "text": "吼",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ほえる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "終わりが無い、と 行き先を殺す",
+            "zh-CN": "叹息着永无终结 抹杀了前行的去向",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "終わりが無い、と 行き先を殺す",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わりが"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い、と "
+                  },
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "殺",
+                    "reading": "ころ"
+                  },
+                  {
+                    "text": "す"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "分かるはずが無い、と 景色を刺した",
+            "zh-CN": "断言着绝不可能明白 刺穿了眼前的风景",
+            "segments": [
+              {
+                "text": "分かるはずが無い、と 景色を刺した",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かるはずが"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "い、と "
+                  },
+                  {
+                    "text": "景色",
+                    "reading": "けしき"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "刺",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "した"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "自分で築いた森の外に踏み出せずに",
+            "zh-CN": "无法踏出亲手筑起的森林之外",
+            "segments": [
+              {
+                "text": "自分で築いた森の外に踏み出せずに",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "築",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "森",
+                    "reading": "もり"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "外",
+                    "reading": "そと"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "踏",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "せずに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "何故 歩き出さないの？",
+            "zh-CN": "为何 不迈步前行呢？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "何故 ",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "何故",
+                    "reading": "なぜ"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "歩き出さないの？",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "歩",
+                    "reading": "ある"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "さないの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "何故 創り上げないの？",
+            "zh-CN": "为何 不亲手开创呢？",
+            "segments": [
+              {
+                "text": "何故 ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "何故",
+                    "reading": "なぜ"
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "創り上げ",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "創",
+                    "reading": "つく"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げ"
+                  }
+                ]
+              },
+              {
+                "text": "ないの？",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "ないの？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "そうして何も始まらないまま",
+            "zh-CN": "于是乎在万物尚未启封之时",
+            "segments": [
+              {
+                "text": "そうして何も始まらないまま",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "そうして"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "まらないまま"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "朽ちて腐り行く人を 屍を 超えて",
+            "zh-CN": "跨越那逐渐腐朽的人群 跨越具具枯骨",
+            "segments": [
+              {
+                "text": "朽ちて腐り行く人を 屍を 超えて",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "朽",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "ちて"
+                  },
+                  {
+                    "text": "腐",
+                    "reading": "くさ"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "人",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "屍",
+                    "reading": "しかばね"
+                  },
+                  {
+                    "text": "を "
+                  },
+                  {
+                    "text": "超",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "えて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "今 打ち鳴らす衝動の刃が 世界を砕く",
+            "zh-CN": "如今 敲响的冲动利刃 碎裂整个世界",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今 打ち鳴らす衝動の刃が 世界を砕く",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らす"
+                  },
+                  {
+                    "text": "衝動",
+                    "reading": "しょうどう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "刃",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "が "
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "く"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "朝焼けが追いつく前に",
+            "zh-CN": "在朝霞追赶上之前",
+            "segments": [
+              {
+                "text": "朝焼けが追いつく前に",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "朝焼",
+                    "reading": "あさや"
+                  },
+                  {
+                    "text": "けが"
+                  },
+                  {
+                    "text": "追",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いつく"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "ぐしゃぐしゃに割れた音で構わない",
+            "zh-CN": "哪怕是杂乱破碎的音律也无妨",
+            "segments": [
+              {
+                "text": "ぐしゃぐしゃに割れた音で構わない",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぐしゃぐしゃに"
+                  },
+                  {
+                    "text": "割",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "れた"
+                  },
+                  {
+                    "text": "音",
+                    "reading": "おと"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "構",
+                    "reading": "かま"
+                  },
+                  {
+                    "text": "わない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "天樂を",
+            "zh-CN": "奏响这天乐吧",
+            "segments": [
+              {
+                "text": "天樂を",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "天樂",
+                    "reading": "てんがく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "今 咲き誇る狂色きょうしょくの葉が 世界を飾る",
+            "zh-CN": "如今 盛放的狂色之叶 装点着整个世界",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今 咲き誇る狂色きょうしょくの葉が 世界を飾る",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "い"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "咲",
+                    "reading": "まさ"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "誇",
+                    "reading": "ほ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "狂色",
+                    "reading": "こる"
+                  },
+                  {
+                    "text": "きょうしょくの"
+                  },
+                  {
+                    "text": "葉",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "が "
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "飾",
+                    "reading": "かざ"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "朝焼けが追いつく前に",
+            "zh-CN": "在朝霞追赶上之前",
+            "segments": [
+              {
+                "text": "朝焼けが追いつく前に",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "朝焼",
+                    "reading": "あさや"
+                  },
+                  {
+                    "text": "けが"
+                  },
+                  {
+                    "text": "追",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いつく"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "その核に触れた声を張り上げて",
+            "zh-CN": "触碰核心扯开嗓子放声呐喊",
+            "segments": [
+              {
+                "text": "その核に触れた声を張り上げて",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "核",
+                    "reading": "かく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "触",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "れた"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "張",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "天樂を",
+            "zh-CN": "奏响这天乐吧",
+            "segments": [
+              {
+                "text": "天樂を",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "天樂",
+                    "reading": "てんがく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Tengaku",
+          "revisionId": 330645,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tengaku?oldid=330645",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Tengaku",
+          "revisionId": 330645,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tengaku?oldid=330645",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Tengaku",
+          "revisionId": 330645,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tengaku?oldid=330645",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Tengaku",
+          "revisionId": 330645,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tengaku?oldid=330645",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Tengaku",
+          "revisionId": 330645,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Tengaku?oldid=330645",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

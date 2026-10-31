@@ -1,0 +1,3419 @@
+{
+  "version": 3,
+  "musicId": 276,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:01:17Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-09",
+          "name": "小豆沢こはね"
+        },
+        {
+          "performerId": "歌唱者-10",
+          "name": "白石杏"
+        },
+        {
+          "performerId": "歌唱者-11",
+          "name": "東雲彰人"
+        },
+        {
+          "performerId": "歌唱者-12",
+          "name": "青柳冬弥"
+        },
+        {
+          "performerId": "歌唱者-26",
+          "name": "KAITO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "よう うな垂れてるその兄ちゃん",
+            "zh-CN": "哟 垂头丧气的那位小哥",
+            "segments": [
+              {
+                "text": "よう うな垂れてるその兄ちゃん",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "よう うな"
+                  },
+                  {
+                    "text": "垂",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "れてるその"
+                  },
+                  {
+                    "text": "兄",
+                    "reading": "にい"
+                  },
+                  {
+                    "text": "ちゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "何か辛い事あったんか？",
+            "zh-CN": "遇到什么烦心事了吗？",
+            "segments": [
+              {
+                "text": "何か辛い事あったんか？",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "辛",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "あったんか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "俺で良けりゃ話してくんない？",
+            "zh-CN": "不介意的话跟我聊聊如何？",
+            "segments": [
+              {
+                "text": "俺で良けりゃ話してくんない？",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "俺",
+                    "reading": "おれ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "けりゃ"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "してくんない？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "力になるぜ",
+            "zh-CN": "我能帮上忙哦",
+            "segments": [
+              {
+                "text": "力になるぜ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "力",
+                    "reading": "ちから"
+                  },
+                  {
+                    "text": "になるぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "一体どんなことがあった？",
+            "zh-CN": "到底发生什么事了？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "一体どんなことがあった？",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "一体",
+                    "reading": "いったい"
+                  },
+                  {
+                    "text": "どんなことがあった？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "そりゃ酷え話だ兄弟",
+            "zh-CN": "那还真是够过分的啊兄弟",
+            "segments": [
+              {
+                "text": "そりゃ酷え話だ兄弟",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "そりゃ"
+                  },
+                  {
+                    "text": "酷",
+                    "reading": "ひど"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はなし"
+                  },
+                  {
+                    "text": "だ"
+                  },
+                  {
+                    "text": "兄弟",
+                    "reading": "きょうだい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "これをやるから元気出しな",
+            "zh-CN": "这个给你 打起精神来吧",
+            "segments": [
+              {
+                "text": "これをやるから元気出しな",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "これをやるから"
+                  },
+                  {
+                    "text": "元気出",
+                    "reading": "げんきだ"
+                  },
+                  {
+                    "text": "しな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "金ならまた今度でいいさ",
+            "zh-CN": "钱的话下次再给就行",
+            "segments": [
+              {
+                "text": "金ならまた今度でいいさ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "金",
+                    "reading": "かね"
+                  },
+                  {
+                    "text": "ならまた"
+                  },
+                  {
+                    "text": "今度",
+                    "reading": "なんど"
+                  },
+                  {
+                    "text": "でいいさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "Shanti Shanti Shanti Shanti",
+            "zh-CN": "Shanti Shanti Shanti Shanti",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Shanti Shanti Shanti Shanti",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "Shanti Shanti Shanti Shanti"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "Shanti Happy Candy",
+            "zh-CN": "Shanti Happy Candy",
+            "segments": [
+              {
+                "text": "Shanti Happy Candy",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "Shanti Happy Candy"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "Happy Happy Happy Candy",
+            "zh-CN": "Happy Happy Happy Candy",
+            "segments": [
+              {
+                "text": "Happy Happy Happy Candy",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "Happy Happy Happy Candy"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "Many Many Money",
+            "zh-CN": "Many Many Money",
+            "segments": [
+              {
+                "text": "Many Many Money",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "Many Many Money"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "眠らない夜のチャイナタウン",
+            "zh-CN": "不眠之夜的唐人街",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "眠らない夜のチャイナタウン",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "眠",
+                    "reading": "ねむ"
+                  },
+                  {
+                    "text": "らない"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "のチャイナタウン"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "その全てが縄張り",
+            "zh-CN": "全都是我的地盘",
+            "segments": [
+              {
+                "text": "その全てが縄張り",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てが"
+                  },
+                  {
+                    "text": "縄張",
+                    "reading": "なわば"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "老若男女問わずお客",
+            "zh-CN": "男女老少皆是客人",
+            "segments": [
+              {
+                "text": "老若男女問わずお客",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "老若男女問",
+                    "reading": "ろうなくなんにょと"
+                  },
+                  {
+                    "text": "わずお"
+                  },
+                  {
+                    "text": "客",
+                    "reading": "きゃく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "使い終わったら捨てりゃいい",
+            "zh-CN": "用完之后扔掉就行",
+            "segments": [
+              {
+                "text": "使い終わったら捨てりゃいい",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "使",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったら"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てりゃいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "今夜も来たのかい",
+            "zh-CN": "今晚你也来了啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今夜も来たのかい",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "今夜",
+                    "reading": "こにゃ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "来",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "たのかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "お気に召したかい",
+            "zh-CN": "还合你的心意吗",
+            "segments": [
+              {
+                "text": "お気に召したかい",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "召",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "したかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "代金はこれくらい",
+            "zh-CN": "费用大概是这个数",
+            "segments": [
+              {
+                "text": "代金はこれくらい",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "代金",
+                    "reading": "だいきん"
+                  },
+                  {
+                    "text": "はこれくらい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "え？ え？ え？",
+            "zh-CN": "诶？诶？诶？",
+            "segments": [
+              {
+                "text": "え？ え？ え？",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "え？ え？ え？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "払えないのかい",
+            "zh-CN": "付不起吗",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "払えないのかい",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "払",
+                    "reading": "はら"
+                  },
+                  {
+                    "text": "えないのかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "ならばしょうがない",
+            "zh-CN": "那也是没办法的事",
+            "segments": [
+              {
+                "text": "ならばしょうがない",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "ならばしょうがない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "君にぴったりの仕事があるから こっちに付いてきな",
+            "zh-CN": "刚好有份适合你的差事 跟我过来吧",
+            "segments": [
+              {
+                "text": "君にぴったりの仕事があるから ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にぴったりの"
+                  },
+                  {
+                    "text": "仕事",
+                    "reading": "しごと"
+                  },
+                  {
+                    "text": "があるから "
+                  }
+                ]
+              },
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "こっちに付いてきな",
+            "zh-CN": "跟我过来吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "こっちに付いてきな",
+            "zh-CN": "跟我过来吧",
+            "segments": [
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "こっちに付いてきな",
+            "zh-CN": "跟我过来吧",
+            "segments": [
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "こっちに付いてきな",
+            "zh-CN": "跟我过来吧",
+            "segments": [
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "焼かれた酒場か剥がれた女",
+            "zh-CN": "被烧毁的酒吧 或是被剥光的女人",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "焼かれた酒場か剥がれた女",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "焼",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "かれた"
+                  },
+                  {
+                    "text": "酒場",
+                    "reading": "さかば"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "剥",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "がれた"
+                  },
+                  {
+                    "text": "女",
+                    "reading": "おんな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "しゃがれた看板掲げたオーナー",
+            "zh-CN": "挂着破烂招牌的老板",
+            "segments": [
+              {
+                "text": "しゃがれた看板掲げたオーナー",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "しゃがれた"
+                  },
+                  {
+                    "text": "看板掲",
+                    "reading": "かんばんかか"
+                  },
+                  {
+                    "text": "げたオーナー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "たかだかナイフで刺されたようじゃ",
+            "zh-CN": "仅仅被小刀捅了一下",
+            "segments": [
+              {
+                "text": "たかだかナイフで刺されたようじゃ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "たかだかナイフで"
+                  },
+                  {
+                    "text": "刺",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "されたようじゃ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "端からアイツの思惑通りだ",
+            "zh-CN": "从一开始就落入了那家伙的算计",
+            "segments": [
+              {
+                "text": "端からアイツの思惑通りだ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "端",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "からアイツの"
+                  },
+                  {
+                    "text": "思惑通",
+                    "reading": "おもわくどお"
+                  },
+                  {
+                    "text": "りだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "気 狂ってる目 散歩中",
+            "zh-CN": "发狂的双眼 散步途中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "気 狂ってる目 散歩中",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "狂",
+                    "reading": "くる"
+                  },
+                  {
+                    "text": "ってる"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "散歩中",
+                    "reading": "さんぽちゅう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "血 売るってお前 納得",
+            "zh-CN": "卖血换钱 你倒是接受得挺快",
+            "segments": [
+              {
+                "text": "血 売るってお前 納得",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "血",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "売",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "るってお"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "納得",
+                    "reading": "なっとく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "提灯と竜胆咲かせた果て",
+            "zh-CN": "灯笼与龙胆盛开的尽头",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "提灯と竜胆咲かせた果て",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "提灯",
+                    "reading": "ちょうちん"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "竜胆咲",
+                    "reading": "りんどうさ"
+                  },
+                  {
+                    "text": "かせた"
+                  },
+                  {
+                    "text": "果",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "て"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "盲信の真を奏でたまへ",
+            "zh-CN": "奏响盲信的真理吧",
+            "segments": [
+              {
+                "text": "盲信の真を",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "盲信",
+                    "reading": "もうしん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "真",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "奏でたまへ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "奏",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "でたまへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "黙れ 座れ 黙れ",
+            "zh-CN": "闭嘴 坐下 闭嘴",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "黙れ 座れ 黙れ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "黙",
+                    "reading": "だま"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "座",
+                    "reading": "すわ"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "黙",
+                    "reading": "だま"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "殴れ 殴れ 殴れ",
+            "zh-CN": "动手 打他 痛揍",
+            "segments": [
+              {
+                "text": "殴れ 殴れ 殴れ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "殴",
+                    "reading": "なぐ"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "殴",
+                    "reading": "なぐ"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "殴",
+                    "reading": "なぐ"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "縛れ 縛れ 縛れ",
+            "zh-CN": "绑起来 捆紧 绑死",
+            "segments": [
+              {
+                "text": "縛れ 縛れ 縛れ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "縛",
+                    "reading": "しば"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "縛",
+                    "reading": "しば"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "縛",
+                    "reading": "しば"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "バラせ バラせ バラせ",
+            "zh-CN": "拆解 肢解 分尸",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "バラせ バラせ バラせ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "バラせ バラせ バラせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "バラせ バラせ バラせ",
+            "zh-CN": "拆解 肢解 分尸",
+            "segments": [
+              {
+                "text": "バラせ バラせ バラせ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "バラせ バラせ バラせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "バラせ バラせ バラせ",
+            "zh-CN": "拆解 肢解 分尸",
+            "segments": [
+              {
+                "text": "バラせ バラせ バラせ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "バラせ バラせ バラせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "今夜のはどうだい？",
+            "zh-CN": "今晚的货色感觉如何？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今夜のはどうだい？",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "今夜",
+                    "reading": "こにゃ"
+                  },
+                  {
+                    "text": "のはどうだい？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "お気に召したかい？",
+            "zh-CN": "还合你的心意吗？",
+            "segments": [
+              {
+                "text": "お気に召したかい？",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "召",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "したかい？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "代金はこれくらい",
+            "zh-CN": "费用大概是这个数",
+            "segments": [
+              {
+                "text": "代金はこれくらい",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "代金",
+                    "reading": "だいきん"
+                  },
+                  {
+                    "text": "はこれくらい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "生きてればお客",
+            "zh-CN": "活着就是客人",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "生きてればお客",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きてればお"
+                  },
+                  {
+                    "text": "客",
+                    "reading": "きゃく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "死んでれば商材",
+            "zh-CN": "死了就是商品",
+            "segments": [
+              {
+                "text": "死んでれば商材",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "んでれば"
+                  },
+                  {
+                    "text": "商材",
+                    "reading": "しょうざい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000047",
+            "order": 46,
+            "japanese": "卒なく 無駄なく 転がすビジネス",
+            "zh-CN": "滴水不漏 绝不浪费 运作的风生水起",
+            "segments": [
+              {
+                "text": "卒なく 無駄なく 転がすビジネス",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "卒",
+                    "reading": "そつ"
+                  },
+                  {
+                    "text": "なく "
+                  },
+                  {
+                    "text": "無駄",
+                    "reading": "むだ"
+                  },
+                  {
+                    "text": "なく "
+                  },
+                  {
+                    "text": "転",
+                    "reading": "ころ"
+                  },
+                  {
+                    "text": "がすビジネス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000048",
+            "order": 47,
+            "japanese": "どっちを向いてんだ",
+            "zh-CN": "你在看哪里啊",
+            "segments": [
+              {
+                "text": "どっちを向いてんだ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どっちを"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "いてんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000049",
+            "order": 48,
+            "japanese": "どっちを向いてんだ",
+            "zh-CN": "你在看哪里啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どっちを向いてんだ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どっちを"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "いてんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000050",
+            "order": 49,
+            "japanese": "どっちを向いてんだ",
+            "zh-CN": "你在看哪里啊",
+            "segments": [
+              {
+                "text": "どっちを向いてんだ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どっちを"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "いてんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000051",
+            "order": 50,
+            "japanese": "やあ うな垂れてるその嬢ちゃん",
+            "zh-CN": "呀 垂头丧气的那位小姐",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "やあ うな垂れてるその嬢ちゃん",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "やあ うな"
+                  },
+                  {
+                    "text": "垂",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "れてるその"
+                  },
+                  {
+                    "text": "嬢",
+                    "reading": "じょう"
+                  },
+                  {
+                    "text": "ちゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000052",
+            "order": 51,
+            "japanese": "俺で良けりゃ話してくんない？",
+            "zh-CN": "不介意的话跟我聊聊如何？",
+            "segments": [
+              {
+                "text": "俺で良けりゃ話してくんない？",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "俺",
+                    "reading": "おれ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "けりゃ"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "してくんない？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "よう うな垂れてるその兄ちゃん",
+            "zh-CN": "哟 垂头丧气的那位小哥",
+            "segments": [
+              {
+                "text": "よう うな垂れてるその兄ちゃん",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "よう うな"
+                  },
+                  {
+                    "text": "垂",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "れてるその"
+                  },
+                  {
+                    "text": "兄",
+                    "reading": "にい"
+                  },
+                  {
+                    "text": "ちゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "何か辛い事あったんか？",
+            "zh-CN": "遇到什么烦心事了吗？",
+            "segments": [
+              {
+                "text": "何か辛い事あったんか？",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なん"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "辛",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "あったんか？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "俺で良けりゃ話してくんない？",
+            "zh-CN": "不介意的话跟我聊聊如何？",
+            "segments": [
+              {
+                "text": "俺で良けりゃ話してくんない？",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "俺",
+                    "reading": "おれ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "けりゃ"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "してくんない？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "力になるぜ",
+            "zh-CN": "我能帮上忙哦",
+            "segments": [
+              {
+                "text": "力になるぜ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "力",
+                    "reading": "ちから"
+                  },
+                  {
+                    "text": "になるぜ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "一体どんなことがあった？",
+            "zh-CN": "到底发生什么事了？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "一体どんなことがあった？",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "一体",
+                    "reading": "いったい"
+                  },
+                  {
+                    "text": "どんなことがあった？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "そりゃ酷え話だ兄弟",
+            "zh-CN": "那还真是够过分的啊兄弟",
+            "segments": [
+              {
+                "text": "そりゃ酷え話だ兄弟",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "そりゃ"
+                  },
+                  {
+                    "text": "酷",
+                    "reading": "ひど"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はなし"
+                  },
+                  {
+                    "text": "だ"
+                  },
+                  {
+                    "text": "兄弟",
+                    "reading": "きょうだい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "これをやるから元気出しな",
+            "zh-CN": "这个给你 打起精神来吧",
+            "segments": [
+              {
+                "text": "これをやるから元気出しな",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "これをやるから"
+                  },
+                  {
+                    "text": "元気出",
+                    "reading": "げんきだ"
+                  },
+                  {
+                    "text": "しな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "金ならまた今度でいいさ",
+            "zh-CN": "钱的话下次再给就行",
+            "segments": [
+              {
+                "text": "金ならまた今度でいいさ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "金",
+                    "reading": "かね"
+                  },
+                  {
+                    "text": "ならまた"
+                  },
+                  {
+                    "text": "今度",
+                    "reading": "なんど"
+                  },
+                  {
+                    "text": "でいいさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "Shanti Shanti Shanti Shanti",
+            "zh-CN": "Shanti Shanti Shanti Shanti",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Shanti Shanti Shanti Shanti",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "Shanti Shanti Shanti Shanti"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "Shanti Happy Candy",
+            "zh-CN": "Shanti Happy Candy",
+            "segments": [
+              {
+                "text": "Shanti Happy Candy",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "Shanti Happy Candy"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "Happy Happy Happy Candy",
+            "zh-CN": "Happy Happy Happy Candy",
+            "segments": [
+              {
+                "text": "Happy Happy Happy Candy",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "Happy Happy Happy Candy"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "Many Many Money",
+            "zh-CN": "Many Many Money",
+            "segments": [
+              {
+                "text": "Many Many Money",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "Many Many Money"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "眠らない夜のチャイナタウン",
+            "zh-CN": "不眠之夜的唐人街",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "眠らない夜のチャイナタウン",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "眠",
+                    "reading": "ねむ"
+                  },
+                  {
+                    "text": "らない"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "のチャイナタウン"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "その全てが縄張り",
+            "zh-CN": "全都是我的地盘",
+            "segments": [
+              {
+                "text": "その全てが縄張り",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "全",
+                    "reading": "すべ"
+                  },
+                  {
+                    "text": "てが"
+                  },
+                  {
+                    "text": "縄張",
+                    "reading": "なわば"
+                  },
+                  {
+                    "text": "り"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "老若男女問わずお客",
+            "zh-CN": "男女老少皆是客人",
+            "segments": [
+              {
+                "text": "老若男女問わずお客",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "老若男女問",
+                    "reading": "ろうなくなんにょと"
+                  },
+                  {
+                    "text": "わずお"
+                  },
+                  {
+                    "text": "客",
+                    "reading": "きゃく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "使い終わったら捨てりゃいい",
+            "zh-CN": "用完之后扔掉就行",
+            "segments": [
+              {
+                "text": "使い終わったら捨てりゃいい",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "使",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わったら"
+                  },
+                  {
+                    "text": "捨",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "てりゃいい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "今夜も来たのかい",
+            "zh-CN": "今晚你也来了啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今夜も来たのかい",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "今夜",
+                    "reading": "こにゃ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "来",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "たのかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "お気に召したかい",
+            "zh-CN": "还合你的心意吗",
+            "segments": [
+              {
+                "text": "お気に召したかい",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "召",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "したかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "代金はこれくらい",
+            "zh-CN": "费用大概是这个数",
+            "segments": [
+              {
+                "text": "代金はこれくらい",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "代金",
+                    "reading": "だいきん"
+                  },
+                  {
+                    "text": "はこれくらい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "え？ え？ え？",
+            "zh-CN": "诶？诶？诶？",
+            "segments": [
+              {
+                "text": "え？ え？ え？",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "え？ え？ え？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "払えないのかい",
+            "zh-CN": "付不起吗",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "払えないのかい",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "払",
+                    "reading": "はら"
+                  },
+                  {
+                    "text": "えないのかい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "ならばしょうがない",
+            "zh-CN": "那也是没办法的事",
+            "segments": [
+              {
+                "text": "ならばしょうがない",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "ならばしょうがない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "君にぴったりの仕事があるから こっちに付いてきな",
+            "zh-CN": "刚好有份适合你的差事 跟我过来吧",
+            "segments": [
+              {
+                "text": "君にぴったりの仕事があるから ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "にぴったりの"
+                  },
+                  {
+                    "text": "仕事",
+                    "reading": "しごと"
+                  },
+                  {
+                    "text": "があるから "
+                  }
+                ]
+              },
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "こっちに付いてきな",
+            "zh-CN": "跟我过来吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "こっちに付いてきな",
+            "zh-CN": "跟我过来吧",
+            "segments": [
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "こっちに付いてきな",
+            "zh-CN": "跟我过来吧",
+            "segments": [
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "こっちに付いてきな",
+            "zh-CN": "跟我过来吧",
+            "segments": [
+              {
+                "text": "こっちに付いてきな",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "こっちに"
+                  },
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いてきな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "焼かれた酒場か剥がれた女",
+            "zh-CN": "被烧毁的酒吧 或是被剥光的女人",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "焼かれた酒場か剥がれた女",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "焼",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "かれた"
+                  },
+                  {
+                    "text": "酒場",
+                    "reading": "さかば"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "剥",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "がれた"
+                  },
+                  {
+                    "text": "女",
+                    "reading": "おんな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "しゃがれた看板掲げたオーナー",
+            "zh-CN": "挂着破烂招牌的老板",
+            "segments": [
+              {
+                "text": "しゃがれた看板掲げたオーナー",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "しゃがれた"
+                  },
+                  {
+                    "text": "看板掲",
+                    "reading": "かんばんかか"
+                  },
+                  {
+                    "text": "げたオーナー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000030",
+            "order": 29,
+            "japanese": "たかだかナイフで刺されたようじゃ",
+            "zh-CN": "仅仅被小刀捅了一下",
+            "segments": [
+              {
+                "text": "たかだかナイフで刺されたようじゃ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "たかだかナイフで"
+                  },
+                  {
+                    "text": "刺",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "されたようじゃ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000031",
+            "order": 30,
+            "japanese": "端からアイツの思惑通りだ",
+            "zh-CN": "从一开始就落入了那家伙的算计",
+            "segments": [
+              {
+                "text": "端からアイツの思惑通りだ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "端",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "からアイツの"
+                  },
+                  {
+                    "text": "思惑通",
+                    "reading": "おもわくどお"
+                  },
+                  {
+                    "text": "りだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000032",
+            "order": 31,
+            "japanese": "気 狂ってる目 散歩中",
+            "zh-CN": "发狂的双眼 散步途中",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "気 狂ってる目 散歩中",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "狂",
+                    "reading": "くる"
+                  },
+                  {
+                    "text": "ってる"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "散歩中",
+                    "reading": "さんぽちゅう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000033",
+            "order": 32,
+            "japanese": "血 売るってお前 納得",
+            "zh-CN": "卖血换钱 你倒是接受得挺快",
+            "segments": [
+              {
+                "text": "血 売るってお前 納得",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "血",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "売",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "るってお"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "納得",
+                    "reading": "なっとく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000034",
+            "order": 33,
+            "japanese": "提灯と竜胆咲かせた果て",
+            "zh-CN": "灯笼与龙胆盛开的尽头",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "提灯と竜胆咲かせた果て",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "提灯",
+                    "reading": "ちょうちん"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "竜胆咲",
+                    "reading": "りんどうさ"
+                  },
+                  {
+                    "text": "かせた"
+                  },
+                  {
+                    "text": "果",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "て"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000035",
+            "order": 34,
+            "japanese": "盲信の真を奏でたまへ",
+            "zh-CN": "奏响盲信的真理吧",
+            "segments": [
+              {
+                "text": "盲信の真を",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "盲信",
+                    "reading": "もうしん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "真",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "奏でたまへ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "奏",
+                    "reading": "かな"
+                  },
+                  {
+                    "text": "でたまへ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000036",
+            "order": 35,
+            "japanese": "黙れ 座れ 黙れ",
+            "zh-CN": "闭嘴 坐下 闭嘴",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "黙れ 座れ 黙れ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "黙",
+                    "reading": "だま"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "座",
+                    "reading": "すわ"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "黙",
+                    "reading": "だま"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000037",
+            "order": 36,
+            "japanese": "殴れ 殴れ 殴れ",
+            "zh-CN": "动手 打他 痛揍",
+            "segments": [
+              {
+                "text": "殴れ 殴れ 殴れ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "殴",
+                    "reading": "なぐ"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "殴",
+                    "reading": "なぐ"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "殴",
+                    "reading": "なぐ"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000038",
+            "order": 37,
+            "japanese": "縛れ 縛れ 縛れ",
+            "zh-CN": "绑起来 捆紧 绑死",
+            "segments": [
+              {
+                "text": "縛れ 縛れ 縛れ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "縛",
+                    "reading": "しば"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "縛",
+                    "reading": "しば"
+                  },
+                  {
+                    "text": "れ "
+                  },
+                  {
+                    "text": "縛",
+                    "reading": "しば"
+                  },
+                  {
+                    "text": "れ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000039",
+            "order": 38,
+            "japanese": "バラせ バラせ バラせ",
+            "zh-CN": "拆解 肢解 分尸",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "バラせ バラせ バラせ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "バラせ バラせ バラせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000040",
+            "order": 39,
+            "japanese": "バラせ バラせ バラせ",
+            "zh-CN": "拆解 肢解 分尸",
+            "segments": [
+              {
+                "text": "バラせ バラせ バラせ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "バラせ バラせ バラせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000041",
+            "order": 40,
+            "japanese": "バラせ バラせ バラせ",
+            "zh-CN": "拆解 肢解 分尸",
+            "segments": [
+              {
+                "text": "バラせ バラせ バラせ",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "バラせ バラせ バラせ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000042",
+            "order": 41,
+            "japanese": "今夜のはどうだい？",
+            "zh-CN": "今晚的货色感觉如何？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今夜のはどうだい？",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "今夜",
+                    "reading": "こにゃ"
+                  },
+                  {
+                    "text": "のはどうだい？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000043",
+            "order": 42,
+            "japanese": "お気に召したかい？",
+            "zh-CN": "还合你的心意吗？",
+            "segments": [
+              {
+                "text": "お気に召したかい？",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "召",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "したかい？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000044",
+            "order": 43,
+            "japanese": "代金はこれくらい",
+            "zh-CN": "费用大概是这个数",
+            "segments": [
+              {
+                "text": "代金はこれくらい",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "代金",
+                    "reading": "だいきん"
+                  },
+                  {
+                    "text": "はこれくらい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000045",
+            "order": 44,
+            "japanese": "生きてればお客",
+            "zh-CN": "活着就是客人",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "生きてればお客",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きてればお"
+                  },
+                  {
+                    "text": "客",
+                    "reading": "きゃく"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000046",
+            "order": 45,
+            "japanese": "死んでれば商材",
+            "zh-CN": "死了就是商品",
+            "segments": [
+              {
+                "text": "死んでれば商材",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "死",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "んでれば"
+                  },
+                  {
+                    "text": "商材",
+                    "reading": "しょうざい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000047",
+            "order": 46,
+            "japanese": "卒なく 無駄なく 転がすビジネス",
+            "zh-CN": "滴水不漏 绝不浪费 运作的风生水起",
+            "segments": [
+              {
+                "text": "卒なく 無駄なく 転がすビジネス",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "卒",
+                    "reading": "そつ"
+                  },
+                  {
+                    "text": "なく "
+                  },
+                  {
+                    "text": "無駄",
+                    "reading": "むだ"
+                  },
+                  {
+                    "text": "なく "
+                  },
+                  {
+                    "text": "転",
+                    "reading": "ころ"
+                  },
+                  {
+                    "text": "がすビジネス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000048",
+            "order": 47,
+            "japanese": "どっちを向いてんだ",
+            "zh-CN": "你在看哪里啊",
+            "segments": [
+              {
+                "text": "どっちを向いてんだ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どっちを"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "いてんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000049",
+            "order": 48,
+            "japanese": "どっちを向いてんだ",
+            "zh-CN": "你在看哪里啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "どっちを向いてんだ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どっちを"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "いてんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000050",
+            "order": 49,
+            "japanese": "どっちを向いてんだ",
+            "zh-CN": "你在看哪里啊",
+            "segments": [
+              {
+                "text": "どっちを向いてんだ",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どっちを"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "いてんだ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000051",
+            "order": 50,
+            "japanese": "やあ うな垂れてるその嬢ちゃん",
+            "zh-CN": "呀 垂头丧气的那位小姐",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "やあ うな垂れてるその嬢ちゃん",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "やあ うな"
+                  },
+                  {
+                    "text": "垂",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "れてるその"
+                  },
+                  {
+                    "text": "嬢",
+                    "reading": "じょう"
+                  },
+                  {
+                    "text": "ちゃん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000052",
+            "order": 51,
+            "japanese": "俺で良けりゃ話してくんない？",
+            "zh-CN": "不介意的话跟我聊聊如何？",
+            "segments": [
+              {
+                "text": "俺で良けりゃ話してくんない？",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "俺",
+                    "reading": "おれ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "良",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "けりゃ"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "してくんない？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028",
+          "full-000029",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035",
+          "full-000036",
+          "full-000037",
+          "full-000038",
+          "full-000039",
+          "full-000040",
+          "full-000041",
+          "full-000042",
+          "full-000043",
+          "full-000044",
+          "full-000045",
+          "full-000046",
+          "full-000047",
+          "full-000048",
+          "full-000049",
+          "full-000050",
+          "full-000051",
+          "full-000052"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Shanti",
+          "revisionId": 330255,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shanti?oldid=330255",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Shanti",
+          "revisionId": 330255,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shanti?oldid=330255",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Shanti",
+          "revisionId": 330255,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shanti?oldid=330255",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Shanti",
+          "revisionId": 330255,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shanti?oldid=330255",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Shanti",
+          "revisionId": 330255,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shanti?oldid=330255",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

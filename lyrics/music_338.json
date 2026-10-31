@@ -1,0 +1,1037 @@
+{
+  "version": 3,
+  "musicId": 338,
+  "revision": 4,
+  "updatedAt": "2026-10-14T16:16:08Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "vocaloid",
+      "kind": "vocaloid",
+      "label": "VIRTUAL SINGER Version",
+      "availableVersions": [
+        "full"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-22",
+          "name": "鏡音リン"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "vocaloid",
+          "label": "VIRTUAL SINGER Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "おはよう（おはよう）",
+            "zh-CN": "早安（早安）",
+            "segments": [
+              {
+                "text": "おはよう",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "おはよう"
+                  }
+                ]
+              },
+              {
+                "text": "（おはよう）",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（おはよう）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "私もさっき着いたばかりなんだけど",
+            "zh-CN": "我其实也才刚到不久呢",
+            "segments": [
+              {
+                "text": "私もさっき着いたばかりなんだけど",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "私",
+                    "reading": "わたし"
+                  },
+                  {
+                    "text": "もさっき"
+                  },
+                  {
+                    "text": "着",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "いたばかりなんだけど"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "Alright, 今日はどこで",
+            "zh-CN": "Alright, 今天要在哪里",
+            "segments": [
+              {
+                "text": "Alright, 今日は",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "Alright, "
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              },
+              {
+                "text": "どこで",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "何するか決めよっか",
+            "zh-CN": "决定一下要做些什么吧",
+            "segments": [
+              {
+                "text": "何",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  }
+                ]
+              },
+              {
+                "text": "するか決めよっか",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "するか"
+                  },
+                  {
+                    "text": "決",
+                    "reading": "がき"
+                  },
+                  {
+                    "text": "めよっか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "とりあえず僕もコーヒー",
+            "zh-CN": "总之我也来杯咖啡吧",
+            "segments": [
+              {
+                "text": "とりあえず僕もコーヒー",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "とりあえず"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "もコーヒー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "映画見てもいいね",
+            "zh-CN": "去看场电影也不错呢",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "映画見ても",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "映画見",
+                    "reading": "えいがみ"
+                  },
+                  {
+                    "text": "ても"
+                  }
+                ]
+              },
+              {
+                "text": "いいね",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "いいね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "カラオケでもいいね",
+            "zh-CN": "去去K歌聚会也很棒呢",
+            "segments": [
+              {
+                "text": "カラオケでも",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "カラオケでも"
+                  }
+                ]
+              },
+              {
+                "text": "いいね",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "いいね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "空いてるか見てみようか",
+            "zh-CN": "看看有没有空位吧",
+            "segments": [
+              {
+                "text": "空いてるか見てみようか",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "空",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "いてるか"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "てみようか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "あちゃちゃちゃ満席だって",
+            "zh-CN": "哎呀呀呀 说是已经客满了",
+            "segments": [
+              {
+                "text": "あちゃちゃちゃ満席",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "あちゃちゃちゃ"
+                  },
+                  {
+                    "text": "満席",
+                    "reading": "まんせき"
+                  }
+                ]
+              },
+              {
+                "text": "だって",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だって"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "それじゃ適当に買い物しよっか",
+            "zh-CN": "那就随便逛逛街买点东西吧",
+            "segments": [
+              {
+                "text": "それじゃ適当に買い物しよっか",
+                "performerIds": [
+                  "歌唱者-22"
+                ],
+                "ruby": [
+                  {
+                    "text": "それじゃ"
+                  },
+                  {
+                    "text": "適当",
+                    "reading": "てきとう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "買",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "物",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "しよっか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "なんだって楽しいよ",
+            "zh-CN": "无论做什么都会很开心哦",
+            "segments": [
+              {
+                "text": "なんだって楽しいよ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんだって"
+                  },
+                  {
+                    "text": "楽",
+                    "reading": "たの"
+                  },
+                  {
+                    "text": "しいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "Where shall we go?",
+            "zh-CN": "Where shall we go?",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Where shall we go?",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "Where shall we go?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "どこへ行こう？",
+            "zh-CN": "该去哪里呢？",
+            "segments": [
+              {
+                "text": "どこへ行こう？",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこへ"
+                  },
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "こう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "まだ今日は始まったばかりの大冒険だ",
+            "zh-CN": "今天不过是才刚刚开始的大冒险",
+            "segments": [
+              {
+                "text": "まだ今日は始まったばかりの大冒険だ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "まだ"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "まったばかりの"
+                  },
+                  {
+                    "text": "大冒険",
+                    "reading": "だいぼうけん"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "ほらこのコーヒーを飲み終えたら",
+            "zh-CN": "来吧 等喝完这杯咖啡",
+            "segments": [
+              {
+                "text": "ほらこのコーヒーを飲み終えたら",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ほらこのコーヒーを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "えたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "出発しよっか！",
+            "zh-CN": "就出发吧！",
+            "segments": [
+              {
+                "text": "出発しよっか！",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "出発",
+                    "reading": "しゅっぱつ"
+                  },
+                  {
+                    "text": "しよっか！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "パパダドゥッパダドゥッパダドゥドゥドゥ",
+            "zh-CN": "啪啪哒嘟啪哒嘟啪哒嘟嘟嘟",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "パパダドゥッパダドゥッパダドゥドゥドゥ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パパダドゥッパダドゥッパダドゥドゥドゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "パパダドゥッパダドゥドゥドゥ",
+            "zh-CN": "啪啪哒嘟啪哒嘟嘟嘟",
+            "segments": [
+              {
+                "text": "パパダドゥッパダドゥドゥドゥ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パパダドゥッパダドゥドゥドゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "疲れたらまたカフェで休憩しよう",
+            "zh-CN": "累了的话就再去咖啡馆休息一下吧",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "疲れたらまたカフェで休憩しよう",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "疲",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "れたらまたカフェで"
+                  },
+                  {
+                    "text": "休憩",
+                    "reading": "きゅうけい"
+                  },
+                  {
+                    "text": "しよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "コーヒー 君はカフェラテ",
+            "zh-CN": "一杯咖啡 给你的是拿铁",
+            "segments": [
+              {
+                "text": "コーヒー ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "コーヒー "
+                  }
+                ]
+              },
+              {
+                "text": "君はカフェ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "はカフェ"
+                  }
+                ]
+              },
+              {
+                "text": "ラテ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラテ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "たまにはこんな日もいいね",
+            "zh-CN": "偶尔有这样的一天也不错呢",
+            "segments": [
+              {
+                "text": "たまには",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "たまには"
+                  }
+                ]
+              },
+              {
+                "text": "こんな日もいいね",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "こんな"
+                  },
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "もいいね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "Where shall we go?",
+            "zh-CN": "Where shall we go?",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "Where shall we go?",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "Where shall we go?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "どこへ行こう",
+            "zh-CN": "该去哪里呢",
+            "segments": [
+              {
+                "text": "どこへ行こう",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "どこへ"
+                  },
+                  {
+                    "text": "行",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "こう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "まだ今日は始まったばかりの大冒険だ",
+            "zh-CN": "今天不过是才刚刚开始的大冒险",
+            "segments": [
+              {
+                "text": "まだ今日は始まったばかりの大冒険だ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "まだ"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "始",
+                    "reading": "はじ"
+                  },
+                  {
+                    "text": "まったばかりの"
+                  },
+                  {
+                    "text": "大冒険",
+                    "reading": "だいぼうけん"
+                  },
+                  {
+                    "text": "だ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "ほらこのコーヒーを飲み終えたら",
+            "zh-CN": "来吧 等喝完这杯咖啡",
+            "segments": [
+              {
+                "text": "ほらこのコーヒーを飲み終えたら",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ほらこのコーヒーを"
+                  },
+                  {
+                    "text": "飲",
+                    "reading": "の"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "えたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "出発しよっか",
+            "zh-CN": "就出发吧",
+            "segments": [
+              {
+                "text": "出発しよっか",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "出発",
+                    "reading": "しゅっぱつ"
+                  },
+                  {
+                    "text": "しよっか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "パパダドゥッパダドゥッパダドゥドゥドゥ",
+            "zh-CN": "啪啪哒嘟啪哒嘟啪哒嘟嘟嘟",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "パパダドゥッパダドゥッパダドゥドゥドゥ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パパダドゥッパダドゥッパダドゥドゥドゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "パパダドゥッパダドゥドゥドゥ",
+            "zh-CN": "啪啪哒嘟啪哒嘟嘟嘟",
+            "segments": [
+              {
+                "text": "パパダドゥッパダドゥドゥドゥ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パパダドゥッパダドゥドゥドゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "ラララララララ",
+            "zh-CN": "啦啦啦啦啦啦啦",
+            "segments": [
+              {
+                "text": "ラララララララ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ラララララララ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "ドゥッパダドゥッパダドゥドゥドゥ",
+            "zh-CN": "嘟啪哒嘟啪哒嘟嘟嘟",
+            "segments": [
+              {
+                "text": "ドゥッパダドゥッパダドゥドゥドゥ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ドゥッパダドゥッパダドゥドゥドゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "パパダドゥッパダドゥドゥドゥ",
+            "zh-CN": "啪啪哒嘟啪哒嘟嘟嘟",
+            "segments": [
+              {
+                "text": "パパダドゥッパダドゥドゥドゥ",
+                "performerIds": [
+                  "歌唱者-22",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パパダドゥッパダドゥドゥドゥ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "none"
+      },
+      "sourceTabPaths": [
+        [
+          "VIRTUAL SINGER Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/full_text",
+          "provider": "sekaipedia",
+          "title": "Where shall we go?",
+          "revisionId": 326702,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Where_shall_we_go%3F?oldid=326702",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Where shall we go?",
+          "revisionId": 326702,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Where_shall_we_go%3F?oldid=326702",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Where shall we go?",
+          "revisionId": 326702,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Where_shall_we_go%3F?oldid=326702",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Where shall we go?",
+          "revisionId": 326702,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Where_shall_we_go%3F?oldid=326702",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Where shall we go?",
+          "revisionId": 326702,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Where_shall_we_go%3F?oldid=326702",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

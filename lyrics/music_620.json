@@ -1,0 +1,3234 @@
+{
+  "version": 3,
+  "musicId": 620,
+  "revision": 4,
+  "updatedAt": "2026-10-14T16:42:37Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-09",
+          "name": "小豆沢こはね"
+        },
+        {
+          "performerId": "歌唱者-10",
+          "name": "白石杏"
+        },
+        {
+          "performerId": "歌唱者-11",
+          "name": "東雲彰人"
+        },
+        {
+          "performerId": "歌唱者-12",
+          "name": "青柳冬弥"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "横縞纏う 囚人ファム・ファタール",
+            "zh-CN": "身披横条囚服的 蛇蝎红颜祸水",
+            "segments": [
+              {
+                "text": "横縞纏う 囚人ファム・ファタール",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "横縞纏",
+                    "reading": "よこじままと"
+                  },
+                  {
+                    "text": "う "
+                  },
+                  {
+                    "text": "囚人",
+                    "reading": "しゅうじん"
+                  },
+                  {
+                    "text": "ファム・ファタール"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "有象無象搾り Juiceを呷る",
+            "zh-CN": "榨干各路乌合之众 一口饮尽果汁琼浆",
+            "segments": [
+              {
+                "text": "有象無象搾り Juiceを呷る",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "有象無象搾",
+                    "reading": "うぞうむぞうしぼ"
+                  },
+                  {
+                    "text": "り Juiceを"
+                  },
+                  {
+                    "text": "呷",
+                    "reading": "あお"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "夜な夜な酔な 火遊びで 縊死する",
+            "zh-CN": "夜夜沉醉于玩火自焚 最终自缢身亡",
+            "segments": [
+              {
+                "text": "夜な夜な酔な 火遊びで 縊死する",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "酔",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "な "
+                  },
+                  {
+                    "text": "火遊",
+                    "reading": "ひあそ"
+                  },
+                  {
+                    "text": "びで "
+                  },
+                  {
+                    "text": "縊死",
+                    "reading": "いし"
+                  },
+                  {
+                    "text": "する"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "女児の蝋が溶ける頃",
+            "zh-CN": "待到少女的蜡泪渐渐融化殆尽之时",
+            "segments": [
+              {
+                "text": "女児の蝋が溶ける頃",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "女児",
+                    "reading": "じょじ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "蝋",
+                    "reading": "ろう"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "頃",
+                    "reading": "ころ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "違和感が残業している ",
+            "zh-CN": "违和之感仍在加班加点",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "違和感が残業している ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "違和感",
+                    "reading": "いわかん"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "残業",
+                    "reading": "ざんぎょう"
+                  },
+                  {
+                    "text": "している "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "空空が寂寂している",
+            "zh-CN": "空虚之中唯余死寂沉沉",
+            "segments": [
+              {
+                "text": "空空が寂寂している",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "空空",
+                    "reading": "くうくう"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "寂寂",
+                    "reading": "じゃくじゃく"
+                  },
+                  {
+                    "text": "している"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "淡々とさ こうべ垂れた末に",
+            "zh-CN": "淡漠平淡地 垂下头颅之后",
+            "segments": [
+              {
+                "text": "淡々とさ こうべ垂れた末に",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "淡々",
+                    "reading": "たんたん"
+                  },
+                  {
+                    "text": "とさ こうべ"
+                  },
+                  {
+                    "text": "垂",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "れた"
+                  },
+                  {
+                    "text": "末",
+                    "reading": "すえ"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "はい論破って ",
+            "zh-CN": "来一句被驳倒了吧",
+            "segments": [
+              {
+                "text": "はい論破って ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "はい"
+                  },
+                  {
+                    "text": "論破",
+                    "reading": "ろんぱ"
+                  },
+                  {
+                    "text": "って "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "乾坤一擲 サレンダー",
+            "zh-CN": "孤注一掷 举手投降",
+            "segments": [
+              {
+                "text": "乾坤一擲 サレンダー",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "乾坤一擲",
+                    "reading": "けんこにってき"
+                  },
+                  {
+                    "text": " サレンダー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "御利口 離合 利己的に ",
+            "zh-CN": "乖巧聪明 悲欢离合 自私自利",
+            "segments": [
+              {
+                "text": "御利口 離合 利己的に ",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "御利口",
+                    "reading": "おりこう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "離合",
+                    "reading": "りごう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "利己的",
+                    "reading": "りこてき"
+                  },
+                  {
+                    "text": "に "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "ポジよりネガを誑す",
+            "zh-CN": "比起积极乐观更善于蛊惑消极阴暗",
+            "segments": [
+              {
+                "text": "ポジよりネガを誑す",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "ポジよりネガを"
+                  },
+                  {
+                    "text": "誑",
+                    "reading": "たら"
+                  },
+                  {
+                    "text": "す"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "上っ面な愛を愛と呼べんなら",
+            "zh-CN": "若是将浮于表面的廉价之爱唤作真爱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な愛を愛と呼べんなら",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "呼",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "べんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "如何せん僕はフールみたい",
+            "zh-CN": "无论如何我都宛如一个小丑蠢蛋",
+            "segments": [
+              {
+                "text": "如何せん僕はフールみたい",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "如何",
+                    "reading": "いかん"
+                  },
+                  {
+                    "text": "せん"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "はフールみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "『話したいこともない』って言うから",
+            "zh-CN": "正因你说着『已经没有什么想聊的了』",
+            "segments": [
+              {
+                "text": "『話したいこともない』って言うから",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "『"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "したいこともない』って"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "うから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "そこで護身だと気付いたの",
+            "zh-CN": "我才终于察觉到那不过是你的自我防卫",
+            "segments": [
+              {
+                "text": "そこで護身だと気付いたの",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこで"
+                  },
+                  {
+                    "text": "護身",
+                    "reading": "ごしん"
+                  },
+                  {
+                    "text": "だと"
+                  },
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いたの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "上っ面な君を肯定したんなら",
+            "zh-CN": "若是去肯定那虚情假意的你",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な君を肯定したんなら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "肯定",
+                    "reading": "こうてい"
+                  },
+                  {
+                    "text": "したんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "僕の立つ瀬とは何処へやら",
+            "zh-CN": "我的立足之地又将飘向何方",
+            "segments": [
+              {
+                "text": "僕の立つ瀬とは何処へやら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "つ"
+                  },
+                  {
+                    "text": "瀬",
+                    "reading": "せ"
+                  },
+                  {
+                    "text": "とは"
+                  },
+                  {
+                    "text": "何処",
+                    "reading": "どこ"
+                  },
+                  {
+                    "text": "へやら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "焦れったい玻璃とファンデーション",
+            "zh-CN": "令人心焦难耐的玻璃杯与粉底妆容",
+            "segments": [
+              {
+                "text": "焦れったい玻璃とファンデーション",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "焦",
+                    "reading": "じ"
+                  },
+                  {
+                    "text": "れったい"
+                  },
+                  {
+                    "text": "玻璃",
+                    "reading": "はり"
+                  },
+                  {
+                    "text": "とファンデーション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "舌を曝け出してさ まるで犬",
+            "zh-CN": "吐露长舌毫无遮掩 宛如一条丧家之犬",
+            "segments": [
+              {
+                "text": "舌を曝け出してさ まるで犬",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "舌",
+                    "reading": "した"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "曝",
+                    "reading": "さら"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "してさ まるで"
+                  },
+                  {
+                    "text": "犬",
+                    "reading": "いぬ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "ha ha ha haa",
+            "zh-CN": "ha ha ha haa",
+            "segments": [
+              {
+                "text": "ha ha ha haa",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "ha ha ha haa"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "邪 纏う囚人ファム・ファタール",
+            "zh-CN": "身披邪祟的囚徒 蛇蝎红颜祸水",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "邪 纏う囚人ファム・ファタール",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "邪",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "纏",
+                    "reading": "こしままと"
+                  },
+                  {
+                    "text": "う"
+                  },
+                  {
+                    "text": "囚人",
+                    "reading": "しゅうじん"
+                  },
+                  {
+                    "text": "ファム・ファタール"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "有象無象絞り Deuceを煽る",
+            "zh-CN": "榨干各路乌合之众 煽动平分秋色",
+            "segments": [
+              {
+                "text": "有象無象絞り Deuceを煽る",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "有象無象絞",
+                    "reading": "うぞうむぞうしぼ"
+                  },
+                  {
+                    "text": "り Deuceを"
+                  },
+                  {
+                    "text": "煽",
+                    "reading": "あお"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "様な夜な夜な 火遊びで 意志スルー",
+            "zh-CN": "仿佛夜夜沉迷于玩火自焚 彻底无视意志",
+            "segments": [
+              {
+                "text": "様な夜な夜な 火遊びで 意志スルー",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "様",
+                    "reading": "よう"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "な "
+                  },
+                  {
+                    "text": "火遊",
+                    "reading": "ひあそ"
+                  },
+                  {
+                    "text": "びで "
+                  },
+                  {
+                    "text": "意志",
+                    "reading": "いし"
+                  },
+                  {
+                    "text": "スルー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "情事の牢が解ける頃",
+            "zh-CN": "待到情事牢笼解开之时",
+            "segments": [
+              {
+                "text": "情事の牢が解ける頃",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "情事",
+                    "reading": "じょうじ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "牢",
+                    "reading": "ろう"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "解",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "頃",
+                    "reading": "ころ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "自称・天秤はお頭が軽い方に軍杯を上げた",
+            "zh-CN": "自诩的天秤向着脑袋轻浮的一方判定胜出",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "自称・天秤はお頭が軽い方に軍杯を上げた",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "自称",
+                    "reading": "じしょう"
+                  },
+                  {
+                    "text": "・"
+                  },
+                  {
+                    "text": "天秤",
+                    "reading": "てんびん"
+                  },
+                  {
+                    "text": "はお"
+                  },
+                  {
+                    "text": "頭",
+                    "reading": "つむ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "軽",
+                    "reading": "かる"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "方",
+                    "reading": "ほう"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "軍杯",
+                    "reading": "ぐんぱい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "げた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "デキャンタに移した程度にしか思ってない",
+            "zh-CN": "不过以为仅仅是倒进了分酒器罢了",
+            "segments": [
+              {
+                "text": "デキャンタに移した程度にしか思ってない",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "デキャンタに"
+                  },
+                  {
+                    "text": "移",
+                    "reading": "うつ"
+                  },
+                  {
+                    "text": "した"
+                  },
+                  {
+                    "text": "程度",
+                    "reading": "ていど"
+                  },
+                  {
+                    "text": "にしか"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "ってない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "布石をいけず石のように置いた馬鹿",
+            "zh-CN": "故意设下刁难绊脚石的愚蠢蠢货",
+            "segments": [
+              {
+                "text": "布石をいけず石のように置いた馬鹿",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "布石",
+                    "reading": "ふせき"
+                  },
+                  {
+                    "text": "をいけず"
+                  },
+                  {
+                    "text": "石",
+                    "reading": "いし"
+                  },
+                  {
+                    "text": "のように"
+                  },
+                  {
+                    "text": "置",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "いた"
+                  },
+                  {
+                    "text": "馬鹿",
+                    "reading": "ばか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "上っ面な愛を愛と呼べんなら",
+            "zh-CN": "若是将浮于表面的廉价之爱唤作真爱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な愛を愛と呼べんなら",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "呼",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "べんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "如何せん僕はフールみたい",
+            "zh-CN": "无论如何我都宛如一个小丑蠢蛋",
+            "segments": [
+              {
+                "text": "如何せん僕はフールみたい",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "如何",
+                    "reading": "いかん"
+                  },
+                  {
+                    "text": "せん"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "はフールみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "『離したいワケがない』って言うけど",
+            "zh-CN": "虽说着『怎么可能会想放开手呢』",
+            "segments": [
+              {
+                "text": "『離したいワケがない』って言うけど",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "『"
+                  },
+                  {
+                    "text": "離",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "したいワケがない』って"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "うけど"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "気付かないワケも無いんだよな",
+            "zh-CN": "但我也绝不可能对此毫无察觉啊",
+            "segments": [
+              {
+                "text": "気付かないワケも無いんだよな",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "かないワケも"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "いんだよな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "上っ面な僕の存在理由はさ",
+            "zh-CN": "我那浮于表面的存在理由啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な僕の存在理由はさ",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "存在理由",
+                    "reading": "そんざいりゆう"
+                  },
+                  {
+                    "text": "はさ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "お誂え向きな隘路 贄",
+            "zh-CN": "宛如量身定制的狭窄隘路 沦为祭品",
+            "segments": [
+              {
+                "text": "お誂え向きな隘路 贄",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "誂",
+                    "reading": "あつら"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "きな"
+                  },
+                  {
+                    "text": "隘路",
+                    "reading": "あいろ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "贄",
+                    "reading": "にえ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "ブランデー肌で吸ったなら",
+            "zh-CN": "若用肌肤深深吸收了白兰地酒",
+            "segments": [
+              {
+                "text": "ブランデー肌で吸ったなら",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "ブランデー"
+                  },
+                  {
+                    "text": "肌",
+                    "reading": "はだ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "吸",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "ったなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "しどろもどろになって戯れて",
+            "zh-CN": "便语无伦次地尽情调情戏谑",
+            "segments": [
+              {
+                "text": "しどろもどろになって戯れて",
+                "performerIds": [],
+                "ruby": [
+                  {
+                    "text": "しどろもどろになって"
+                  },
+                  {
+                    "text": "戯",
+                    "reading": "たわむ"
+                  },
+                  {
+                    "text": "れて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "(Woah-oh oh-oh oh-oh woah)",
+            "zh-CN": "(Woah-oh oh-oh oh-oh woah)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(Woah-oh oh-oh oh-oh woah)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Woah-oh oh-oh oh-oh woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "(Oh-oh oh-oh oh-oh-woah)",
+            "zh-CN": "(Oh-oh oh-oh oh-oh-woah)",
+            "segments": [
+              {
+                "text": "(Oh-oh oh-oh oh-oh-woah)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh-oh oh-oh oh-oh-woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+            "zh-CN": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+            "segments": [
+              {
+                "text": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "上っ面な愛を愛と呼べんなら",
+            "zh-CN": "若是将浮于表面的廉价之爱唤作真爱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な愛を愛と呼べんなら",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "呼",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "べんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "如何せん僕はフールみたい",
+            "zh-CN": "无论如何我都宛如一个小丑蠢蛋",
+            "segments": [
+              {
+                "text": "如何せん僕はフールみたい",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "如何",
+                    "reading": "いかん"
+                  },
+                  {
+                    "text": "せん"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "はフールみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "『話せないこともない』って言うから",
+            "zh-CN": "正因你说着『也不是完全不能聊』",
+            "segments": [
+              {
+                "text": "『話せないこともない』って言うから",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "『"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "せないこともない』って"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "うから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "そこで誤審だと気付いたの",
+            "zh-CN": "我才终于察觉到那是一场误判",
+            "segments": [
+              {
+                "text": "そこで誤審だと気付いたの",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこで"
+                  },
+                  {
+                    "text": "誤審",
+                    "reading": "ごしん"
+                  },
+                  {
+                    "text": "だと"
+                  },
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いたの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "上っ面な愛を愛と呼ぶんなら",
+            "zh-CN": "若是将浮于表面的廉价之爱唤作真爱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な愛を愛と呼ぶんなら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "呼",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "ぶんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000044",
+            "order": 43,
+            "japanese": "如何せん僕がヒールみたい",
+            "zh-CN": "无论如何我都宛如沦为了反派恶人",
+            "segments": [
+              {
+                "text": "如何せん僕がヒールみたい",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "如何",
+                    "reading": "いかん"
+                  },
+                  {
+                    "text": "せん"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "がヒールみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000045",
+            "order": 44,
+            "japanese": "お別れのキスも何杯目",
+            "zh-CN": "诀别的吻究竟已是第几杯",
+            "segments": [
+              {
+                "text": "お別れのキスも何杯目",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "別",
+                    "reading": "わか"
+                  },
+                  {
+                    "text": "れのキスも"
+                  },
+                  {
+                    "text": "何杯目",
+                    "reading": "なんばいめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000046",
+            "order": 45,
+            "japanese": "邪 見透かされて まるで犬",
+            "zh-CN": "邪念被一眼看穿 宛如一条丧家之犬",
+            "segments": [
+              {
+                "text": "邪 見透かされて まるで犬",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "邪",
+                    "reading": "よこしま"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "見透",
+                    "reading": "みす"
+                  },
+                  {
+                    "text": "かされて まるで"
+                  },
+                  {
+                    "text": "犬",
+                    "reading": "いぬ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000047",
+            "order": 46,
+            "japanese": "ha ha ha haa",
+            "zh-CN": "ha ha ha haa",
+            "segments": [
+              {
+                "text": "ha ha ha haa",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ha ha ha haa"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000048",
+            "order": 47,
+            "japanese": "まるで犬さ",
+            "zh-CN": "简直就像一条犬啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "まるで犬さ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "まるで"
+                  },
+                  {
+                    "text": "犬",
+                    "reading": "いぬ"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000049",
+            "order": 48,
+            "japanese": "(Woah-oh oh-oh oh-oh woah)",
+            "zh-CN": "(Woah-oh oh-oh oh-oh woah)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(Woah-oh oh-oh oh-oh woah)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Woah-oh oh-oh oh-oh woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000050",
+            "order": 49,
+            "japanese": "(Oh-oh oh-oh oh-oh-woah)",
+            "zh-CN": "(Oh-oh oh-oh oh-oh-woah)",
+            "segments": [
+              {
+                "text": "(Oh-oh oh-oh oh-oh-woah)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh-oh oh-oh oh-oh-woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000051",
+            "order": 50,
+            "japanese": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+            "zh-CN": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+            "segments": [
+              {
+                "text": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-"
+                  }
+                ]
+              },
+              {
+                "text": "oh)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "oh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "横縞纏う 囚人ファム・ファタール",
+            "zh-CN": "身披横条囚服的 蛇蝎红颜祸水",
+            "segments": [
+              {
+                "text": "横縞纏う 囚人ファム・ファタール",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "横縞纏",
+                    "reading": "よこじままと"
+                  },
+                  {
+                    "text": "う "
+                  },
+                  {
+                    "text": "囚人",
+                    "reading": "しゅうじん"
+                  },
+                  {
+                    "text": "ファム・ファタール"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "有象無象搾り Juiceを呷る",
+            "zh-CN": "榨干各路乌合之众 一口饮尽果汁琼浆",
+            "segments": [
+              {
+                "text": "有象無象搾り Juiceを呷る",
+                "performerIds": [
+                  "歌唱者-09"
+                ],
+                "ruby": [
+                  {
+                    "text": "有象無象搾",
+                    "reading": "うぞうむぞうしぼ"
+                  },
+                  {
+                    "text": "り Juiceを"
+                  },
+                  {
+                    "text": "呷",
+                    "reading": "あお"
+                  },
+                  {
+                    "text": "る"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "夜な夜な酔な 火遊びで 縊死する",
+            "zh-CN": "夜夜沉醉于玩火自焚 最终自缢身亡",
+            "segments": [
+              {
+                "text": "夜な夜な酔な 火遊びで 縊死する",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "酔",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "な "
+                  },
+                  {
+                    "text": "火遊",
+                    "reading": "ひあそ"
+                  },
+                  {
+                    "text": "びで "
+                  },
+                  {
+                    "text": "縊死",
+                    "reading": "いし"
+                  },
+                  {
+                    "text": "する"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "女児の蝋が溶ける頃",
+            "zh-CN": "待到少女的蜡泪渐渐融化殆尽之时",
+            "segments": [
+              {
+                "text": "女児の蝋が溶ける頃",
+                "performerIds": [
+                  "歌唱者-10"
+                ],
+                "ruby": [
+                  {
+                    "text": "女児",
+                    "reading": "じょじ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "蝋",
+                    "reading": "ろう"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "頃",
+                    "reading": "ころ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "違和感が残業している ",
+            "zh-CN": "违和之感仍在加班加点",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "違和感が残業している ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "違和感",
+                    "reading": "いわかん"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "残業",
+                    "reading": "ざんぎょう"
+                  },
+                  {
+                    "text": "している "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "空空が寂寂している",
+            "zh-CN": "空虚之中唯余死寂沉沉",
+            "segments": [
+              {
+                "text": "空空が寂寂している",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "空空",
+                    "reading": "くうくう"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "寂寂",
+                    "reading": "じゃくじゃく"
+                  },
+                  {
+                    "text": "している"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "淡々とさ こうべ垂れた末に",
+            "zh-CN": "淡漠平淡地 垂下头颅之后",
+            "segments": [
+              {
+                "text": "淡々とさ こうべ垂れた末に",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "淡々",
+                    "reading": "たんたん"
+                  },
+                  {
+                    "text": "とさ こうべ"
+                  },
+                  {
+                    "text": "垂",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "れた"
+                  },
+                  {
+                    "text": "末",
+                    "reading": "すえ"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "はい論破って ",
+            "zh-CN": "来一句被驳倒了吧",
+            "segments": [
+              {
+                "text": "はい論破って ",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "はい"
+                  },
+                  {
+                    "text": "論破",
+                    "reading": "ろんぱ"
+                  },
+                  {
+                    "text": "って "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "乾坤一擲 サレンダー",
+            "zh-CN": "孤注一掷 举手投降",
+            "segments": [
+              {
+                "text": "乾坤一擲 サレンダー",
+                "performerIds": [
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "乾坤一擲",
+                    "reading": "けんこにってき"
+                  },
+                  {
+                    "text": " サレンダー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "御利口 離合 利己的に ",
+            "zh-CN": "乖巧聪明 悲欢离合 自私自利",
+            "segments": [
+              {
+                "text": "御利口 離合 利己的に ",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "御利口",
+                    "reading": "おりこう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "離合",
+                    "reading": "りごう"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "利己的",
+                    "reading": "りこてき"
+                  },
+                  {
+                    "text": "に "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "ポジよりネガを誑す",
+            "zh-CN": "比起积极乐观更善于蛊惑消极阴暗",
+            "segments": [
+              {
+                "text": "ポジよりネガを誑す",
+                "performerIds": [
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "ポジよりネガを"
+                  },
+                  {
+                    "text": "誑",
+                    "reading": "たら"
+                  },
+                  {
+                    "text": "す"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "上っ面な愛を愛と呼べんなら",
+            "zh-CN": "若是将浮于表面的廉价之爱唤作真爱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な愛を愛と呼べんなら",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "呼",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "べんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "如何せん僕はフールみたい",
+            "zh-CN": "无论如何我都宛如一个小丑蠢蛋",
+            "segments": [
+              {
+                "text": "如何せん僕はフールみたい",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "如何",
+                    "reading": "いかん"
+                  },
+                  {
+                    "text": "せん"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "はフールみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "『話したいこともない』って言うから",
+            "zh-CN": "正因你说着『已经没有什么想聊的了』",
+            "segments": [
+              {
+                "text": "『話したいこともない』って言うから",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "『"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "したいこともない』って"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "うから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "そこで護身だと気付いたの",
+            "zh-CN": "我才终于察觉到那不过是你的自我防卫",
+            "segments": [
+              {
+                "text": "そこで護身だと気付いたの",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこで"
+                  },
+                  {
+                    "text": "護身",
+                    "reading": "ごしん"
+                  },
+                  {
+                    "text": "だと"
+                  },
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いたの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "上っ面な君を肯定したんなら",
+            "zh-CN": "若是去肯定那虚情假意的你",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な君を肯定したんなら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "肯定",
+                    "reading": "こうてい"
+                  },
+                  {
+                    "text": "したんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "僕の立つ瀬とは何処へやら",
+            "zh-CN": "我的立足之地又将飘向何方",
+            "segments": [
+              {
+                "text": "僕の立つ瀬とは何処へやら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "つ"
+                  },
+                  {
+                    "text": "瀬",
+                    "reading": "せ"
+                  },
+                  {
+                    "text": "とは"
+                  },
+                  {
+                    "text": "何処",
+                    "reading": "どこ"
+                  },
+                  {
+                    "text": "へやら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "焦れったい玻璃とファンデーション",
+            "zh-CN": "令人心焦难耐的玻璃杯与粉底妆容",
+            "segments": [
+              {
+                "text": "焦れったい玻璃とファンデーション",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "焦",
+                    "reading": "じ"
+                  },
+                  {
+                    "text": "れったい"
+                  },
+                  {
+                    "text": "玻璃",
+                    "reading": "はり"
+                  },
+                  {
+                    "text": "とファンデーション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "舌を曝け出してさ まるで犬",
+            "zh-CN": "吐露长舌毫无遮掩 宛如一条丧家之犬",
+            "segments": [
+              {
+                "text": "舌を曝け出してさ まるで犬",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "舌",
+                    "reading": "した"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "曝",
+                    "reading": "さら"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "してさ まるで"
+                  },
+                  {
+                    "text": "犬",
+                    "reading": "いぬ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "ha ha ha haa",
+            "zh-CN": "ha ha ha haa",
+            "segments": [
+              {
+                "text": "ha ha ha haa",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11"
+                ],
+                "ruby": [
+                  {
+                    "text": "ha ha ha haa"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "(Woah-oh oh-oh oh-oh woah)",
+            "zh-CN": "(Woah-oh oh-oh oh-oh woah)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(Woah-oh oh-oh oh-oh woah)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Woah-oh oh-oh oh-oh woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "(Oh-oh oh-oh oh-oh-woah)",
+            "zh-CN": "(Oh-oh oh-oh oh-oh-woah)",
+            "segments": [
+              {
+                "text": "(Oh-oh oh-oh oh-oh-woah)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh-oh oh-oh oh-oh-woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+            "zh-CN": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+            "segments": [
+              {
+                "text": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "上っ面な愛を愛と呼べんなら",
+            "zh-CN": "若是将浮于表面的廉价之爱唤作真爱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な愛を愛と呼べんなら",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "呼",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "べんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "如何せん僕はフールみたい",
+            "zh-CN": "无论如何我都宛如一个小丑蠢蛋",
+            "segments": [
+              {
+                "text": "如何せん僕はフールみたい",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "如何",
+                    "reading": "いかん"
+                  },
+                  {
+                    "text": "せん"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "はフールみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "『話せないこともない』って言うから",
+            "zh-CN": "正因你说着『也不是完全不能聊』",
+            "segments": [
+              {
+                "text": "『話せないこともない』って言うから",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "『"
+                  },
+                  {
+                    "text": "話",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "せないこともない』って"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "うから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "そこで誤審だと気付いたの",
+            "zh-CN": "我才终于察觉到那是一场误判",
+            "segments": [
+              {
+                "text": "そこで誤審だと気付いたの",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "そこで"
+                  },
+                  {
+                    "text": "誤審",
+                    "reading": "ごしん"
+                  },
+                  {
+                    "text": "だと"
+                  },
+                  {
+                    "text": "気付",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "いたの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "上っ面な愛を愛と呼ぶんなら",
+            "zh-CN": "若是将浮于表面的廉价之爱唤作真爱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "上っ面な愛を愛と呼ぶんなら",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "上",
+                    "reading": "うわ"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "面",
+                    "reading": "つら"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "愛",
+                    "reading": "あい"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "呼",
+                    "reading": "よ"
+                  },
+                  {
+                    "text": "ぶんなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000029",
+            "order": 28,
+            "japanese": "如何せん僕がヒールみたい",
+            "zh-CN": "无论如何我都宛如沦为了反派恶人",
+            "segments": [
+              {
+                "text": "如何せん僕がヒールみたい",
+                "performerIds": [
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "如何",
+                    "reading": "いかん"
+                  },
+                  {
+                    "text": "せん"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "がヒールみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000030",
+            "order": 29,
+            "japanese": "お別れのキスも何杯目",
+            "zh-CN": "诀别的吻究竟已是第几杯",
+            "segments": [
+              {
+                "text": "お別れのキスも何杯目",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "お"
+                  },
+                  {
+                    "text": "別",
+                    "reading": "わか"
+                  },
+                  {
+                    "text": "れのキスも"
+                  },
+                  {
+                    "text": "何杯目",
+                    "reading": "なんばいめ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000031",
+            "order": 30,
+            "japanese": "邪 見透かされて まるで犬",
+            "zh-CN": "邪念被一眼看穿 宛如一条丧家之犬",
+            "segments": [
+              {
+                "text": "邪 見透かされて まるで犬",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "邪",
+                    "reading": "よこしま"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "見透",
+                    "reading": "みす"
+                  },
+                  {
+                    "text": "かされて まるで"
+                  },
+                  {
+                    "text": "犬",
+                    "reading": "いぬ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000032",
+            "order": 31,
+            "japanese": "ha ha ha haa",
+            "zh-CN": "ha ha ha haa",
+            "segments": [
+              {
+                "text": "ha ha ha haa",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-11",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ha ha ha haa"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000033",
+            "order": 32,
+            "japanese": "まるで犬さ",
+            "zh-CN": "简直就像一条犬啊",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "まるで犬さ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "まるで"
+                  },
+                  {
+                    "text": "犬",
+                    "reading": "いぬ"
+                  },
+                  {
+                    "text": "さ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000034",
+            "order": 33,
+            "japanese": "(Woah-oh oh-oh oh-oh woah)",
+            "zh-CN": "(Woah-oh oh-oh oh-oh woah)",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "(Woah-oh oh-oh oh-oh woah)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Woah-oh oh-oh oh-oh woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000035",
+            "order": 34,
+            "japanese": "(Oh-oh oh-oh oh-oh-woah)",
+            "zh-CN": "(Oh-oh oh-oh oh-oh-woah)",
+            "segments": [
+              {
+                "text": "(Oh-oh oh-oh oh-oh-woah)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Oh-oh oh-oh oh-oh-woah)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000036",
+            "order": 35,
+            "japanese": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+            "zh-CN": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-oh)",
+            "segments": [
+              {
+                "text": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12"
+                ],
+                "ruby": [
+                  {
+                    "text": "(Woah-oh oh-oh oh-oh woah oh-oh oh-oh oh-"
+                  }
+                ]
+              },
+              {
+                "text": "oh)",
+                "performerIds": [
+                  "歌唱者-09",
+                  "歌唱者-10",
+                  "歌唱者-11",
+                  "歌唱者-12",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "oh)"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000036",
+          "full-000037",
+          "full-000038",
+          "full-000039",
+          "full-000040",
+          "full-000041",
+          "full-000042",
+          "full-000043",
+          "full-000044",
+          "full-000045",
+          "full-000046",
+          "full-000047",
+          "full-000048",
+          "full-000049",
+          "full-000050",
+          "full-000051"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Shama",
+          "revisionId": 330273,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shama?oldid=330273",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Shama",
+          "revisionId": 330273,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shama?oldid=330273",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Shama",
+          "revisionId": 330273,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shama?oldid=330273",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Shama",
+          "revisionId": 330273,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shama?oldid=330273",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Shama",
+          "revisionId": 330273,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Shama?oldid=330273",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

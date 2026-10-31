@@ -1,0 +1,2759 @@
+{
+  "version": 3,
+  "musicId": 225,
+  "revision": 3,
+  "updatedAt": "2026-08-23T12:01:08Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-13",
+          "name": "天馬司"
+        },
+        {
+          "performerId": "歌唱者-14",
+          "name": "鳳えむ"
+        },
+        {
+          "performerId": "歌唱者-15",
+          "name": "草薙寧々"
+        },
+        {
+          "performerId": "歌唱者-16",
+          "name": "神代類"
+        },
+        {
+          "performerId": "歌唱者-23",
+          "name": "鏡音レン"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "ヘい！",
+            "zh-CN": "嘿！",
+            "segments": [
+              {
+                "text": "ヘい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ヘい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "パッパラパパッラ",
+            "zh-CN": "啪啪啦啪啪啦",
+            "segments": [
+              {
+                "text": "パッパラパパッラ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッラ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "パッパラパトゥル",
+            "zh-CN": "啪啪啦啪突噜",
+            "segments": [
+              {
+                "text": "パッパラパトゥル",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパトゥル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "パッパラパパッララ （yeah）",
+            "zh-CN": "啪啪啦啪啪啦啦 （yeah）",
+            "segments": [
+              {
+                "text": "パッパラパパッララ ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッララ "
+                  }
+                ]
+              },
+              {
+                "text": "（yeah）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "（yeah）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "パッパラパパッラ",
+            "zh-CN": "啪啪啦啪啪啦",
+            "segments": [
+              {
+                "text": "パッパラパパッラ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッラ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "パッパラパトゥル",
+            "zh-CN": "啪啪啦啪突噜",
+            "segments": [
+              {
+                "text": "パッパラパトゥル",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパトゥル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "パッパラパパッララ",
+            "zh-CN": "啪啪啦啪啪啦啦",
+            "segments": [
+              {
+                "text": "パッパラパパッララ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッララ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "腑抜けた心にI need you 噂のアルカロイド",
+            "zh-CN": "给萎靡不振的心灵 I need you 传闻中的生物碱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "腑抜けた心にI need you 噂のアルカロイド",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "腑抜",
+                    "reading": "ふぬ"
+                  },
+                  {
+                    "text": "けた"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "にI need you "
+                  },
+                  {
+                    "text": "噂",
+                    "reading": "うわさ"
+                  },
+                  {
+                    "text": "のアルカロイド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "あだ名はネットの髑髏　かき鳴らせディストーション",
+            "zh-CN": "绰号是网络骷髅 尽情弹响失真音效",
+            "segments": [
+              {
+                "text": "あだ名はネットの髑髏　かき鳴らせディストーション",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "あだ"
+                  },
+                  {
+                    "text": "名",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "はネットの"
+                  },
+                  {
+                    "text": "髑髏",
+                    "reading": "しゃれこうべ"
+                  },
+                  {
+                    "text": "　かき"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせディストーション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "付け焼き刃の侍が　乱れ打つ散弾銃",
+            "zh-CN": "临阵磨枪的武士 疯狂扫射散弹枪",
+            "segments": [
+              {
+                "text": "付け焼き刃の侍が　",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "焼",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "刃",
+                    "reading": "やいば"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "侍",
+                    "reading": "さむらい"
+                  },
+                  {
+                    "text": "が　"
+                  }
+                ]
+              },
+              {
+                "text": "乱れ打つ散弾銃",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "乱",
+                    "reading": "みだ"
+                  },
+                  {
+                    "text": "れ"
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "つ"
+                  },
+                  {
+                    "text": "散弾銃",
+                    "reading": "さんだんじゅう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "悲劇の歴史で踊ろうか　ほらテンテコへンテコ舞舞はあ",
+            "zh-CN": "在悲剧的历史中翩翩起舞吧 瞧啊手忙脚乱荒诞乱舞哈啊",
+            "segments": [
+              {
+                "text": "悲劇の歴史で踊ろうか　",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "悲劇",
+                    "reading": "ひげき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "歴史",
+                    "reading": "れきし"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "ろうか　"
+                  }
+                ]
+              },
+              {
+                "text": "ほらテンテコへンテコ舞舞はあ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ほらテンテコへンテコ"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "まい"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "まい"
+                  },
+                  {
+                    "text": "はあ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "僕の心はエゴロック斜め45度ナンセンス",
+            "zh-CN": "我的心是自我唯我摇滚 倾斜45度荒诞无稽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕の心はエゴロック斜め45度ナンセンス",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "はエゴロック"
+                  },
+                  {
+                    "text": "斜",
+                    "reading": "なな"
+                  },
+                  {
+                    "text": "め45"
+                  },
+                  {
+                    "text": "度",
+                    "reading": "ど"
+                  },
+                  {
+                    "text": "ナンセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+            "zh-CN": "击碎诀窍将千篇一律向明天挥手拜拜拜",
+            "segments": [
+              {
+                "text": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ノウハウ"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "いてマンネリを"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "にバイバイバイ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "媚びへつらうその姿　吐き気の空模様",
+            "zh-CN": "阿谀奉承的那副姿态 令人作呕的天气景象",
+            "segments": [
+              {
+                "text": "媚びへつらうその姿　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "媚",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "びへつらうその"
+                  },
+                  {
+                    "text": "姿",
+                    "reading": "すがた"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "吐き気の空模様",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "空模様",
+                    "reading": "そらもよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "シニカルな視線の雨　今日も両目を塞ぐふり",
+            "zh-CN": "讥讽讽刺的视线之雨 今天也假装遮住双眼",
+            "segments": [
+              {
+                "text": "シニカルな視線の雨　今日も",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "シニカルな"
+                  },
+                  {
+                    "text": "視線",
+                    "reading": "しせん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雨",
+                    "reading": "あめ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              },
+              {
+                "text": "両目を塞ぐふり",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "両目",
+                    "reading": "りょうめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "塞",
+                    "reading": "ふさ"
+                  },
+                  {
+                    "text": "ぐふり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "パッパラパパッラ",
+            "zh-CN": "啪啪啦啪啪啦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "パッパラパパッラ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッラ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "パッパラパトゥル",
+            "zh-CN": "啪啪啦啪突噜",
+            "segments": [
+              {
+                "text": "パッパラパトゥル",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパトゥル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "パッパラパパッララ （yeah）",
+            "zh-CN": "啪啪啦啪啪啦啦 （yeah）",
+            "segments": [
+              {
+                "text": "パッパラパパッララ ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッララ "
+                  }
+                ]
+              },
+              {
+                "text": "（yeah）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "（yeah）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "パッパラパパッラ",
+            "zh-CN": "啪啪啦啪啪啦",
+            "segments": [
+              {
+                "text": "パッパラパパッラ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッラ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "パッパラパトゥル",
+            "zh-CN": "啪啪啦啪突噜",
+            "segments": [
+              {
+                "text": "パッパラパトゥル",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパトゥル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "パッパラパパッララ",
+            "zh-CN": "啪啪啦啪啪啦啦",
+            "segments": [
+              {
+                "text": "パッパラパパッララ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッララ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "おちゃらけ頭にI need you 巷のアルカロイド",
+            "zh-CN": "给嬉皮笑脸的脑瓜 I need you 市井的生物碱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "おちゃらけ頭にI need you 巷のアルカロイド",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "おちゃらけ"
+                  },
+                  {
+                    "text": "頭",
+                    "reading": "あたま"
+                  },
+                  {
+                    "text": "にI need you "
+                  },
+                  {
+                    "text": "巷",
+                    "reading": "ちまた"
+                  },
+                  {
+                    "text": "のアルカロイド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "あの子も流行りのインスタントショー 撒き散らせDID",
+            "zh-CN": "那个孩子也是当下流行的速食秀 肆意四散投放 DID",
+            "segments": [
+              {
+                "text": "あの子も流行りのインスタントショー 撒き散らせDID",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "あの"
+                  },
+                  {
+                    "text": "子",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "も"
+                  },
+                  {
+                    "text": "流行",
+                    "reading": "はや"
+                  },
+                  {
+                    "text": "りのインスタントショー "
+                  },
+                  {
+                    "text": "撒",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "散",
+                    "reading": "ち"
+                  },
+                  {
+                    "text": "らせDID"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "うだつが上がらぬ侍が 未来断つ哀悼歌",
+            "zh-CN": "毫无出头之日的武士 斩断未来的哀悼歌",
+            "segments": [
+              {
+                "text": "うだつが上がらぬ侍が ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "うだつが"
+                  },
+                  {
+                    "text": "上",
+                    "reading": "あ"
+                  },
+                  {
+                    "text": "がらぬ"
+                  },
+                  {
+                    "text": "侍",
+                    "reading": "さむらい"
+                  },
+                  {
+                    "text": "が "
+                  }
+                ]
+              },
+              {
+                "text": "未来断つ哀悼歌",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "未来断",
+                    "reading": "みらいた"
+                  },
+                  {
+                    "text": "つ"
+                  },
+                  {
+                    "text": "哀悼歌",
+                    "reading": "あいとうか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "無残な歴史で歌おうよ ほらチャンチャラナンチャラ舞舞はあ",
+            "zh-CN": "在凄惨残酷的历史中放声高歌吧 瞧啊荒唐可笑胡乱起舞哈啊",
+            "segments": [
+              {
+                "text": "無残な歴史で歌おうよ ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "無残",
+                    "reading": "むざん"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "歴史",
+                    "reading": "れきし"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "おうよ "
+                  }
+                ]
+              },
+              {
+                "text": "ほらチャンチャラナンチャラ舞舞",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "ほらチャンチャラナンチャラ"
+                  },
+                  {
+                    "text": "舞舞",
+                    "reading": "まいまい"
+                  }
+                ]
+              },
+              {
+                "text": "はあ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "はあ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "ロックな心で生きようか 真夏並みHotなミュージック",
+            "zh-CN": "怀抱摇滚的心灵活下去吧 宛如盛夏般火热的音乐",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ロックな心で生きようか 真夏並みHotなミュージック",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ロックな"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "生",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "きようか "
+                  },
+                  {
+                    "text": "真夏並",
+                    "reading": "まなつな"
+                  },
+                  {
+                    "text": "みHotなミュージック"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "ハウツー砕いて丸書いて 明日もワッハッハ",
+            "zh-CN": "击碎攻略指南画个大圈 明天也要哇哈哈大笑",
+            "segments": [
+              {
+                "text": "ハウツー砕いて丸書いて 明日もワッハッハ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ハウツー"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "丸書",
+                    "reading": "まるか"
+                  },
+                  {
+                    "text": "いて "
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "もワッハッハ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "洒落臭さも癖になる はみ出し者だろ",
+            "zh-CN": "傲慢惹人嫌也渐渐成瘾 反正本来就是局外异类吧",
+            "segments": [
+              {
+                "text": "洒落臭さも癖になる ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "洒落臭",
+                    "reading": "しゃらくさ"
+                  },
+                  {
+                    "text": "さも"
+                  },
+                  {
+                    "text": "癖",
+                    "reading": "くせ"
+                  },
+                  {
+                    "text": "になる "
+                  }
+                ]
+              },
+              {
+                "text": "はみ出し者だろ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "はみ"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "者",
+                    "reading": "もの"
+                  },
+                  {
+                    "text": "だろ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "リリカルな視線の雨 今日も両目を開くふり",
+            "zh-CN": "抒情诗般的视线之雨 今天也假装睁开双眼",
+            "segments": [
+              {
+                "text": "リリカルな視線の雨 今日も",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "リリカルな"
+                  },
+                  {
+                    "text": "視線",
+                    "reading": "しせん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雨",
+                    "reading": "あめ"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              },
+              {
+                "text": "両目を開くふり",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "両目",
+                    "reading": "りょうめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "開",
+                    "reading": "ひら"
+                  },
+                  {
+                    "text": "くふり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "透明な感情は染まるだけさ　",
+            "zh-CN": "透明纯粹的情感不过是徒遭沾染罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "透明な感情は染まるだけさ　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "透明",
+                    "reading": "とうめい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "感情",
+                    "reading": "かんじょう"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "染",
+                    "reading": "そ"
+                  },
+                  {
+                    "text": "まるだけさ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "だったら見て見ぬふりする奴らを押し出せ",
+            "zh-CN": "既然如此就把装作视而不见的家伙统统踢出去",
+            "segments": [
+              {
+                "text": "だったら見て見ぬふりする奴らを押し出せ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だったら"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "て"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ぬふりする"
+                  },
+                  {
+                    "text": "奴",
+                    "reading": "やつ"
+                  },
+                  {
+                    "text": "らを"
+                  },
+                  {
+                    "text": "押",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "せ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "人生かけても負けそうです　勝ち負け取り憑かれナンセンス",
+            "zh-CN": "哪怕赌上整个人生也感觉要输 被输赢纠缠简直荒唐无稽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "人生かけても負けそうです　勝ち負け取り憑かれナンセンス",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "かけても"
+                  },
+                  {
+                    "text": "負",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "けそうです　"
+                  },
+                  {
+                    "text": "勝",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "負",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "憑",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "かれナンセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "1分砕いて常識を　未来にSay goodbye",
+            "zh-CN": "花上一分钟击碎常识 朝着未来 Say goodbye",
+            "segments": [
+              {
+                "text": "1分砕いて常識を　未来にSay goodbye",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "分砕",
+                    "reading": "いっぷんくだ"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "常識",
+                    "reading": "じょうしき"
+                  },
+                  {
+                    "text": "を　"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "にSay goodbye"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "僕の心はエゴロック斜め45度ナンセンス",
+            "zh-CN": "我的心是自我唯我摇滚 倾斜45度荒诞无稽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕の心はエゴロック斜め45度ナンセンス",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "はエゴロック"
+                  },
+                  {
+                    "text": "斜",
+                    "reading": "なな"
+                  },
+                  {
+                    "text": "め45"
+                  },
+                  {
+                    "text": "度",
+                    "reading": "ど"
+                  },
+                  {
+                    "text": "ナンセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+            "zh-CN": "击碎诀窍将千篇一律向明天挥手拜拜拜",
+            "segments": [
+              {
+                "text": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ノウハウ"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "いてマンネリを"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "にバイバイバイ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "媚びへつらうその姿　吐き気の空模様",
+            "zh-CN": "阿谀奉承的那副姿态 令人作呕的天气景象",
+            "segments": [
+              {
+                "text": "媚びへつらうその姿　",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "媚",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "びへつらうその"
+                  },
+                  {
+                    "text": "姿",
+                    "reading": "すがた"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "吐き気の空模様",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "空模様",
+                    "reading": "そらもよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "シニカルな視線の雨　今日も両目を塞ぐふり",
+            "zh-CN": "讥讽讽刺的视线之雨 今天也假装遮住双眼",
+            "segments": [
+              {
+                "text": "シニカルな視線の雨　今日も",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "シニカルな"
+                  },
+                  {
+                    "text": "視線",
+                    "reading": "しせん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雨",
+                    "reading": "あめ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              },
+              {
+                "text": "両目を塞ぐふり",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "両目",
+                    "reading": "りょうめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "塞",
+                    "reading": "ふさ"
+                  },
+                  {
+                    "text": "ぐふり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "（1.2.3）ふぁっきゅー",
+            "zh-CN": "（1.2.3）去你的吧 混蛋",
+            "segments": [
+              {
+                "text": "（1.2.3）ふぁっきゅー",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（1.2.3）ふぁっきゅー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "ヘい！",
+            "zh-CN": "嘿！",
+            "segments": [
+              {
+                "text": "ヘい！",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ヘい！"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "パッパラパパッラ",
+            "zh-CN": "啪啪啦啪啪啦",
+            "segments": [
+              {
+                "text": "パッパラパパッラ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッラ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "パッパラパトゥル",
+            "zh-CN": "啪啪啦啪突噜",
+            "segments": [
+              {
+                "text": "パッパラパトゥル",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパトゥル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "パッパラパパッララ （yeah）",
+            "zh-CN": "啪啪啦啪啪啦啦 （yeah）",
+            "segments": [
+              {
+                "text": "パッパラパパッララ ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッララ "
+                  }
+                ]
+              },
+              {
+                "text": "（yeah）",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "（yeah）"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "パッパラパパッラ",
+            "zh-CN": "啪啪啦啪啪啦",
+            "segments": [
+              {
+                "text": "パッパラパパッラ",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッラ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "パッパラパトゥル",
+            "zh-CN": "啪啪啦啪突噜",
+            "segments": [
+              {
+                "text": "パッパラパトゥル",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパトゥル"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "パッパラパパッララ",
+            "zh-CN": "啪啪啦啪啪啦啦",
+            "segments": [
+              {
+                "text": "パッパラパパッララ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "パッパラパパッララ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "腑抜けた心にI need you 噂のアルカロイド",
+            "zh-CN": "给萎靡不振的心灵 I need you 传闻中的生物碱",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "腑抜けた心にI need you 噂のアルカロイド",
+                "performerIds": [
+                  "歌唱者-13"
+                ],
+                "ruby": [
+                  {
+                    "text": "腑抜",
+                    "reading": "ふぬ"
+                  },
+                  {
+                    "text": "けた"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "にI need you "
+                  },
+                  {
+                    "text": "噂",
+                    "reading": "うわさ"
+                  },
+                  {
+                    "text": "のアルカロイド"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "あだ名はネットの髑髏　かき鳴らせディストーション",
+            "zh-CN": "绰号是网络骷髅 尽情弹响失真音效",
+            "segments": [
+              {
+                "text": "あだ名はネットの髑髏　かき鳴らせディストーション",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "あだ"
+                  },
+                  {
+                    "text": "名",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "はネットの"
+                  },
+                  {
+                    "text": "髑髏",
+                    "reading": "しゃれこうべ"
+                  },
+                  {
+                    "text": "　かき"
+                  },
+                  {
+                    "text": "鳴",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "らせディストーション"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "付け焼き刃の侍が　乱れ打つ散弾銃",
+            "zh-CN": "临阵磨枪的武士 疯狂扫射散弹枪",
+            "segments": [
+              {
+                "text": "付け焼き刃の侍が　",
+                "performerIds": [
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "付",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "焼",
+                    "reading": "や"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "刃",
+                    "reading": "やいば"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "侍",
+                    "reading": "さむらい"
+                  },
+                  {
+                    "text": "が　"
+                  }
+                ]
+              },
+              {
+                "text": "乱れ打つ散弾銃",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "乱",
+                    "reading": "みだ"
+                  },
+                  {
+                    "text": "れ"
+                  },
+                  {
+                    "text": "打",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "つ"
+                  },
+                  {
+                    "text": "散弾銃",
+                    "reading": "さんだんじゅう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "悲劇の歴史で踊ろうか　ほらテンテコへンテコ舞舞はあ",
+            "zh-CN": "在悲剧的历史中翩翩起舞吧 瞧啊手忙脚乱荒诞乱舞哈啊",
+            "segments": [
+              {
+                "text": "悲劇の歴史で踊ろうか　",
+                "performerIds": [
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "悲劇",
+                    "reading": "ひげき"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "歴史",
+                    "reading": "れきし"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "踊",
+                    "reading": "おど"
+                  },
+                  {
+                    "text": "ろうか　"
+                  }
+                ]
+              },
+              {
+                "text": "ほらテンテコへンテコ舞舞はあ",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "ほらテンテコへンテコ"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "まい"
+                  },
+                  {
+                    "text": "舞",
+                    "reading": "まい"
+                  },
+                  {
+                    "text": "はあ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "僕の心はエゴロック斜め45度ナンセンス",
+            "zh-CN": "我的心是自我唯我摇滚 倾斜45度荒诞无稽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕の心はエゴロック斜め45度ナンセンス",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "はエゴロック"
+                  },
+                  {
+                    "text": "斜",
+                    "reading": "なな"
+                  },
+                  {
+                    "text": "め45"
+                  },
+                  {
+                    "text": "度",
+                    "reading": "ど"
+                  },
+                  {
+                    "text": "ナンセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+            "zh-CN": "击碎诀窍将千篇一律向明天挥手拜拜拜",
+            "segments": [
+              {
+                "text": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ノウハウ"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "いてマンネリを"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "にバイバイバイ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "媚びへつらうその姿　吐き気の空模様",
+            "zh-CN": "阿谀奉承的那副姿态 令人作呕的天气景象",
+            "segments": [
+              {
+                "text": "媚びへつらうその姿　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "媚",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "びへつらうその"
+                  },
+                  {
+                    "text": "姿",
+                    "reading": "すがた"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "吐き気の空模様",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "空模様",
+                    "reading": "そらもよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "シニカルな視線の雨　今日も両目を塞ぐふり",
+            "zh-CN": "讥讽讽刺的视线之雨 今天也假装遮住双眼",
+            "segments": [
+              {
+                "text": "シニカルな視線の雨　今日も",
+                "performerIds": [
+                  "歌唱者-16"
+                ],
+                "ruby": [
+                  {
+                    "text": "シニカルな"
+                  },
+                  {
+                    "text": "視線",
+                    "reading": "しせん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雨",
+                    "reading": "あめ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              },
+              {
+                "text": "両目を塞ぐふり",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "両目",
+                    "reading": "りょうめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "塞",
+                    "reading": "ふさ"
+                  },
+                  {
+                    "text": "ぐふり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "透明な感情は染まるだけさ　",
+            "zh-CN": "透明纯粹的情感不过是徒遭沾染罢了",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "透明な感情は染まるだけさ　",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "透明",
+                    "reading": "とうめい"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "感情",
+                    "reading": "かんじょう"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "染",
+                    "reading": "そ"
+                  },
+                  {
+                    "text": "まるだけさ　"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "だったら見て見ぬふりする奴らを押し出せ",
+            "zh-CN": "既然如此就把装作视而不见的家伙统统踢出去",
+            "segments": [
+              {
+                "text": "だったら見て見ぬふりする奴らを押し出せ",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "だったら"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "て"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ぬふりする"
+                  },
+                  {
+                    "text": "奴",
+                    "reading": "やつ"
+                  },
+                  {
+                    "text": "らを"
+                  },
+                  {
+                    "text": "押",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "出",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "せ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "人生かけても負けそうです　勝ち負け取り憑かれナンセンス",
+            "zh-CN": "哪怕赌上整个人生也感觉要输 被输赢纠缠简直荒唐无稽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "人生かけても負けそうです　勝ち負け取り憑かれナンセンス",
+                "performerIds": [
+                  "歌唱者-15"
+                ],
+                "ruby": [
+                  {
+                    "text": "人生",
+                    "reading": "じんせい"
+                  },
+                  {
+                    "text": "かけても"
+                  },
+                  {
+                    "text": "負",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "けそうです　"
+                  },
+                  {
+                    "text": "勝",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "負",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "け"
+                  },
+                  {
+                    "text": "取",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "憑",
+                    "reading": "つ"
+                  },
+                  {
+                    "text": "かれナンセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "1分砕いて常識を　未来にSay goodbye",
+            "zh-CN": "花上一分钟击碎常识 朝着未来 Say goodbye",
+            "segments": [
+              {
+                "text": "1分砕いて常識を　未来にSay goodbye",
+                "performerIds": [
+                  "歌唱者-14"
+                ],
+                "ruby": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "分砕",
+                    "reading": "いっぷんくだ"
+                  },
+                  {
+                    "text": "いて"
+                  },
+                  {
+                    "text": "常識",
+                    "reading": "じょうしき"
+                  },
+                  {
+                    "text": "を　"
+                  },
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "にSay goodbye"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "僕の心はエゴロック斜め45度ナンセンス",
+            "zh-CN": "我的心是自我唯我摇滚 倾斜45度荒诞无稽",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "僕の心はエゴロック斜め45度ナンセンス",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "はエゴロック"
+                  },
+                  {
+                    "text": "斜",
+                    "reading": "なな"
+                  },
+                  {
+                    "text": "め45"
+                  },
+                  {
+                    "text": "度",
+                    "reading": "ど"
+                  },
+                  {
+                    "text": "ナンセンス"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+            "zh-CN": "击碎诀窍将千篇一律向明天挥手拜拜拜",
+            "segments": [
+              {
+                "text": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "ノウハウ"
+                  },
+                  {
+                    "text": "砕",
+                    "reading": "くだ"
+                  },
+                  {
+                    "text": "いてマンネリを"
+                  },
+                  {
+                    "text": "明日",
+                    "reading": "あした"
+                  },
+                  {
+                    "text": "にバイバイバイ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "媚びへつらうその姿　吐き気の空模様",
+            "zh-CN": "阿谀奉承的那副姿态 令人作呕的天气景象",
+            "segments": [
+              {
+                "text": "媚びへつらうその姿　",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "媚",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "びへつらうその"
+                  },
+                  {
+                    "text": "姿",
+                    "reading": "すがた"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "吐き気の空模様",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "吐",
+                    "reading": "は"
+                  },
+                  {
+                    "text": "き"
+                  },
+                  {
+                    "text": "気",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "空模様",
+                    "reading": "そらもよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "シニカルな視線の雨　今日も両目を塞ぐふり",
+            "zh-CN": "讥讽讽刺的视线之雨 今天也假装遮住双眼",
+            "segments": [
+              {
+                "text": "シニカルな視線の雨　今日も",
+                "performerIds": [
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "シニカルな"
+                  },
+                  {
+                    "text": "視線",
+                    "reading": "しせん"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "雨",
+                    "reading": "あめ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "今日",
+                    "reading": "きょう"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              },
+              {
+                "text": "両目を塞ぐふり",
+                "performerIds": [
+                  "歌唱者-13",
+                  "歌唱者-14",
+                  "歌唱者-15",
+                  "歌唱者-16",
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "両目",
+                    "reading": "りょうめ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "塞",
+                    "reading": "ふさ"
+                  },
+                  {
+                    "text": "ぐふり"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "（1.2.3）ふぁっきゅー",
+            "zh-CN": "（1.2.3）去你的吧 混蛋",
+            "segments": [
+              {
+                "text": "（1.2.3）ふぁっきゅー",
+                "performerIds": [
+                  "歌唱者-23"
+                ],
+                "ruby": [
+                  {
+                    "text": "（1.2.3）ふぁっきゅー"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000030",
+          "full-000031",
+          "full-000032",
+          "full-000033",
+          "full-000034",
+          "full-000035",
+          "full-000036",
+          "full-000037",
+          "full-000038"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ],
+        [
+          "Game Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "Ego Rock",
+          "revisionId": 328000,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ego_Rock?oldid=328000",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Ego Rock",
+          "revisionId": 328000,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ego_Rock?oldid=328000",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Ego Rock",
+          "revisionId": 328000,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ego_Rock?oldid=328000",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_text",
+          "provider": "sekaipedia",
+          "title": "Ego Rock",
+          "revisionId": 328000,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ego_Rock?oldid=328000",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Ego Rock",
+          "revisionId": 328000,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ego_Rock?oldid=328000",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Ego Rock",
+          "revisionId": 328000,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ego_Rock?oldid=328000",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "Ego Rock",
+          "revisionId": 328000,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ego_Rock?oldid=328000",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "Ego Rock",
+          "revisionId": 328000,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Ego_Rock?oldid=328000",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1918 @@
+{
+  "version": 3,
+  "musicId": 259,
+  "revision": 4,
+  "updatedAt": "2026-10-14T16:05:36Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-01",
+          "name": "星乃一歌"
+        },
+        {
+          "performerId": "歌唱者-02",
+          "name": "天馬咲希"
+        },
+        {
+          "performerId": "歌唱者-03",
+          "name": "望月穂波"
+        },
+        {
+          "performerId": "歌唱者-04",
+          "name": "日野森志歩"
+        },
+        {
+          "performerId": "歌唱者-21",
+          "name": "初音ミク"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "稲妻のような感情　その奥を知りたくて",
+            "zh-CN": "宛如闪电般的澎湃情感 好想探寻那背后的深处",
+            "segments": [
+              {
+                "text": "稲妻のような感情　その奥を知りたくて",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "稲妻",
+                    "reading": "いなずま"
+                  },
+                  {
+                    "text": "のような"
+                  },
+                  {
+                    "text": "感情",
+                    "reading": "かんじょう"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "奥",
+                    "reading": "おく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "りたくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "離さないようにぎゅっと抱いた　黄昏に揺れる空",
+            "zh-CN": "为了不分离而紧紧拥抱 摇曳在黄昏之中的天空",
+            "segments": [
+              {
+                "text": "離さないようにぎゅっと抱いた　黄昏に揺れる空",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "離",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "さないようにぎゅっと"
+                  },
+                  {
+                    "text": "抱",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "いた　"
+                  },
+                  {
+                    "text": "黄昏",
+                    "reading": "たそがれ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "揺",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "れる"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "本当はわかってほしくて　わかられたくなんかなくて",
+            "zh-CN": "其实好想被人理解 却又根本不想被轻易看穿",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "本当はわかってほしくて　",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "本当",
+                    "reading": "ほんとう"
+                  },
+                  {
+                    "text": "はわかってほしくて　"
+                  }
+                ]
+              },
+              {
+                "text": "わかられたくなんかなくて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "わかられたくなんかなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "誰の心にだって触れないことが",
+            "zh-CN": "不触碰任何人的内心",
+            "segments": [
+              {
+                "text": "誰の心にだって触れないことが",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "にだって"
+                  },
+                  {
+                    "text": "触",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "れないことが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "強さだと思っていた",
+            "zh-CN": "曾几何时我以为那便是坚强",
+            "segments": [
+              {
+                "text": "強さだと思っていた",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "さだと"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "っていた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "ぼろぼろのメロディ　律動　青い傷跡",
+            "zh-CN": "破烂不堪的旋律 律动 湛蓝的伤痕",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ぼろぼろのメロディ　律動　青い傷跡",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼろぼろのメロディ　"
+                  },
+                  {
+                    "text": "律動",
+                    "reading": "りつどう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "青",
+                    "reading": "あお"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "傷跡",
+                    "reading": "きずあと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "それが混ざりあって消えないから",
+            "zh-CN": "正因它们交织在一起永不消逝",
+            "segments": [
+              {
+                "text": "それが混ざりあって消えないから",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "それが"
+                  },
+                  {
+                    "text": "混",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "ざりあって"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えないから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "歌うのは痛いよ　怖いよ　それでも君と紡ぐありふれた唄",
+            "zh-CN": "放声歌唱令人痛楚 令人畏惧 纵使如此依然与你纺织寻常的赞歌",
+            "segments": [
+              {
+                "text": "歌うのは痛いよ　怖いよ　それでも君と",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うのは"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "いよ　"
+                  },
+                  {
+                    "text": "怖",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "いよ　それでも"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  }
+                ]
+              },
+              {
+                "text": "紡ぐありふれた唄",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "紡",
+                    "reading": "つむ"
+                  },
+                  {
+                    "text": "ぐありふれた"
+                  },
+                  {
+                    "text": "唄",
+                    "reading": "うた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "すべての壁を越える唄",
+            "zh-CN": "跨越一切高墙的赞歌",
+            "segments": [
+              {
+                "text": "すべての壁を越える唄",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "すべての"
+                  },
+                  {
+                    "text": "壁",
+                    "reading": "かべ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "越",
+                    "reading": "こ"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "唄",
+                    "reading": "うた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "震える手足は健在　君はそれでいいと言うね",
+            "zh-CN": "颤抖的四肢依然健在 你却说这样就好呢",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "震える手足は健在　",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "震",
+                    "reading": "ふる"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "手足",
+                    "reading": "てあし"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "健在",
+                    "reading": "けんざい"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "君はそれでいいと言うね",
+                "performerIds": [
+                  "歌唱者-02"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "はそれでいいと"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "うね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "透明で臆病な僕に何が残せるのかな",
+            "zh-CN": "透明而胆怯懦弱的我究竟还能留下些什么呢",
+            "segments": [
+              {
+                "text": "透明で臆病な僕に何が残せるのかな",
+                "performerIds": [
+                  "歌唱者-03"
+                ],
+                "ruby": [
+                  {
+                    "text": "透明",
+                    "reading": "とうめい"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "臆病",
+                    "reading": "おくびょう"
+                  },
+                  {
+                    "text": "な"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "残",
+                    "reading": "のこ"
+                  },
+                  {
+                    "text": "せるのかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "伝えたいことなんてもう　枯らしたはずなのにどうして",
+            "zh-CN": "想要传达的心意 明明本该早已枯竭殆尽为何却",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "伝えたいことなんてもう　",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "伝",
+                    "reading": "つた"
+                  },
+                  {
+                    "text": "えたいことなんてもう　"
+                  }
+                ]
+              },
+              {
+                "text": "枯らしたはずなのにどうして",
+                "performerIds": [
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "枯",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "らしたはずなのにどうして"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "昼と夜のあいだ　その橙を描きたくなるの",
+            "zh-CN": "在白昼与黑夜的交界 忍不住想要去描摹那抹橙黄",
+            "segments": [
+              {
+                "text": "昼と夜のあいだ　",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "昼",
+                    "reading": "ひる"
+                  },
+                  {
+                    "text": "と"
+                  },
+                  {
+                    "text": "夜",
+                    "reading": "よる"
+                  },
+                  {
+                    "text": "のあいだ　"
+                  }
+                ]
+              },
+              {
+                "text": "その橙を",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "その"
+                  },
+                  {
+                    "text": "橙",
+                    "reading": "だいだい"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              },
+              {
+                "text": "描きたくなるの",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "描",
+                    "reading": "えが"
+                  },
+                  {
+                    "text": "きたくなるの"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "美しい光景　脈動　笑ってもいいよ",
+            "zh-CN": "美丽动人的光景 脉动 尽情欢笑也无妨哦",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "美しい光景　脈動　笑ってもいいよ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しい"
+                  },
+                  {
+                    "text": "光景",
+                    "reading": "こうけい"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "脈動",
+                    "reading": "みゃくどう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "笑",
+                    "reading": "わら"
+                  },
+                  {
+                    "text": "ってもいいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "独りが怖くなった僕を",
+            "zh-CN": "将变得害怕孤独形单影只的我",
+            "segments": [
+              {
+                "text": "独りが怖くなった僕を",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "独",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "りが"
+                  },
+                  {
+                    "text": "怖",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "くなった"
+                  },
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "を"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "神様はきっと",
+            "zh-CN": "想必神明大人一定是",
+            "segments": [
+              {
+                "text": "神様はきっと",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "神様",
+                    "reading": "かみさま"
+                  },
+                  {
+                    "text": "はきっと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "僕らが独りぼっちで寂しく歩まないように ",
+            "zh-CN": "为了不让我们孤身一人寂寞前行",
+            "segments": [
+              {
+                "text": "僕らが独りぼっちで",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "僕",
+                    "reading": "ぼく"
+                  },
+                  {
+                    "text": "らが"
+                  },
+                  {
+                    "text": "独",
+                    "reading": "ひと"
+                  },
+                  {
+                    "text": "りぼっちで"
+                  }
+                ]
+              },
+              {
+                "text": "寂しく歩まないように ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "寂",
+                    "reading": "さみ"
+                  },
+                  {
+                    "text": "しく"
+                  },
+                  {
+                    "text": "歩",
+                    "reading": "あゆ"
+                  },
+                  {
+                    "text": "まないように "
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "か弱く産み落としたんでしょ",
+            "zh-CN": "才将我们如此脆弱地诞降于世吧",
+            "segments": [
+              {
+                "text": "か弱く産み落としたんでしょ",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "弱",
+                    "reading": "よわ"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "産",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "み"
+                  },
+                  {
+                    "text": "落",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "としたんでしょ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "噎せ返るような歓びも　聳え立つ無数の壁も",
+            "zh-CN": "无论是令人窒息的无尽欢喜 还是巍然耸立的无数高墙",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "噎せ返るような歓びも　",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "噎",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "せ"
+                  },
+                  {
+                    "text": "返",
+                    "reading": "かえ"
+                  },
+                  {
+                    "text": "るような"
+                  },
+                  {
+                    "text": "歓",
+                    "reading": "よろこ"
+                  },
+                  {
+                    "text": "びも　"
+                  }
+                ]
+              },
+              {
+                "text": "聳え立つ無数の壁も",
+                "performerIds": [
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04"
+                ],
+                "ruby": [
+                  {
+                    "text": "聳",
+                    "reading": "そび"
+                  },
+                  {
+                    "text": "え"
+                  },
+                  {
+                    "text": "立",
+                    "reading": "た"
+                  },
+                  {
+                    "text": "つ"
+                  },
+                  {
+                    "text": "無数",
+                    "reading": "むすう"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "壁",
+                    "reading": "かべ"
+                  },
+                  {
+                    "text": "も"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "全部　全部　この声のためにある",
+            "zh-CN": "全部 全部 都是为了这道歌声而存在",
+            "segments": [
+              {
+                "text": "全部　全部　",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "全部",
+                    "reading": "ぜんぶ"
+                  },
+                  {
+                    "text": "　"
+                  }
+                ]
+              },
+              {
+                "text": "この声のためにある",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "この"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "のためにある"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "溺れるほどに深い霧の海で自分を呪いたくなる日は",
+            "zh-CN": "在宛如溺水般深邃的雾海中忍不住想要诅咒自己的日子里",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "溺れるほどに深い霧の海で自分を呪いたくなる日は",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "溺",
+                    "reading": "おぼ"
+                  },
+                  {
+                    "text": "れるほどに"
+                  },
+                  {
+                    "text": "深",
+                    "reading": "ふか"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "霧",
+                    "reading": "きり"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "海",
+                    "reading": "うみ"
+                  },
+                  {
+                    "text": "で"
+                  },
+                  {
+                    "text": "自分",
+                    "reading": "じぶん"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "呪",
+                    "reading": "のろ"
+                  },
+                  {
+                    "text": "いたくなる"
+                  },
+                  {
+                    "text": "日",
+                    "reading": "ひ"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "君の目がずっと　強くて　泣けちゃうくらいに",
+            "zh-CN": "你的双眸始终 那般坚定坚强 令人几欲落泪",
+            "segments": [
+              {
+                "text": "君の目がずっと　強くて　泣けちゃうくらいに",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "がずっと　"
+                  },
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "くて　"
+                  },
+                  {
+                    "text": "泣",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "けちゃうくらいに"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "溢れた",
+            "zh-CN": "满溢而出",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "溢れた",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "溢",
+                    "reading": "あふ"
+                  },
+                  {
+                    "text": "れた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "ぼろぼろのメロディ　律動　青い傷跡",
+            "zh-CN": "破烂不堪的旋律 律动 湛蓝的伤痕",
+            "segments": [
+              {
+                "text": "ぼろぼろのメロディ　律動　青い傷跡",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼろぼろのメロディ　"
+                  },
+                  {
+                    "text": "律動",
+                    "reading": "りつどう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "青",
+                    "reading": "あお"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "傷跡",
+                    "reading": "きずあと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "それが混ざりあって　これからも",
+            "zh-CN": "正因它们交织在一起 从今往后",
+            "segments": [
+              {
+                "text": "それが混ざりあって　これからも",
+                "performerIds": [
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "それが"
+                  },
+                  {
+                    "text": "混",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "ざりあって　これからも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "歌うのは痛くて寂しい　でも",
+            "zh-CN": "放声歌唱纵然伴随着痛苦与寂寞 但是",
+            "segments": [
+              {
+                "text": "歌うのは痛くて寂しい　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うのは"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "くて"
+                  },
+                  {
+                    "text": "寂",
+                    "reading": "さび"
+                  },
+                  {
+                    "text": "しい　"
+                  }
+                ]
+              },
+              {
+                "text": "でも",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "でも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "君とならそれを、世界を、 歌ってみたい",
+            "zh-CN": "只要与你一起我都想将它、将整个世界、唱响一番",
+            "segments": [
+              {
+                "text": "君とならそれを、世界を、 歌ってみたい",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "とならそれを、"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "を、 "
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "ってみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "すべての壁を溶かす　歪であったかい唄",
+            "zh-CN": "融化一切高墙 扭曲却又温暖的赞歌",
+            "segments": [
+              {
+                "text": "すべての壁を溶かす　歪であったかい唄",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "すべての"
+                  },
+                  {
+                    "text": "壁",
+                    "reading": "かべ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "かす　"
+                  },
+                  {
+                    "text": "歪",
+                    "reading": "いびつ"
+                  },
+                  {
+                    "text": "であったかい"
+                  },
+                  {
+                    "text": "唄",
+                    "reading": "うた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "稲妻のような感情　その奥を知りたくて",
+            "zh-CN": "宛如闪电般的澎湃情感 好想探寻那背后的深处",
+            "segments": [
+              {
+                "text": "稲妻のような感情　その奥を知りたくて",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "稲妻",
+                    "reading": "いなずま"
+                  },
+                  {
+                    "text": "のような"
+                  },
+                  {
+                    "text": "感情",
+                    "reading": "かんじょう"
+                  },
+                  {
+                    "text": "　その"
+                  },
+                  {
+                    "text": "奥",
+                    "reading": "おく"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "りたくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "離さないようにぎゅっと抱いた　黄昏に揺れる空",
+            "zh-CN": "为了不分离而紧紧拥抱 摇曳在黄昏之中的天空",
+            "segments": [
+              {
+                "text": "離さないようにぎゅっと抱いた　黄昏に揺れる空",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "離",
+                    "reading": "はな"
+                  },
+                  {
+                    "text": "さないようにぎゅっと"
+                  },
+                  {
+                    "text": "抱",
+                    "reading": "だ"
+                  },
+                  {
+                    "text": "いた　"
+                  },
+                  {
+                    "text": "黄昏",
+                    "reading": "たそがれ"
+                  },
+                  {
+                    "text": "に"
+                  },
+                  {
+                    "text": "揺",
+                    "reading": "ゆ"
+                  },
+                  {
+                    "text": "れる"
+                  },
+                  {
+                    "text": "空",
+                    "reading": "そら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "本当はわかってほしくて　わかられたくなんかなくて",
+            "zh-CN": "其实好想被人理解 却又根本不想被轻易看穿",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "本当はわかってほしくて　",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "本当",
+                    "reading": "ほんとう"
+                  },
+                  {
+                    "text": "はわかってほしくて　"
+                  }
+                ]
+              },
+              {
+                "text": "わかられたくなんかなくて",
+                "performerIds": [
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "わかられたくなんかなくて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "誰の心にだって触れないことが",
+            "zh-CN": "不触碰任何人的内心",
+            "segments": [
+              {
+                "text": "誰の心にだって触れないことが",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "誰",
+                    "reading": "だれ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "心",
+                    "reading": "こころ"
+                  },
+                  {
+                    "text": "にだって"
+                  },
+                  {
+                    "text": "触",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "れないことが"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "強さだと思っていた",
+            "zh-CN": "曾几何时我以为那便是坚强",
+            "segments": [
+              {
+                "text": "強さだと思っていた",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "強",
+                    "reading": "つよ"
+                  },
+                  {
+                    "text": "さだと"
+                  },
+                  {
+                    "text": "思",
+                    "reading": "おも"
+                  },
+                  {
+                    "text": "っていた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "ぼろぼろのメロディ　律動　青い傷跡",
+            "zh-CN": "破烂不堪的旋律 律动 湛蓝的伤痕",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ぼろぼろのメロディ　律動　青い傷跡",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼろぼろのメロディ　"
+                  },
+                  {
+                    "text": "律動",
+                    "reading": "りつどう"
+                  },
+                  {
+                    "text": "　"
+                  },
+                  {
+                    "text": "青",
+                    "reading": "あお"
+                  },
+                  {
+                    "text": "い"
+                  },
+                  {
+                    "text": "傷跡",
+                    "reading": "きずあと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "それが混ざりあって消えないから",
+            "zh-CN": "正因它们交织在一起永不消逝",
+            "segments": [
+              {
+                "text": "それが混ざりあって消えないから",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "それが"
+                  },
+                  {
+                    "text": "混",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "ざりあって"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えないから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "歌うのは痛いよ　怖いよ　それでも君と紡ぐありふれた唄",
+            "zh-CN": "放声歌唱令人痛楚 令人畏惧 纵使如此依然与你纺织寻常的赞歌",
+            "segments": [
+              {
+                "text": "歌うのは痛いよ　怖いよ　それでも君と",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うのは"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "いよ　"
+                  },
+                  {
+                    "text": "怖",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "いよ　それでも"
+                  },
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "と"
+                  }
+                ]
+              },
+              {
+                "text": "紡ぐありふれた唄",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "紡",
+                    "reading": "つむ"
+                  },
+                  {
+                    "text": "ぐありふれた"
+                  },
+                  {
+                    "text": "唄",
+                    "reading": "うた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "歌うのは痛くて寂しい　でも",
+            "zh-CN": "放声歌唱纵然伴随着痛苦与寂寞 但是",
+            "segments": [
+              {
+                "text": "歌うのは痛くて寂しい　",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "うのは"
+                  },
+                  {
+                    "text": "痛",
+                    "reading": "いた"
+                  },
+                  {
+                    "text": "くて"
+                  },
+                  {
+                    "text": "寂",
+                    "reading": "さび"
+                  },
+                  {
+                    "text": "しい　"
+                  }
+                ]
+              },
+              {
+                "text": "でも",
+                "performerIds": [
+                  "歌唱者-01"
+                ],
+                "ruby": [
+                  {
+                    "text": "でも"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "君とならそれを、世界を、 歌ってみたい",
+            "zh-CN": "只要与你一起我都想将它、将整个世界、唱响一番",
+            "segments": [
+              {
+                "text": "君とならそれを、世界を、 歌ってみたい",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "とならそれを、"
+                  },
+                  {
+                    "text": "世界",
+                    "reading": "せかい"
+                  },
+                  {
+                    "text": "を、 "
+                  },
+                  {
+                    "text": "歌",
+                    "reading": "うた"
+                  },
+                  {
+                    "text": "ってみたい"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "すべての壁を溶かす　歪であったかい唄",
+            "zh-CN": "融化一切高墙 扭曲却又温暖的赞歌",
+            "segments": [
+              {
+                "text": "すべての壁を溶かす　歪であったかい唄",
+                "performerIds": [
+                  "歌唱者-01",
+                  "歌唱者-02",
+                  "歌唱者-03",
+                  "歌唱者-04",
+                  "歌唱者-21"
+                ],
+                "ruby": [
+                  {
+                    "text": "すべての"
+                  },
+                  {
+                    "text": "壁",
+                    "reading": "かべ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "溶",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "かす　"
+                  },
+                  {
+                    "text": "歪",
+                    "reading": "いびつ"
+                  },
+                  {
+                    "text": "であったかい"
+                  },
+                  {
+                    "text": "唄",
+                    "reading": "うた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000026",
+          "full-000027",
+          "full-000028"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "The WALL",
+          "revisionId": 330610,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/The_WALL?oldid=330610",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "The WALL",
+          "revisionId": 330610,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/The_WALL?oldid=330610",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "The WALL",
+          "revisionId": 330610,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/The_WALL?oldid=330610",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "The WALL",
+          "revisionId": 330610,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/The_WALL?oldid=330610",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "The WALL",
+          "revisionId": 330610,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/The_WALL?oldid=330610",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}

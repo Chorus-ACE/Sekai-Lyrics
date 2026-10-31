@@ -1,0 +1,2005 @@
+{
+  "version": 3,
+  "musicId": 549,
+  "revision": 3,
+  "updatedAt": "2026-08-23T11:22:14Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-17",
+          "name": "宵崎奏"
+        },
+        {
+          "performerId": "歌唱者-18",
+          "name": "朝比奈まふゆ"
+        },
+        {
+          "performerId": "歌唱者-19",
+          "name": "東雲絵名"
+        },
+        {
+          "performerId": "歌唱者-20",
+          "name": "暁山瑞希"
+        },
+        {
+          "performerId": "歌唱者-26",
+          "name": "KAITO"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "なにその目やっぱその目",
+            "zh-CN": "那是什么眼神 果然还是那种眼神",
+            "segments": [
+              {
+                "text": "なにその目やっぱその目",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "やっぱその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "はじめましてじゃないね",
+            "zh-CN": "看来并非初次相见了呢",
+            "segments": [
+              {
+                "text": "はじめましてじゃないね",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "はじめましてじゃないね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "なにその目もうやめて",
+            "zh-CN": "那是什么眼神 快住手吧",
+            "segments": [
+              {
+                "text": "なにその目もうやめて",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "もうやめて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "可愛いだけ なのに罪の味",
+            "zh-CN": "明明只是惹人怜爱 却尝尽罪孽的滋味",
+            "segments": [
+              {
+                "text": "可愛いだけ なのに罪の味",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "可愛",
+                    "reading": "かわい"
+                  },
+                  {
+                    "text": "いだけ なのに"
+                  },
+                  {
+                    "text": "罪",
+                    "reading": "つみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "味",
+                    "reading": "あじ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "ずれる ずれる 崩れる",
+            "zh-CN": "错位 错位 分崩离析",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ずれる ずれる 崩れる",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずれる ずれる "
+                  },
+                  {
+                    "text": "崩",
+                    "reading": "くず"
+                  },
+                  {
+                    "text": "れる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "ずれる気が触れる",
+            "zh-CN": "产生偏离 理智发狂",
+            "segments": [
+              {
+                "text": "ずれる",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずれる"
+                  }
+                ]
+              },
+              {
+                "text": "気が触れる",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "触",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "れる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "秘密ひとつで崩れる",
+            "zh-CN": "仅仅一个秘密就彻底崩溃",
+            "segments": [
+              {
+                "text": "秘密ひとつで崩れる",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "秘密",
+                    "reading": "ひみつ"
+                  },
+                  {
+                    "text": "ひとつで"
+                  },
+                  {
+                    "text": "崩",
+                    "reading": "くず"
+                  },
+                  {
+                    "text": "れる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "壊れる、ごめん",
+            "zh-CN": "坏掉了，对不起",
+            "segments": [
+              {
+                "text": "壊れる、ごめん",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "壊",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "れる、ごめん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "見ないで 理解出来ないでしょう?",
+            "zh-CN": "别看我 你们根本无法理解吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "見ないで 理解出来ないでしょう?",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ないで "
+                  },
+                  {
+                    "text": "理解出来",
+                    "reading": "りかいでき"
+                  },
+                  {
+                    "text": "ないでしょう?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "まるで咲いてしまった 化けの花",
+            "zh-CN": "简直如同绽放开来的 妖化物之花",
+            "segments": [
+              {
+                "text": "まるで咲いてしまった 化けの花",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "まるで"
+                  },
+                  {
+                    "text": "咲",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "いてしまった "
+                  },
+                  {
+                    "text": "化",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "花",
+                    "reading": "はな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "なにも言えない かき消せない",
+            "zh-CN": "什么都说不出口 无法彻底抹除",
+            "segments": [
+              {
+                "text": "なにも言えない かき消せない",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにも"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "えない かき"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "せない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "どんなに醜く映る化粧",
+            "zh-CN": "无论在旁人眼中是多么丑陋的妆容",
+            "segments": [
+              {
+                "text": "どんなに醜く映る化粧",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "どんなに"
+                  },
+                  {
+                    "text": "醜",
+                    "reading": "みにく"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "映",
+                    "reading": "うつ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "化粧",
+                    "reading": "けしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "見ないで理解出来ないでしょう?",
+            "zh-CN": "别看我 你们根本无法理解吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "見ないで理解出来ないでしょう?",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ないで"
+                  },
+                  {
+                    "text": "理解出来",
+                    "reading": "りかいでき"
+                  },
+                  {
+                    "text": "ないでしょう?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "まるで咲いてしまった 化けの花",
+            "zh-CN": "简直如同绽放开来的 妖化物之花",
+            "segments": [
+              {
+                "text": "まるで咲いてしまった 化けの花",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "まるで"
+                  },
+                  {
+                    "text": "咲",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "いてしまった "
+                  },
+                  {
+                    "text": "化",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "花",
+                    "reading": "はな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "つぼみにはもう戻れない",
+            "zh-CN": "已经无法再变回花苞了",
+            "segments": [
+              {
+                "text": "つぼみにはもう戻れない",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "つぼみにはもう"
+                  },
+                  {
+                    "text": "戻",
+                    "reading": "もど"
+                  },
+                  {
+                    "text": "れない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "なにその目やっぱその目",
+            "zh-CN": "那是什么眼神 果然还是那种眼神",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "なにその目やっぱその目",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "やっぱその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "だったら消えて みーんないなくなれ",
+            "zh-CN": "既然如此就给我消失 全都给我消失不见吧",
+            "segments": [
+              {
+                "text": "だったら消えて みーんないなくなれ",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "だったら"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えて みーんないなくなれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "いなくなれ いなくなれ",
+            "zh-CN": "消失吧 消失吧",
+            "segments": [
+              {
+                "text": "いなくなれ ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "いなくなれ "
+                  }
+                ]
+              },
+              {
+                "text": "いなくなれ",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "いなくなれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "いなくなれ そばに居て",
+            "zh-CN": "消失吧 留在我身边",
+            "segments": [
+              {
+                "text": "いなくなれ ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "いなくなれ "
+                  }
+                ]
+              },
+              {
+                "text": "そばに居て",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "そばに"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "て"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "見ないで 理解出来ないでしょう?",
+            "zh-CN": "别看我 你们根本无法理解吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "見ないで 理解出来ないでしょう?",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ないで "
+                  },
+                  {
+                    "text": "理解出来",
+                    "reading": "りかいでき"
+                  },
+                  {
+                    "text": "ないでしょう?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "まるで咲いてしまった 化けの花",
+            "zh-CN": "简直如同绽放开来的 妖化物之花",
+            "segments": [
+              {
+                "text": "まるで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "まるで"
+                  }
+                ]
+              },
+              {
+                "text": "咲いてしまった 化けの花",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "咲",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "いてしまった "
+                  },
+                  {
+                    "text": "化",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "花",
+                    "reading": "はな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "なにも言えない かき消せない",
+            "zh-CN": "什么都说不出口 无法彻底抹除",
+            "segments": [
+              {
+                "text": "なにも言えない かき消せない",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにも"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "えない かき"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "せない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "どんなに醜く映る化粧",
+            "zh-CN": "无论在旁人眼中是多么丑陋的妆容",
+            "segments": [
+              {
+                "text": "どんなに醜く映る化粧",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どんなに"
+                  },
+                  {
+                    "text": "醜",
+                    "reading": "みにく"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "映",
+                    "reading": "うつ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "化粧",
+                    "reading": "けしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "未来で 理解されないなら",
+            "zh-CN": "若在未来 也无法得到理解的话",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "未来で 理解されないなら",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "で "
+                  },
+                  {
+                    "text": "理解",
+                    "reading": "りかい"
+                  },
+                  {
+                    "text": "されないなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "此処でさっさと消えて 化けの花",
+            "zh-CN": "就在这里赶紧消散吧 妖化物之花",
+            "segments": [
+              {
+                "text": "此処でさっさと消えて 化けの花",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "でさっさと"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えて "
+                  },
+                  {
+                    "text": "化",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "花",
+                    "reading": "はな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "生まれた罰を終わらすように",
+            "zh-CN": "宛如为了结束降生于世的惩罚一般",
+            "segments": [
+              {
+                "text": "生まれた罰を終わらすように",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "まれた"
+                  },
+                  {
+                    "text": "罰",
+                    "reading": "ばつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わらすように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "呼吸を止めて",
+            "zh-CN": "停止呼吸",
+            "segments": [
+              {
+                "text": "呼吸を止めて",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "呼吸",
+                    "reading": "こきゅう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "あーもういいや",
+            "zh-CN": "啊——算了吧",
+            "segments": [
+              {
+                "text": "あーもういいや",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "あーもういいや"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "なにその目やっぱその目",
+            "zh-CN": "那是什么眼神 果然还是那种眼神",
+            "segments": [
+              {
+                "text": "なにその目やっぱその目",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "やっぱその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "はじめましてじゃないね",
+            "zh-CN": "看来并非初次相见了呢",
+            "segments": [
+              {
+                "text": "はじめましてじゃないね",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "はじめましてじゃないね"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "なにその目もうやめて",
+            "zh-CN": "那是什么眼神 快住手吧",
+            "segments": [
+              {
+                "text": "なにその目もうやめて",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "もうやめて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "可愛いだけ なのに罪の味",
+            "zh-CN": "明明只是惹人怜爱 却尝尽罪孽的滋味",
+            "segments": [
+              {
+                "text": "可愛いだけ なのに罪の味",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "可愛",
+                    "reading": "かわい"
+                  },
+                  {
+                    "text": "いだけ なのに"
+                  },
+                  {
+                    "text": "罪",
+                    "reading": "つみ"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "味",
+                    "reading": "あじ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "ずれる ずれる 崩れる",
+            "zh-CN": "错位 错位 分崩离析",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ずれる ずれる 崩れる",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずれる ずれる "
+                  },
+                  {
+                    "text": "崩",
+                    "reading": "くず"
+                  },
+                  {
+                    "text": "れる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "ずれる気が触れる",
+            "zh-CN": "产生偏离 理智发狂",
+            "segments": [
+              {
+                "text": "ずれる",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "ずれる"
+                  }
+                ]
+              },
+              {
+                "text": "気が触れる",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "気",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "触",
+                    "reading": "ふ"
+                  },
+                  {
+                    "text": "れる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "秘密ひとつで崩れる",
+            "zh-CN": "仅仅一个秘密就彻底崩溃",
+            "segments": [
+              {
+                "text": "秘密ひとつで崩れる",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "秘密",
+                    "reading": "ひみつ"
+                  },
+                  {
+                    "text": "ひとつで"
+                  },
+                  {
+                    "text": "崩",
+                    "reading": "くず"
+                  },
+                  {
+                    "text": "れる"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "壊れる、ごめん",
+            "zh-CN": "坏掉了，对不起",
+            "segments": [
+              {
+                "text": "壊れる、ごめん",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "壊",
+                    "reading": "こわ"
+                  },
+                  {
+                    "text": "れる、ごめん"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "見ないで 理解出来ないでしょう?",
+            "zh-CN": "别看我 你们根本无法理解吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "見ないで 理解出来ないでしょう?",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ないで "
+                  },
+                  {
+                    "text": "理解出来",
+                    "reading": "りかいでき"
+                  },
+                  {
+                    "text": "ないでしょう?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "まるで咲いてしまった 化けの花",
+            "zh-CN": "简直如同绽放开来的 妖化物之花",
+            "segments": [
+              {
+                "text": "まるで咲いてしまった 化けの花",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "まるで"
+                  },
+                  {
+                    "text": "咲",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "いてしまった "
+                  },
+                  {
+                    "text": "化",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "花",
+                    "reading": "はな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "なにも言えない かき消せない",
+            "zh-CN": "什么都说不出口 无法彻底抹除",
+            "segments": [
+              {
+                "text": "なにも言えない かき消せない",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにも"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "えない かき"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "せない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "どんなに醜く映る化粧",
+            "zh-CN": "无论在旁人眼中是多么丑陋的妆容",
+            "segments": [
+              {
+                "text": "どんなに醜く映る化粧",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "どんなに"
+                  },
+                  {
+                    "text": "醜",
+                    "reading": "みにく"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "映",
+                    "reading": "うつ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "化粧",
+                    "reading": "けしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "見ないで理解出来ないでしょう?",
+            "zh-CN": "别看我 你们根本无法理解吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "見ないで理解出来ないでしょう?",
+                "performerIds": [
+                  "歌唱者-18",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ないで"
+                  },
+                  {
+                    "text": "理解出来",
+                    "reading": "りかいでき"
+                  },
+                  {
+                    "text": "ないでしょう?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "まるで咲いてしまった 化けの花",
+            "zh-CN": "简直如同绽放开来的 妖化物之花",
+            "segments": [
+              {
+                "text": "まるで咲いてしまった 化けの花",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "まるで"
+                  },
+                  {
+                    "text": "咲",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "いてしまった "
+                  },
+                  {
+                    "text": "化",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "花",
+                    "reading": "はな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "つぼみにはもう戻れない",
+            "zh-CN": "已经无法再变回花苞了",
+            "segments": [
+              {
+                "text": "つぼみにはもう戻れない",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "つぼみにはもう"
+                  },
+                  {
+                    "text": "戻",
+                    "reading": "もど"
+                  },
+                  {
+                    "text": "れない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "なにその目やっぱその目",
+            "zh-CN": "那是什么眼神 果然还是那种眼神",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "なにその目やっぱその目",
+                "performerIds": [
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "やっぱその"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "だったら消えて みーんないなくなれ",
+            "zh-CN": "既然如此就给我消失 全都给我消失不见吧",
+            "segments": [
+              {
+                "text": "だったら消えて みーんないなくなれ",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "だったら"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えて みーんないなくなれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "いなくなれ いなくなれ",
+            "zh-CN": "消失吧 消失吧",
+            "segments": [
+              {
+                "text": "いなくなれ ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "いなくなれ "
+                  }
+                ]
+              },
+              {
+                "text": "いなくなれ",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "いなくなれ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "いなくなれ そばに居て",
+            "zh-CN": "消失吧 留在我身边",
+            "segments": [
+              {
+                "text": "いなくなれ ",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "いなくなれ "
+                  }
+                ]
+              },
+              {
+                "text": "そばに居て",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "そばに"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "て"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000020",
+            "order": 19,
+            "japanese": "見ないで 理解出来ないでしょう?",
+            "zh-CN": "别看我 你们根本无法理解吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "見ないで 理解出来ないでしょう?",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ないで "
+                  },
+                  {
+                    "text": "理解出来",
+                    "reading": "りかいでき"
+                  },
+                  {
+                    "text": "ないでしょう?"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000021",
+            "order": 20,
+            "japanese": "まるで咲いてしまった 化けの花",
+            "zh-CN": "简直如同绽放开来的 妖化物之花",
+            "segments": [
+              {
+                "text": "まるで",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "まるで"
+                  }
+                ]
+              },
+              {
+                "text": "咲いてしまった 化けの花",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "咲",
+                    "reading": "さ"
+                  },
+                  {
+                    "text": "いてしまった "
+                  },
+                  {
+                    "text": "化",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "花",
+                    "reading": "はな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000022",
+            "order": 21,
+            "japanese": "なにも言えない かき消せない",
+            "zh-CN": "什么都说不出口 无法彻底抹除",
+            "segments": [
+              {
+                "text": "なにも言えない かき消せない",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "なにも"
+                  },
+                  {
+                    "text": "言",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "えない かき"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "け"
+                  },
+                  {
+                    "text": "せない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000023",
+            "order": 22,
+            "japanese": "どんなに醜く映る化粧",
+            "zh-CN": "无论在旁人眼中是多么丑陋的妆容",
+            "segments": [
+              {
+                "text": "どんなに醜く映る化粧",
+                "performerIds": [
+                  "歌唱者-19",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "どんなに"
+                  },
+                  {
+                    "text": "醜",
+                    "reading": "みにく"
+                  },
+                  {
+                    "text": "く"
+                  },
+                  {
+                    "text": "映",
+                    "reading": "うつ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "化粧",
+                    "reading": "けしょう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000024",
+            "order": 23,
+            "japanese": "未来で 理解されないなら",
+            "zh-CN": "若在未来 也无法得到理解的话",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "未来で 理解されないなら",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "未来",
+                    "reading": "みらい"
+                  },
+                  {
+                    "text": "で "
+                  },
+                  {
+                    "text": "理解",
+                    "reading": "りかい"
+                  },
+                  {
+                    "text": "されないなら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000025",
+            "order": 24,
+            "japanese": "此処でさっさと消えて 化けの花",
+            "zh-CN": "就在这里赶紧消散吧 妖化物之花",
+            "segments": [
+              {
+                "text": "此処でさっさと消えて 化けの花",
+                "performerIds": [
+                  "歌唱者-20",
+                  "歌唱者-26"
+                ],
+                "ruby": [
+                  {
+                    "text": "此処",
+                    "reading": "ここ"
+                  },
+                  {
+                    "text": "でさっさと"
+                  },
+                  {
+                    "text": "消",
+                    "reading": "き"
+                  },
+                  {
+                    "text": "えて "
+                  },
+                  {
+                    "text": "化",
+                    "reading": "ば"
+                  },
+                  {
+                    "text": "けの"
+                  },
+                  {
+                    "text": "花",
+                    "reading": "はな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000026",
+            "order": 25,
+            "japanese": "生まれた罰を終わらすように",
+            "zh-CN": "宛如为了结束降生于世的惩罚一般",
+            "segments": [
+              {
+                "text": "生まれた罰を終わらすように",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "生",
+                    "reading": "う"
+                  },
+                  {
+                    "text": "まれた"
+                  },
+                  {
+                    "text": "罰",
+                    "reading": "ばつ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "終",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "わらすように"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000027",
+            "order": 26,
+            "japanese": "呼吸を止めて",
+            "zh-CN": "停止呼吸",
+            "segments": [
+              {
+                "text": "呼吸を止めて",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "呼吸",
+                    "reading": "こきゅう"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "めて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000028",
+            "order": 27,
+            "japanese": "あーもういいや",
+            "zh-CN": "啊——算了吧",
+            "segments": [
+              {
+                "text": "あーもういいや",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "あーもういいや"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019",
+          "full-000020",
+          "full-000021",
+          "full-000022",
+          "full-000023",
+          "full-000024",
+          "full-000025",
+          "full-000026",
+          "full-000027",
+          "full-000028"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "Full Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "BAKENOHANA",
+          "revisionId": 337448,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/BAKENOHANA?oldid=337448",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "BAKENOHANA",
+          "revisionId": 337448,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/BAKENOHANA?oldid=337448",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "sekaipedia",
+          "title": "BAKENOHANA",
+          "revisionId": 337448,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/BAKENOHANA?oldid=337448",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "BAKENOHANA",
+          "revisionId": 337448,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/BAKENOHANA?oldid=337448",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "BAKENOHANA",
+          "revisionId": 337448,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/BAKENOHANA?oldid=337448",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}
