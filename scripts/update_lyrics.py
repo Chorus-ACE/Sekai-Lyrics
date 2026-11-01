@@ -14,6 +14,33 @@ SOURCE = "https://translation.exmeaning.com/files/translation/lyrics"
 REGIONS = {"jp": "", "en": "-en", "tw": "-tc", "cn": "-cn", "kr": "-kr"}
 AVAILABLE = {"complete", "game_only"}
 MAX_BYTES = 8 * 1024 * 1024
+ALLOWED_LICENSES = frozenset({
+    ("CC BY-SA 3.0", "https://creativecommons.org/licenses/by-sa/3.0/"),
+    ("CC BY-SA 4.0", "https://creativecommons.org/licenses/by-sa/4.0/"),
+    ("CC BY-NC-SA 3.0", "https://creativecommons.org/licenses/by-nc-sa/3.0/"),
+})
+
+
+class LicenseNotAllowed(ValueError):
+    """A policy skip, rather than a failed download or corrupt document."""
+
+
+def validate_license(credit):
+    name, url = credit.get("licenseName"), credit.get("licenseUrl")
+    if not isinstance(name, str) or not isinstance(url, str) or (name, url) not in ALLOWED_LICENSES:
+        raise LicenseNotAllowed(f"License not allowlisted: {name!r} ({url!r})")
+
+
+def validate_nested_licenses(value):
+    """Also inspect license records outside the schema's main attribution lists."""
+    if isinstance(value, dict):
+        if "licenseName" in value or "licenseUrl" in value:
+            validate_license(value)
+        for child in value.values():
+            validate_nested_licenses(child)
+    elif isinstance(value, list):
+        for child in value:
+            validate_nested_licenses(child)
 
 
 def read_json(path, default=None):
@@ -92,8 +119,13 @@ def validate_lines(lines):
 
 def validate_credits(credits):
     if not isinstance(credits, list):
-        raise ValueError("Missing attribution list")
+        raise LicenseNotAllowed("Missing structured license attribution list")
+    if not credits:
+        raise LicenseNotAllowed("Empty license attribution list")
     for credit in credits:
+        if not isinstance(credit, dict):
+            raise LicenseNotAllowed("Invalid license attribution record")
+        validate_license(credit)
         for key in ("provider", "title", "licenseName", "licenseUrl", "revisionUrl"):
             if not isinstance(credit.get(key), str) or not credit[key]:
                 raise ValueError("Incomplete attribution")
@@ -113,8 +145,8 @@ def validate_document(document, song_id, publication=None):
         ids = validate_lines(document.get("lines"))
         if "attributions" in document:
             validate_credits(document["attributions"])
-        elif not document.get("attribution"):
-            raise ValueError("Missing attribution")
+        else:
+            raise LicenseNotAllowed("No structured license metadata; free-text attribution cannot establish an allowlisted license")
         if not set(document.get("gameProjection", {}).get("lineIds", [])) <= ids:
             raise ValueError("Unknown game projection line")
     else:
@@ -150,6 +182,7 @@ def validate_document(document, song_id, publication=None):
                             if (len(translations) != len(rendition.get(side, {}).get("lines", []))
                                     or not all(isinstance(text, str) for text in translations)):
                                 raise ValueError("Translation alignment mismatch")
+    validate_nested_licenses(document)
     return document
 
 
@@ -184,7 +217,7 @@ def update(root, mode="auto", song_ids=None, delay=0.5, fetch=fetch_json, today=
         songs.setdefault(entry["id"], {"id": entry["id"], "regionalTitles": entry.get("regionalTitles", {})})
     if song_ids and not song_ids <= songs.keys():
         raise ValueError(f"Unknown song IDs: {sorted(song_ids - songs.keys())}")
-    failures, fetched = [], []
+    failures, fetched, skipped = [], [], []
     for song_id, entry in sorted(songs.items()):
         publication = publications.get(song_id)
         path = root / "lyrics" / f"music_{song_id}.json"
@@ -199,6 +232,9 @@ def update(root, mode="auto", song_ids=None, delay=0.5, fetch=fetch_json, today=
                 write_json(path, document)
                 fetched.append(song_id)
                 print(f"Updated {song_id}", flush=True)
+            except LicenseNotAllowed as error:
+                skipped.append({"id": song_id, "reason": str(error)})
+                print(f"Skipped {song_id}: {error}", flush=True)
             except (ValueError, KeyError, TypeError, OSError) as error:
                 failures.append({"id": song_id, "error": str(error)})
                 print(f"Failed {song_id}: {error}", file=sys.stderr, flush=True)
@@ -216,7 +252,7 @@ def update(root, mode="auto", song_ids=None, delay=0.5, fetch=fetch_json, today=
         if document:
             entry.update(path=f"lyrics/music_{song_id}.json", revision=document["revision"], updatedAt=document["updatedAt"])
     write_json(root / "index.json", {"version": 1, "source": SOURCE, "songs": [songs[i] for i in sorted(songs)]})
-    report = {"mode": "full" if full else "missing", "fetched": fetched, "failures": failures,
+    report = {"mode": "full" if full else "missing", "fetched": fetched, "failures": failures, "skipped": skipped,
               "songs": len(songs), "withLyrics": sum(s["hasLyrics"] for s in songs.values())}
     write_json(root / ".update-report.json", report)
     if not failures and full and song_ids is None:

@@ -108,6 +108,96 @@ class UpdateTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             updater.validate_document(self.doc, 1)
 
+    def test_all_three_allowlisted_licenses_and_mixed_components_are_accepted(self):
+        credits = self.doc["renditions"][0]["provenance"]
+        original = copy.deepcopy(credits[0])
+        credits.clear()
+        for name, url in updater.ALLOWED_LICENSES:
+            credit = {**original, "licenseName": name, "licenseUrl": url}
+            credits.append(credit)
+        updater.validate_document(self.doc, 1)
+        self.assertEqual(self.run_update()["fetched"], [1])
+
+    def test_unapproved_or_mismatched_license_pairs_are_rejected(self):
+        cases = [
+            ("CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/"),
+            ("CC BY-NC-SA 4.0", "https://creativecommons.org/licenses/by-nc-sa/4.0/"),
+            ("CC BY-SA 4.0", "https://creativecommons.org/licenses/by-sa/3.0/"),
+            ("CC BY-SA 4.0", "https://example.com/licenses/by-sa/4.0/"),
+            (None, "https://creativecommons.org/licenses/by-sa/4.0/"),
+            ("CC BY-SA 4.0", None),
+        ]
+        for name, url in cases:
+            with self.subTest(name=name, url=url):
+                self.doc = document()
+                self.doc["renditions"][0]["provenance"][0].update(licenseName=name, licenseUrl=url)
+                with self.assertRaises(updater.LicenseNotAllowed):
+                    updater.validate_document(self.doc, 1)
+
+    def test_one_unapproved_rendition_skips_entire_song_without_failing_run(self):
+        alternate = copy.deepcopy(self.doc["renditions"][0])
+        alternate["key"] = "alternate"
+        alternate["provenance"][0].update(licenseName="All rights reserved", licenseUrl="https://example.com/terms")
+        self.doc["renditions"].append(alternate)
+        report = self.run_update()
+        self.assertEqual(report["fetched"], [])
+        self.assertEqual(report["failures"], [])
+        self.assertEqual(report["skipped"][0]["id"], 1)
+        self.assertFalse((self.root / "lyrics/music_1.json").exists())
+        self.assertFalse(updater.read_json(self.root / "index.json")["songs"][0]["hasLyrics"])
+        # A policy skip completes the monthly check and is not an endless full-refresh retry.
+        self.assertEqual(updater.read_json(self.root / "state.json")["lastSuccessfulFullMonth"], "2026-10")
+        self.doc = document(revision=2)
+        self.assertEqual(self.run_update("2026-10-02")["fetched"], [1])
+
+    def test_unapproved_new_revision_preserves_previously_approved_document(self):
+        self.run_update()
+        before = (self.root / "lyrics/music_1.json").read_bytes()
+        self.doc["revision"] = 2
+        self.doc["renditions"][0]["provenance"][0]["licenseName"] = "CC BY 4.0"
+        report = self.run_update("2026-11-01")
+        self.assertEqual(report["failures"], [])
+        self.assertEqual(len(report["skipped"]), 1)
+        self.assertEqual(before, (self.root / "lyrics/music_1.json").read_bytes())
+        index = updater.read_json(self.root / "index.json")
+        self.assertEqual(index["songs"][0]["revision"], 1)
+
+    def test_missing_structured_license_is_skipped_for_legacy_and_current_schemas(self):
+        for credits in (None, []):
+            with self.subTest(credits=credits):
+                self.doc = document()
+                self.doc["renditions"][0]["provenance"] = credits
+                with self.assertRaises(updater.LicenseNotAllowed):
+                    updater.validate_document(self.doc, 1)
+        legacy = {key: value for key, value in document().items() if key != "renditions"}
+        legacy.update(version=1, attribution="Free-text attribution only",
+                      lines=document()["renditions"][0]["full"]["lines"])
+        with self.assertRaises(updater.LicenseNotAllowed):
+            updater.validate_document(legacy, 1)
+        legacy["attributions"] = document()["renditions"][0]["provenance"]
+        updater.validate_document(legacy, 1)
+
+    def test_additional_nested_license_records_cannot_bypass_allowlist(self):
+        self.doc["extraMetadata"] = {"sources": [{"licenseName": "CC0 1.0", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"}]}
+        report = self.run_update()
+        self.assertEqual(len(report["skipped"]), 1)
+        self.assertFalse((self.root / "lyrics/music_1.json").exists())
+
+    def test_skipping_one_song_does_not_prevent_updating_another(self):
+        self.doc["renditions"][0]["provenance"][0]["licenseName"] = "Unknown license"
+        def fetch(url):
+            if "music_2.json" in url:
+                return document(song_id=2)
+            result = self.fetch(url)
+            if url.endswith("/index.json"):
+                result["songs"].append({**result["songs"][0], "musicId": 2})
+            return result
+        report = updater.update(self.root, delay=0, fetch=fetch, today=dt.date(2026, 10, 1))
+        self.assertEqual(report["fetched"], [2])
+        self.assertEqual([entry["id"] for entry in report["skipped"]], [1])
+        self.assertEqual(report["failures"], [])
+        self.assertTrue((self.root / "lyrics/music_2.json").exists())
+
 
 if __name__ == "__main__":
     unittest.main()

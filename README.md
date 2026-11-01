@@ -24,6 +24,18 @@ python3 scripts/update_lyrics.py --song-id 788  # fetch by Song ID; does not mar
 
 The workflow runs daily at 03:23 UTC (13:23 Brisbane). Each run reads all five regional `musics.json` catalogs and the public lyrics index. Missing records and game-only records are revisited daily; complete records are fetched monthly. Songs not yet published in the lyrics index are checked again on the next daily index read. A failed full refresh is retried on the following run, and the workflow publishes only after the entire run succeeds. Individual failed downloads never overwrite previous good documents. Unsupported schemas, wrong song IDs, inconsistent revisions, invalid segmentation, missing attribution, and misaligned translations fail validation. No-change runs create no commit.
 
+Before writing any lyric document, the updater checks the license name **and** canonical HTTPS URL against this allowlist:
+
+| License | Accepted URL |
+| --- | --- |
+| CC BY-SA 3.0 | `https://creativecommons.org/licenses/by-sa/3.0/` |
+| CC BY-SA 4.0 | `https://creativecommons.org/licenses/by-sa/4.0/` |
+| CC BY-NC-SA 3.0 | `https://creativecommons.org/licenses/by-nc-sa/3.0/` |
+
+Every rendition must have a nonempty structured attribution list, and every component's license must match an allowed name/URL pair. Additional nested license records are checked too. An unapproved, missing, or mismatched license causes the **entire song document** to be skipped. Legacy free-text attribution alone cannot establish an allowed license. Approved existing revisions are retained when a new revision is skipped. Policy skips are logged and recorded separately under `skipped` in the Actions update-report artifact; they do not fail the run or prevent other songs from updating. New skipped songs remain missing and are checked again daily.
+
+The upstream index contains no license metadata, so the updater must read the detail JSON to verify its licenses. Rejected detail documents are not written to the repository. This check applies to the supplied source metadata and does not infer licenses for text without its own explicit license record.
+
 GitHub's scheduled runs may be delayed. Scheduled workflows in inactive public repositories may be disabled by GitHub after 60 days; [GitHub's schedule documentation](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule) describes these platform limits. `workflow_dispatch` can run any mode manually. No external token is needed: publishing uses this repository's scoped `GITHUB_TOKEN`.
 
 ## Attribution and licensing
