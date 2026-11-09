@@ -1,0 +1,2411 @@
+{
+  "version": 3,
+  "musicId": 761,
+  "revision": 2,
+  "updatedAt": "2026-11-08T15:30:22Z",
+  "state": "complete",
+  "renditions": [
+    {
+      "key": "sekai",
+      "kind": "sekai",
+      "label": "SEKAI Version",
+      "availableVersions": [
+        "full",
+        "game"
+      ],
+      "performers": [
+        {
+          "performerId": "歌唱者-17",
+          "name": "宵崎奏"
+        },
+        {
+          "performerId": "歌唱者-18",
+          "name": "朝比奈まふゆ"
+        },
+        {
+          "performerId": "歌唱者-19",
+          "name": "東雲絵名"
+        },
+        {
+          "performerId": "歌唱者-20",
+          "name": "暁山瑞希"
+        },
+        {
+          "performerId": "歌唱者-24",
+          "name": "巡音ルカ"
+        }
+      ],
+      "full": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "full-000001",
+            "order": 0,
+            "japanese": "見つめた影は居ない",
+            "zh-CN": "曾经凝望的身影已然不在",
+            "segments": [
+              {
+                "text": "見つめた影は居ない",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つめた"
+                  },
+                  {
+                    "text": "影",
+                    "reading": "かげ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "ない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000002",
+            "order": 1,
+            "japanese": "元々の形をわすれた",
+            "zh-CN": "连最初的模样也已遗忘",
+            "segments": [
+              {
+                "text": "元々の形をわすれた",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "元々",
+                    "reading": "もともと"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "形",
+                    "reading": "かたち"
+                  },
+                  {
+                    "text": "をわすれた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000003",
+            "order": 2,
+            "japanese": "わすれた筈の声が",
+            "zh-CN": "本该遗忘的那道声音",
+            "segments": [
+              {
+                "text": "わすれた筈の声が",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "わすれた"
+                  },
+                  {
+                    "text": "筈",
+                    "reading": "はず"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000004",
+            "order": 3,
+            "japanese": "諦めた”真っ直ぐなこと”",
+            "zh-CN": "曾经放弃的那份“真挚”",
+            "segments": [
+              {
+                "text": "諦めた”真っ直ぐなこと”",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "諦",
+                    "reading": "あきら"
+                  },
+                  {
+                    "text": "めた”"
+                  },
+                  {
+                    "text": "真",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "直",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "ぐなこと”"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000005",
+            "order": 4,
+            "japanese": "目を逸らしていたこと",
+            "zh-CN": "一再移开目光的那个答案",
+            "segments": [
+              {
+                "text": "目を逸らしていたこと",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "逸",
+                    "reading": "そ"
+                  },
+                  {
+                    "text": "らしていたこと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000006",
+            "order": 5,
+            "japanese": "回る回る何を軸に",
+            "zh-CN": "都在心头回旋不休　究竟以何为轴",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "回る回る何を軸に",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "軸",
+                    "reading": "じく"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000007",
+            "order": 6,
+            "japanese": "止まる止まる？いつになれば",
+            "zh-CN": "止步不前？又要等到何时",
+            "segments": [
+              {
+                "text": "止まる止まる？いつになれば",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "まる"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "まる？いつになれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000008",
+            "order": 7,
+            "japanese": "ふらっ♭♭",
+            "zh-CN": "一个踉跄♭♭",
+            "segments": [
+              {
+                "text": "ふらっ♭♭",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "ふらっ♭♭"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000009",
+            "order": 8,
+            "japanese": "ゆらめく先掴んで",
+            "zh-CN": "伸手抓住前方那缕摇曳的微光",
+            "segments": [
+              {
+                "text": "ゆらめく先掴んで",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゆらめく"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "掴",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000010",
+            "order": 9,
+            "japanese": "約束ってさ、月じゃない　星でしょう？",
+            "zh-CN": "约定啊，并非明月　而是星辰吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "約束ってさ、月じゃない　星でしょう？",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-19",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "約束",
+                    "reading": "やくそく"
+                  },
+                  {
+                    "text": "ってさ、"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "じゃない　"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "でしょう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000011",
+            "order": 10,
+            "japanese": "暗闇ただ一人じゃなくて　共にあるから",
+            "zh-CN": "茫茫黑暗里并不孑然一身　总有星光彼此相依",
+            "segments": [
+              {
+                "text": "暗闇ただ一人じゃなくて　共にあるから",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "じゃなくて　"
+                  },
+                  {
+                    "text": "共",
+                    "reading": "とも"
+                  },
+                  {
+                    "text": "にあるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000012",
+            "order": 11,
+            "japanese": "繰り返して満ち欠ける月は",
+            "zh-CN": "就连周而复始　阴晴圆缺的明月",
+            "segments": [
+              {
+                "text": "繰り返して満ち欠ける月は",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "繰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "返",
+                    "reading": "かえ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "欠",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000013",
+            "order": 12,
+            "japanese": "それから少し傷を負って　星になれるよ",
+            "zh-CN": "也终会带着些许伤痕　化作星辰",
+            "segments": [
+              {
+                "text": "それから少し傷を負って　",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "それから"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "負",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "って　"
+                  }
+                ]
+              },
+              {
+                "text": "星になれるよ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "になれるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000014",
+            "order": 13,
+            "japanese": "今よりもっと分かる事で",
+            "zh-CN": "凭着比此刻更深的懂得",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今よりもっと分かる事で",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "よりもっと"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かる"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000015",
+            "order": 14,
+            "japanese": "今よりもっと見える場所まで",
+            "zh-CN": "抵达比此刻望得更远的地方",
+            "segments": [
+              {
+                "text": "今よりもっと見える場所まで",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "よりもっと"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "場所",
+                    "reading": "ばしょ"
+                  },
+                  {
+                    "text": "まで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000016",
+            "order": 15,
+            "japanese": "君を探して出掛けよう",
+            "zh-CN": "启程吧　去寻找你的身影",
+            "segments": [
+              {
+                "text": "君を探して出掛けよう",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "探",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "出掛",
+                    "reading": "でか"
+                  },
+                  {
+                    "text": "けよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000017",
+            "order": 16,
+            "japanese": "いつか変われるかな",
+            "zh-CN": "有朝一日　我们也能蜕变吗",
+            "segments": [
+              {
+                "text": "いつか変われるかな",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "いつか"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "われるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000018",
+            "order": 17,
+            "japanese": "ただ美しいって、綺麗なだけじゃない",
+            "zh-CN": "所谓纯粹的美，不止于纤尘不染",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ美しいって、綺麗なだけじゃない",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しいって、"
+                  },
+                  {
+                    "text": "綺麗",
+                    "reading": "きれい"
+                  },
+                  {
+                    "text": "なだけじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000019",
+            "order": 18,
+            "japanese": "形が変わって何もなくなっても",
+            "zh-CN": "纵使模样改变　一无所有　也依然美丽",
+            "segments": [
+              {
+                "text": "形が変わって何もなくなっても",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "形",
+                    "reading": "かたち"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わって"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "もなくなっても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000020",
+            "order": 19,
+            "japanese": "前を向けよって、何処が前か知らない",
+            "zh-CN": "“向前看吧”，可我不知何处才是前方",
+            "segments": [
+              {
+                "text": "前を向けよって、何処が前か知らない",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "けよって、"
+                  },
+                  {
+                    "text": "何処",
+                    "reading": "どこ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000021",
+            "order": 20,
+            "japanese": "進む先から前になると信じて",
+            "zh-CN": "坚信脚步所向之处　终将化作前方",
+            "segments": [
+              {
+                "text": "進む先から前になると信じて",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "む"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "になると"
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000022",
+            "order": 21,
+            "japanese": "ぼくらクシャクシャの地図の中",
+            "zh-CN": "我们走在一张皱巴巴的地图上",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ぼくらクシャクシャの地図の中",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "ぼくらクシャクシャの"
+                  },
+                  {
+                    "text": "地図",
+                    "reading": "ちず"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "中",
+                    "reading": "なか"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000023",
+            "order": 22,
+            "japanese": "新しく折り目ができたら",
+            "zh-CN": "倘若又添一道崭新的折痕",
+            "segments": [
+              {
+                "text": "新しく折り目ができたら",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "新",
+                    "reading": "あたら"
+                  },
+                  {
+                    "text": "しく"
+                  },
+                  {
+                    "text": "折",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "ができたら"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000024",
+            "order": 23,
+            "japanese": "そのまま進むよ　道が無くても",
+            "zh-CN": "便顺着它继续前行　哪怕无路可循",
+            "segments": [
+              {
+                "text": "そのまま進むよ　道が無くても",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "そのまま"
+                  },
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "むよ　"
+                  },
+                  {
+                    "text": "道",
+                    "reading": "みち"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "無",
+                    "reading": "な"
+                  },
+                  {
+                    "text": "くても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000025",
+            "order": 24,
+            "japanese": "そして同じじゃないトビラの先",
+            "zh-CN": "而后在各不相同的门扉彼端",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "そして同じじゃないトビラの先",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "そして"
+                  },
+                  {
+                    "text": "同",
+                    "reading": "おな"
+                  },
+                  {
+                    "text": "じじゃないトビラの"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000026",
+            "order": 25,
+            "japanese": "なんでか、繋がったよ",
+            "zh-CN": "不知为何，竟已相连",
+            "segments": [
+              {
+                "text": "なんでか、繋がったよ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんでか、"
+                  },
+                  {
+                    "text": "繋",
+                    "reading": "つな"
+                  },
+                  {
+                    "text": "がったよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000027",
+            "order": 26,
+            "japanese": "いいよ",
+            "zh-CN": "没关系的",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "いいよ",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "いいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000028",
+            "order": 27,
+            "japanese": "もういいよ",
+            "zh-CN": "已经可以了哦",
+            "segments": [
+              {
+                "text": "もういいよ",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "もういいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000029",
+            "order": 28,
+            "japanese": "いいよ",
+            "zh-CN": "没关系的",
+            "segments": [
+              {
+                "text": "いいよ",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "いいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000030",
+            "order": 29,
+            "japanese": "いいよ",
+            "zh-CN": "没关系的",
+            "segments": [
+              {
+                "text": "いいよ",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "いいよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000031",
+            "order": 30,
+            "japanese": "なんて確かめあう",
+            "zh-CN": "我们就这般彼此确认着心意",
+            "segments": [
+              {
+                "text": "なんて確かめあう",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "なんて"
+                  },
+                  {
+                    "text": "確",
+                    "reading": "たし"
+                  },
+                  {
+                    "text": "かめあう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000032",
+            "order": 31,
+            "japanese": "約束ってさ、月じゃない　星でしょう？",
+            "zh-CN": "约定啊，并非明月　而是星辰吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "約束ってさ、月じゃない　星でしょう？",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "約束",
+                    "reading": "やくそく"
+                  },
+                  {
+                    "text": "ってさ、"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "じゃない　"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "でしょう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000033",
+            "order": 32,
+            "japanese": "暗闇ただ一人じゃなくて　共にあるから",
+            "zh-CN": "茫茫黑暗里并不孑然一身　总有星光彼此相依",
+            "segments": [
+              {
+                "text": "暗闇ただ一人じゃなくて　共にあるから",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "じゃなくて　"
+                  },
+                  {
+                    "text": "共",
+                    "reading": "とも"
+                  },
+                  {
+                    "text": "にあるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000034",
+            "order": 33,
+            "japanese": "繰り返して満ち欠ける月は",
+            "zh-CN": "就连周而复始　阴晴圆缺的明月",
+            "segments": [
+              {
+                "text": "繰り返して満ち欠ける月は",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "繰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "返",
+                    "reading": "かえ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "欠",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000035",
+            "order": 34,
+            "japanese": "それから少し傷を負って　星になれるよ",
+            "zh-CN": "也终会带着些许伤痕　化作星辰",
+            "segments": [
+              {
+                "text": "それから少し傷を負って　星になれるよ",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "それから"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "負",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "って　"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "になれるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000036",
+            "order": 35,
+            "japanese": "今よりもっと分かる事で",
+            "zh-CN": "凭着比此刻更深的懂得",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今よりもっと分かる事で",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "よりもっと"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かる"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000037",
+            "order": 36,
+            "japanese": "今よりもっと見える場所まで",
+            "zh-CN": "抵达比此刻望得更远的地方",
+            "segments": [
+              {
+                "text": "今よりもっと見える場所まで",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "よりもっと"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "場所",
+                    "reading": "ばしょ"
+                  },
+                  {
+                    "text": "まで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000038",
+            "order": 37,
+            "japanese": "君を探して出掛けよう",
+            "zh-CN": "启程吧　去寻找你的身影",
+            "segments": [
+              {
+                "text": "君を探して出掛けよう",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "探",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "出掛",
+                    "reading": "でか"
+                  },
+                  {
+                    "text": "けよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000039",
+            "order": 38,
+            "japanese": "いつか変われるかな",
+            "zh-CN": "有朝一日　我们也能蜕变吗",
+            "segments": [
+              {
+                "text": "いつか変われるかな",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "いつか"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "われるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000040",
+            "order": 39,
+            "japanese": "ただ美しいって、綺麗なだけじゃない",
+            "zh-CN": "所谓纯粹的美，不止于纤尘不染",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ美しいって、綺麗なだけじゃない",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しいって、"
+                  },
+                  {
+                    "text": "綺麗",
+                    "reading": "きれい"
+                  },
+                  {
+                    "text": "なだけじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000041",
+            "order": 40,
+            "japanese": "形が変わって何もなくなっても",
+            "zh-CN": "纵使模样改变　一无所有　也依然美丽",
+            "segments": [
+              {
+                "text": "形が変わって何もなくなっても",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "形",
+                    "reading": "かたち"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わって"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "もなくなっても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000042",
+            "order": 41,
+            "japanese": "前を向けよって、何処が前か知らない",
+            "zh-CN": "“向前看吧”，可我不知何处才是前方",
+            "segments": [
+              {
+                "text": "前を向けよって、何処が前か知らない",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "向",
+                    "reading": "む"
+                  },
+                  {
+                    "text": "けよって、"
+                  },
+                  {
+                    "text": "何処",
+                    "reading": "どこ"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "か"
+                  },
+                  {
+                    "text": "知",
+                    "reading": "し"
+                  },
+                  {
+                    "text": "らない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "full-000043",
+            "order": 42,
+            "japanese": "進む先から前になると信じて",
+            "zh-CN": "坚信脚步所向之处　终将化作前方",
+            "segments": [
+              {
+                "text": "進む先から前になると信じて",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "進",
+                    "reading": "すす"
+                  },
+                  {
+                    "text": "む"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "から"
+                  },
+                  {
+                    "text": "前",
+                    "reading": "まえ"
+                  },
+                  {
+                    "text": "になると"
+                  },
+                  {
+                    "text": "信",
+                    "reading": "しん"
+                  },
+                  {
+                    "text": "じて"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "game": {
+        "version": {
+          "kind": "sekai",
+          "label": "SEKAI Version"
+        },
+        "lines": [
+          {
+            "id": "game-000001",
+            "order": 0,
+            "japanese": "見つめた影は居ない",
+            "zh-CN": "曾经凝望的身影已然不在",
+            "segments": [
+              {
+                "text": "見つめた影は居ない",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "つめた"
+                  },
+                  {
+                    "text": "影",
+                    "reading": "かげ"
+                  },
+                  {
+                    "text": "は"
+                  },
+                  {
+                    "text": "居",
+                    "reading": "い"
+                  },
+                  {
+                    "text": "ない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000002",
+            "order": 1,
+            "japanese": "元々の形をわすれた",
+            "zh-CN": "连最初的模样也已遗忘",
+            "segments": [
+              {
+                "text": "元々の形をわすれた",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "元々",
+                    "reading": "もともと"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "形",
+                    "reading": "かたち"
+                  },
+                  {
+                    "text": "をわすれた"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000003",
+            "order": 2,
+            "japanese": "わすれた筈の声が",
+            "zh-CN": "本该遗忘的那道声音",
+            "segments": [
+              {
+                "text": "わすれた筈の声が",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "わすれた"
+                  },
+                  {
+                    "text": "筈",
+                    "reading": "はず"
+                  },
+                  {
+                    "text": "の"
+                  },
+                  {
+                    "text": "声",
+                    "reading": "こえ"
+                  },
+                  {
+                    "text": "が"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000004",
+            "order": 3,
+            "japanese": "諦めた”真っ直ぐなこと”",
+            "zh-CN": "曾经放弃的那份“真挚”",
+            "segments": [
+              {
+                "text": "諦めた”真っ直ぐなこと”",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "諦",
+                    "reading": "あきら"
+                  },
+                  {
+                    "text": "めた”"
+                  },
+                  {
+                    "text": "真",
+                    "reading": "ま"
+                  },
+                  {
+                    "text": "っ"
+                  },
+                  {
+                    "text": "直",
+                    "reading": "す"
+                  },
+                  {
+                    "text": "ぐなこと”"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000005",
+            "order": 4,
+            "japanese": "目を逸らしていたこと",
+            "zh-CN": "一再移开目光的那个答案",
+            "segments": [
+              {
+                "text": "目を逸らしていたこと",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "目",
+                    "reading": "め"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "逸",
+                    "reading": "そ"
+                  },
+                  {
+                    "text": "らしていたこと"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000006",
+            "order": 5,
+            "japanese": "回る回る何を軸に",
+            "zh-CN": "都在心头回旋不休　究竟以何为轴",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "回る回る何を軸に",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "回",
+                    "reading": "まわ"
+                  },
+                  {
+                    "text": "る"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "軸",
+                    "reading": "じく"
+                  },
+                  {
+                    "text": "に"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000007",
+            "order": 6,
+            "japanese": "止まる止まる？いつになれば",
+            "zh-CN": "止步不前？又要等到何时",
+            "segments": [
+              {
+                "text": "止まる止まる？いつになれば",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "まる"
+                  },
+                  {
+                    "text": "止",
+                    "reading": "と"
+                  },
+                  {
+                    "text": "まる？いつになれば"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000008",
+            "order": 7,
+            "japanese": "ふらっ♭♭",
+            "zh-CN": "一个踉跄♭♭",
+            "segments": [
+              {
+                "text": "ふらっ♭♭",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "ふらっ♭♭"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000009",
+            "order": 8,
+            "japanese": "ゆらめく先掴んで",
+            "zh-CN": "伸手抓住前方那缕摇曳的微光",
+            "segments": [
+              {
+                "text": "ゆらめく先掴んで",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "ゆらめく"
+                  },
+                  {
+                    "text": "先",
+                    "reading": "さき"
+                  },
+                  {
+                    "text": "掴",
+                    "reading": "つか"
+                  },
+                  {
+                    "text": "んで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000010",
+            "order": 9,
+            "japanese": "約束ってさ、月じゃない　星でしょう？",
+            "zh-CN": "约定啊，并非明月　而是星辰吧？",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "約束ってさ、月じゃない　星でしょう？",
+                "performerIds": [
+                  "歌唱者-17",
+                  "歌唱者-19",
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "約束",
+                    "reading": "やくそく"
+                  },
+                  {
+                    "text": "ってさ、"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "じゃない　"
+                  },
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "でしょう？"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000011",
+            "order": 10,
+            "japanese": "暗闇ただ一人じゃなくて　共にあるから",
+            "zh-CN": "茫茫黑暗里并不孑然一身　总有星光彼此相依",
+            "segments": [
+              {
+                "text": "暗闇ただ一人じゃなくて　共にあるから",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "暗闇",
+                    "reading": "くらやみ"
+                  },
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "一人",
+                    "reading": "ひとり"
+                  },
+                  {
+                    "text": "じゃなくて　"
+                  },
+                  {
+                    "text": "共",
+                    "reading": "とも"
+                  },
+                  {
+                    "text": "にあるから"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000012",
+            "order": 11,
+            "japanese": "繰り返して満ち欠ける月は",
+            "zh-CN": "就连周而复始　阴晴圆缺的明月",
+            "segments": [
+              {
+                "text": "繰り返して満ち欠ける月は",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "繰",
+                    "reading": "く"
+                  },
+                  {
+                    "text": "り"
+                  },
+                  {
+                    "text": "返",
+                    "reading": "かえ"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "満",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "ち"
+                  },
+                  {
+                    "text": "欠",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "ける"
+                  },
+                  {
+                    "text": "月",
+                    "reading": "つき"
+                  },
+                  {
+                    "text": "は"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000013",
+            "order": 12,
+            "japanese": "それから少し傷を負って　星になれるよ",
+            "zh-CN": "也终会带着些许伤痕　化作星辰",
+            "segments": [
+              {
+                "text": "それから少し傷を負って　",
+                "performerIds": [
+                  "歌唱者-24",
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "それから"
+                  },
+                  {
+                    "text": "少",
+                    "reading": "すこ"
+                  },
+                  {
+                    "text": "し"
+                  },
+                  {
+                    "text": "傷",
+                    "reading": "きず"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "負",
+                    "reading": "お"
+                  },
+                  {
+                    "text": "って　"
+                  }
+                ]
+              },
+              {
+                "text": "星になれるよ",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "星",
+                    "reading": "ほし"
+                  },
+                  {
+                    "text": "になれるよ"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000014",
+            "order": 13,
+            "japanese": "今よりもっと分かる事で",
+            "zh-CN": "凭着比此刻更深的懂得",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "今よりもっと分かる事で",
+                "performerIds": [
+                  "歌唱者-20"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "よりもっと"
+                  },
+                  {
+                    "text": "分",
+                    "reading": "わ"
+                  },
+                  {
+                    "text": "かる"
+                  },
+                  {
+                    "text": "事",
+                    "reading": "こと"
+                  },
+                  {
+                    "text": "で"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000015",
+            "order": 14,
+            "japanese": "今よりもっと見える場所まで",
+            "zh-CN": "抵达比此刻望得更远的地方",
+            "segments": [
+              {
+                "text": "今よりもっと見える場所まで",
+                "performerIds": [
+                  "歌唱者-19"
+                ],
+                "ruby": [
+                  {
+                    "text": "今",
+                    "reading": "いま"
+                  },
+                  {
+                    "text": "よりもっと"
+                  },
+                  {
+                    "text": "見",
+                    "reading": "み"
+                  },
+                  {
+                    "text": "える"
+                  },
+                  {
+                    "text": "場所",
+                    "reading": "ばしょ"
+                  },
+                  {
+                    "text": "まで"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000016",
+            "order": 15,
+            "japanese": "君を探して出掛けよう",
+            "zh-CN": "启程吧　去寻找你的身影",
+            "segments": [
+              {
+                "text": "君を探して出掛けよう",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "君",
+                    "reading": "きみ"
+                  },
+                  {
+                    "text": "を"
+                  },
+                  {
+                    "text": "探",
+                    "reading": "さが"
+                  },
+                  {
+                    "text": "して"
+                  },
+                  {
+                    "text": "出掛",
+                    "reading": "でか"
+                  },
+                  {
+                    "text": "けよう"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000017",
+            "order": 16,
+            "japanese": "いつか変われるかな",
+            "zh-CN": "有朝一日　我们也能蜕变吗",
+            "segments": [
+              {
+                "text": "いつか変われるかな",
+                "performerIds": [
+                  "歌唱者-18"
+                ],
+                "ruby": [
+                  {
+                    "text": "いつか"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "われるかな"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000018",
+            "order": 17,
+            "japanese": "ただ美しいって、綺麗なだけじゃない",
+            "zh-CN": "所谓纯粹的美，不止于纤尘不染",
+            "stanzaBreakBefore": true,
+            "segments": [
+              {
+                "text": "ただ美しいって、綺麗なだけじゃない",
+                "performerIds": [
+                  "歌唱者-24"
+                ],
+                "ruby": [
+                  {
+                    "text": "ただ"
+                  },
+                  {
+                    "text": "美",
+                    "reading": "うつく"
+                  },
+                  {
+                    "text": "しいって、"
+                  },
+                  {
+                    "text": "綺麗",
+                    "reading": "きれい"
+                  },
+                  {
+                    "text": "なだけじゃない"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          },
+          {
+            "id": "game-000019",
+            "order": 18,
+            "japanese": "形が変わって何もなくなっても",
+            "zh-CN": "纵使模样改变　一无所有　也依然美丽",
+            "segments": [
+              {
+                "text": "形が変わって何もなくなっても",
+                "performerIds": [
+                  "歌唱者-17"
+                ],
+                "ruby": [
+                  {
+                    "text": "形",
+                    "reading": "かたち"
+                  },
+                  {
+                    "text": "が"
+                  },
+                  {
+                    "text": "変",
+                    "reading": "か"
+                  },
+                  {
+                    "text": "わって"
+                  },
+                  {
+                    "text": "何",
+                    "reading": "なに"
+                  },
+                  {
+                    "text": "もなくなっても"
+                  }
+                ]
+              }
+            ],
+            "trailingPerformerIds": []
+          }
+        ]
+      },
+      "relation": {
+        "kind": "exact_projection",
+        "fullRenditionKey": "sekai",
+        "lineIds": [
+          "full-000001",
+          "full-000002",
+          "full-000003",
+          "full-000004",
+          "full-000005",
+          "full-000006",
+          "full-000007",
+          "full-000008",
+          "full-000009",
+          "full-000010",
+          "full-000011",
+          "full-000012",
+          "full-000013",
+          "full-000014",
+          "full-000015",
+          "full-000016",
+          "full-000017",
+          "full-000018",
+          "full-000019"
+        ]
+      },
+      "sourceTabPaths": [
+        [
+          "SEKAI Version"
+        ]
+      ],
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "vocaloid_fandom",
+          "title": "星を探して♭♭ (Hoshi o Sagashite♭♭)",
+          "revisionId": 1496995,
+          "revisionUrl": "https://vocaloid.fandom.com/wiki/%E6%98%9F%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6%E2%99%AD%E2%99%AD_%28Hoshi_o_Sagashite%E2%99%AD%E2%99%AD%29?oldid=1496995",
+          "licenseName": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "vocaloid_fandom",
+          "title": "星を探して♭♭ (Hoshi o Sagashite♭♭)",
+          "revisionId": 1496995,
+          "revisionUrl": "https://vocaloid.fandom.com/wiki/%E6%98%9F%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6%E2%99%AD%E2%99%AD_%28Hoshi_o_Sagashite%E2%99%AD%E2%99%AD%29?oldid=1496995",
+          "licenseName": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        {
+          "component": "renditions/sekai/full_ruby",
+          "provider": "vocaloid_fandom",
+          "title": "星を探して♭♭ (Hoshi o Sagashite♭♭)",
+          "revisionId": 1496995,
+          "revisionUrl": "https://vocaloid.fandom.com/wiki/%E6%98%9F%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6%E2%99%AD%E2%99%AD_%28Hoshi_o_Sagashite%E2%99%AD%E2%99%AD%29?oldid=1496995",
+          "licenseName": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "vocaloid_fandom",
+          "title": "星を探して♭♭ (Hoshi o Sagashite♭♭)",
+          "revisionId": 1496995,
+          "revisionUrl": "https://vocaloid.fandom.com/wiki/%E6%98%9F%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6%E2%99%AD%E2%99%AD_%28Hoshi_o_Sagashite%E2%99%AD%E2%99%AD%29?oldid=1496995",
+          "licenseName": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "vocaloid_fandom",
+          "title": "星を探して♭♭ (Hoshi o Sagashite♭♭)",
+          "revisionId": 1496995,
+          "revisionUrl": "https://vocaloid.fandom.com/wiki/%E6%98%9F%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6%E2%99%AD%E2%99%AD_%28Hoshi_o_Sagashite%E2%99%AD%E2%99%AD%29?oldid=1496995",
+          "licenseName": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      ],
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      }
+    }
+  ]
+}
