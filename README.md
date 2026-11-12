@@ -4,44 +4,11 @@ Song-ID-addressed lyrics for SekaiKit and GreatSekai. This mirrors the **publish
 
 ## Contents
 
-- `lyrics/music_<Song.id>.json`: the complete upstream document, with all original fields preserved, including Japanese text, Chinese translation editions, stanza breaks, performer segments, ruby readings, full/game renditions, credits, component provenance, source revision links, and license links. The English supplement described below adds `en-US` lines and attributed source components; it does not replace upstream Japanese or Chinese text.
+- `lyrics/music_<Song.id>.json`: the complete upstream document, with all fields preserved, including Japanese text, available Chinese/English translations, stanza breaks, performer segments, ruby readings, full/game renditions, translation editions, credits, component provenance, source revision links, and license links. JSON whitespace is normalized; lyric text is unchanged.
 - `index.json`: the union of the five regional master-data song catalogs, upstream lyrics index, and previously known song IDs. `regionalTitles` uses SekaiLocale region codes (`jp`, `en`, `tw`, `cn`, `kr`). Translation languages describe text, not game regions. `sourceState` and `hasLyrics` distinguish unavailable/instrumental songs from downloadable lyrics. `revision` describes the locally mirrored document.
 - `state.json`: last successfully completed full-refresh UTC calendar month.
 
-An absent translation is **not** generated or relabeled. The upstream producer currently imports source lyrics without English and materializes Chinese translations only; consequently, the original mirror alone cannot supply English. Older schemas contain inline `zh-CN` / `en-US` translations. Upstream v4 translation editions currently contain Chinese only, as documented by the site's public client. Segments are the source's performer/text spans, not inferred linguistic tokenization.
-
-## English supplement
-
-`scripts/update_english.py` reads Sekaipedia revisions already identified by each
-rendition's structured provenance. The public MediaWiki API supplies rendered
-Japanese/English lyric columns and the same revision's wikitext. Ruby readings,
-romaji, singer labels, footnotes, and English song titles are excluded. Multiline
-cells must have matching line counts. Exact rendition/length matches take
-precedence; game projections are accepted only when each Japanese line has one
-unambiguous English translation. Incomplete or conflicting mappings remain absent.
-No translation is generated, and existing upstream English is retained.
-
-Each supplemented side gains a `full_english_translation` or
-`game_english_translation` provenance component with the original provider,
-fixed revision URL, and validated license. Table translation credits are retained
-as `englishTranslationCredits`; source-only and Chinese translation credits remain
-separate. `englishEnrichmentVersion` marks supplemented documents without changing
-the upstream publication revision. Explicit no-reprint/copyright restriction
-markers are skipped. Documents from other providers remain unchanged by this
-supplement. A failed download preserves the last good document and fails the run
-before publication. Invalid upstream provenance that points at a different song
-is reported under `skipped` without importing it or blocking other valid songs.
-
-Fixed-revision responses are cached under `.cache/english-sources` and reused by
-Actions. Four bounded workers share a global limit of two API request starts per
-second; transient failures retry with backoff. The daily workflow runs the English supplement after updating the mirror,
-so refreshed Japanese/Chinese documents are enriched again before publication.
-The two update reports are uploaded together. To refresh a sample:
-
-```sh
-python3 scripts/update_english.py --song-id 2
-python3 scripts/update_english.py  # all mirrored documents
-```
+An absent translation is **not** generated or relabeled. Older schemas contain inline `zh-CN` / `en-US` translations. Upstream v4 translation editions currently contain Chinese only, as documented by the site's public client. Segments are the source's performer/text spans, not inferred linguistic tokenization.
 
 ## Update
 
@@ -73,6 +40,6 @@ GitHub's scheduled runs may be delayed. Scheduled workflows in inactive public r
 
 ## Attribution and licensing
 
-Data is **not relicensed under the code license**. Every mirrored document retains its original attribution and component-specific `licenseName`, `licenseUrl`, `revisionUrl`, and translator/proofreader credits. Sources can have different terms, including CC BY-SA 3.0, CC BY-SA 4.0, and CC BY-NC-SA 3.0. Consult each component's metadata; do not assume one repository-wide data license. Mirroring, JSON formatting, and explicitly attributed English supplementation are the changes made here. Rights in the underlying musical works remain with their respective owners.
+Data is **not relicensed under the code license**. Every mirrored document retains its original attribution and component-specific `licenseName`, `licenseUrl`, `revisionUrl`, and translator/proofreader credits. Sources can have different terms, including CC BY-SA 3.0, CC BY-SA 4.0, and CC BY-NC-SA 3.0. Consult each component's metadata; do not assume one repository-wide data license. Mirroring and JSON formatting are the only changes made here. Rights in the underlying musical works remain with their respective owners.
 
 The updater is independently implemented from the published data contract. Its code and tests are licensed under [MIT](LICENSE).
